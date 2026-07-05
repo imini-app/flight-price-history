@@ -1,0 +1,3663 @@
+{
+  "route": "JFK-DEL",
+  "origin": "JFK",
+  "dest": "DEL",
+  "label": "New York (JFK) \u2192  Delhi (DEL)",
+  "prices": [
+    {
+      "date": "2024-07-05",
+      "price": 13830,
+      "airline": "American"
+    },
+    {
+      "date": "2024-07-06",
+      "price": 13440,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-07-07",
+      "price": 13870,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-07-08",
+      "price": 12360,
+      "airline": "United"
+    },
+    {
+      "date": "2024-07-09",
+      "price": 10800,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-07-10",
+      "price": 11230,
+      "airline": "United"
+    },
+    {
+      "date": "2024-07-11",
+      "price": 11480,
+      "airline": "United"
+    },
+    {
+      "date": "2024-07-12",
+      "price": 14420,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-07-13",
+      "price": 10750,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-07-14",
+      "price": 13600,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-07-15",
+      "price": 13560,
+      "airline": "American"
+    },
+    {
+      "date": "2024-07-16",
+      "price": 12000,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-07-17",
+      "price": 12480,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-07-18",
+      "price": 11820,
+      "airline": "United"
+    },
+    {
+      "date": "2024-07-19",
+      "price": 14220,
+      "airline": "United"
+    },
+    {
+      "date": "2024-07-20",
+      "price": 13710,
+      "airline": "American"
+    },
+    {
+      "date": "2024-07-21",
+      "price": 13600,
+      "airline": "United"
+    },
+    {
+      "date": "2024-07-22",
+      "price": 13000,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-23",
+      "price": 14030,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-24",
+      "price": 12600,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-07-25",
+      "price": 12630,
+      "airline": "American"
+    },
+    {
+      "date": "2024-07-26",
+      "price": 15090,
+      "airline": "American"
+    },
+    {
+      "date": "2024-07-27",
+      "price": 12460,
+      "airline": "American"
+    },
+    {
+      "date": "2024-07-28",
+      "price": 15120,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-07-29",
+      "price": 12660,
+      "airline": "United"
+    },
+    {
+      "date": "2024-07-30",
+      "price": 12940,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-07-31",
+      "price": 10910,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 12530,
+      "airline": "American"
+    },
+    {
+      "date": "2024-08-02",
+      "price": 14280,
+      "airline": "American"
+    },
+    {
+      "date": "2024-08-03",
+      "price": 12320,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-08-04",
+      "price": 13600,
+      "airline": "American"
+    },
+    {
+      "date": "2024-08-05",
+      "price": 12860,
+      "airline": "American"
+    },
+    {
+      "date": "2024-08-06",
+      "price": 12840,
+      "airline": "American"
+    },
+    {
+      "date": "2024-08-07",
+      "price": 10770,
+      "airline": "American"
+    },
+    {
+      "date": "2024-08-08",
+      "price": 11550,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-08-09",
+      "price": 12100,
+      "airline": "United"
+    },
+    {
+      "date": "2024-08-10",
+      "price": 13000,
+      "airline": "United"
+    },
+    {
+      "date": "2024-08-11",
+      "price": 14570,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-08-12",
+      "price": 13390,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-13",
+      "price": 13230,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-08-14",
+      "price": 11190,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-15",
+      "price": 10960,
+      "airline": "American"
+    },
+    {
+      "date": "2024-08-16",
+      "price": 14180,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-08-17",
+      "price": 15700,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-08-18",
+      "price": 13850,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-08-19",
+      "price": 10640,
+      "airline": "American"
+    },
+    {
+      "date": "2024-08-20",
+      "price": 11980,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-08-21",
+      "price": 8390,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-08-22",
+      "price": 14580,
+      "airline": "United"
+    },
+    {
+      "date": "2024-08-23",
+      "price": 13970,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-08-24",
+      "price": 13800,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-08-25",
+      "price": 12080,
+      "airline": "United"
+    },
+    {
+      "date": "2024-08-26",
+      "price": 12350,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-08-27",
+      "price": 12830,
+      "airline": "United"
+    },
+    {
+      "date": "2024-08-28",
+      "price": 12800,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-08-29",
+      "price": 12890,
+      "airline": "American"
+    },
+    {
+      "date": "2024-08-30",
+      "price": 13990,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-08-31",
+      "price": 15000,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 14570,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-09-02",
+      "price": 12190,
+      "airline": "United"
+    },
+    {
+      "date": "2024-09-03",
+      "price": 11650,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-09-04",
+      "price": 13330,
+      "airline": "American"
+    },
+    {
+      "date": "2024-09-05",
+      "price": 12300,
+      "airline": "United"
+    },
+    {
+      "date": "2024-09-06",
+      "price": 12440,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-07",
+      "price": 12250,
+      "airline": "American"
+    },
+    {
+      "date": "2024-09-08",
+      "price": 14420,
+      "airline": "United"
+    },
+    {
+      "date": "2024-09-09",
+      "price": 12780,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-09-10",
+      "price": 12280,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-09-11",
+      "price": 12620,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-09-12",
+      "price": 13780,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-09-13",
+      "price": 13220,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-09-14",
+      "price": 12250,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-09-15",
+      "price": 12900,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-09-16",
+      "price": 11010,
+      "airline": "American"
+    },
+    {
+      "date": "2024-09-17",
+      "price": 13060,
+      "airline": "American"
+    },
+    {
+      "date": "2024-09-18",
+      "price": 11750,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-19",
+      "price": 12250,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-20",
+      "price": 14340,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-09-21",
+      "price": 13810,
+      "airline": "American"
+    },
+    {
+      "date": "2024-09-22",
+      "price": 13510,
+      "airline": "United"
+    },
+    {
+      "date": "2024-09-23",
+      "price": 11960,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-24",
+      "price": 12680,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-09-25",
+      "price": 13570,
+      "airline": "American"
+    },
+    {
+      "date": "2024-09-26",
+      "price": 13740,
+      "airline": "United"
+    },
+    {
+      "date": "2024-09-27",
+      "price": 15610,
+      "airline": "American"
+    },
+    {
+      "date": "2024-09-28",
+      "price": 12470,
+      "airline": "American"
+    },
+    {
+      "date": "2024-09-29",
+      "price": 13500,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-09-30",
+      "price": 12430,
+      "airline": "United"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 13380,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-10-02",
+      "price": 12810,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-03",
+      "price": 14680,
+      "airline": "United"
+    },
+    {
+      "date": "2024-10-04",
+      "price": 13190,
+      "airline": "United"
+    },
+    {
+      "date": "2024-10-05",
+      "price": 14090,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-10-06",
+      "price": 13950,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-10-07",
+      "price": 12490,
+      "airline": "American"
+    },
+    {
+      "date": "2024-10-08",
+      "price": 12740,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-10-09",
+      "price": 12870,
+      "airline": "United"
+    },
+    {
+      "date": "2024-10-10",
+      "price": 11640,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-10-11",
+      "price": 13430,
+      "airline": "American"
+    },
+    {
+      "date": "2024-10-12",
+      "price": 12740,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-13",
+      "price": 11350,
+      "airline": "United"
+    },
+    {
+      "date": "2024-10-14",
+      "price": 13110,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-10-15",
+      "price": 9860,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-10-16",
+      "price": 13970,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-10-17",
+      "price": 12660,
+      "airline": "American"
+    },
+    {
+      "date": "2024-10-18",
+      "price": 14030,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-10-19",
+      "price": 13480,
+      "airline": "United"
+    },
+    {
+      "date": "2024-10-20",
+      "price": 13910,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-10-21",
+      "price": 13260,
+      "airline": "American"
+    },
+    {
+      "date": "2024-10-22",
+      "price": 12990,
+      "airline": "United"
+    },
+    {
+      "date": "2024-10-23",
+      "price": 12670,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-10-24",
+      "price": 12760,
+      "airline": "American"
+    },
+    {
+      "date": "2024-10-25",
+      "price": 14110,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-26",
+      "price": 15480,
+      "airline": "United"
+    },
+    {
+      "date": "2024-10-27",
+      "price": 12090,
+      "airline": "United"
+    },
+    {
+      "date": "2024-10-28",
+      "price": 9730,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-29",
+      "price": 11240,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-10-30",
+      "price": 12890,
+      "airline": "American"
+    },
+    {
+      "date": "2024-10-31",
+      "price": 12680,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 18330,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-02",
+      "price": 14080,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-11-03",
+      "price": 17860,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-11-04",
+      "price": 14510,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-11-05",
+      "price": 14710,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-06",
+      "price": 16450,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-11-07",
+      "price": 13670,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-11-08",
+      "price": 17690,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-09",
+      "price": 16120,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-11-10",
+      "price": 16440,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-11-11",
+      "price": 16610,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-11-12",
+      "price": 14190,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-11-13",
+      "price": 14490,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-11-14",
+      "price": 14140,
+      "airline": "American"
+    },
+    {
+      "date": "2024-11-15",
+      "price": 15730,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-11-16",
+      "price": 15940,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-17",
+      "price": 15740,
+      "airline": "United"
+    },
+    {
+      "date": "2024-11-18",
+      "price": 12760,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-19",
+      "price": 13560,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-11-20",
+      "price": 16440,
+      "airline": "United"
+    },
+    {
+      "date": "2024-11-21",
+      "price": 12650,
+      "airline": "American"
+    },
+    {
+      "date": "2024-11-22",
+      "price": 18420,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-11-23",
+      "price": 17370,
+      "airline": "United"
+    },
+    {
+      "date": "2024-11-24",
+      "price": 15800,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-11-25",
+      "price": 14450,
+      "airline": "United"
+    },
+    {
+      "date": "2024-11-26",
+      "price": 12460,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-11-27",
+      "price": 14010,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-11-28",
+      "price": 13730,
+      "airline": "American"
+    },
+    {
+      "date": "2024-11-29",
+      "price": 13360,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-30",
+      "price": 15660,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 18500,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-12-02",
+      "price": 13310,
+      "airline": "United"
+    },
+    {
+      "date": "2024-12-03",
+      "price": 14940,
+      "airline": "American"
+    },
+    {
+      "date": "2024-12-04",
+      "price": 13640,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-12-05",
+      "price": 16100,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-12-06",
+      "price": 14000,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-12-07",
+      "price": 13480,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-12-08",
+      "price": 16700,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-12-09",
+      "price": 14020,
+      "airline": "American"
+    },
+    {
+      "date": "2024-12-10",
+      "price": 15610,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-11",
+      "price": 14590,
+      "airline": "United"
+    },
+    {
+      "date": "2024-12-12",
+      "price": 14710,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-12-13",
+      "price": 17110,
+      "airline": "American"
+    },
+    {
+      "date": "2024-12-14",
+      "price": 15930,
+      "airline": "Delta"
+    },
+    {
+      "date": "2024-12-15",
+      "price": 15270,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-12-16",
+      "price": 15770,
+      "airline": "United"
+    },
+    {
+      "date": "2024-12-17",
+      "price": 15070,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-12-18",
+      "price": 15080,
+      "airline": "United"
+    },
+    {
+      "date": "2024-12-19",
+      "price": 14020,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-12-20",
+      "price": 16820,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-21",
+      "price": 15850,
+      "airline": "American"
+    },
+    {
+      "date": "2024-12-22",
+      "price": 14210,
+      "airline": "United"
+    },
+    {
+      "date": "2024-12-23",
+      "price": 16110,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-12-24",
+      "price": 15430,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-12-25",
+      "price": 12850,
+      "airline": "United"
+    },
+    {
+      "date": "2024-12-26",
+      "price": 13200,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-12-27",
+      "price": 15710,
+      "airline": "American"
+    },
+    {
+      "date": "2024-12-28",
+      "price": 18030,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2024-12-29",
+      "price": 15260,
+      "airline": "Air India"
+    },
+    {
+      "date": "2024-12-30",
+      "price": 13590,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-31",
+      "price": 15190,
+      "airline": "American"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 10940,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-02",
+      "price": 12210,
+      "airline": "United"
+    },
+    {
+      "date": "2025-01-03",
+      "price": 12500,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-01-04",
+      "price": 12460,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-01-05",
+      "price": 13320,
+      "airline": "United"
+    },
+    {
+      "date": "2025-01-06",
+      "price": 13980,
+      "airline": "United"
+    },
+    {
+      "date": "2025-01-07",
+      "price": 12520,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-01-08",
+      "price": 12730,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-01-09",
+      "price": 13980,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-01-10",
+      "price": 14660,
+      "airline": "United"
+    },
+    {
+      "date": "2025-01-11",
+      "price": 12820,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-12",
+      "price": 14960,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-01-13",
+      "price": 12970,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-01-14",
+      "price": 9430,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-01-15",
+      "price": 11770,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-01-16",
+      "price": 12620,
+      "airline": "American"
+    },
+    {
+      "date": "2025-01-17",
+      "price": 13590,
+      "airline": "American"
+    },
+    {
+      "date": "2025-01-18",
+      "price": 14440,
+      "airline": "United"
+    },
+    {
+      "date": "2025-01-19",
+      "price": 13710,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-01-20",
+      "price": 11950,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-01-21",
+      "price": 13850,
+      "airline": "American"
+    },
+    {
+      "date": "2025-01-22",
+      "price": 12700,
+      "airline": "American"
+    },
+    {
+      "date": "2025-01-23",
+      "price": 11890,
+      "airline": "American"
+    },
+    {
+      "date": "2025-01-24",
+      "price": 13650,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-01-25",
+      "price": 13400,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-26",
+      "price": 14850,
+      "airline": "United"
+    },
+    {
+      "date": "2025-01-27",
+      "price": 12180,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-01-28",
+      "price": 13490,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-29",
+      "price": 13730,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-01-30",
+      "price": 10270,
+      "airline": "United"
+    },
+    {
+      "date": "2025-01-31",
+      "price": 15900,
+      "airline": "United"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 15320,
+      "airline": "American"
+    },
+    {
+      "date": "2025-02-02",
+      "price": 14400,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-02-03",
+      "price": 10720,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-02-04",
+      "price": 13110,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-02-05",
+      "price": 12770,
+      "airline": "American"
+    },
+    {
+      "date": "2025-02-06",
+      "price": 12330,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-02-07",
+      "price": 13920,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-02-08",
+      "price": 13780,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-02-09",
+      "price": 14060,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-10",
+      "price": 11810,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-02-11",
+      "price": 12470,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-02-12",
+      "price": 11160,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-13",
+      "price": 12210,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-14",
+      "price": 13630,
+      "airline": "American"
+    },
+    {
+      "date": "2025-02-15",
+      "price": 15130,
+      "airline": "United"
+    },
+    {
+      "date": "2025-02-16",
+      "price": 12520,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-02-17",
+      "price": 11930,
+      "airline": "American"
+    },
+    {
+      "date": "2025-02-18",
+      "price": 11230,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-19",
+      "price": 12040,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-20",
+      "price": 12470,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-02-21",
+      "price": 14630,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-02-22",
+      "price": 12450,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-02-23",
+      "price": 15410,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-24",
+      "price": 10830,
+      "airline": "American"
+    },
+    {
+      "date": "2025-02-25",
+      "price": 14730,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-02-26",
+      "price": 13670,
+      "airline": "United"
+    },
+    {
+      "date": "2025-02-27",
+      "price": 12180,
+      "airline": "American"
+    },
+    {
+      "date": "2025-02-28",
+      "price": 14310,
+      "airline": "American"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 13090,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-03-02",
+      "price": 13860,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-03",
+      "price": 13220,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-04",
+      "price": 11690,
+      "airline": "American"
+    },
+    {
+      "date": "2025-03-05",
+      "price": 10780,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-03-06",
+      "price": 12800,
+      "airline": "American"
+    },
+    {
+      "date": "2025-03-07",
+      "price": 13480,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-03-08",
+      "price": 12540,
+      "airline": "American"
+    },
+    {
+      "date": "2025-03-09",
+      "price": 12500,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-03-10",
+      "price": 13060,
+      "airline": "American"
+    },
+    {
+      "date": "2025-03-11",
+      "price": 12700,
+      "airline": "United"
+    },
+    {
+      "date": "2025-03-12",
+      "price": 11390,
+      "airline": "United"
+    },
+    {
+      "date": "2025-03-13",
+      "price": 13680,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-03-14",
+      "price": 12720,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-15",
+      "price": 14580,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-03-16",
+      "price": 13680,
+      "airline": "American"
+    },
+    {
+      "date": "2025-03-17",
+      "price": 11370,
+      "airline": "United"
+    },
+    {
+      "date": "2025-03-18",
+      "price": 12240,
+      "airline": "American"
+    },
+    {
+      "date": "2025-03-19",
+      "price": 11510,
+      "airline": "American"
+    },
+    {
+      "date": "2025-03-20",
+      "price": 12830,
+      "airline": "American"
+    },
+    {
+      "date": "2025-03-21",
+      "price": 14120,
+      "airline": "American"
+    },
+    {
+      "date": "2025-03-22",
+      "price": 14570,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-23",
+      "price": 13510,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-03-24",
+      "price": 11250,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-03-25",
+      "price": 13290,
+      "airline": "American"
+    },
+    {
+      "date": "2025-03-26",
+      "price": 11620,
+      "airline": "United"
+    },
+    {
+      "date": "2025-03-27",
+      "price": 11630,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-03-28",
+      "price": 12410,
+      "airline": "United"
+    },
+    {
+      "date": "2025-03-29",
+      "price": 13920,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-03-30",
+      "price": 13180,
+      "airline": "United"
+    },
+    {
+      "date": "2025-03-31",
+      "price": 13470,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 14080,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-04-02",
+      "price": 15570,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-04-03",
+      "price": 13240,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-04",
+      "price": 13860,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-04-05",
+      "price": 12360,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-04-06",
+      "price": 12750,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-04-07",
+      "price": 13170,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-04-08",
+      "price": 12110,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-04-09",
+      "price": 11640,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-04-10",
+      "price": 12220,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-04-11",
+      "price": 12980,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-12",
+      "price": 13720,
+      "airline": "United"
+    },
+    {
+      "date": "2025-04-13",
+      "price": 11490,
+      "airline": "American"
+    },
+    {
+      "date": "2025-04-14",
+      "price": 11780,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-04-15",
+      "price": 13960,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-04-16",
+      "price": 12940,
+      "airline": "American"
+    },
+    {
+      "date": "2025-04-17",
+      "price": 11610,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-04-18",
+      "price": 14440,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-04-19",
+      "price": 13410,
+      "airline": "American"
+    },
+    {
+      "date": "2025-04-20",
+      "price": 16460,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-21",
+      "price": 12170,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-04-22",
+      "price": 12720,
+      "airline": "United"
+    },
+    {
+      "date": "2025-04-23",
+      "price": 10390,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-04-24",
+      "price": 13400,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-25",
+      "price": 12350,
+      "airline": "American"
+    },
+    {
+      "date": "2025-04-26",
+      "price": 12140,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-04-27",
+      "price": 12240,
+      "airline": "United"
+    },
+    {
+      "date": "2025-04-28",
+      "price": 12020,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-04-29",
+      "price": 14400,
+      "airline": "American"
+    },
+    {
+      "date": "2025-04-30",
+      "price": 12520,
+      "airline": "American"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 12640,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-02",
+      "price": 11960,
+      "airline": "American"
+    },
+    {
+      "date": "2025-05-03",
+      "price": 14650,
+      "airline": "American"
+    },
+    {
+      "date": "2025-05-04",
+      "price": 13420,
+      "airline": "United"
+    },
+    {
+      "date": "2025-05-05",
+      "price": 13150,
+      "airline": "American"
+    },
+    {
+      "date": "2025-05-06",
+      "price": 12230,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-05-07",
+      "price": 12780,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-08",
+      "price": 11300,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-05-09",
+      "price": 15250,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-05-10",
+      "price": 13390,
+      "airline": "United"
+    },
+    {
+      "date": "2025-05-11",
+      "price": 12680,
+      "airline": "United"
+    },
+    {
+      "date": "2025-05-12",
+      "price": 11340,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-05-13",
+      "price": 10460,
+      "airline": "United"
+    },
+    {
+      "date": "2025-05-14",
+      "price": 12330,
+      "airline": "American"
+    },
+    {
+      "date": "2025-05-15",
+      "price": 12900,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-05-16",
+      "price": 14290,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-05-17",
+      "price": 13800,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-05-18",
+      "price": 12090,
+      "airline": "United"
+    },
+    {
+      "date": "2025-05-19",
+      "price": 13310,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-05-20",
+      "price": 10680,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-05-21",
+      "price": 12430,
+      "airline": "American"
+    },
+    {
+      "date": "2025-05-22",
+      "price": 12170,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-05-23",
+      "price": 14490,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-05-24",
+      "price": 13660,
+      "airline": "American"
+    },
+    {
+      "date": "2025-05-25",
+      "price": 11310,
+      "airline": "United"
+    },
+    {
+      "date": "2025-05-26",
+      "price": 12110,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-05-27",
+      "price": 12380,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-05-28",
+      "price": 12280,
+      "airline": "United"
+    },
+    {
+      "date": "2025-05-29",
+      "price": 12890,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-05-30",
+      "price": 12760,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-05-31",
+      "price": 14760,
+      "airline": "American"
+    },
+    {
+      "date": "2025-06-01",
+      "price": 13280,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-06-02",
+      "price": 13150,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-03",
+      "price": 13930,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-06-04",
+      "price": 12920,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-06-05",
+      "price": 13360,
+      "airline": "American"
+    },
+    {
+      "date": "2025-06-06",
+      "price": 15260,
+      "airline": "United"
+    },
+    {
+      "date": "2025-06-07",
+      "price": 13490,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-08",
+      "price": 14620,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-06-09",
+      "price": 12640,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-06-10",
+      "price": 11460,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-06-11",
+      "price": 13090,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-06-12",
+      "price": 13230,
+      "airline": "American"
+    },
+    {
+      "date": "2025-06-13",
+      "price": 14480,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-06-14",
+      "price": 13870,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-06-15",
+      "price": 14520,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-06-16",
+      "price": 13180,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-17",
+      "price": 9270,
+      "airline": "United"
+    },
+    {
+      "date": "2025-06-18",
+      "price": 12890,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-06-19",
+      "price": 12310,
+      "airline": "American"
+    },
+    {
+      "date": "2025-06-20",
+      "price": 13410,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-06-21",
+      "price": 12480,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-06-22",
+      "price": 16520,
+      "airline": "American"
+    },
+    {
+      "date": "2025-06-23",
+      "price": 12840,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-06-24",
+      "price": 10430,
+      "airline": "American"
+    },
+    {
+      "date": "2025-06-25",
+      "price": 13130,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-06-26",
+      "price": 11500,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-27",
+      "price": 13070,
+      "airline": "American"
+    },
+    {
+      "date": "2025-06-28",
+      "price": 13920,
+      "airline": "United"
+    },
+    {
+      "date": "2025-06-29",
+      "price": 12830,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-06-30",
+      "price": 12150,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-01",
+      "price": 9720,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-07-02",
+      "price": 12000,
+      "airline": "United"
+    },
+    {
+      "date": "2025-07-03",
+      "price": 10710,
+      "airline": "American"
+    },
+    {
+      "date": "2025-07-04",
+      "price": 13040,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-07-05",
+      "price": 13020,
+      "airline": "American"
+    },
+    {
+      "date": "2025-07-06",
+      "price": 14160,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-07-07",
+      "price": 11940,
+      "airline": "United"
+    },
+    {
+      "date": "2025-07-08",
+      "price": 11700,
+      "airline": "United"
+    },
+    {
+      "date": "2025-07-09",
+      "price": 12120,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-10",
+      "price": 12550,
+      "airline": "United"
+    },
+    {
+      "date": "2025-07-11",
+      "price": 14450,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-07-12",
+      "price": 13480,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-07-13",
+      "price": 12080,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-07-14",
+      "price": 12730,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-07-15",
+      "price": 13990,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-07-16",
+      "price": 13990,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-17",
+      "price": 11360,
+      "airline": "American"
+    },
+    {
+      "date": "2025-07-18",
+      "price": 13710,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-07-19",
+      "price": 15090,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-07-20",
+      "price": 12720,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-07-21",
+      "price": 13560,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-07-22",
+      "price": 11900,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-07-23",
+      "price": 12230,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-24",
+      "price": 11930,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-07-25",
+      "price": 14100,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-07-26",
+      "price": 11870,
+      "airline": "American"
+    },
+    {
+      "date": "2025-07-27",
+      "price": 13600,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-07-28",
+      "price": 12680,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-07-29",
+      "price": 12650,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-07-30",
+      "price": 11370,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-07-31",
+      "price": 12370,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-08-01",
+      "price": 10990,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-08-02",
+      "price": 14450,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-08-03",
+      "price": 12820,
+      "airline": "American"
+    },
+    {
+      "date": "2025-08-04",
+      "price": 11900,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-05",
+      "price": 13890,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-08-06",
+      "price": 12200,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-08-07",
+      "price": 12680,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-08-08",
+      "price": 12730,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-09",
+      "price": 13050,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-08-10",
+      "price": 13380,
+      "airline": "American"
+    },
+    {
+      "date": "2025-08-11",
+      "price": 12980,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-08-12",
+      "price": 12430,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-08-13",
+      "price": 12270,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-08-14",
+      "price": 12880,
+      "airline": "United"
+    },
+    {
+      "date": "2025-08-15",
+      "price": 14300,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-08-16",
+      "price": 13740,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-17",
+      "price": 13160,
+      "airline": "United"
+    },
+    {
+      "date": "2025-08-18",
+      "price": 13160,
+      "airline": "United"
+    },
+    {
+      "date": "2025-08-19",
+      "price": 13910,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-20",
+      "price": 12780,
+      "airline": "American"
+    },
+    {
+      "date": "2025-08-21",
+      "price": 12870,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-08-22",
+      "price": 14520,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-08-23",
+      "price": 12350,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-08-24",
+      "price": 11480,
+      "airline": "American"
+    },
+    {
+      "date": "2025-08-25",
+      "price": 10860,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-08-26",
+      "price": 13390,
+      "airline": "United"
+    },
+    {
+      "date": "2025-08-27",
+      "price": 13990,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-08-28",
+      "price": 13210,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-08-29",
+      "price": 13030,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-08-30",
+      "price": 14330,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-08-31",
+      "price": 12790,
+      "airline": "United"
+    },
+    {
+      "date": "2025-09-01",
+      "price": 13100,
+      "airline": "American"
+    },
+    {
+      "date": "2025-09-02",
+      "price": 12620,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-09-03",
+      "price": 12620,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-09-04",
+      "price": 12460,
+      "airline": "United"
+    },
+    {
+      "date": "2025-09-05",
+      "price": 14650,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-06",
+      "price": 15920,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-09-07",
+      "price": 16910,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-09-08",
+      "price": 12400,
+      "airline": "American"
+    },
+    {
+      "date": "2025-09-09",
+      "price": 14790,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-09-10",
+      "price": 14070,
+      "airline": "United"
+    },
+    {
+      "date": "2025-09-11",
+      "price": 12150,
+      "airline": "American"
+    },
+    {
+      "date": "2025-09-12",
+      "price": 12960,
+      "airline": "American"
+    },
+    {
+      "date": "2025-09-13",
+      "price": 13530,
+      "airline": "American"
+    },
+    {
+      "date": "2025-09-14",
+      "price": 13860,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-09-15",
+      "price": 10460,
+      "airline": "American"
+    },
+    {
+      "date": "2025-09-16",
+      "price": 12960,
+      "airline": "United"
+    },
+    {
+      "date": "2025-09-17",
+      "price": 12640,
+      "airline": "United"
+    },
+    {
+      "date": "2025-09-18",
+      "price": 12110,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-09-19",
+      "price": 13980,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-09-20",
+      "price": 13540,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-21",
+      "price": 14030,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-09-22",
+      "price": 12510,
+      "airline": "United"
+    },
+    {
+      "date": "2025-09-23",
+      "price": 12760,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-09-24",
+      "price": 13490,
+      "airline": "United"
+    },
+    {
+      "date": "2025-09-25",
+      "price": 12480,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-09-26",
+      "price": 14640,
+      "airline": "United"
+    },
+    {
+      "date": "2025-09-27",
+      "price": 15070,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-09-28",
+      "price": 11990,
+      "airline": "United"
+    },
+    {
+      "date": "2025-09-29",
+      "price": 10880,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-09-30",
+      "price": 11820,
+      "airline": "United"
+    },
+    {
+      "date": "2025-10-01",
+      "price": 12580,
+      "airline": "United"
+    },
+    {
+      "date": "2025-10-02",
+      "price": 12440,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-10-03",
+      "price": 14830,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-10-04",
+      "price": 13970,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-10-05",
+      "price": 15850,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-10-06",
+      "price": 13260,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-07",
+      "price": 10260,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-10-08",
+      "price": 10580,
+      "airline": "American"
+    },
+    {
+      "date": "2025-10-09",
+      "price": 12270,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-10-10",
+      "price": 13010,
+      "airline": "United"
+    },
+    {
+      "date": "2025-10-11",
+      "price": 14940,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-10-12",
+      "price": 14970,
+      "airline": "United"
+    },
+    {
+      "date": "2025-10-13",
+      "price": 12080,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-10-14",
+      "price": 12390,
+      "airline": "American"
+    },
+    {
+      "date": "2025-10-15",
+      "price": 12810,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-16",
+      "price": 11860,
+      "airline": "American"
+    },
+    {
+      "date": "2025-10-17",
+      "price": 13180,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-10-18",
+      "price": 15550,
+      "airline": "American"
+    },
+    {
+      "date": "2025-10-19",
+      "price": 14570,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-10-20",
+      "price": 13250,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-10-21",
+      "price": 11790,
+      "airline": "United"
+    },
+    {
+      "date": "2025-10-22",
+      "price": 13040,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-10-23",
+      "price": 13320,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-10-24",
+      "price": 12690,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-10-25",
+      "price": 15200,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-10-26",
+      "price": 13540,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-10-27",
+      "price": 12490,
+      "airline": "American"
+    },
+    {
+      "date": "2025-10-28",
+      "price": 11170,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-10-29",
+      "price": 12290,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-10-30",
+      "price": 11330,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-10-31",
+      "price": 13720,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-01",
+      "price": 15900,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-11-02",
+      "price": 17920,
+      "airline": "American"
+    },
+    {
+      "date": "2025-11-03",
+      "price": 14290,
+      "airline": "United"
+    },
+    {
+      "date": "2025-11-04",
+      "price": 14530,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-05",
+      "price": 14420,
+      "airline": "American"
+    },
+    {
+      "date": "2025-11-06",
+      "price": 12340,
+      "airline": "United"
+    },
+    {
+      "date": "2025-11-07",
+      "price": 14840,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-11-08",
+      "price": 16590,
+      "airline": "American"
+    },
+    {
+      "date": "2025-11-09",
+      "price": 16040,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-11-10",
+      "price": 14830,
+      "airline": "United"
+    },
+    {
+      "date": "2025-11-11",
+      "price": 11640,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-11-12",
+      "price": 15240,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-11-13",
+      "price": 14550,
+      "airline": "American"
+    },
+    {
+      "date": "2025-11-14",
+      "price": 15140,
+      "airline": "United"
+    },
+    {
+      "date": "2025-11-15",
+      "price": 15410,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-11-16",
+      "price": 16730,
+      "airline": "United"
+    },
+    {
+      "date": "2025-11-17",
+      "price": 14140,
+      "airline": "American"
+    },
+    {
+      "date": "2025-11-18",
+      "price": 15200,
+      "airline": "American"
+    },
+    {
+      "date": "2025-11-19",
+      "price": 14140,
+      "airline": "American"
+    },
+    {
+      "date": "2025-11-20",
+      "price": 15000,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-21",
+      "price": 16820,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-11-22",
+      "price": 13910,
+      "airline": "American"
+    },
+    {
+      "date": "2025-11-23",
+      "price": 18640,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-11-24",
+      "price": 14990,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-11-25",
+      "price": 13820,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-11-26",
+      "price": 13500,
+      "airline": "American"
+    },
+    {
+      "date": "2025-11-27",
+      "price": 15980,
+      "airline": "United"
+    },
+    {
+      "date": "2025-11-28",
+      "price": 16830,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-11-29",
+      "price": 14490,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-11-30",
+      "price": 15330,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-12-01",
+      "price": 16330,
+      "airline": "United"
+    },
+    {
+      "date": "2025-12-02",
+      "price": 14400,
+      "airline": "United"
+    },
+    {
+      "date": "2025-12-03",
+      "price": 13510,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-12-04",
+      "price": 15050,
+      "airline": "United"
+    },
+    {
+      "date": "2025-12-05",
+      "price": 14780,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-12-06",
+      "price": 15670,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-12-07",
+      "price": 15880,
+      "airline": "American"
+    },
+    {
+      "date": "2025-12-08",
+      "price": 13280,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-12-09",
+      "price": 15930,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-10",
+      "price": 14440,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-12-11",
+      "price": 14960,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-12-12",
+      "price": 18000,
+      "airline": "American"
+    },
+    {
+      "date": "2025-12-13",
+      "price": 17210,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-12-14",
+      "price": 16200,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-12-15",
+      "price": 12490,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-12-16",
+      "price": 15690,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-12-17",
+      "price": 13500,
+      "airline": "United"
+    },
+    {
+      "date": "2025-12-18",
+      "price": 14920,
+      "airline": "United"
+    },
+    {
+      "date": "2025-12-19",
+      "price": 15620,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-12-20",
+      "price": 15400,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-12-21",
+      "price": 16100,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-12-22",
+      "price": 13580,
+      "airline": "American"
+    },
+    {
+      "date": "2025-12-23",
+      "price": 13880,
+      "airline": "American"
+    },
+    {
+      "date": "2025-12-24",
+      "price": 13220,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-12-25",
+      "price": 15400,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-26",
+      "price": 16520,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2025-12-27",
+      "price": 16280,
+      "airline": "Air India"
+    },
+    {
+      "date": "2025-12-28",
+      "price": 14180,
+      "airline": "Delta"
+    },
+    {
+      "date": "2025-12-29",
+      "price": 12940,
+      "airline": "United"
+    },
+    {
+      "date": "2025-12-30",
+      "price": 14900,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-31",
+      "price": 15500,
+      "airline": "United"
+    },
+    {
+      "date": "2026-01-01",
+      "price": 13280,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-02",
+      "price": 14370,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-01-03",
+      "price": 14550,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-01-04",
+      "price": 14580,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-01-05",
+      "price": 11880,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-01-06",
+      "price": 13840,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-07",
+      "price": 13160,
+      "airline": "American"
+    },
+    {
+      "date": "2026-01-08",
+      "price": 12120,
+      "airline": "United"
+    },
+    {
+      "date": "2026-01-09",
+      "price": 13050,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-01-10",
+      "price": 11540,
+      "airline": "American"
+    },
+    {
+      "date": "2026-01-11",
+      "price": 11970,
+      "airline": "American"
+    },
+    {
+      "date": "2026-01-12",
+      "price": 13040,
+      "airline": "American"
+    },
+    {
+      "date": "2026-01-13",
+      "price": 11970,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-14",
+      "price": 12240,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-01-15",
+      "price": 13210,
+      "airline": "United"
+    },
+    {
+      "date": "2026-01-16",
+      "price": 13190,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-01-17",
+      "price": 14360,
+      "airline": "American"
+    },
+    {
+      "date": "2026-01-18",
+      "price": 13990,
+      "airline": "American"
+    },
+    {
+      "date": "2026-01-19",
+      "price": 12060,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-01-20",
+      "price": 13070,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-01-21",
+      "price": 12940,
+      "airline": "United"
+    },
+    {
+      "date": "2026-01-22",
+      "price": 12520,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-23",
+      "price": 13810,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-24",
+      "price": 13240,
+      "airline": "American"
+    },
+    {
+      "date": "2026-01-25",
+      "price": 13250,
+      "airline": "American"
+    },
+    {
+      "date": "2026-01-26",
+      "price": 13910,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-01-27",
+      "price": 13180,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-01-28",
+      "price": 11570,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-01-29",
+      "price": 11990,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-01-30",
+      "price": 13090,
+      "airline": "United"
+    },
+    {
+      "date": "2026-01-31",
+      "price": 12470,
+      "airline": "United"
+    },
+    {
+      "date": "2026-02-01",
+      "price": 15030,
+      "airline": "United"
+    },
+    {
+      "date": "2026-02-02",
+      "price": 13660,
+      "airline": "United"
+    },
+    {
+      "date": "2026-02-03",
+      "price": 12280,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-04",
+      "price": 13080,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-05",
+      "price": 11220,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-02-06",
+      "price": 13320,
+      "airline": "American"
+    },
+    {
+      "date": "2026-02-07",
+      "price": 12440,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-02-08",
+      "price": 14810,
+      "airline": "American"
+    },
+    {
+      "date": "2026-02-09",
+      "price": 14570,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-02-10",
+      "price": 12650,
+      "airline": "American"
+    },
+    {
+      "date": "2026-02-11",
+      "price": 11360,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-02-12",
+      "price": 11510,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-02-13",
+      "price": 13790,
+      "airline": "United"
+    },
+    {
+      "date": "2026-02-14",
+      "price": 15950,
+      "airline": "United"
+    },
+    {
+      "date": "2026-02-15",
+      "price": 13200,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-02-16",
+      "price": 11410,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-02-17",
+      "price": 11810,
+      "airline": "American"
+    },
+    {
+      "date": "2026-02-18",
+      "price": 11620,
+      "airline": "American"
+    },
+    {
+      "date": "2026-02-19",
+      "price": 13570,
+      "airline": "United"
+    },
+    {
+      "date": "2026-02-20",
+      "price": 12810,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-21",
+      "price": 15220,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-02-22",
+      "price": 14600,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-02-23",
+      "price": 12300,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-02-24",
+      "price": 11350,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-02-25",
+      "price": 11170,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-26",
+      "price": 11850,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-27",
+      "price": 13620,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-02-28",
+      "price": 14640,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-01",
+      "price": 15420,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-03-02",
+      "price": 12220,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-03-03",
+      "price": 11390,
+      "airline": "United"
+    },
+    {
+      "date": "2026-03-04",
+      "price": 13680,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-03-05",
+      "price": 12630,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-03-06",
+      "price": 14770,
+      "airline": "United"
+    },
+    {
+      "date": "2026-03-07",
+      "price": 14780,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-03-08",
+      "price": 13480,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-09",
+      "price": 13150,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-03-10",
+      "price": 12460,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-03-11",
+      "price": 12090,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-03-12",
+      "price": 12780,
+      "airline": "United"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 14310,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-03-14",
+      "price": 14270,
+      "airline": "United"
+    },
+    {
+      "date": "2026-03-15",
+      "price": 13770,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-03-16",
+      "price": 12300,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-17",
+      "price": 11030,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-03-18",
+      "price": 13520,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-03-19",
+      "price": 14300,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 14280,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-03-21",
+      "price": 14740,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-03-22",
+      "price": 14910,
+      "airline": "American"
+    },
+    {
+      "date": "2026-03-23",
+      "price": 11510,
+      "airline": "United"
+    },
+    {
+      "date": "2026-03-24",
+      "price": 12700,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-03-25",
+      "price": 11770,
+      "airline": "American"
+    },
+    {
+      "date": "2026-03-26",
+      "price": 12190,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-03-27",
+      "price": 15140,
+      "airline": "American"
+    },
+    {
+      "date": "2026-03-28",
+      "price": 14100,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-29",
+      "price": 12290,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-03-30",
+      "price": 11010,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-03-31",
+      "price": 13660,
+      "airline": "American"
+    },
+    {
+      "date": "2026-04-01",
+      "price": 13160,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-04-02",
+      "price": 13250,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-04-03",
+      "price": 13920,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-04-04",
+      "price": 13430,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-04-05",
+      "price": 13110,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-04-06",
+      "price": 12770,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-04-07",
+      "price": 12380,
+      "airline": "United"
+    },
+    {
+      "date": "2026-04-08",
+      "price": 12340,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-04-09",
+      "price": 13950,
+      "airline": "American"
+    },
+    {
+      "date": "2026-04-10",
+      "price": 14560,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-04-11",
+      "price": 13950,
+      "airline": "United"
+    },
+    {
+      "date": "2026-04-12",
+      "price": 14780,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-04-13",
+      "price": 12100,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-04-14",
+      "price": 12130,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-04-15",
+      "price": 14530,
+      "airline": "United"
+    },
+    {
+      "date": "2026-04-16",
+      "price": 13850,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-04-17",
+      "price": 14760,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-04-18",
+      "price": 12390,
+      "airline": "American"
+    },
+    {
+      "date": "2026-04-19",
+      "price": 14300,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-04-20",
+      "price": 12260,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-21",
+      "price": 13480,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-04-22",
+      "price": 12730,
+      "airline": "American"
+    },
+    {
+      "date": "2026-04-23",
+      "price": 13970,
+      "airline": "American"
+    },
+    {
+      "date": "2026-04-24",
+      "price": 12900,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-04-25",
+      "price": 15940,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-04-26",
+      "price": 13410,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-04-27",
+      "price": 12740,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-04-28",
+      "price": 13690,
+      "airline": "American"
+    },
+    {
+      "date": "2026-04-29",
+      "price": 13380,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-04-30",
+      "price": 12580,
+      "airline": "United"
+    },
+    {
+      "date": "2026-05-01",
+      "price": 14100,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-05-02",
+      "price": 14840,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-05-03",
+      "price": 12570,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-04",
+      "price": 10840,
+      "airline": "American"
+    },
+    {
+      "date": "2026-05-05",
+      "price": 13050,
+      "airline": "United"
+    },
+    {
+      "date": "2026-05-06",
+      "price": 14430,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-05-07",
+      "price": 13570,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-05-08",
+      "price": 14790,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-05-09",
+      "price": 13640,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-05-10",
+      "price": 14220,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-05-11",
+      "price": 12930,
+      "airline": "American"
+    },
+    {
+      "date": "2026-05-12",
+      "price": 13000,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-05-13",
+      "price": 11250,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-05-14",
+      "price": 14240,
+      "airline": "American"
+    },
+    {
+      "date": "2026-05-15",
+      "price": 14370,
+      "airline": "United"
+    },
+    {
+      "date": "2026-05-16",
+      "price": 13380,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-05-17",
+      "price": 11450,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-05-18",
+      "price": 12890,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-05-19",
+      "price": 11460,
+      "airline": "American"
+    },
+    {
+      "date": "2026-05-20",
+      "price": 12650,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-05-21",
+      "price": 12930,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-05-22",
+      "price": 13160,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-05-23",
+      "price": 13340,
+      "airline": "American"
+    },
+    {
+      "date": "2026-05-24",
+      "price": 15230,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-05-25",
+      "price": 13820,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-05-26",
+      "price": 11250,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-05-27",
+      "price": 12780,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-05-28",
+      "price": 12140,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-05-29",
+      "price": 14210,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-05-30",
+      "price": 13800,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-05-31",
+      "price": 13210,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-06-01",
+      "price": 12070,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-02",
+      "price": 13340,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-06-03",
+      "price": 14380,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-06-04",
+      "price": 12660,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-06-05",
+      "price": 14670,
+      "airline": "American"
+    },
+    {
+      "date": "2026-06-06",
+      "price": 13820,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-06-07",
+      "price": 13080,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-06-08",
+      "price": 11680,
+      "airline": "United"
+    },
+    {
+      "date": "2026-06-09",
+      "price": 12890,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-06-10",
+      "price": 13080,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-06-11",
+      "price": 11330,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-06-12",
+      "price": 13760,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-06-13",
+      "price": 13580,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-06-14",
+      "price": 13900,
+      "airline": "United"
+    },
+    {
+      "date": "2026-06-15",
+      "price": 11540,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-06-16",
+      "price": 12790,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-06-17",
+      "price": 12040,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-06-18",
+      "price": 13970,
+      "airline": "United"
+    },
+    {
+      "date": "2026-06-19",
+      "price": 14180,
+      "airline": "United"
+    },
+    {
+      "date": "2026-06-20",
+      "price": 11960,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-06-21",
+      "price": 13570,
+      "airline": "American"
+    },
+    {
+      "date": "2026-06-22",
+      "price": 10900,
+      "airline": "American"
+    },
+    {
+      "date": "2026-06-23",
+      "price": 10210,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-06-24",
+      "price": 11870,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-06-25",
+      "price": 13490,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-26",
+      "price": 14690,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-06-27",
+      "price": 12910,
+      "airline": "United"
+    },
+    {
+      "date": "2026-06-28",
+      "price": 15230,
+      "airline": "United"
+    },
+    {
+      "date": "2026-06-29",
+      "price": 13370,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-06-30",
+      "price": 12750,
+      "airline": "American"
+    },
+    {
+      "date": "2026-07-01",
+      "price": 11160,
+      "airline": "Delta"
+    },
+    {
+      "date": "2026-07-02",
+      "price": 12720,
+      "airline": "American"
+    },
+    {
+      "date": "2026-07-03",
+      "price": 12520,
+      "airline": "Air India"
+    },
+    {
+      "date": "2026-07-04",
+      "price": 13580,
+      "airline": "Southwest"
+    },
+    {
+      "date": "2026-07-05",
+      "price": 13430,
+      "airline": "Various"
+    }
+  ]
+}

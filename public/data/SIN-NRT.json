@@ -1,0 +1,3663 @@
+{
+  "route": "SIN-NRT",
+  "origin": "SIN",
+  "dest": "NRT",
+  "label": "Singapore (SIN) \u2192  Tokyo (NRT)",
+  "prices": [
+    {
+      "date": "2024-07-05",
+      "price": 8470,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-07-06",
+      "price": 9360,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-07-07",
+      "price": 8770,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-07-08",
+      "price": 7830,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-07-09",
+      "price": 7150,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-07-10",
+      "price": 7480,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-11",
+      "price": 7800,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-07-12",
+      "price": 7360,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-07-13",
+      "price": 9310,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-07-14",
+      "price": 7940,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-15",
+      "price": 7070,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-16",
+      "price": 7440,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-07-17",
+      "price": 7220,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-07-18",
+      "price": 6830,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-07-19",
+      "price": 8630,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-07-20",
+      "price": 7910,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-07-21",
+      "price": 8980,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-07-22",
+      "price": 6340,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-07-23",
+      "price": 7710,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-24",
+      "price": 7500,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-25",
+      "price": 7120,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-26",
+      "price": 8530,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-07-27",
+      "price": 7540,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-28",
+      "price": 8800,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-07-29",
+      "price": 7130,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-07-30",
+      "price": 6620,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-07-31",
+      "price": 7350,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 6740,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-02",
+      "price": 8370,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-03",
+      "price": 8200,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-04",
+      "price": 7470,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-05",
+      "price": 7120,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-06",
+      "price": 7330,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-07",
+      "price": 7240,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-08-08",
+      "price": 7350,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-09",
+      "price": 8880,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-08-10",
+      "price": 8690,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-11",
+      "price": 8800,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-12",
+      "price": 6400,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-08-13",
+      "price": 8850,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-14",
+      "price": 8190,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-08-15",
+      "price": 6560,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-08-16",
+      "price": 8570,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-08-17",
+      "price": 8310,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-18",
+      "price": 7740,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-19",
+      "price": 7640,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-20",
+      "price": 8000,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-08-21",
+      "price": 7610,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-22",
+      "price": 6570,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-23",
+      "price": 8970,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-08-24",
+      "price": 7640,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-08-25",
+      "price": 8080,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-08-26",
+      "price": 6510,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-27",
+      "price": 8210,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-28",
+      "price": 7710,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-08-29",
+      "price": 7570,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-08-30",
+      "price": 8040,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-08-31",
+      "price": 8320,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 8570,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-02",
+      "price": 6910,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-09-03",
+      "price": 7100,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-09-04",
+      "price": 8300,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-05",
+      "price": 8010,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-09-06",
+      "price": 9020,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-09-07",
+      "price": 8760,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-08",
+      "price": 7560,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-09-09",
+      "price": 6820,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-10",
+      "price": 7990,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-09-11",
+      "price": 7290,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-12",
+      "price": 8490,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-13",
+      "price": 8510,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-09-14",
+      "price": 8230,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-15",
+      "price": 8090,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-09-16",
+      "price": 7430,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-09-17",
+      "price": 8070,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-09-18",
+      "price": 7650,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-09-19",
+      "price": 7540,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-20",
+      "price": 8600,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-09-21",
+      "price": 8010,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-09-22",
+      "price": 8460,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-23",
+      "price": 7320,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-09-24",
+      "price": 6840,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-09-25",
+      "price": 7870,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-09-26",
+      "price": 6890,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-27",
+      "price": 8920,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-28",
+      "price": 7850,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-29",
+      "price": 7790,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-30",
+      "price": 7300,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 6910,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-10-02",
+      "price": 8080,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-03",
+      "price": 7350,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-04",
+      "price": 8360,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-05",
+      "price": 7410,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-06",
+      "price": 8230,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-07",
+      "price": 8140,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-08",
+      "price": 7410,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-10-09",
+      "price": 7440,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-10",
+      "price": 6980,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-11",
+      "price": 8520,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-12",
+      "price": 7380,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-10-13",
+      "price": 7280,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-10-14",
+      "price": 6410,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-10-15",
+      "price": 7400,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-16",
+      "price": 7580,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-17",
+      "price": 6850,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-18",
+      "price": 7470,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-10-19",
+      "price": 9090,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-10-20",
+      "price": 7310,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-21",
+      "price": 6860,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-22",
+      "price": 7350,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-10-23",
+      "price": 6850,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-24",
+      "price": 7690,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-25",
+      "price": 7440,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-26",
+      "price": 8050,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-27",
+      "price": 9350,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-10-28",
+      "price": 7210,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-29",
+      "price": 7490,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-30",
+      "price": 8120,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-31",
+      "price": 7030,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 10040,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-11-02",
+      "price": 9480,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-03",
+      "price": 8960,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-04",
+      "price": 8870,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-05",
+      "price": 9550,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-06",
+      "price": 8680,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-07",
+      "price": 8850,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-08",
+      "price": 9930,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-09",
+      "price": 9800,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-10",
+      "price": 9180,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-11",
+      "price": 9430,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-11-12",
+      "price": 8360,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-13",
+      "price": 7110,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-14",
+      "price": 8690,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-11-15",
+      "price": 10160,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-16",
+      "price": 9420,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-17",
+      "price": 8410,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-18",
+      "price": 9440,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-19",
+      "price": 9070,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-20",
+      "price": 8820,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-21",
+      "price": 8450,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-11-22",
+      "price": 10100,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-11-23",
+      "price": 9540,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-24",
+      "price": 9230,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-25",
+      "price": 7630,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-26",
+      "price": 10060,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-27",
+      "price": 7870,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-28",
+      "price": 8870,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-29",
+      "price": 9340,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-30",
+      "price": 9000,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 9360,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-12-02",
+      "price": 8610,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-03",
+      "price": 7660,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-12-04",
+      "price": 8350,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-05",
+      "price": 8510,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-06",
+      "price": 9360,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-07",
+      "price": 8960,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-08",
+      "price": 10310,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-12-09",
+      "price": 7270,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-10",
+      "price": 9280,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-12-11",
+      "price": 8380,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-12",
+      "price": 8400,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-13",
+      "price": 10590,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-12-14",
+      "price": 10680,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-12-15",
+      "price": 8430,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-16",
+      "price": 9540,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-17",
+      "price": 8010,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-18",
+      "price": 8560,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-12-19",
+      "price": 8540,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-20",
+      "price": 9970,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-21",
+      "price": 7950,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-22",
+      "price": 9730,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-12-23",
+      "price": 8510,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-12-24",
+      "price": 8430,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-25",
+      "price": 7800,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-26",
+      "price": 10070,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-27",
+      "price": 9910,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-28",
+      "price": 10240,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-29",
+      "price": 9060,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-30",
+      "price": 8570,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-12-31",
+      "price": 8240,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 8140,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-02",
+      "price": 7480,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-03",
+      "price": 9410,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-04",
+      "price": 8990,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-05",
+      "price": 8810,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-06",
+      "price": 8000,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-07",
+      "price": 7530,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-08",
+      "price": 7020,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-09",
+      "price": 7500,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-10",
+      "price": 8790,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-11",
+      "price": 8890,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-12",
+      "price": 8670,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-13",
+      "price": 6800,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-14",
+      "price": 7600,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-15",
+      "price": 6880,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-16",
+      "price": 7140,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-17",
+      "price": 8470,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-01-18",
+      "price": 8330,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-19",
+      "price": 8010,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-20",
+      "price": 7340,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-21",
+      "price": 7450,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-22",
+      "price": 6850,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-23",
+      "price": 8760,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-24",
+      "price": 7970,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-25",
+      "price": 8800,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-26",
+      "price": 8190,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-27",
+      "price": 7100,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-28",
+      "price": 8320,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-29",
+      "price": 8040,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-30",
+      "price": 7700,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-01-31",
+      "price": 8540,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 7780,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-02-02",
+      "price": 8440,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-02-03",
+      "price": 6850,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-02-04",
+      "price": 8070,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-02-05",
+      "price": 7850,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-02-06",
+      "price": 7270,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-02-07",
+      "price": 7430,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-02-08",
+      "price": 8220,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-02-09",
+      "price": 8110,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-02-10",
+      "price": 6860,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-11",
+      "price": 8190,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-12",
+      "price": 8370,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-02-13",
+      "price": 7210,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-14",
+      "price": 8400,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-02-15",
+      "price": 8290,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-02-16",
+      "price": 9070,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-02-17",
+      "price": 7090,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-18",
+      "price": 7290,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-02-19",
+      "price": 7670,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-02-20",
+      "price": 6410,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-02-21",
+      "price": 7790,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-22",
+      "price": 8080,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-23",
+      "price": 8590,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-24",
+      "price": 7010,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-25",
+      "price": 8720,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-02-26",
+      "price": 7380,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-02-27",
+      "price": 8260,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-28",
+      "price": 7300,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 10670,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-02",
+      "price": 8830,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-03",
+      "price": 10020,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-04",
+      "price": 10210,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-05",
+      "price": 8510,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-06",
+      "price": 10620,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-07",
+      "price": 9200,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-08",
+      "price": 10500,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-09",
+      "price": 11110,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-10",
+      "price": 10400,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-11",
+      "price": 10860,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-12",
+      "price": 10170,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-13",
+      "price": 10120,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-14",
+      "price": 10450,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-15",
+      "price": 10630,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-16",
+      "price": 11630,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-17",
+      "price": 10070,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-18",
+      "price": 10310,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-19",
+      "price": 9850,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-20",
+      "price": 9240,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-21",
+      "price": 10570,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-22",
+      "price": 11060,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-23",
+      "price": 11380,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-24",
+      "price": 9490,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-25",
+      "price": 9790,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-26",
+      "price": 8970,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-27",
+      "price": 9710,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-28",
+      "price": 11040,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-29",
+      "price": 10940,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-30",
+      "price": 11040,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-31",
+      "price": 9280,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 9500,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-02",
+      "price": 8640,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-03",
+      "price": 10270,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-04-04",
+      "price": 9590,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-05",
+      "price": 10020,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-06",
+      "price": 9740,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-07",
+      "price": 10010,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-08",
+      "price": 9730,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-09",
+      "price": 9930,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-10",
+      "price": 9610,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-11",
+      "price": 9910,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-12",
+      "price": 10720,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-13",
+      "price": 9790,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-04-14",
+      "price": 11020,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-15",
+      "price": 9150,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-16",
+      "price": 9300,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-17",
+      "price": 8210,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-18",
+      "price": 9280,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-19",
+      "price": 10190,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-20",
+      "price": 10920,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-21",
+      "price": 10800,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-22",
+      "price": 11850,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-04-23",
+      "price": 9660,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-24",
+      "price": 8210,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-04-25",
+      "price": 10850,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-26",
+      "price": 9950,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-27",
+      "price": 10810,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-28",
+      "price": 9680,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-29",
+      "price": 10190,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-04-30",
+      "price": 10880,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 6950,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-02",
+      "price": 8440,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-03",
+      "price": 9290,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-05-04",
+      "price": 7950,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-05-05",
+      "price": 7840,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-05-06",
+      "price": 7670,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-07",
+      "price": 7490,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-08",
+      "price": 7790,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-09",
+      "price": 8640,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-05-10",
+      "price": 8590,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-11",
+      "price": 8230,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-05-12",
+      "price": 7560,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-13",
+      "price": 7770,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-14",
+      "price": 6670,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-15",
+      "price": 7430,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-16",
+      "price": 7400,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-17",
+      "price": 8680,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-18",
+      "price": 7680,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-05-19",
+      "price": 7970,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-05-20",
+      "price": 6660,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-21",
+      "price": 7760,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-22",
+      "price": 8010,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-23",
+      "price": 8930,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-05-24",
+      "price": 7310,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-25",
+      "price": 9750,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-26",
+      "price": 8510,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-05-27",
+      "price": 7810,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-28",
+      "price": 7720,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-05-29",
+      "price": 8780,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-30",
+      "price": 8240,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-31",
+      "price": 8820,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-06-01",
+      "price": 8890,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-02",
+      "price": 7650,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-03",
+      "price": 7300,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-04",
+      "price": 7670,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-05",
+      "price": 7540,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-06-06",
+      "price": 8740,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-06-07",
+      "price": 8090,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-08",
+      "price": 9000,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-09",
+      "price": 7410,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-10",
+      "price": 7970,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-11",
+      "price": 7210,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-12",
+      "price": 7670,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-13",
+      "price": 7710,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-14",
+      "price": 7100,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-15",
+      "price": 7560,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-16",
+      "price": 7160,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-17",
+      "price": 7780,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-18",
+      "price": 6630,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-19",
+      "price": 7540,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-06-20",
+      "price": 7820,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-21",
+      "price": 7710,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-22",
+      "price": 8880,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-23",
+      "price": 7520,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-24",
+      "price": 7460,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-25",
+      "price": 6820,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-26",
+      "price": 7760,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-27",
+      "price": 7930,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-28",
+      "price": 8120,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-29",
+      "price": 8730,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-30",
+      "price": 6990,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-01",
+      "price": 8090,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-07-02",
+      "price": 7000,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-03",
+      "price": 7440,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-04",
+      "price": 7580,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-05",
+      "price": 6970,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-06",
+      "price": 9160,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-07",
+      "price": 7360,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-08",
+      "price": 7160,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-09",
+      "price": 7220,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-10",
+      "price": 6480,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-11",
+      "price": 7920,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-12",
+      "price": 8050,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-07-13",
+      "price": 8090,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-14",
+      "price": 6920,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-07-15",
+      "price": 7530,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-07-16",
+      "price": 8070,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-17",
+      "price": 8520,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-07-18",
+      "price": 7160,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-07-19",
+      "price": 8200,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-20",
+      "price": 8800,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-07-21",
+      "price": 7290,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-07-22",
+      "price": 8270,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-07-23",
+      "price": 7140,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-07-24",
+      "price": 7590,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-25",
+      "price": 8160,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-26",
+      "price": 7480,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-27",
+      "price": 7970,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-07-28",
+      "price": 8770,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-29",
+      "price": 8200,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-07-30",
+      "price": 7200,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-31",
+      "price": 6810,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-08-01",
+      "price": 8430,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-02",
+      "price": 9470,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-08-03",
+      "price": 8710,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-08-04",
+      "price": 7900,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-08-05",
+      "price": 7290,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-08-06",
+      "price": 8210,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-08-07",
+      "price": 7790,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-08-08",
+      "price": 9660,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-09",
+      "price": 9810,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-10",
+      "price": 8780,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-11",
+      "price": 6490,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-12",
+      "price": 7330,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-08-13",
+      "price": 8260,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-14",
+      "price": 7800,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-15",
+      "price": 7240,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-16",
+      "price": 8390,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-17",
+      "price": 7800,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-08-18",
+      "price": 7870,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-19",
+      "price": 7440,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-20",
+      "price": 8260,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-21",
+      "price": 7580,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-22",
+      "price": 9300,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-23",
+      "price": 7460,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-08-24",
+      "price": 8210,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-25",
+      "price": 7910,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-26",
+      "price": 6590,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-08-27",
+      "price": 7560,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-28",
+      "price": 8220,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-08-29",
+      "price": 8390,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-08-30",
+      "price": 9170,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-31",
+      "price": 7810,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-01",
+      "price": 7260,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-02",
+      "price": 8240,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-03",
+      "price": 7460,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-09-04",
+      "price": 7650,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-05",
+      "price": 7920,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-06",
+      "price": 8390,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-07",
+      "price": 8450,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-08",
+      "price": 7840,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-09",
+      "price": 7730,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-10",
+      "price": 7850,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-11",
+      "price": 8390,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-12",
+      "price": 8800,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-13",
+      "price": 9230,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-14",
+      "price": 8280,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-15",
+      "price": 6500,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-09-16",
+      "price": 7300,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-17",
+      "price": 8230,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-18",
+      "price": 8020,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-19",
+      "price": 7490,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-20",
+      "price": 7150,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-21",
+      "price": 6420,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-22",
+      "price": 8160,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-09-23",
+      "price": 7100,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-09-24",
+      "price": 7030,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-25",
+      "price": 7060,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-09-26",
+      "price": 7630,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-27",
+      "price": 8120,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-28",
+      "price": 8250,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-09-29",
+      "price": 7500,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-30",
+      "price": 7340,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-01",
+      "price": 8360,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-02",
+      "price": 6490,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-10-03",
+      "price": 8930,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-04",
+      "price": 8940,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-10-05",
+      "price": 8320,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-10-06",
+      "price": 6590,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-10-07",
+      "price": 7640,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-10-08",
+      "price": 7250,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-09",
+      "price": 8500,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-10-10",
+      "price": 7830,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-11",
+      "price": 8260,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-10-12",
+      "price": 8270,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-13",
+      "price": 8200,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-14",
+      "price": 6430,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-15",
+      "price": 7290,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-10-16",
+      "price": 7660,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-10-17",
+      "price": 6880,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-10-18",
+      "price": 8390,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-10-19",
+      "price": 8440,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-10-20",
+      "price": 7160,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-10-21",
+      "price": 7900,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-22",
+      "price": 6590,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-10-23",
+      "price": 7630,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-10-24",
+      "price": 7870,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-10-25",
+      "price": 8540,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-26",
+      "price": 7600,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-27",
+      "price": 7920,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-28",
+      "price": 8060,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-10-29",
+      "price": 8480,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-30",
+      "price": 7650,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-10-31",
+      "price": 7350,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-01",
+      "price": 10360,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-02",
+      "price": 8920,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-03",
+      "price": 7420,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-11-04",
+      "price": 8810,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-05",
+      "price": 8830,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-06",
+      "price": 9690,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-07",
+      "price": 9670,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-08",
+      "price": 9790,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-09",
+      "price": 10290,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-11-10",
+      "price": 9620,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-11",
+      "price": 8350,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-11-12",
+      "price": 8700,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-13",
+      "price": 8600,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-11-14",
+      "price": 9210,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-15",
+      "price": 9790,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-16",
+      "price": 9620,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-17",
+      "price": 8860,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-18",
+      "price": 9820,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-19",
+      "price": 7720,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-20",
+      "price": 7390,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-21",
+      "price": 9720,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-22",
+      "price": 8890,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-23",
+      "price": 9470,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-24",
+      "price": 8470,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-25",
+      "price": 8700,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-26",
+      "price": 9110,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-27",
+      "price": 7200,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-28",
+      "price": 8510,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-29",
+      "price": 9980,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-30",
+      "price": 10070,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-12-01",
+      "price": 7720,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-02",
+      "price": 8160,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-03",
+      "price": 8660,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-04",
+      "price": 8810,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-12-05",
+      "price": 9620,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-06",
+      "price": 9990,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-07",
+      "price": 8210,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-12-08",
+      "price": 8620,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-09",
+      "price": 8700,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-10",
+      "price": 9050,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-11",
+      "price": 7530,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-12",
+      "price": 9060,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-12-13",
+      "price": 8010,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-14",
+      "price": 10810,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-15",
+      "price": 8830,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-16",
+      "price": 9730,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-17",
+      "price": 7990,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-18",
+      "price": 9460,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-12-19",
+      "price": 9080,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-20",
+      "price": 10740,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-12-21",
+      "price": 9500,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-12-22",
+      "price": 8580,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-23",
+      "price": 8220,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-12-24",
+      "price": 8260,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-12-25",
+      "price": 9040,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-26",
+      "price": 8870,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-27",
+      "price": 10410,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-28",
+      "price": 8280,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-29",
+      "price": 7350,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-30",
+      "price": 7990,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-31",
+      "price": 8760,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-01",
+      "price": 8580,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-02",
+      "price": 7580,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-03",
+      "price": 8450,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-04",
+      "price": 8320,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-05",
+      "price": 8070,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-01-06",
+      "price": 7400,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-07",
+      "price": 7560,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-01-08",
+      "price": 7180,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-01-09",
+      "price": 8620,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-10",
+      "price": 7830,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-01-11",
+      "price": 6660,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-12",
+      "price": 8040,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-01-13",
+      "price": 7880,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-01-14",
+      "price": 9240,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-15",
+      "price": 7540,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-16",
+      "price": 9000,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-17",
+      "price": 8180,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-18",
+      "price": 8600,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-19",
+      "price": 7310,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-20",
+      "price": 7090,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-01-21",
+      "price": 7730,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-22",
+      "price": 8420,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-23",
+      "price": 9340,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-01-24",
+      "price": 9060,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-01-25",
+      "price": 9740,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-01-26",
+      "price": 7840,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-27",
+      "price": 6960,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-01-28",
+      "price": 8270,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-01-29",
+      "price": 8010,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-30",
+      "price": 6580,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-31",
+      "price": 9480,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-01",
+      "price": 9440,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-02",
+      "price": 7310,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-02-03",
+      "price": 6790,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-02-04",
+      "price": 7290,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-02-05",
+      "price": 8010,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-06",
+      "price": 9890,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-07",
+      "price": 7500,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-02-08",
+      "price": 7520,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-09",
+      "price": 7680,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-10",
+      "price": 7340,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-11",
+      "price": 6990,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-12",
+      "price": 7230,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-13",
+      "price": 8470,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-14",
+      "price": 8640,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-15",
+      "price": 9190,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-16",
+      "price": 7220,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-17",
+      "price": 7260,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-18",
+      "price": 6140,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-19",
+      "price": 8060,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-02-20",
+      "price": 9150,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-21",
+      "price": 8090,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-22",
+      "price": 9580,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-02-23",
+      "price": 6970,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-24",
+      "price": 7170,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-25",
+      "price": 8120,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-26",
+      "price": 8020,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-27",
+      "price": 8080,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-02-28",
+      "price": 8350,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-01",
+      "price": 10680,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-02",
+      "price": 9510,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-03-03",
+      "price": 8950,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-03-04",
+      "price": 9380,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-05",
+      "price": 10180,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-06",
+      "price": 10880,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-03-07",
+      "price": 10380,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-03-08",
+      "price": 9880,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-03-09",
+      "price": 9320,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-10",
+      "price": 9710,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-11",
+      "price": 9830,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-12",
+      "price": 9920,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 11060,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-14",
+      "price": 11290,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-03-15",
+      "price": 11190,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-03-16",
+      "price": 10750,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-17",
+      "price": 10040,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-18",
+      "price": 10270,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-19",
+      "price": 11020,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 11820,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-21",
+      "price": 10690,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-22",
+      "price": 11220,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-23",
+      "price": 9020,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-03-24",
+      "price": 10010,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-03-25",
+      "price": 8410,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-26",
+      "price": 10460,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-27",
+      "price": 11310,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-03-28",
+      "price": 9620,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-03-29",
+      "price": 11900,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-03-30",
+      "price": 11170,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-31",
+      "price": 9340,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-01",
+      "price": 8930,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-04-02",
+      "price": 9660,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-04-03",
+      "price": 10340,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-04",
+      "price": 10120,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-04-05",
+      "price": 11130,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-04-06",
+      "price": 10700,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-04-07",
+      "price": 9370,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-08",
+      "price": 10850,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-09",
+      "price": 10020,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-10",
+      "price": 9590,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-11",
+      "price": 9920,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-04-12",
+      "price": 11000,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-13",
+      "price": 11230,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-14",
+      "price": 9690,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-15",
+      "price": 10770,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-16",
+      "price": 9440,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-17",
+      "price": 10210,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-04-18",
+      "price": 8810,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-19",
+      "price": 11710,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-20",
+      "price": 9330,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-21",
+      "price": 8130,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-04-22",
+      "price": 9570,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-23",
+      "price": 9700,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-04-24",
+      "price": 10130,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-25",
+      "price": 9970,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-26",
+      "price": 9590,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-27",
+      "price": 11450,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-04-28",
+      "price": 10810,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-04-29",
+      "price": 10290,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-04-30",
+      "price": 9670,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-01",
+      "price": 7750,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-05-02",
+      "price": 8110,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-05-03",
+      "price": 8070,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-05-04",
+      "price": 7910,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-05",
+      "price": 8870,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-06",
+      "price": 7490,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-07",
+      "price": 7760,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-08",
+      "price": 7430,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-05-09",
+      "price": 7080,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-05-10",
+      "price": 8020,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-11",
+      "price": 7260,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-05-12",
+      "price": 7640,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-13",
+      "price": 6070,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-14",
+      "price": 9040,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-05-15",
+      "price": 8610,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-05-16",
+      "price": 7850,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-17",
+      "price": 8130,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-18",
+      "price": 7450,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-19",
+      "price": 8190,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-20",
+      "price": 7390,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-21",
+      "price": 7840,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-22",
+      "price": 8820,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-05-23",
+      "price": 7830,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-05-24",
+      "price": 6970,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-05-25",
+      "price": 7730,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-26",
+      "price": 7750,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-05-27",
+      "price": 7950,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-28",
+      "price": 7180,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-05-29",
+      "price": 8840,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-30",
+      "price": 8520,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-31",
+      "price": 7930,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-01",
+      "price": 8090,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-02",
+      "price": 8020,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-06-03",
+      "price": 8580,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-06-04",
+      "price": 7370,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-05",
+      "price": 8040,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-06-06",
+      "price": 8290,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-07",
+      "price": 8200,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-06-08",
+      "price": 7330,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-06-09",
+      "price": 7020,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-06-10",
+      "price": 7430,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-11",
+      "price": 7020,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-06-12",
+      "price": 8280,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-06-13",
+      "price": 8430,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-14",
+      "price": 7770,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-15",
+      "price": 6780,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-16",
+      "price": 8130,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-17",
+      "price": 7870,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-18",
+      "price": 6420,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-19",
+      "price": 8770,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-20",
+      "price": 8820,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-21",
+      "price": 8940,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-22",
+      "price": 8300,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-06-23",
+      "price": 8370,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-24",
+      "price": 7660,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-25",
+      "price": 7060,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-26",
+      "price": 7610,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-06-27",
+      "price": 8530,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-28",
+      "price": 8720,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-06-29",
+      "price": 7920,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-06-30",
+      "price": 8000,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-07-01",
+      "price": 8050,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-07-02",
+      "price": 8040,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-07-03",
+      "price": 7240,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-07-04",
+      "price": 6300,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-07-05",
+      "price": 7500,
+      "airline": "ANA"
+    }
+  ]
+}

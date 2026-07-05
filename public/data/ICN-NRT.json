@@ -1,0 +1,3663 @@
+{
+  "route": "ICN-NRT",
+  "origin": "ICN",
+  "dest": "NRT",
+  "label": "Seoul (ICN) \u2192  Tokyo (NRT)",
+  "prices": [
+    {
+      "date": "2024-07-05",
+      "price": 2590,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-07-06",
+      "price": 2600,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-07-07",
+      "price": 3430,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-08",
+      "price": 2460,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-07-09",
+      "price": 2800,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-07-10",
+      "price": 2160,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-07-11",
+      "price": 2300,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-07-12",
+      "price": 2540,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-13",
+      "price": 2900,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-07-14",
+      "price": 2680,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-07-15",
+      "price": 2570,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-16",
+      "price": 2330,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-07-17",
+      "price": 2230,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-18",
+      "price": 2410,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-07-19",
+      "price": 2780,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-07-20",
+      "price": 2300,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-07-21",
+      "price": 2580,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-07-22",
+      "price": 3040,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-07-23",
+      "price": 2450,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-07-24",
+      "price": 2560,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-07-25",
+      "price": 2070,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-26",
+      "price": 2700,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-07-27",
+      "price": 2870,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-28",
+      "price": 2790,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-07-29",
+      "price": 2450,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-30",
+      "price": 2220,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-07-31",
+      "price": 2900,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 2600,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-08-02",
+      "price": 2610,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-08-03",
+      "price": 2940,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-08-04",
+      "price": 2830,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-05",
+      "price": 2050,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-08-06",
+      "price": 2520,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-08-07",
+      "price": 2470,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-08-08",
+      "price": 2720,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-08-09",
+      "price": 2690,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-08-10",
+      "price": 2620,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-08-11",
+      "price": 2270,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-08-12",
+      "price": 2380,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-08-13",
+      "price": 2620,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-08-14",
+      "price": 2540,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-08-15",
+      "price": 2610,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-08-16",
+      "price": 2870,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-08-17",
+      "price": 2720,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-08-18",
+      "price": 2630,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-08-19",
+      "price": 2630,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-08-20",
+      "price": 2560,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-08-21",
+      "price": 2710,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-08-22",
+      "price": 2530,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-08-23",
+      "price": 2850,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-08-24",
+      "price": 2990,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-08-25",
+      "price": 2730,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-08-26",
+      "price": 2400,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-08-27",
+      "price": 2720,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-08-28",
+      "price": 2840,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-08-29",
+      "price": 2610,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-08-30",
+      "price": 2920,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-08-31",
+      "price": 2830,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 2650,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-09-02",
+      "price": 2470,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-09-03",
+      "price": 2320,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-09-04",
+      "price": 2810,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-09-05",
+      "price": 2430,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-09-06",
+      "price": 2910,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-07",
+      "price": 2690,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-09-08",
+      "price": 3050,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-09-09",
+      "price": 2520,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-09-10",
+      "price": 2140,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-09-11",
+      "price": 2310,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-12",
+      "price": 2300,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-09-13",
+      "price": 3130,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-09-14",
+      "price": 2990,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-15",
+      "price": 3050,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-16",
+      "price": 2490,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-09-17",
+      "price": 2210,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-18",
+      "price": 2250,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-09-19",
+      "price": 2350,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-09-20",
+      "price": 2420,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-09-21",
+      "price": 2170,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-09-22",
+      "price": 2620,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-09-23",
+      "price": 2460,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-09-24",
+      "price": 2530,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-09-25",
+      "price": 2360,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-09-26",
+      "price": 2700,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-09-27",
+      "price": 2910,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-09-28",
+      "price": 2860,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-29",
+      "price": 2650,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-09-30",
+      "price": 2670,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 2360,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-10-02",
+      "price": 2230,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-10-03",
+      "price": 2460,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-10-04",
+      "price": 2780,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-10-05",
+      "price": 2360,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-10-06",
+      "price": 2790,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-07",
+      "price": 2530,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-08",
+      "price": 2490,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-10-09",
+      "price": 2450,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-10",
+      "price": 2100,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-10-11",
+      "price": 3160,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-10-12",
+      "price": 2510,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-13",
+      "price": 2690,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-14",
+      "price": 2230,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-10-15",
+      "price": 2150,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-16",
+      "price": 2430,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-10-17",
+      "price": 2070,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-10-18",
+      "price": 2470,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-19",
+      "price": 2590,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-10-20",
+      "price": 2430,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-21",
+      "price": 2140,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-10-22",
+      "price": 2600,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-23",
+      "price": 2650,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-10-24",
+      "price": 2610,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-10-25",
+      "price": 2920,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-10-26",
+      "price": 2590,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-10-27",
+      "price": 2690,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-10-28",
+      "price": 2480,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-29",
+      "price": 2600,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-10-30",
+      "price": 2570,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-10-31",
+      "price": 2630,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 3180,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-11-02",
+      "price": 3370,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-11-03",
+      "price": 2950,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-04",
+      "price": 3210,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-05",
+      "price": 2890,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-06",
+      "price": 3070,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-11-07",
+      "price": 2790,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-11-08",
+      "price": 2860,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-11-09",
+      "price": 3250,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-11-10",
+      "price": 2820,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-11-11",
+      "price": 2440,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-11-12",
+      "price": 2880,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-13",
+      "price": 2740,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-14",
+      "price": 2770,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-15",
+      "price": 3320,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-16",
+      "price": 3150,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-17",
+      "price": 3310,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-18",
+      "price": 2810,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-19",
+      "price": 2790,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-20",
+      "price": 2880,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-21",
+      "price": 2900,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-11-22",
+      "price": 2850,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-23",
+      "price": 2690,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-11-24",
+      "price": 3230,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-25",
+      "price": 3190,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-26",
+      "price": 3040,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-11-27",
+      "price": 3080,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-11-28",
+      "price": 3050,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-11-29",
+      "price": 3180,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-11-30",
+      "price": 3000,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 3680,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-12-02",
+      "price": 2580,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-12-03",
+      "price": 2640,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-12-04",
+      "price": 3100,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-12-05",
+      "price": 2500,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-12-06",
+      "price": 3560,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-12-07",
+      "price": 3190,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-12-08",
+      "price": 2940,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-12-09",
+      "price": 2980,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-10",
+      "price": 2510,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-11",
+      "price": 3440,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-12",
+      "price": 2770,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-13",
+      "price": 3030,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-14",
+      "price": 3040,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-15",
+      "price": 2900,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-16",
+      "price": 2480,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-12-17",
+      "price": 2980,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-12-18",
+      "price": 2890,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-19",
+      "price": 2520,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-20",
+      "price": 3140,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-12-21",
+      "price": 2900,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-22",
+      "price": 2930,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-23",
+      "price": 3040,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-12-24",
+      "price": 2690,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-25",
+      "price": 2960,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-26",
+      "price": 3380,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-12-27",
+      "price": 3000,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2024-12-28",
+      "price": 2800,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2024-12-29",
+      "price": 3440,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2024-12-30",
+      "price": 2880,
+      "airline": "ANA"
+    },
+    {
+      "date": "2024-12-31",
+      "price": 2430,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 2390,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-02",
+      "price": 2390,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-03",
+      "price": 2870,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-04",
+      "price": 2640,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-05",
+      "price": 2690,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-01-06",
+      "price": 2410,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-01-07",
+      "price": 2680,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-08",
+      "price": 2830,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-09",
+      "price": 2270,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-10",
+      "price": 2920,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-01-11",
+      "price": 2920,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-01-12",
+      "price": 2940,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-13",
+      "price": 2560,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-01-14",
+      "price": 2650,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-01-15",
+      "price": 2300,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-01-16",
+      "price": 2370,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-01-17",
+      "price": 2890,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-18",
+      "price": 2750,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-01-19",
+      "price": 2510,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-01-20",
+      "price": 2270,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-01-21",
+      "price": 2540,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-22",
+      "price": 2240,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-01-23",
+      "price": 2120,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-01-24",
+      "price": 2830,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-25",
+      "price": 2630,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-01-26",
+      "price": 2620,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-01-27",
+      "price": 2970,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-01-28",
+      "price": 2410,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-01-29",
+      "price": 2870,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-01-30",
+      "price": 2660,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-31",
+      "price": 2900,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 3000,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-02-02",
+      "price": 2640,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-02-03",
+      "price": 2800,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-04",
+      "price": 2180,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-05",
+      "price": 2400,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-06",
+      "price": 2620,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-07",
+      "price": 2840,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-02-08",
+      "price": 2980,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-02-09",
+      "price": 2530,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-10",
+      "price": 2350,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-11",
+      "price": 2360,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-02-12",
+      "price": 2500,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-02-13",
+      "price": 2230,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-02-14",
+      "price": 2610,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-15",
+      "price": 2970,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-02-16",
+      "price": 2930,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-02-17",
+      "price": 2800,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-18",
+      "price": 2860,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-19",
+      "price": 2610,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-02-20",
+      "price": 2330,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-02-21",
+      "price": 2980,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-02-22",
+      "price": 2770,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-23",
+      "price": 2740,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-24",
+      "price": 2640,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-02-25",
+      "price": 2170,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-26",
+      "price": 2330,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-27",
+      "price": 2470,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-02-28",
+      "price": 2760,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 3540,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-02",
+      "price": 3460,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-03-03",
+      "price": 3150,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-03-04",
+      "price": 3250,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-05",
+      "price": 3310,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-03-06",
+      "price": 3110,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-07",
+      "price": 3710,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-08",
+      "price": 3840,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-09",
+      "price": 3890,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-03-10",
+      "price": 3490,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-11",
+      "price": 3070,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-12",
+      "price": 3060,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-13",
+      "price": 3190,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-03-14",
+      "price": 3480,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-15",
+      "price": 4140,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-03-16",
+      "price": 3380,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-17",
+      "price": 3440,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-03-18",
+      "price": 3300,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-19",
+      "price": 3060,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-03-20",
+      "price": 3520,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-21",
+      "price": 3800,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-03-22",
+      "price": 3490,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-23",
+      "price": 3340,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-03-24",
+      "price": 3270,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-03-25",
+      "price": 3700,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-03-26",
+      "price": 2900,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-27",
+      "price": 3210,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-28",
+      "price": 3600,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-29",
+      "price": 3540,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-30",
+      "price": 3620,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-03-31",
+      "price": 2730,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 3090,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-04-02",
+      "price": 3340,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-03",
+      "price": 3000,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-04",
+      "price": 3150,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-04-05",
+      "price": 3620,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-06",
+      "price": 3650,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-04-07",
+      "price": 2750,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-08",
+      "price": 3590,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-04-09",
+      "price": 3410,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-04-10",
+      "price": 3050,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-04-11",
+      "price": 3520,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-04-12",
+      "price": 4210,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-13",
+      "price": 3680,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-04-14",
+      "price": 3140,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-04-15",
+      "price": 3060,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-16",
+      "price": 3290,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-04-17",
+      "price": 3200,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-04-18",
+      "price": 3210,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-04-19",
+      "price": 3400,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-20",
+      "price": 3550,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-04-21",
+      "price": 3220,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-04-22",
+      "price": 3220,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-04-23",
+      "price": 2890,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-04-24",
+      "price": 3060,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-04-25",
+      "price": 3810,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-04-26",
+      "price": 3680,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-27",
+      "price": 3270,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-28",
+      "price": 2610,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-29",
+      "price": 3220,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-30",
+      "price": 3460,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 2390,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-02",
+      "price": 2940,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-05-03",
+      "price": 2680,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-04",
+      "price": 2650,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-05",
+      "price": 2280,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-05-06",
+      "price": 2170,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-07",
+      "price": 2020,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-05-08",
+      "price": 2610,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-09",
+      "price": 2460,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-10",
+      "price": 2830,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-05-11",
+      "price": 2940,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-05-12",
+      "price": 2540,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-13",
+      "price": 2890,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-05-14",
+      "price": 2290,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-05-15",
+      "price": 2330,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-05-16",
+      "price": 2800,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-05-17",
+      "price": 2520,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-18",
+      "price": 2870,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-05-19",
+      "price": 2490,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-05-20",
+      "price": 2480,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-21",
+      "price": 2820,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-22",
+      "price": 2500,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-05-23",
+      "price": 3050,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-05-24",
+      "price": 2800,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-05-25",
+      "price": 3340,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-05-26",
+      "price": 2570,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-05-27",
+      "price": 2660,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-05-28",
+      "price": 2630,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-05-29",
+      "price": 2820,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-30",
+      "price": 2870,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-31",
+      "price": 3060,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-06-01",
+      "price": 2640,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-06-02",
+      "price": 2160,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-06-03",
+      "price": 2350,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-06-04",
+      "price": 2730,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-06-05",
+      "price": 2590,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-06",
+      "price": 2470,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-06-07",
+      "price": 2700,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-08",
+      "price": 2350,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-09",
+      "price": 2800,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-10",
+      "price": 2560,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-11",
+      "price": 2530,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-12",
+      "price": 2760,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-06-13",
+      "price": 2680,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-06-14",
+      "price": 2750,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-06-15",
+      "price": 2650,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-16",
+      "price": 2520,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-17",
+      "price": 2400,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-06-18",
+      "price": 2450,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-06-19",
+      "price": 2600,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-06-20",
+      "price": 2540,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-21",
+      "price": 2870,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-22",
+      "price": 2840,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-06-23",
+      "price": 2210,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-06-24",
+      "price": 2350,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-06-25",
+      "price": 2780,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-26",
+      "price": 2230,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-06-27",
+      "price": 2580,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-06-28",
+      "price": 2790,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-06-29",
+      "price": 3020,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-06-30",
+      "price": 2330,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-07-01",
+      "price": 2770,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-07-02",
+      "price": 2530,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-07-03",
+      "price": 2220,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-04",
+      "price": 2690,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-07-05",
+      "price": 3010,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-07-06",
+      "price": 2740,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-07-07",
+      "price": 2460,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-08",
+      "price": 2550,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-07-09",
+      "price": 2770,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-10",
+      "price": 2600,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-07-11",
+      "price": 2710,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-07-12",
+      "price": 2720,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-07-13",
+      "price": 2620,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-07-14",
+      "price": 2660,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-15",
+      "price": 2630,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-07-16",
+      "price": 2520,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-07-17",
+      "price": 2660,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-07-18",
+      "price": 2970,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-19",
+      "price": 3000,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-07-20",
+      "price": 2980,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-07-21",
+      "price": 2800,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-07-22",
+      "price": 2270,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-23",
+      "price": 3100,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-07-24",
+      "price": 2220,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-25",
+      "price": 2940,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-07-26",
+      "price": 2430,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-27",
+      "price": 2360,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-28",
+      "price": 2250,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-07-29",
+      "price": 2870,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-30",
+      "price": 2520,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-07-31",
+      "price": 2860,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-08-01",
+      "price": 2730,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-02",
+      "price": 2840,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-08-03",
+      "price": 3000,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-04",
+      "price": 2810,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-05",
+      "price": 2470,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-08-06",
+      "price": 2190,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-07",
+      "price": 2520,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-08",
+      "price": 2900,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-09",
+      "price": 2990,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-08-10",
+      "price": 2850,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-08-11",
+      "price": 2710,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-08-12",
+      "price": 2340,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-13",
+      "price": 2610,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-08-14",
+      "price": 2550,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-15",
+      "price": 2440,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-08-16",
+      "price": 2540,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-17",
+      "price": 2690,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-18",
+      "price": 2250,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-08-19",
+      "price": 2440,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-20",
+      "price": 2730,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-21",
+      "price": 2300,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-08-22",
+      "price": 2830,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-08-23",
+      "price": 2550,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-24",
+      "price": 2490,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-08-25",
+      "price": 2590,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-26",
+      "price": 2320,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-27",
+      "price": 2280,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-08-28",
+      "price": 2660,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-08-29",
+      "price": 2790,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-08-30",
+      "price": 3190,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-31",
+      "price": 2820,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-09-01",
+      "price": 2640,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-09-02",
+      "price": 2220,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-03",
+      "price": 2330,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-09-04",
+      "price": 2590,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-09-05",
+      "price": 2720,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-09-06",
+      "price": 2630,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-07",
+      "price": 2880,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-09-08",
+      "price": 2540,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-09",
+      "price": 2500,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-09-10",
+      "price": 2630,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-09-11",
+      "price": 2310,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-12",
+      "price": 2660,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-09-13",
+      "price": 2580,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-14",
+      "price": 2690,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-15",
+      "price": 2510,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-09-16",
+      "price": 2520,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-17",
+      "price": 2580,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-09-18",
+      "price": 2790,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-19",
+      "price": 2960,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-09-20",
+      "price": 3200,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-09-21",
+      "price": 3190,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-22",
+      "price": 2330,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-09-23",
+      "price": 2740,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-09-24",
+      "price": 2390,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-25",
+      "price": 2600,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-09-26",
+      "price": 2910,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-09-27",
+      "price": 2690,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-09-28",
+      "price": 2640,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-09-29",
+      "price": 2360,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-09-30",
+      "price": 2480,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-10-01",
+      "price": 2490,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-02",
+      "price": 2350,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-10-03",
+      "price": 2730,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-10-04",
+      "price": 2520,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-10-05",
+      "price": 2570,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-10-06",
+      "price": 3010,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-10-07",
+      "price": 2490,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-10-08",
+      "price": 2550,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-10-09",
+      "price": 2370,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-10",
+      "price": 2640,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-10-11",
+      "price": 2890,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-12",
+      "price": 2750,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-13",
+      "price": 2590,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-10-14",
+      "price": 2490,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-10-15",
+      "price": 2280,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-10-16",
+      "price": 2340,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-10-17",
+      "price": 3170,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-18",
+      "price": 2970,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-10-19",
+      "price": 2570,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-10-20",
+      "price": 2450,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-10-21",
+      "price": 2750,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-10-22",
+      "price": 2550,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-23",
+      "price": 2500,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-24",
+      "price": 2880,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-10-25",
+      "price": 2490,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-10-26",
+      "price": 2980,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-10-27",
+      "price": 2600,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-28",
+      "price": 2340,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-10-29",
+      "price": 2360,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-10-30",
+      "price": 2480,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-10-31",
+      "price": 3170,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-01",
+      "price": 3180,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-11-02",
+      "price": 2760,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-11-03",
+      "price": 2460,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-11-04",
+      "price": 3030,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-11-05",
+      "price": 3090,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-06",
+      "price": 2820,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-11-07",
+      "price": 3390,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-08",
+      "price": 3190,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-09",
+      "price": 2960,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-11-10",
+      "price": 2980,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-11-11",
+      "price": 3160,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-11-12",
+      "price": 2940,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-11-13",
+      "price": 2700,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-11-14",
+      "price": 3230,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-11-15",
+      "price": 3170,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-16",
+      "price": 3590,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-17",
+      "price": 2740,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-18",
+      "price": 3170,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-11-19",
+      "price": 2740,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-11-20",
+      "price": 3060,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-21",
+      "price": 3170,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-11-22",
+      "price": 3590,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-11-23",
+      "price": 2810,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-24",
+      "price": 2880,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-25",
+      "price": 3300,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-26",
+      "price": 2990,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-27",
+      "price": 2690,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-11-28",
+      "price": 2630,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-11-29",
+      "price": 3160,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-11-30",
+      "price": 3180,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-12-01",
+      "price": 3270,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-12-02",
+      "price": 2940,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-12-03",
+      "price": 3050,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-12-04",
+      "price": 2880,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-05",
+      "price": 2660,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-12-06",
+      "price": 3260,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-07",
+      "price": 3720,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-08",
+      "price": 3070,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-09",
+      "price": 2480,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-12-10",
+      "price": 2730,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-11",
+      "price": 2900,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-12-12",
+      "price": 3230,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-12-13",
+      "price": 3080,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-14",
+      "price": 3560,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-15",
+      "price": 3040,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-12-16",
+      "price": 3020,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-12-17",
+      "price": 2430,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-18",
+      "price": 2650,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-19",
+      "price": 3090,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-20",
+      "price": 3500,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2025-12-21",
+      "price": 3250,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-12-22",
+      "price": 2730,
+      "airline": "ANA"
+    },
+    {
+      "date": "2025-12-23",
+      "price": 3130,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2025-12-24",
+      "price": 2690,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2025-12-25",
+      "price": 3110,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-26",
+      "price": 3180,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-27",
+      "price": 3010,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-28",
+      "price": 3140,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-29",
+      "price": 2530,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-30",
+      "price": 2750,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-31",
+      "price": 2690,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-01-01",
+      "price": 2650,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-01-02",
+      "price": 2990,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-01-03",
+      "price": 2720,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-01-04",
+      "price": 2460,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-01-05",
+      "price": 2280,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-01-06",
+      "price": 2210,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-07",
+      "price": 2100,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-01-08",
+      "price": 2610,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-01-09",
+      "price": 2930,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-01-10",
+      "price": 3020,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-01-11",
+      "price": 2440,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-01-12",
+      "price": 2100,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-01-13",
+      "price": 2760,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-14",
+      "price": 2700,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-01-15",
+      "price": 2370,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-16",
+      "price": 2900,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-01-17",
+      "price": 2540,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-18",
+      "price": 2810,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-01-19",
+      "price": 2720,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-01-20",
+      "price": 2330,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-21",
+      "price": 2630,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-22",
+      "price": 2370,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-23",
+      "price": 2970,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-01-24",
+      "price": 2630,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-01-25",
+      "price": 2900,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-26",
+      "price": 2180,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-01-27",
+      "price": 2720,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-01-28",
+      "price": 2490,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-01-29",
+      "price": 2240,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-01-30",
+      "price": 2900,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-01-31",
+      "price": 2750,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-02-01",
+      "price": 2640,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-02",
+      "price": 2370,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-03",
+      "price": 2680,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-04",
+      "price": 2500,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-02-05",
+      "price": 2230,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-02-06",
+      "price": 3140,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-02-07",
+      "price": 2690,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-08",
+      "price": 2600,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-02-09",
+      "price": 2430,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-10",
+      "price": 2330,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-02-11",
+      "price": 2540,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-02-12",
+      "price": 2320,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-02-13",
+      "price": 2670,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-02-14",
+      "price": 3230,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-02-15",
+      "price": 2920,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-02-16",
+      "price": 2440,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-02-17",
+      "price": 2830,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-18",
+      "price": 2560,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-19",
+      "price": 2540,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-20",
+      "price": 2500,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-21",
+      "price": 3310,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-02-22",
+      "price": 2640,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-23",
+      "price": 2310,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-24",
+      "price": 2730,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-02-25",
+      "price": 2670,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-02-26",
+      "price": 2740,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-02-27",
+      "price": 2870,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-02-28",
+      "price": 3060,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-03-01",
+      "price": 3580,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-03-02",
+      "price": 3080,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-03-03",
+      "price": 3670,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-03-04",
+      "price": 3300,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-03-05",
+      "price": 3100,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-03-06",
+      "price": 3430,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-03-07",
+      "price": 3520,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-03-08",
+      "price": 3210,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-03-09",
+      "price": 3160,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-03-10",
+      "price": 2950,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-11",
+      "price": 3200,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-03-12",
+      "price": 3040,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 3320,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-14",
+      "price": 3580,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-03-15",
+      "price": 3420,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-03-16",
+      "price": 3060,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-03-17",
+      "price": 3330,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-03-18",
+      "price": 3370,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-03-19",
+      "price": 3070,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 3900,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-03-21",
+      "price": 3980,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-03-22",
+      "price": 4220,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-23",
+      "price": 2920,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-03-24",
+      "price": 3170,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-25",
+      "price": 3310,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-03-26",
+      "price": 3290,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-27",
+      "price": 3530,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-28",
+      "price": 3630,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-29",
+      "price": 3530,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-03-30",
+      "price": 2880,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-03-31",
+      "price": 3110,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-04-01",
+      "price": 3070,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-04-02",
+      "price": 3100,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-03",
+      "price": 3560,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-04-04",
+      "price": 3680,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-04-05",
+      "price": 3810,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-06",
+      "price": 3000,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-04-07",
+      "price": 3210,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-04-08",
+      "price": 3370,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-09",
+      "price": 3730,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-04-10",
+      "price": 3520,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-04-11",
+      "price": 3980,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-04-12",
+      "price": 3310,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-13",
+      "price": 3180,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-04-14",
+      "price": 3510,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-15",
+      "price": 3660,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-16",
+      "price": 3580,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-17",
+      "price": 3880,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-04-18",
+      "price": 3640,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-04-19",
+      "price": 3930,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-20",
+      "price": 3330,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-04-21",
+      "price": 2990,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-04-22",
+      "price": 3870,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-04-23",
+      "price": 3150,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-04-24",
+      "price": 3580,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-25",
+      "price": 4020,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-04-26",
+      "price": 3720,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-27",
+      "price": 2970,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-04-28",
+      "price": 3310,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-04-29",
+      "price": 3420,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-04-30",
+      "price": 3030,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-05-01",
+      "price": 3010,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-05-02",
+      "price": 2990,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-05-03",
+      "price": 2710,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-05-04",
+      "price": 2620,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-05-05",
+      "price": 2610,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-05-06",
+      "price": 2110,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-07",
+      "price": 2410,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-08",
+      "price": 2500,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-09",
+      "price": 2620,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-10",
+      "price": 2790,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-11",
+      "price": 2510,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-12",
+      "price": 2650,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-05-13",
+      "price": 2060,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-05-14",
+      "price": 2730,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-15",
+      "price": 3110,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-05-16",
+      "price": 2790,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-17",
+      "price": 2740,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-05-18",
+      "price": 2710,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-19",
+      "price": 2440,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-20",
+      "price": 2370,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-21",
+      "price": 2870,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-22",
+      "price": 2850,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-05-23",
+      "price": 3060,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-05-24",
+      "price": 2230,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-05-25",
+      "price": 2760,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-05-26",
+      "price": 2470,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-05-27",
+      "price": 2200,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-05-28",
+      "price": 2270,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-29",
+      "price": 2500,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-05-30",
+      "price": 2990,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-05-31",
+      "price": 2860,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-06-01",
+      "price": 2560,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-02",
+      "price": 2460,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-06-03",
+      "price": 2560,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-04",
+      "price": 2340,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-05",
+      "price": 2640,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-06",
+      "price": 2720,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-07",
+      "price": 2870,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-06-08",
+      "price": 2470,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-06-09",
+      "price": 2560,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-10",
+      "price": 2470,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-11",
+      "price": 2550,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-06-12",
+      "price": 2680,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-06-13",
+      "price": 2250,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-06-14",
+      "price": 2800,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-06-15",
+      "price": 2340,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-16",
+      "price": 2850,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-06-17",
+      "price": 2460,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-06-18",
+      "price": 2460,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-19",
+      "price": 3000,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-06-20",
+      "price": 3060,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-06-21",
+      "price": 3120,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-22",
+      "price": 2350,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-06-23",
+      "price": 2760,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-06-24",
+      "price": 2640,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-06-25",
+      "price": 2760,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-26",
+      "price": 2810,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-27",
+      "price": 2970,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-28",
+      "price": 2430,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-06-29",
+      "price": 2720,
+      "airline": "ANA"
+    },
+    {
+      "date": "2026-06-30",
+      "price": 2280,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-07-01",
+      "price": 3030,
+      "airline": "Asiana"
+    },
+    {
+      "date": "2026-07-02",
+      "price": 2560,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-07-03",
+      "price": 2420,
+      "airline": "Korean Air"
+    },
+    {
+      "date": "2026-07-04",
+      "price": 2890,
+      "airline": "Japan Airlines"
+    },
+    {
+      "date": "2026-07-05",
+      "price": 2600,
+      "airline": "Korean Air"
+    }
+  ]
+}

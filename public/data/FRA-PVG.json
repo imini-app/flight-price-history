@@ -1,0 +1,3663 @@
+{
+  "route": "FRA-PVG",
+  "origin": "FRA",
+  "dest": "PVG",
+  "label": "Frankfurt (FRA) \u2192  Shanghai (PVG)",
+  "prices": [
+    {
+      "date": "2024-07-05",
+      "price": 10990,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-07-06",
+      "price": 10940,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-07",
+      "price": 8910,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-07-08",
+      "price": 7880,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-09",
+      "price": 9080,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-10",
+      "price": 7900,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-07-11",
+      "price": 9710,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-07-12",
+      "price": 9260,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-07-13",
+      "price": 9070,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-07-14",
+      "price": 9520,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-07-15",
+      "price": 8500,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-07-16",
+      "price": 8030,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-07-17",
+      "price": 8560,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-07-18",
+      "price": 9450,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-07-19",
+      "price": 10800,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-07-20",
+      "price": 10530,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-21",
+      "price": 9640,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-22",
+      "price": 7570,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-07-23",
+      "price": 8430,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-07-24",
+      "price": 9640,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-07-25",
+      "price": 9460,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-07-26",
+      "price": 11570,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-07-27",
+      "price": 8450,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-07-28",
+      "price": 10570,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-07-29",
+      "price": 8630,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-30",
+      "price": 9460,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-07-31",
+      "price": 10280,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 9640,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-02",
+      "price": 10390,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-08-03",
+      "price": 8170,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-08-04",
+      "price": 9090,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-05",
+      "price": 9470,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-06",
+      "price": 9000,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-07",
+      "price": 8950,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-08-08",
+      "price": 8560,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-08-09",
+      "price": 10290,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-08-10",
+      "price": 9430,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-11",
+      "price": 9310,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-12",
+      "price": 8510,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-08-13",
+      "price": 8880,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-14",
+      "price": 9400,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-08-15",
+      "price": 8460,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-08-16",
+      "price": 10030,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-08-17",
+      "price": 9250,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-08-18",
+      "price": 9120,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-19",
+      "price": 9430,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-20",
+      "price": 9030,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-08-21",
+      "price": 8800,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-08-22",
+      "price": 9400,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-08-23",
+      "price": 10900,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-24",
+      "price": 9820,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-25",
+      "price": 8760,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-08-26",
+      "price": 8700,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-27",
+      "price": 9090,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-08-28",
+      "price": 8140,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-08-29",
+      "price": 9000,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-08-30",
+      "price": 9920,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-08-31",
+      "price": 8930,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 9660,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-09-02",
+      "price": 8910,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-09-03",
+      "price": 7980,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-09-04",
+      "price": 9230,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-09-05",
+      "price": 8650,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-09-06",
+      "price": 9620,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-09-07",
+      "price": 9970,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-09-08",
+      "price": 10570,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-09-09",
+      "price": 8550,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-09-10",
+      "price": 9450,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-09-11",
+      "price": 8810,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-09-12",
+      "price": 7300,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-09-13",
+      "price": 10280,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-09-14",
+      "price": 10370,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-15",
+      "price": 10300,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-09-16",
+      "price": 9860,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-09-17",
+      "price": 9390,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-09-18",
+      "price": 7700,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-09-19",
+      "price": 9460,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-09-20",
+      "price": 9490,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-09-21",
+      "price": 10020,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-09-22",
+      "price": 10490,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-23",
+      "price": 8030,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-09-24",
+      "price": 8610,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-25",
+      "price": 8370,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-09-26",
+      "price": 9060,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-09-27",
+      "price": 9320,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-09-28",
+      "price": 9670,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-09-29",
+      "price": 9140,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-09-30",
+      "price": 9130,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 7980,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-10-02",
+      "price": 8650,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-03",
+      "price": 8540,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-04",
+      "price": 9690,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-10-05",
+      "price": 9730,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-10-06",
+      "price": 9970,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-07",
+      "price": 9520,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-10-08",
+      "price": 8200,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-10-09",
+      "price": 8970,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-10-10",
+      "price": 8660,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-10-11",
+      "price": 9400,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-10-12",
+      "price": 9020,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-10-13",
+      "price": 8730,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-10-14",
+      "price": 9840,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-15",
+      "price": 9470,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-16",
+      "price": 9880,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-17",
+      "price": 8770,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-10-18",
+      "price": 11010,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-10-19",
+      "price": 10030,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-10-20",
+      "price": 10980,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-10-21",
+      "price": 9590,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-10-22",
+      "price": 9100,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-10-23",
+      "price": 6970,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-10-24",
+      "price": 8770,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-10-25",
+      "price": 10700,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-26",
+      "price": 9570,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-10-27",
+      "price": 9560,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-10-28",
+      "price": 7770,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-10-29",
+      "price": 9270,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-10-30",
+      "price": 8540,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-31",
+      "price": 7990,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 12600,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-11-02",
+      "price": 9720,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-11-03",
+      "price": 10220,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-11-04",
+      "price": 9910,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-11-05",
+      "price": 9650,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-06",
+      "price": 9640,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-11-07",
+      "price": 9920,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-08",
+      "price": 12800,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-11-09",
+      "price": 11300,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-11-10",
+      "price": 13130,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-11-11",
+      "price": 9420,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-11-12",
+      "price": 10850,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-11-13",
+      "price": 9760,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-11-14",
+      "price": 11190,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-11-15",
+      "price": 9890,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-11-16",
+      "price": 9140,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-11-17",
+      "price": 11250,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-11-18",
+      "price": 10210,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-11-19",
+      "price": 11910,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-20",
+      "price": 11210,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-11-21",
+      "price": 11530,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-22",
+      "price": 11080,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-11-23",
+      "price": 11160,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-11-24",
+      "price": 11840,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-11-25",
+      "price": 9060,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-11-26",
+      "price": 12680,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-27",
+      "price": 10950,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-11-28",
+      "price": 9730,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-11-29",
+      "price": 11100,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-11-30",
+      "price": 10710,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 11810,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-12-02",
+      "price": 10380,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-12-03",
+      "price": 9940,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-12-04",
+      "price": 10180,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-12-05",
+      "price": 10760,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-12-06",
+      "price": 10810,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-07",
+      "price": 9520,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-08",
+      "price": 9610,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-12-09",
+      "price": 10310,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-10",
+      "price": 10270,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-12-11",
+      "price": 10130,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-12-12",
+      "price": 10240,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-12-13",
+      "price": 12020,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-14",
+      "price": 10940,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-12-15",
+      "price": 13420,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-12-16",
+      "price": 10960,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-12-17",
+      "price": 9860,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-18",
+      "price": 10390,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-12-19",
+      "price": 9670,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-12-20",
+      "price": 11480,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-12-21",
+      "price": 13560,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-12-22",
+      "price": 10710,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-12-23",
+      "price": 10550,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-12-24",
+      "price": 11210,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-12-25",
+      "price": 8760,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-12-26",
+      "price": 9140,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-12-27",
+      "price": 12730,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2024-12-28",
+      "price": 11880,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-12-29",
+      "price": 11270,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-12-30",
+      "price": 11260,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-12-31",
+      "price": 10470,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 12680,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-01-02",
+      "price": 13150,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-01-03",
+      "price": 14040,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-01-04",
+      "price": 12960,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-01-05",
+      "price": 15900,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-06",
+      "price": 11920,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-01-07",
+      "price": 12780,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-01-08",
+      "price": 12850,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-01-09",
+      "price": 10930,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-01-10",
+      "price": 11850,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-11",
+      "price": 15790,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-01-12",
+      "price": 13480,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-01-13",
+      "price": 13030,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-01-14",
+      "price": 10350,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-01-15",
+      "price": 11750,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-16",
+      "price": 15090,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-01-17",
+      "price": 14280,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-18",
+      "price": 15160,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-01-19",
+      "price": 13740,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-01-20",
+      "price": 12120,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-01-21",
+      "price": 11870,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-01-22",
+      "price": 12830,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-01-23",
+      "price": 12790,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-01-24",
+      "price": 13380,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-01-25",
+      "price": 14570,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-26",
+      "price": 13400,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-27",
+      "price": 13240,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-01-28",
+      "price": 11920,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-01-29",
+      "price": 11950,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-30",
+      "price": 10780,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-31",
+      "price": 11580,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 12980,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-02-02",
+      "price": 14110,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-02-03",
+      "price": 12290,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-04",
+      "price": 11670,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-02-05",
+      "price": 12570,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-02-06",
+      "price": 11900,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-02-07",
+      "price": 15310,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-08",
+      "price": 14230,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-02-09",
+      "price": 14180,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-02-10",
+      "price": 12820,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-02-11",
+      "price": 12190,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-02-12",
+      "price": 12910,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-02-13",
+      "price": 10680,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-02-14",
+      "price": 14680,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-02-15",
+      "price": 13030,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-02-16",
+      "price": 15020,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-02-17",
+      "price": 10470,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-02-18",
+      "price": 11510,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-02-19",
+      "price": 12650,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-02-20",
+      "price": 14930,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-21",
+      "price": 15310,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-02-22",
+      "price": 14620,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-02-23",
+      "price": 13770,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-02-24",
+      "price": 12190,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-02-25",
+      "price": 12370,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-02-26",
+      "price": 11640,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-02-27",
+      "price": 12080,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-02-28",
+      "price": 15820,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 10370,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-03-02",
+      "price": 9020,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-03",
+      "price": 8020,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-03-04",
+      "price": 8870,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-03-05",
+      "price": 9510,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-03-06",
+      "price": 8980,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-07",
+      "price": 10000,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-08",
+      "price": 9010,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-03-09",
+      "price": 10560,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-03-10",
+      "price": 8880,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-03-11",
+      "price": 8710,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-12",
+      "price": 8170,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-03-13",
+      "price": 8830,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-03-14",
+      "price": 9090,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-03-15",
+      "price": 9800,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-16",
+      "price": 8670,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-03-17",
+      "price": 8200,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-18",
+      "price": 9090,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-03-19",
+      "price": 8560,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-20",
+      "price": 9980,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-21",
+      "price": 10420,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-03-22",
+      "price": 11190,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-03-23",
+      "price": 9370,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-03-24",
+      "price": 10050,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-03-25",
+      "price": 9610,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-03-26",
+      "price": 7990,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-03-27",
+      "price": 9300,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-03-28",
+      "price": 9490,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-03-29",
+      "price": 10050,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-30",
+      "price": 9890,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-03-31",
+      "price": 9340,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 8490,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-04-02",
+      "price": 9880,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-03",
+      "price": 8970,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-04",
+      "price": 9180,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-04-05",
+      "price": 9220,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-04-06",
+      "price": 9210,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-04-07",
+      "price": 8690,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-04-08",
+      "price": 9410,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-04-09",
+      "price": 9760,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-04-10",
+      "price": 8460,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-04-11",
+      "price": 9910,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-04-12",
+      "price": 10130,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-04-13",
+      "price": 8700,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-14",
+      "price": 8460,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-04-15",
+      "price": 8690,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-04-16",
+      "price": 9100,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-17",
+      "price": 10180,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-18",
+      "price": 9470,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-04-19",
+      "price": 9650,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-20",
+      "price": 9800,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-04-21",
+      "price": 8770,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-04-22",
+      "price": 8840,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-04-23",
+      "price": 9610,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-04-24",
+      "price": 10060,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-04-25",
+      "price": 9220,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-04-26",
+      "price": 8570,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-27",
+      "price": 10190,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-04-28",
+      "price": 9490,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-04-29",
+      "price": 8680,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-04-30",
+      "price": 9200,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 8560,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-02",
+      "price": 10400,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-05-03",
+      "price": 10080,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-04",
+      "price": 8570,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-05-05",
+      "price": 7650,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-05-06",
+      "price": 8990,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-05-07",
+      "price": 8780,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-05-08",
+      "price": 9270,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-05-09",
+      "price": 8370,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-05-10",
+      "price": 10200,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-05-11",
+      "price": 9340,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-12",
+      "price": 8980,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-13",
+      "price": 8950,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-14",
+      "price": 7700,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-05-15",
+      "price": 10280,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-16",
+      "price": 9470,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-17",
+      "price": 10370,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-05-18",
+      "price": 9210,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-05-19",
+      "price": 8260,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-20",
+      "price": 9180,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-05-21",
+      "price": 8920,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-22",
+      "price": 9390,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-23",
+      "price": 10500,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-05-24",
+      "price": 9760,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-25",
+      "price": 11020,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-05-26",
+      "price": 10330,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-05-27",
+      "price": 8530,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-05-28",
+      "price": 9320,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-05-29",
+      "price": 9350,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-05-30",
+      "price": 9480,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-31",
+      "price": 10360,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-06-01",
+      "price": 9610,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-06-02",
+      "price": 9630,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-06-03",
+      "price": 8190,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-06-04",
+      "price": 8100,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-06-05",
+      "price": 8470,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-06-06",
+      "price": 10890,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-06-07",
+      "price": 9830,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-06-08",
+      "price": 11560,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-09",
+      "price": 9490,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-06-10",
+      "price": 7540,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-06-11",
+      "price": 10440,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-06-12",
+      "price": 7870,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-06-13",
+      "price": 10510,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-06-14",
+      "price": 9960,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-06-15",
+      "price": 10260,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-16",
+      "price": 8790,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-06-17",
+      "price": 9280,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-06-18",
+      "price": 9480,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-06-19",
+      "price": 9670,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-06-20",
+      "price": 10070,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-06-21",
+      "price": 10000,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-22",
+      "price": 10600,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-06-23",
+      "price": 9040,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-06-24",
+      "price": 9690,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-06-25",
+      "price": 8580,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-26",
+      "price": 8930,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-06-27",
+      "price": 8850,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-28",
+      "price": 9000,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-06-29",
+      "price": 10160,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-06-30",
+      "price": 8080,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-07-01",
+      "price": 9800,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-07-02",
+      "price": 8180,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-07-03",
+      "price": 10300,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-07-04",
+      "price": 9520,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-07-05",
+      "price": 11000,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-07-06",
+      "price": 9920,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-07-07",
+      "price": 8400,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-07-08",
+      "price": 9390,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-07-09",
+      "price": 8850,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-07-10",
+      "price": 9590,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-11",
+      "price": 10760,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-12",
+      "price": 10040,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-07-13",
+      "price": 9300,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-07-14",
+      "price": 9940,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-15",
+      "price": 9170,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-07-16",
+      "price": 8150,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-07-17",
+      "price": 9190,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-07-18",
+      "price": 9850,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-19",
+      "price": 9120,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-07-20",
+      "price": 9720,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-07-21",
+      "price": 9790,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-07-22",
+      "price": 8100,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-07-23",
+      "price": 9220,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-07-24",
+      "price": 9370,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-07-25",
+      "price": 9890,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-07-26",
+      "price": 10050,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-07-27",
+      "price": 9520,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-07-28",
+      "price": 8120,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-07-29",
+      "price": 9480,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-07-30",
+      "price": 8350,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-07-31",
+      "price": 9400,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-01",
+      "price": 9260,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-02",
+      "price": 8770,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-08-03",
+      "price": 9160,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-04",
+      "price": 9400,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-08-05",
+      "price": 8950,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-06",
+      "price": 8660,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-07",
+      "price": 8890,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-08",
+      "price": 10340,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-08-09",
+      "price": 10580,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-10",
+      "price": 11260,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-08-11",
+      "price": 9010,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-12",
+      "price": 9540,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-13",
+      "price": 8740,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-14",
+      "price": 8960,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-15",
+      "price": 9430,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-16",
+      "price": 10460,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-17",
+      "price": 9980,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-08-18",
+      "price": 9150,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-19",
+      "price": 9050,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-20",
+      "price": 7390,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-21",
+      "price": 9540,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-08-22",
+      "price": 9640,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-08-23",
+      "price": 9500,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-24",
+      "price": 9330,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-08-25",
+      "price": 9890,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-08-26",
+      "price": 10370,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-27",
+      "price": 9940,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-28",
+      "price": 9050,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-08-29",
+      "price": 8820,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-08-30",
+      "price": 9300,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-08-31",
+      "price": 9210,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-09-01",
+      "price": 7700,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-09-02",
+      "price": 8190,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-09-03",
+      "price": 8810,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-09-04",
+      "price": 10150,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-05",
+      "price": 11170,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-09-06",
+      "price": 10360,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-09-07",
+      "price": 8110,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-09-08",
+      "price": 9430,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-09-09",
+      "price": 9520,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-09-10",
+      "price": 9240,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-09-11",
+      "price": 9800,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-09-12",
+      "price": 9900,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-09-13",
+      "price": 8580,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-09-14",
+      "price": 10950,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-09-15",
+      "price": 9780,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-09-16",
+      "price": 9270,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-09-17",
+      "price": 8880,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-09-18",
+      "price": 8360,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-09-19",
+      "price": 10050,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-09-20",
+      "price": 10150,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-09-21",
+      "price": 8940,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-22",
+      "price": 9410,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-23",
+      "price": 9400,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-09-24",
+      "price": 8000,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-09-25",
+      "price": 8620,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-09-26",
+      "price": 8370,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-09-27",
+      "price": 9820,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-28",
+      "price": 9400,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-09-29",
+      "price": 9390,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-30",
+      "price": 8860,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-10-01",
+      "price": 9210,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-10-02",
+      "price": 9360,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-10-03",
+      "price": 11360,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-10-04",
+      "price": 9380,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-10-05",
+      "price": 9830,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-10-06",
+      "price": 8700,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-07",
+      "price": 9190,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-08",
+      "price": 9380,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-10-09",
+      "price": 9700,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-10-10",
+      "price": 9870,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-10-11",
+      "price": 10920,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-10-12",
+      "price": 10070,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-13",
+      "price": 10160,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-10-14",
+      "price": 8350,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-10-15",
+      "price": 7990,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-16",
+      "price": 6570,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-10-17",
+      "price": 10230,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-10-18",
+      "price": 10530,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-10-19",
+      "price": 9510,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-20",
+      "price": 8770,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-10-21",
+      "price": 8840,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-10-22",
+      "price": 9050,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-10-23",
+      "price": 8140,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-10-24",
+      "price": 9470,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-10-25",
+      "price": 9770,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-10-26",
+      "price": 9730,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-10-27",
+      "price": 8650,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-10-28",
+      "price": 8060,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-10-29",
+      "price": 8500,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-10-30",
+      "price": 8370,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-31",
+      "price": 11280,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-11-01",
+      "price": 10540,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-11-02",
+      "price": 12740,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-11-03",
+      "price": 9250,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-11-04",
+      "price": 9370,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-11-05",
+      "price": 10210,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-06",
+      "price": 10420,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-11-07",
+      "price": 11020,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-11-08",
+      "price": 10550,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-11-09",
+      "price": 12680,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-11-10",
+      "price": 10320,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-11-11",
+      "price": 9590,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-12",
+      "price": 10080,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-11-13",
+      "price": 10220,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-11-14",
+      "price": 10260,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-11-15",
+      "price": 13030,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-11-16",
+      "price": 11960,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-11-17",
+      "price": 11510,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-11-18",
+      "price": 10420,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-11-19",
+      "price": 10350,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-11-20",
+      "price": 9290,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-21",
+      "price": 10940,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-11-22",
+      "price": 11800,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-11-23",
+      "price": 10570,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-24",
+      "price": 9200,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-25",
+      "price": 10590,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-11-26",
+      "price": 10330,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-11-27",
+      "price": 9970,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-11-28",
+      "price": 11240,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-11-29",
+      "price": 9120,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-30",
+      "price": 12630,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-12-01",
+      "price": 10650,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-12-02",
+      "price": 11380,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-12-03",
+      "price": 11540,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-04",
+      "price": 10850,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-12-05",
+      "price": 11380,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-06",
+      "price": 10710,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-07",
+      "price": 9880,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-08",
+      "price": 9880,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-12-09",
+      "price": 8660,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-12-10",
+      "price": 10340,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-11",
+      "price": 10050,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-12",
+      "price": 11340,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-13",
+      "price": 10810,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-12-14",
+      "price": 12210,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-12-15",
+      "price": 11300,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-12-16",
+      "price": 11130,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-17",
+      "price": 9750,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-12-18",
+      "price": 11290,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-19",
+      "price": 9410,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-20",
+      "price": 10680,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-12-21",
+      "price": 11060,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-12-22",
+      "price": 10820,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-12-23",
+      "price": 11810,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-24",
+      "price": 10750,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-12-25",
+      "price": 9730,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-26",
+      "price": 11920,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-27",
+      "price": 12180,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-28",
+      "price": 11330,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2025-12-29",
+      "price": 9890,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-30",
+      "price": 12600,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-31",
+      "price": 11360,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-01-01",
+      "price": 11860,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-01-02",
+      "price": 11590,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-01-03",
+      "price": 14420,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-01-04",
+      "price": 14130,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-05",
+      "price": 12780,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-01-06",
+      "price": 13070,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-01-07",
+      "price": 11610,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-01-08",
+      "price": 14260,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-01-09",
+      "price": 13890,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-01-10",
+      "price": 16290,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-01-11",
+      "price": 12670,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-01-12",
+      "price": 13810,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-01-13",
+      "price": 13200,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-14",
+      "price": 12550,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-01-15",
+      "price": 12460,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-16",
+      "price": 11960,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-01-17",
+      "price": 12740,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-01-18",
+      "price": 14260,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-01-19",
+      "price": 11250,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-01-20",
+      "price": 13180,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-01-21",
+      "price": 12440,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-01-22",
+      "price": 13180,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-01-23",
+      "price": 14600,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-01-24",
+      "price": 13540,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-01-25",
+      "price": 13750,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-01-26",
+      "price": 11480,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-01-27",
+      "price": 12960,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-01-28",
+      "price": 12690,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-01-29",
+      "price": 15210,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-30",
+      "price": 17120,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-01-31",
+      "price": 14000,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-02-01",
+      "price": 12800,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-02-02",
+      "price": 12440,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-02-03",
+      "price": 13100,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-02-04",
+      "price": 11730,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-02-05",
+      "price": 12540,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-02-06",
+      "price": 14750,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-02-07",
+      "price": 13970,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-02-08",
+      "price": 14610,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-02-09",
+      "price": 11290,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-02-10",
+      "price": 11150,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-02-11",
+      "price": 13180,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-02-12",
+      "price": 12390,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-02-13",
+      "price": 11860,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-02-14",
+      "price": 14760,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-02-15",
+      "price": 13850,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-02-16",
+      "price": 15120,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-17",
+      "price": 12850,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-02-18",
+      "price": 12920,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-02-19",
+      "price": 12320,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-02-20",
+      "price": 12260,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-21",
+      "price": 14280,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-02-22",
+      "price": 14280,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-23",
+      "price": 12510,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-24",
+      "price": 12750,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-25",
+      "price": 11910,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-02-26",
+      "price": 11490,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-27",
+      "price": 13690,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-02-28",
+      "price": 13710,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-03-01",
+      "price": 9990,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-03-02",
+      "price": 9660,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-03-03",
+      "price": 8850,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-04",
+      "price": 9650,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-05",
+      "price": 9580,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-03-06",
+      "price": 9810,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-07",
+      "price": 10040,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-03-08",
+      "price": 9850,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-03-09",
+      "price": 9380,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-03-10",
+      "price": 9390,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-11",
+      "price": 9130,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-03-12",
+      "price": 8650,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 9800,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-03-14",
+      "price": 11170,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-03-15",
+      "price": 11060,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-03-16",
+      "price": 9530,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-03-17",
+      "price": 8390,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-18",
+      "price": 9180,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-03-19",
+      "price": 9660,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 10500,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-03-21",
+      "price": 10410,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-03-22",
+      "price": 10010,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-23",
+      "price": 8970,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-03-24",
+      "price": 9320,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-25",
+      "price": 8660,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-26",
+      "price": 9300,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-03-27",
+      "price": 11400,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-03-28",
+      "price": 10420,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-03-29",
+      "price": 11500,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-03-30",
+      "price": 9400,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-03-31",
+      "price": 9010,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-04-01",
+      "price": 6930,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-02",
+      "price": 8390,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-03",
+      "price": 9880,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-04-04",
+      "price": 9230,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-04-05",
+      "price": 8640,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-04-06",
+      "price": 8870,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-07",
+      "price": 8160,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-04-08",
+      "price": 8310,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-09",
+      "price": 9050,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-04-10",
+      "price": 9320,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-04-11",
+      "price": 11040,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-04-12",
+      "price": 10180,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-13",
+      "price": 8460,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-04-14",
+      "price": 8220,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-04-15",
+      "price": 10710,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-16",
+      "price": 8810,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-17",
+      "price": 9920,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-04-18",
+      "price": 9720,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-04-19",
+      "price": 9740,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-20",
+      "price": 8670,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-04-21",
+      "price": 7920,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-04-22",
+      "price": 9330,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-04-23",
+      "price": 8260,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-24",
+      "price": 8590,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-04-25",
+      "price": 9040,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-26",
+      "price": 9810,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-27",
+      "price": 10000,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-28",
+      "price": 9520,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-04-29",
+      "price": 9390,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-30",
+      "price": 9540,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-05-01",
+      "price": 9680,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-05-02",
+      "price": 10570,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-05-03",
+      "price": 9390,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-05-04",
+      "price": 9310,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-05-05",
+      "price": 9070,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-05-06",
+      "price": 10690,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-05-07",
+      "price": 8400,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-05-08",
+      "price": 9450,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-09",
+      "price": 8340,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-05-10",
+      "price": 9400,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-11",
+      "price": 10110,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-05-12",
+      "price": 9520,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-05-13",
+      "price": 8850,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-05-14",
+      "price": 7890,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-05-15",
+      "price": 10110,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-05-16",
+      "price": 9430,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-05-17",
+      "price": 8970,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-05-18",
+      "price": 9030,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-05-19",
+      "price": 8580,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-05-20",
+      "price": 8320,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-05-21",
+      "price": 9050,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-05-22",
+      "price": 9900,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-05-23",
+      "price": 9890,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-05-24",
+      "price": 10160,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-05-25",
+      "price": 8790,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-05-26",
+      "price": 8770,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-05-27",
+      "price": 9440,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-28",
+      "price": 10130,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-05-29",
+      "price": 9660,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-05-30",
+      "price": 9770,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-05-31",
+      "price": 9900,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-06-01",
+      "price": 9760,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-06-02",
+      "price": 8670,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-06-03",
+      "price": 9280,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-06-04",
+      "price": 9740,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-06-05",
+      "price": 8330,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-06",
+      "price": 9770,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-06-07",
+      "price": 8710,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-06-08",
+      "price": 9400,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-06-09",
+      "price": 8390,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-06-10",
+      "price": 9640,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-06-11",
+      "price": 8620,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-06-12",
+      "price": 10250,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-06-13",
+      "price": 7740,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-06-14",
+      "price": 9740,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-06-15",
+      "price": 10060,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-06-16",
+      "price": 8970,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-06-17",
+      "price": 8540,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-06-18",
+      "price": 9770,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-06-19",
+      "price": 9600,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-06-20",
+      "price": 9900,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-06-21",
+      "price": 9730,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-06-22",
+      "price": 9170,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-06-23",
+      "price": 10280,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-06-24",
+      "price": 7420,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-06-25",
+      "price": 7920,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-06-26",
+      "price": 9270,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-06-27",
+      "price": 10400,
+      "airline": "Lufthansa"
+    },
+    {
+      "date": "2026-06-28",
+      "price": 11150,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-29",
+      "price": 9060,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-06-30",
+      "price": 8830,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-07-01",
+      "price": 8970,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-07-02",
+      "price": 9110,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-07-03",
+      "price": 9680,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-07-04",
+      "price": 9670,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-07-05",
+      "price": 9820,
+      "airline": "China Eastern"
+    }
+  ]
+}

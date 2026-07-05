@@ -1,0 +1,3663 @@
+{
+  "route": "YYZ-PVG",
+  "origin": "YYZ",
+  "dest": "PVG",
+  "label": "Toronto (YYZ) \u2192  Shanghai (PVG)",
+  "prices": [
+    {
+      "date": "2024-07-05",
+      "price": 16300,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-06",
+      "price": 16270,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-07-07",
+      "price": 16860,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-07-08",
+      "price": 16930,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-07-09",
+      "price": 15390,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-07-10",
+      "price": 14670,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-07-11",
+      "price": 15820,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-07-12",
+      "price": 16670,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-07-13",
+      "price": 17360,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-07-14",
+      "price": 16640,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-07-15",
+      "price": 14180,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-07-16",
+      "price": 14760,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-17",
+      "price": 15040,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-07-18",
+      "price": 14870,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-07-19",
+      "price": 16110,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-07-20",
+      "price": 15350,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-07-21",
+      "price": 17650,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-07-22",
+      "price": 14710,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-07-23",
+      "price": 16910,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-07-24",
+      "price": 16320,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-25",
+      "price": 15680,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-07-26",
+      "price": 14500,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-07-27",
+      "price": 17760,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-07-28",
+      "price": 16280,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-29",
+      "price": 15790,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-07-30",
+      "price": 13530,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-31",
+      "price": 13340,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 14120,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-02",
+      "price": 16650,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-08-03",
+      "price": 17580,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-08-04",
+      "price": 16560,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-05",
+      "price": 15550,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-08-06",
+      "price": 14240,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-07",
+      "price": 14130,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-08",
+      "price": 15230,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-09",
+      "price": 17500,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-10",
+      "price": 18180,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-08-11",
+      "price": 17310,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-12",
+      "price": 15040,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-13",
+      "price": 16330,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-14",
+      "price": 14670,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-15",
+      "price": 14210,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-08-16",
+      "price": 16550,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-08-17",
+      "price": 16050,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-08-18",
+      "price": 16950,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-08-19",
+      "price": 13850,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-08-20",
+      "price": 16320,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-21",
+      "price": 14190,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-22",
+      "price": 15320,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-23",
+      "price": 18000,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-08-24",
+      "price": 16950,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-08-25",
+      "price": 17060,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-08-26",
+      "price": 13060,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-08-27",
+      "price": 14510,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-08-28",
+      "price": 14310,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-08-29",
+      "price": 15490,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-08-30",
+      "price": 14280,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-08-31",
+      "price": 16590,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 13550,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-09-02",
+      "price": 12460,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-09-03",
+      "price": 11220,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-09-04",
+      "price": 11460,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-09-05",
+      "price": 9480,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-09-06",
+      "price": 12680,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-09-07",
+      "price": 12970,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-09-08",
+      "price": 12720,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-09-09",
+      "price": 11850,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-09-10",
+      "price": 13360,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-11",
+      "price": 11030,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-09-12",
+      "price": 12420,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-09-13",
+      "price": 13090,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-09-14",
+      "price": 14430,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-09-15",
+      "price": 15020,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-16",
+      "price": 10980,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-09-17",
+      "price": 11150,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-09-18",
+      "price": 10990,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-19",
+      "price": 12090,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-09-20",
+      "price": 11880,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-09-21",
+      "price": 14440,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-09-22",
+      "price": 12500,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-09-23",
+      "price": 12690,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-09-24",
+      "price": 12580,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-09-25",
+      "price": 11880,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-09-26",
+      "price": 12310,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-09-27",
+      "price": 14240,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-09-28",
+      "price": 13820,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-09-29",
+      "price": 12660,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-09-30",
+      "price": 11890,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 12540,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-10-02",
+      "price": 11810,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-10-03",
+      "price": 10050,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-10-04",
+      "price": 11500,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-10-05",
+      "price": 13110,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-06",
+      "price": 12490,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-10-07",
+      "price": 13390,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-10-08",
+      "price": 11950,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-10-09",
+      "price": 11300,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-10-10",
+      "price": 12210,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-11",
+      "price": 14530,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-10-12",
+      "price": 13370,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-10-13",
+      "price": 14850,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-10-14",
+      "price": 12060,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-10-15",
+      "price": 12220,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-16",
+      "price": 12090,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-10-17",
+      "price": 11220,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-10-18",
+      "price": 13120,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-10-19",
+      "price": 11550,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-10-20",
+      "price": 12780,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-10-21",
+      "price": 10340,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-10-22",
+      "price": 12280,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-10-23",
+      "price": 12150,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-10-24",
+      "price": 12400,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-25",
+      "price": 12140,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-10-26",
+      "price": 13740,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-10-27",
+      "price": 11790,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-10-28",
+      "price": 9550,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-10-29",
+      "price": 11280,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-10-30",
+      "price": 12500,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-10-31",
+      "price": 12000,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 15960,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-11-02",
+      "price": 14310,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-11-03",
+      "price": 15640,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-11-04",
+      "price": 14850,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-11-05",
+      "price": 13240,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-11-06",
+      "price": 13460,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-11-07",
+      "price": 13680,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-11-08",
+      "price": 15710,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-11-09",
+      "price": 15220,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-11-10",
+      "price": 15280,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-11-11",
+      "price": 14920,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-11-12",
+      "price": 15370,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-11-13",
+      "price": 12000,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-11-14",
+      "price": 14890,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-11-15",
+      "price": 15190,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-11-16",
+      "price": 13950,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-11-17",
+      "price": 15530,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-11-18",
+      "price": 12140,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-11-19",
+      "price": 13190,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-11-20",
+      "price": 12950,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-11-21",
+      "price": 16580,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-11-22",
+      "price": 13230,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-11-23",
+      "price": 14650,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-11-24",
+      "price": 13940,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-11-25",
+      "price": 13140,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-11-26",
+      "price": 15340,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-11-27",
+      "price": 16140,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-11-28",
+      "price": 14380,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-11-29",
+      "price": 16680,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2024-11-30",
+      "price": 15230,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 15790,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-12-02",
+      "price": 13520,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-12-03",
+      "price": 13650,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-12-04",
+      "price": 13010,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-05",
+      "price": 12600,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-06",
+      "price": 15720,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-12-07",
+      "price": 17020,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-08",
+      "price": 13740,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-09",
+      "price": 14800,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2024-12-10",
+      "price": 13050,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-12-11",
+      "price": 15480,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-12-12",
+      "price": 9960,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-12-13",
+      "price": 16310,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-12-14",
+      "price": 13770,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-12-15",
+      "price": 14840,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-16",
+      "price": 15460,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-17",
+      "price": 12250,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-18",
+      "price": 14940,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-12-19",
+      "price": 15540,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-20",
+      "price": 12440,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-12-21",
+      "price": 12860,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-12-22",
+      "price": 17410,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-23",
+      "price": 13890,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2024-12-24",
+      "price": 15600,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-25",
+      "price": 15170,
+      "airline": "Air China"
+    },
+    {
+      "date": "2024-12-26",
+      "price": 15190,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-12-27",
+      "price": 13900,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-28",
+      "price": 15010,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-29",
+      "price": 15990,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2024-12-30",
+      "price": 12970,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2024-12-31",
+      "price": 11800,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 16770,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-01-02",
+      "price": 19730,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-01-03",
+      "price": 16630,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-01-04",
+      "price": 16400,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-01-05",
+      "price": 18080,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-06",
+      "price": 17410,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-01-07",
+      "price": 16700,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-01-08",
+      "price": 15100,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-01-09",
+      "price": 17330,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-01-10",
+      "price": 18510,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-01-11",
+      "price": 15780,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-01-12",
+      "price": 17680,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-01-13",
+      "price": 17210,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-14",
+      "price": 17360,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-15",
+      "price": 18730,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-01-16",
+      "price": 15370,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-01-17",
+      "price": 19290,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-01-18",
+      "price": 17870,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-01-19",
+      "price": 20530,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-01-20",
+      "price": 18200,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-01-21",
+      "price": 19000,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-01-22",
+      "price": 16430,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-01-23",
+      "price": 18050,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-01-24",
+      "price": 20740,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-01-25",
+      "price": 20860,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-26",
+      "price": 18850,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-01-27",
+      "price": 18990,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-01-28",
+      "price": 15780,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-01-29",
+      "price": 17190,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-01-30",
+      "price": 15810,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-01-31",
+      "price": 20810,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 20360,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-02-02",
+      "price": 18940,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-02-03",
+      "price": 19230,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-04",
+      "price": 15980,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-02-05",
+      "price": 19050,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-02-06",
+      "price": 17670,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-07",
+      "price": 18620,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-08",
+      "price": 21020,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-09",
+      "price": 15570,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-10",
+      "price": 15940,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-02-11",
+      "price": 15740,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-02-12",
+      "price": 16640,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-13",
+      "price": 17070,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-02-14",
+      "price": 14770,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-02-15",
+      "price": 16420,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-02-16",
+      "price": 17360,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-02-17",
+      "price": 16090,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-18",
+      "price": 13230,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-02-19",
+      "price": 18300,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-02-20",
+      "price": 17500,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-02-21",
+      "price": 17910,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-02-22",
+      "price": 16830,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-02-23",
+      "price": 19180,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-02-24",
+      "price": 15560,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-02-25",
+      "price": 13850,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-02-26",
+      "price": 17260,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-02-27",
+      "price": 18140,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-28",
+      "price": 16910,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 12110,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-02",
+      "price": 14210,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-03",
+      "price": 11320,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-03-04",
+      "price": 11310,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-03-05",
+      "price": 13310,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-03-06",
+      "price": 12500,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-03-07",
+      "price": 14650,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-08",
+      "price": 13190,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-03-09",
+      "price": 12540,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-10",
+      "price": 10480,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-11",
+      "price": 13010,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-12",
+      "price": 12410,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-03-13",
+      "price": 13630,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-14",
+      "price": 12690,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-15",
+      "price": 14220,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-03-16",
+      "price": 11320,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-03-17",
+      "price": 11880,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-18",
+      "price": 12190,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-03-19",
+      "price": 12350,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-20",
+      "price": 11410,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-03-21",
+      "price": 12490,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-03-22",
+      "price": 13280,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-03-23",
+      "price": 14100,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-03-24",
+      "price": 12170,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-03-25",
+      "price": 12230,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-03-26",
+      "price": 12210,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-03-27",
+      "price": 11690,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-28",
+      "price": 11700,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-03-29",
+      "price": 12430,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-03-30",
+      "price": 12710,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-03-31",
+      "price": 12310,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 13480,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-04-02",
+      "price": 10810,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-04-03",
+      "price": 11460,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-04-04",
+      "price": 13490,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-04-05",
+      "price": 11880,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-04-06",
+      "price": 13490,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-04-07",
+      "price": 10330,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-04-08",
+      "price": 12460,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-04-09",
+      "price": 13280,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-04-10",
+      "price": 11900,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-04-11",
+      "price": 11920,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-04-12",
+      "price": 12100,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-04-13",
+      "price": 13840,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-04-14",
+      "price": 10940,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-04-15",
+      "price": 12670,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-04-16",
+      "price": 11190,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-04-17",
+      "price": 12410,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-04-18",
+      "price": 12480,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-04-19",
+      "price": 12420,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-04-20",
+      "price": 13270,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-04-21",
+      "price": 11840,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-22",
+      "price": 11310,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-23",
+      "price": 12300,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-04-24",
+      "price": 11750,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-04-25",
+      "price": 12740,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-04-26",
+      "price": 13600,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-04-27",
+      "price": 12380,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-04-28",
+      "price": 12430,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-04-29",
+      "price": 13670,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-04-30",
+      "price": 12690,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 10720,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-02",
+      "price": 12370,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-03",
+      "price": 12130,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-04",
+      "price": 12640,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-05",
+      "price": 12040,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-06",
+      "price": 10110,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-05-07",
+      "price": 10480,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-08",
+      "price": 11620,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-05-09",
+      "price": 14170,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-10",
+      "price": 12460,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-05-11",
+      "price": 12150,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-05-12",
+      "price": 12080,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-05-13",
+      "price": 12450,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-14",
+      "price": 10520,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-05-15",
+      "price": 14360,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-05-16",
+      "price": 11760,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-05-17",
+      "price": 14370,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-05-18",
+      "price": 12410,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-05-19",
+      "price": 12870,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-20",
+      "price": 12510,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-05-21",
+      "price": 12300,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-22",
+      "price": 12670,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-05-23",
+      "price": 12280,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-05-24",
+      "price": 13460,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-25",
+      "price": 13220,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-26",
+      "price": 10180,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-05-27",
+      "price": 12160,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-05-28",
+      "price": 12090,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-05-29",
+      "price": 12890,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-05-30",
+      "price": 13190,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-05-31",
+      "price": 13490,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-06-01",
+      "price": 11690,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-06-02",
+      "price": 12600,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-06-03",
+      "price": 11800,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-06-04",
+      "price": 12280,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-06-05",
+      "price": 12400,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-06-06",
+      "price": 12510,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-06-07",
+      "price": 12910,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-08",
+      "price": 13260,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-06-09",
+      "price": 11420,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-06-10",
+      "price": 11670,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-06-11",
+      "price": 10360,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-12",
+      "price": 12170,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-13",
+      "price": 13350,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-06-14",
+      "price": 12020,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-06-15",
+      "price": 10810,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-06-16",
+      "price": 12410,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-06-17",
+      "price": 13210,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-06-18",
+      "price": 12060,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-19",
+      "price": 13480,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-06-20",
+      "price": 12430,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-06-21",
+      "price": 11440,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-06-22",
+      "price": 13390,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-06-23",
+      "price": 11130,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-06-24",
+      "price": 11210,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-25",
+      "price": 12820,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-06-26",
+      "price": 13040,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-06-27",
+      "price": 11600,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-06-28",
+      "price": 14650,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-06-29",
+      "price": 12830,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-06-30",
+      "price": 11720,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-07-01",
+      "price": 13760,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-07-02",
+      "price": 15920,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-07-03",
+      "price": 14790,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-07-04",
+      "price": 16720,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-07-05",
+      "price": 15040,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-07-06",
+      "price": 15520,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-07-07",
+      "price": 14410,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-07-08",
+      "price": 15880,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-07-09",
+      "price": 14610,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-07-10",
+      "price": 15000,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-07-11",
+      "price": 14780,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-07-12",
+      "price": 15700,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-13",
+      "price": 17810,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-07-14",
+      "price": 13870,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-15",
+      "price": 15080,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-16",
+      "price": 14700,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-17",
+      "price": 16580,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-07-18",
+      "price": 19700,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-07-19",
+      "price": 16700,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-07-20",
+      "price": 16210,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-07-21",
+      "price": 13630,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-07-22",
+      "price": 14360,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-07-23",
+      "price": 13380,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-07-24",
+      "price": 15140,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-07-25",
+      "price": 15930,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-07-26",
+      "price": 16090,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-07-27",
+      "price": 15440,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-28",
+      "price": 13540,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-07-29",
+      "price": 15240,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-07-30",
+      "price": 13930,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-07-31",
+      "price": 14650,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-01",
+      "price": 16160,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-08-02",
+      "price": 17390,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-03",
+      "price": 15620,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-08-04",
+      "price": 16810,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-08-05",
+      "price": 15330,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-08-06",
+      "price": 15760,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-07",
+      "price": 14470,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-08-08",
+      "price": 12920,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-08-09",
+      "price": 16370,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-10",
+      "price": 17090,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-11",
+      "price": 15100,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-08-12",
+      "price": 15740,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-08-13",
+      "price": 14060,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-08-14",
+      "price": 14790,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-08-15",
+      "price": 15670,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-08-16",
+      "price": 19550,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-08-17",
+      "price": 16510,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-08-18",
+      "price": 14440,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-08-19",
+      "price": 14700,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-20",
+      "price": 16330,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-21",
+      "price": 15890,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-08-22",
+      "price": 16280,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-08-23",
+      "price": 16860,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-08-24",
+      "price": 16810,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-08-25",
+      "price": 13380,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-26",
+      "price": 14140,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-27",
+      "price": 16090,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-08-28",
+      "price": 12280,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-08-29",
+      "price": 18150,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-08-30",
+      "price": 18020,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-08-31",
+      "price": 16730,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-09-01",
+      "price": 11330,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-09-02",
+      "price": 11010,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-09-03",
+      "price": 12310,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-09-04",
+      "price": 12810,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-09-05",
+      "price": 13140,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-09-06",
+      "price": 11860,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-09-07",
+      "price": 12090,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-09-08",
+      "price": 11460,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-09-09",
+      "price": 11460,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-09-10",
+      "price": 12070,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-09-11",
+      "price": 13210,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-09-12",
+      "price": 11840,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-09-13",
+      "price": 14070,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-14",
+      "price": 14050,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-15",
+      "price": 12160,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-09-16",
+      "price": 12230,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-09-17",
+      "price": 11710,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-18",
+      "price": 12310,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-09-19",
+      "price": 11760,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-09-20",
+      "price": 14210,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-09-21",
+      "price": 12750,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-09-22",
+      "price": 10740,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-09-23",
+      "price": 10320,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-09-24",
+      "price": 12520,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-25",
+      "price": 12250,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-09-26",
+      "price": 13190,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-27",
+      "price": 11820,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-09-28",
+      "price": 14340,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-09-29",
+      "price": 13030,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-09-30",
+      "price": 13050,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-10-01",
+      "price": 11600,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-10-02",
+      "price": 12230,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-10-03",
+      "price": 13340,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-10-04",
+      "price": 12840,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-10-05",
+      "price": 13920,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-10-06",
+      "price": 13770,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-10-07",
+      "price": 11560,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-10-08",
+      "price": 15600,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-10-09",
+      "price": 10840,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-10-10",
+      "price": 13160,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-10-11",
+      "price": 13500,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-10-12",
+      "price": 11690,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-13",
+      "price": 12250,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-10-14",
+      "price": 13020,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-10-15",
+      "price": 11980,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-10-16",
+      "price": 13060,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-10-17",
+      "price": 12970,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-18",
+      "price": 12980,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-10-19",
+      "price": 13640,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-20",
+      "price": 11040,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-10-21",
+      "price": 12590,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-10-22",
+      "price": 12470,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-10-23",
+      "price": 10880,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-10-24",
+      "price": 12830,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-10-25",
+      "price": 14050,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-10-26",
+      "price": 14500,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-10-27",
+      "price": 10650,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-10-28",
+      "price": 12720,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-10-29",
+      "price": 11210,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-10-30",
+      "price": 10660,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-10-31",
+      "price": 13020,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-11-01",
+      "price": 14810,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-02",
+      "price": 15320,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-11-03",
+      "price": 14410,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-11-04",
+      "price": 14460,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-11-05",
+      "price": 15940,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-11-06",
+      "price": 15850,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-11-07",
+      "price": 15220,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-11-08",
+      "price": 15890,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-11-09",
+      "price": 14670,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-11-10",
+      "price": 13640,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-11-11",
+      "price": 13260,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-11-12",
+      "price": 13930,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-11-13",
+      "price": 12040,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-11-14",
+      "price": 15190,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-11-15",
+      "price": 14840,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-11-16",
+      "price": 17450,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-11-17",
+      "price": 13200,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-11-18",
+      "price": 13960,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-11-19",
+      "price": 11530,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-11-20",
+      "price": 13680,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-11-21",
+      "price": 14820,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-11-22",
+      "price": 17290,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-23",
+      "price": 16500,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-11-24",
+      "price": 13270,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-11-25",
+      "price": 13600,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-11-26",
+      "price": 14710,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-11-27",
+      "price": 15080,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-11-28",
+      "price": 15170,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-11-29",
+      "price": 14090,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-11-30",
+      "price": 14910,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-01",
+      "price": 12620,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-02",
+      "price": 13470,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-03",
+      "price": 14440,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-12-04",
+      "price": 15380,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-12-05",
+      "price": 15390,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-12-06",
+      "price": 17260,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-07",
+      "price": 15110,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-08",
+      "price": 12070,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-12-09",
+      "price": 12570,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-10",
+      "price": 14860,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-12-11",
+      "price": 15080,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-12-12",
+      "price": 15000,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-12-13",
+      "price": 13550,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-14",
+      "price": 15150,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-12-15",
+      "price": 14630,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-12-16",
+      "price": 12950,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2025-12-17",
+      "price": 14410,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-18",
+      "price": 13850,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-12-19",
+      "price": 15650,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-20",
+      "price": 15090,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-21",
+      "price": 14190,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-12-22",
+      "price": 15240,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-12-23",
+      "price": 15080,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-24",
+      "price": 12060,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-12-25",
+      "price": 13090,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2025-12-26",
+      "price": 15900,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2025-12-27",
+      "price": 13660,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2025-12-28",
+      "price": 15290,
+      "airline": "Air China"
+    },
+    {
+      "date": "2025-12-29",
+      "price": 13960,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-30",
+      "price": 15460,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2025-12-31",
+      "price": 13770,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-01-01",
+      "price": 15360,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-01-02",
+      "price": 16470,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-01-03",
+      "price": 16240,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-01-04",
+      "price": 17370,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-01-05",
+      "price": 14070,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-06",
+      "price": 17120,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-07",
+      "price": 15720,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-01-08",
+      "price": 17800,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-01-09",
+      "price": 19920,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-01-10",
+      "price": 18710,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-01-11",
+      "price": 17600,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-01-12",
+      "price": 18080,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-01-13",
+      "price": 15440,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-01-14",
+      "price": 17430,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-01-15",
+      "price": 16410,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-01-16",
+      "price": 18450,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-01-17",
+      "price": 19610,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-01-18",
+      "price": 17290,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-01-19",
+      "price": 17030,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-01-20",
+      "price": 19690,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-01-21",
+      "price": 18240,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-22",
+      "price": 15890,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-23",
+      "price": 17280,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-01-24",
+      "price": 19030,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-01-25",
+      "price": 17660,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-01-26",
+      "price": 15810,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-01-27",
+      "price": 16900,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-28",
+      "price": 13040,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-29",
+      "price": 14890,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-01-30",
+      "price": 20620,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-31",
+      "price": 18180,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-02-01",
+      "price": 16420,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-02-02",
+      "price": 15970,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-02-03",
+      "price": 18680,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-02-04",
+      "price": 15610,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-05",
+      "price": 16950,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-02-06",
+      "price": 17420,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-07",
+      "price": 18660,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-08",
+      "price": 19420,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-02-09",
+      "price": 16880,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-02-10",
+      "price": 14500,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-02-11",
+      "price": 17190,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-02-12",
+      "price": 17260,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-02-13",
+      "price": 21000,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-02-14",
+      "price": 19110,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-02-15",
+      "price": 17960,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-16",
+      "price": 17330,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-17",
+      "price": 16780,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-02-18",
+      "price": 15960,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-02-19",
+      "price": 13320,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-02-20",
+      "price": 17510,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-02-21",
+      "price": 20860,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-22",
+      "price": 17030,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-02-23",
+      "price": 20100,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-24",
+      "price": 15590,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-02-25",
+      "price": 18460,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-02-26",
+      "price": 15030,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-02-27",
+      "price": 20920,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-02-28",
+      "price": 21460,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-03-01",
+      "price": 12720,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-03-02",
+      "price": 9350,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-03-03",
+      "price": 11600,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-03-04",
+      "price": 11850,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-03-05",
+      "price": 11950,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-06",
+      "price": 13740,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-03-07",
+      "price": 13190,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-03-08",
+      "price": 12370,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-03-09",
+      "price": 11400,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-03-10",
+      "price": 11290,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-03-11",
+      "price": 10680,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-03-12",
+      "price": 12230,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 13840,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-03-14",
+      "price": 12820,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-03-15",
+      "price": 14230,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-16",
+      "price": 10110,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-03-17",
+      "price": 11550,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-03-18",
+      "price": 12280,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-19",
+      "price": 12470,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 13180,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-03-21",
+      "price": 13960,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-03-22",
+      "price": 14070,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-03-23",
+      "price": 11600,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-03-24",
+      "price": 10870,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-03-25",
+      "price": 11700,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-03-26",
+      "price": 10020,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-03-27",
+      "price": 13930,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-28",
+      "price": 11930,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-03-29",
+      "price": 12920,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-03-30",
+      "price": 11370,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-03-31",
+      "price": 12270,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-04-01",
+      "price": 11650,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-02",
+      "price": 9450,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-03",
+      "price": 12390,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-04-04",
+      "price": 12650,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-04-05",
+      "price": 13600,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-06",
+      "price": 12180,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-04-07",
+      "price": 11620,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-04-08",
+      "price": 10360,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-04-09",
+      "price": 10030,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-10",
+      "price": 11610,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-11",
+      "price": 15930,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-04-12",
+      "price": 13750,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-04-13",
+      "price": 13730,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-04-14",
+      "price": 10490,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-04-15",
+      "price": 11090,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-16",
+      "price": 12250,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-04-17",
+      "price": 11350,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-04-18",
+      "price": 12680,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-04-19",
+      "price": 16190,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-04-20",
+      "price": 11990,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-04-21",
+      "price": 12590,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-22",
+      "price": 12160,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-23",
+      "price": 12020,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-24",
+      "price": 13270,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-04-25",
+      "price": 14130,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-26",
+      "price": 14840,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-04-27",
+      "price": 12510,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-04-28",
+      "price": 11970,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-04-29",
+      "price": 10900,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-30",
+      "price": 11540,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-05-01",
+      "price": 13150,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-05-02",
+      "price": 13490,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-05-03",
+      "price": 13090,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-05-04",
+      "price": 11550,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-05-05",
+      "price": 11310,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-05-06",
+      "price": 13010,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-05-07",
+      "price": 12400,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-05-08",
+      "price": 12720,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-05-09",
+      "price": 12070,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-05-10",
+      "price": 13950,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-05-11",
+      "price": 11490,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-05-12",
+      "price": 12940,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-05-13",
+      "price": 12950,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-05-14",
+      "price": 11770,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-05-15",
+      "price": 12190,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-05-16",
+      "price": 12850,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-05-17",
+      "price": 14400,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-05-18",
+      "price": 12120,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-05-19",
+      "price": 11540,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-05-20",
+      "price": 12870,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-05-21",
+      "price": 11150,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-05-22",
+      "price": 11190,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-05-23",
+      "price": 14140,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-24",
+      "price": 13690,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-05-25",
+      "price": 11140,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-05-26",
+      "price": 11680,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-27",
+      "price": 12760,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-28",
+      "price": 13400,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-05-29",
+      "price": 12730,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-05-30",
+      "price": 13570,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-05-31",
+      "price": 13440,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-06-01",
+      "price": 11960,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-06-02",
+      "price": 11070,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-06-03",
+      "price": 14230,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-06-04",
+      "price": 12880,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-05",
+      "price": 12670,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-06-06",
+      "price": 12240,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-06-07",
+      "price": 14230,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-06-08",
+      "price": 11630,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-06-09",
+      "price": 13270,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-10",
+      "price": 11740,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-06-11",
+      "price": 11410,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-06-12",
+      "price": 12850,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-06-13",
+      "price": 13280,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-06-14",
+      "price": 13690,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-06-15",
+      "price": 10900,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-06-16",
+      "price": 13200,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-06-17",
+      "price": 12650,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-06-18",
+      "price": 10260,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-06-19",
+      "price": 12050,
+      "airline": "Air Canada"
+    },
+    {
+      "date": "2026-06-20",
+      "price": 12100,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-06-21",
+      "price": 12000,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-06-22",
+      "price": 11110,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-23",
+      "price": 12750,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-06-24",
+      "price": 12130,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-25",
+      "price": 12780,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-06-26",
+      "price": 12730,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-06-27",
+      "price": 14160,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-06-28",
+      "price": 14410,
+      "airline": "China Southern"
+    },
+    {
+      "date": "2026-06-29",
+      "price": 11850,
+      "airline": "Air China"
+    },
+    {
+      "date": "2026-06-30",
+      "price": 9430,
+      "airline": "China Eastern"
+    },
+    {
+      "date": "2026-07-01",
+      "price": 13850,
+      "airline": "WestJet"
+    },
+    {
+      "date": "2026-07-02",
+      "price": 14770,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-07-03",
+      "price": 17120,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-07-04",
+      "price": 17450,
+      "airline": "Hainan Airlines"
+    },
+    {
+      "date": "2026-07-05",
+      "price": 18150,
+      "airline": "Air China"
+    }
+  ]
+}

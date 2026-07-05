@@ -1,0 +1,3663 @@
+{
+  "route": "LHR-SIN",
+  "origin": "LHR",
+  "dest": "SIN",
+  "label": "London (LHR) \u2192  Singapore (SIN)",
+  "prices": [
+    {
+      "date": "2024-07-05",
+      "price": 12070,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-07-06",
+      "price": 11990,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-07-07",
+      "price": 12020,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-07-08",
+      "price": 9550,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-07-09",
+      "price": 11240,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-07-10",
+      "price": 11820,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-07-11",
+      "price": 10050,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-07-12",
+      "price": 11460,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-07-13",
+      "price": 11660,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-07-14",
+      "price": 12320,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-07-15",
+      "price": 13320,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-07-16",
+      "price": 9680,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-07-17",
+      "price": 10350,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-07-18",
+      "price": 10690,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-07-19",
+      "price": 11830,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-07-20",
+      "price": 12790,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-07-21",
+      "price": 11990,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-07-22",
+      "price": 11260,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-07-23",
+      "price": 11910,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-07-24",
+      "price": 11360,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-07-25",
+      "price": 10010,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-07-26",
+      "price": 11400,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-07-27",
+      "price": 12310,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-07-28",
+      "price": 11940,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-07-29",
+      "price": 12550,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-07-30",
+      "price": 11570,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-07-31",
+      "price": 10670,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 10640,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-02",
+      "price": 12720,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-03",
+      "price": 11920,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-04",
+      "price": 13120,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-08-05",
+      "price": 11650,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-06",
+      "price": 11810,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-07",
+      "price": 9700,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-08-08",
+      "price": 12390,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-08-09",
+      "price": 13560,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-10",
+      "price": 11380,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-08-11",
+      "price": 11190,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-12",
+      "price": 11840,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-13",
+      "price": 10800,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-08-14",
+      "price": 9390,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-08-15",
+      "price": 11670,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-08-16",
+      "price": 11670,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-08-17",
+      "price": 11730,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-18",
+      "price": 13640,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-19",
+      "price": 10180,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-08-20",
+      "price": 11760,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-08-21",
+      "price": 10490,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-22",
+      "price": 12020,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-08-23",
+      "price": 11890,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-24",
+      "price": 12680,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-25",
+      "price": 13100,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-26",
+      "price": 9880,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-08-27",
+      "price": 11560,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-28",
+      "price": 10930,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-08-29",
+      "price": 12780,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-08-30",
+      "price": 11280,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-08-31",
+      "price": 12170,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 13030,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-09-02",
+      "price": 10240,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-09-03",
+      "price": 10350,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-04",
+      "price": 11510,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-05",
+      "price": 10990,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-09-06",
+      "price": 10310,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-07",
+      "price": 10890,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-08",
+      "price": 12170,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-09",
+      "price": 10220,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-10",
+      "price": 11270,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-11",
+      "price": 9470,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-12",
+      "price": 11550,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-09-13",
+      "price": 11280,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-14",
+      "price": 10870,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-15",
+      "price": 12450,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-16",
+      "price": 11510,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-17",
+      "price": 10250,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-18",
+      "price": 10210,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-09-19",
+      "price": 10980,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-09-20",
+      "price": 12510,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-09-21",
+      "price": 10530,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-09-22",
+      "price": 13520,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-09-23",
+      "price": 10960,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-24",
+      "price": 10580,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-09-25",
+      "price": 10690,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-09-26",
+      "price": 11940,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-27",
+      "price": 12210,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-28",
+      "price": 11890,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-09-29",
+      "price": 11590,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-09-30",
+      "price": 10500,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 11160,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-02",
+      "price": 11060,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-10-03",
+      "price": 11780,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-10-04",
+      "price": 12020,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-10-05",
+      "price": 11080,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-10-06",
+      "price": 11270,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-07",
+      "price": 11190,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-08",
+      "price": 10780,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-10-09",
+      "price": 12230,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-10",
+      "price": 9800,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-10-11",
+      "price": 9680,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-10-12",
+      "price": 10570,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-13",
+      "price": 12140,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-10-14",
+      "price": 10040,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-10-15",
+      "price": 12080,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-16",
+      "price": 11670,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-10-17",
+      "price": 11830,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-10-18",
+      "price": 12290,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-10-19",
+      "price": 10520,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-10-20",
+      "price": 12640,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-10-21",
+      "price": 11280,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-22",
+      "price": 10240,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-10-23",
+      "price": 10400,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-24",
+      "price": 10240,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-25",
+      "price": 11910,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-26",
+      "price": 12450,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-27",
+      "price": 10310,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-10-28",
+      "price": 11700,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-10-29",
+      "price": 10190,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-30",
+      "price": 9280,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-10-31",
+      "price": 11550,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 13230,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-02",
+      "price": 16660,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-11-03",
+      "price": 15000,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-04",
+      "price": 13220,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-05",
+      "price": 14760,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-06",
+      "price": 12680,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-11-07",
+      "price": 13240,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-08",
+      "price": 12710,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-11-09",
+      "price": 13190,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-11-10",
+      "price": 14380,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-11",
+      "price": 12950,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-11-12",
+      "price": 10960,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-13",
+      "price": 12010,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-14",
+      "price": 12880,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-15",
+      "price": 13320,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-16",
+      "price": 14900,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-17",
+      "price": 10260,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-11-18",
+      "price": 13050,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-11-19",
+      "price": 11930,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-11-20",
+      "price": 12880,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-11-21",
+      "price": 12710,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-22",
+      "price": 13960,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-23",
+      "price": 14390,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-11-24",
+      "price": 13560,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-11-25",
+      "price": 13520,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-11-26",
+      "price": 12860,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-11-27",
+      "price": 11100,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-11-28",
+      "price": 11040,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-11-29",
+      "price": 14500,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-11-30",
+      "price": 14740,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 14240,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-12-02",
+      "price": 11250,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-12-03",
+      "price": 14030,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-12-04",
+      "price": 14620,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-12-05",
+      "price": 12950,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-12-06",
+      "price": 14110,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-12-07",
+      "price": 13420,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-12-08",
+      "price": 13640,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-12-09",
+      "price": 12140,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-12-10",
+      "price": 12570,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-12-11",
+      "price": 12110,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-12-12",
+      "price": 13450,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-12-13",
+      "price": 15270,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-12-14",
+      "price": 14770,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-12-15",
+      "price": 12400,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-12-16",
+      "price": 13180,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-12-17",
+      "price": 14480,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-12-18",
+      "price": 13130,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-12-19",
+      "price": 14060,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-20",
+      "price": 14250,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-21",
+      "price": 13740,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-12-22",
+      "price": 13740,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-12-23",
+      "price": 11990,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-24",
+      "price": 14310,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-12-25",
+      "price": 11780,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2024-12-26",
+      "price": 13010,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-27",
+      "price": 14180,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-28",
+      "price": 12830,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2024-12-29",
+      "price": 13750,
+      "airline": "Various"
+    },
+    {
+      "date": "2024-12-30",
+      "price": 13180,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2024-12-31",
+      "price": 11510,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 12140,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-02",
+      "price": 12380,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-03",
+      "price": 12470,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-01-04",
+      "price": 13600,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-01-05",
+      "price": 12740,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-06",
+      "price": 10910,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-07",
+      "price": 12260,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-08",
+      "price": 10610,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-01-09",
+      "price": 9740,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-01-10",
+      "price": 12000,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-11",
+      "price": 11350,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-01-12",
+      "price": 11720,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-13",
+      "price": 13330,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-14",
+      "price": 9850,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-01-15",
+      "price": 9750,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-01-16",
+      "price": 12140,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-01-17",
+      "price": 12180,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-18",
+      "price": 13300,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-19",
+      "price": 12500,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-20",
+      "price": 12460,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-01-21",
+      "price": 11730,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-22",
+      "price": 13180,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-01-23",
+      "price": 10570,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-24",
+      "price": 12640,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-01-25",
+      "price": 11660,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-01-26",
+      "price": 10930,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-01-27",
+      "price": 10200,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-01-28",
+      "price": 11810,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-01-29",
+      "price": 11290,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-01-30",
+      "price": 11770,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-01-31",
+      "price": 11670,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 11660,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-02-02",
+      "price": 12270,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-03",
+      "price": 10590,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-02-04",
+      "price": 11210,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-02-05",
+      "price": 9800,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-06",
+      "price": 11920,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-02-07",
+      "price": 13640,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-02-08",
+      "price": 11340,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-02-09",
+      "price": 12040,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-02-10",
+      "price": 11230,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-02-11",
+      "price": 12390,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-12",
+      "price": 12300,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-02-13",
+      "price": 11080,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-02-14",
+      "price": 10430,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-02-15",
+      "price": 12860,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-02-16",
+      "price": 12270,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-02-17",
+      "price": 10810,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-02-18",
+      "price": 12910,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-02-19",
+      "price": 11770,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-02-20",
+      "price": 11470,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-02-21",
+      "price": 12060,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-22",
+      "price": 12550,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-02-23",
+      "price": 11920,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-02-24",
+      "price": 13300,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-02-25",
+      "price": 10940,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-02-26",
+      "price": 10270,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-02-27",
+      "price": 12120,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-02-28",
+      "price": 12840,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 13720,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-03-02",
+      "price": 11360,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-03-03",
+      "price": 10160,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-04",
+      "price": 10430,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-05",
+      "price": 11560,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-06",
+      "price": 11070,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-07",
+      "price": 12120,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-03-08",
+      "price": 13060,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-09",
+      "price": 11870,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-10",
+      "price": 11500,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-11",
+      "price": 12580,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-03-12",
+      "price": 11020,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-03-13",
+      "price": 10740,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-03-14",
+      "price": 12790,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-03-15",
+      "price": 12390,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-03-16",
+      "price": 11100,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-17",
+      "price": 10570,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-03-18",
+      "price": 11570,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-03-19",
+      "price": 10790,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-20",
+      "price": 11310,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-21",
+      "price": 12520,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-22",
+      "price": 11160,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-03-23",
+      "price": 12290,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-03-24",
+      "price": 11650,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-03-25",
+      "price": 10050,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-03-26",
+      "price": 12400,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-03-27",
+      "price": 12600,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-03-28",
+      "price": 11260,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-03-29",
+      "price": 12680,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-03-30",
+      "price": 11440,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-03-31",
+      "price": 11850,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 10400,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-04-02",
+      "price": 10350,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-03",
+      "price": 10140,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-04-04",
+      "price": 11080,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-05",
+      "price": 12510,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-06",
+      "price": 12410,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-07",
+      "price": 11690,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-08",
+      "price": 8940,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-09",
+      "price": 11140,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-10",
+      "price": 10560,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-11",
+      "price": 12410,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-12",
+      "price": 12660,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-13",
+      "price": 12920,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-14",
+      "price": 11800,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-04-15",
+      "price": 10520,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-16",
+      "price": 11580,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-04-17",
+      "price": 10460,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-04-18",
+      "price": 12190,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-19",
+      "price": 10900,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-20",
+      "price": 12120,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-21",
+      "price": 9830,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-04-22",
+      "price": 10850,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-04-23",
+      "price": 12200,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-24",
+      "price": 10290,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-25",
+      "price": 12540,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-04-26",
+      "price": 13910,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-27",
+      "price": 11960,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-04-28",
+      "price": 9610,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-04-29",
+      "price": 10950,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-04-30",
+      "price": 11160,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 12260,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-02",
+      "price": 12120,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-05-03",
+      "price": 11850,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-05-04",
+      "price": 13190,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-05",
+      "price": 11970,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-05-06",
+      "price": 9820,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-05-07",
+      "price": 11120,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-08",
+      "price": 10360,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-09",
+      "price": 14130,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-10",
+      "price": 12530,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-05-11",
+      "price": 13440,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-05-12",
+      "price": 11700,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-05-13",
+      "price": 11540,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-14",
+      "price": 11000,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-05-15",
+      "price": 11470,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-05-16",
+      "price": 12570,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-05-17",
+      "price": 11600,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-18",
+      "price": 12910,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-19",
+      "price": 11350,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-05-20",
+      "price": 10620,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-05-21",
+      "price": 10890,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-22",
+      "price": 10970,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-05-23",
+      "price": 12510,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-05-24",
+      "price": 13030,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-05-25",
+      "price": 12220,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-05-26",
+      "price": 9290,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-27",
+      "price": 10990,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-05-28",
+      "price": 10560,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-05-29",
+      "price": 11580,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-30",
+      "price": 9640,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-05-31",
+      "price": 13640,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-01",
+      "price": 11200,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-02",
+      "price": 13010,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-03",
+      "price": 13030,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-06-04",
+      "price": 10090,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-05",
+      "price": 12260,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-06-06",
+      "price": 10590,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-07",
+      "price": 10840,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-08",
+      "price": 14160,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-06-09",
+      "price": 11670,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-06-10",
+      "price": 11260,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-06-11",
+      "price": 12130,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-12",
+      "price": 9730,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-06-13",
+      "price": 10890,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-06-14",
+      "price": 13030,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-06-15",
+      "price": 10870,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-06-16",
+      "price": 10520,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-17",
+      "price": 11610,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-18",
+      "price": 10310,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-19",
+      "price": 11250,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-20",
+      "price": 11970,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-21",
+      "price": 10540,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-22",
+      "price": 11560,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-06-23",
+      "price": 10750,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-24",
+      "price": 11920,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-25",
+      "price": 11290,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-06-26",
+      "price": 10970,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-06-27",
+      "price": 13530,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-06-28",
+      "price": 11350,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-29",
+      "price": 11130,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-06-30",
+      "price": 10180,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-07-01",
+      "price": 11680,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-07-02",
+      "price": 10580,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-03",
+      "price": 10790,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-07-04",
+      "price": 12260,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-05",
+      "price": 14350,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-07-06",
+      "price": 11880,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-07-07",
+      "price": 10220,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-07-08",
+      "price": 10930,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-09",
+      "price": 11490,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-10",
+      "price": 11200,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-07-11",
+      "price": 13860,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-12",
+      "price": 10630,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-13",
+      "price": 12680,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-14",
+      "price": 12010,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-07-15",
+      "price": 10980,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-16",
+      "price": 11420,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-07-17",
+      "price": 9170,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-07-18",
+      "price": 12230,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-19",
+      "price": 11370,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-07-20",
+      "price": 11210,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-07-21",
+      "price": 10550,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-07-22",
+      "price": 11530,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-07-23",
+      "price": 9770,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-24",
+      "price": 11180,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-07-25",
+      "price": 12110,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-07-26",
+      "price": 11420,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-27",
+      "price": 11200,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-07-28",
+      "price": 11110,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-07-29",
+      "price": 10620,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-07-30",
+      "price": 12930,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-07-31",
+      "price": 10900,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-08-01",
+      "price": 12220,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-08-02",
+      "price": 13410,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-08-03",
+      "price": 11840,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-04",
+      "price": 12160,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-08-05",
+      "price": 12030,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-08-06",
+      "price": 11400,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-08-07",
+      "price": 9550,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-08-08",
+      "price": 12340,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-08-09",
+      "price": 12760,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-08-10",
+      "price": 11430,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-08-11",
+      "price": 10660,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-08-12",
+      "price": 11770,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-08-13",
+      "price": 11440,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-14",
+      "price": 12960,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-08-15",
+      "price": 11950,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-16",
+      "price": 14360,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-17",
+      "price": 12200,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-18",
+      "price": 11310,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-19",
+      "price": 10190,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-08-20",
+      "price": 12440,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-21",
+      "price": 10900,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-08-22",
+      "price": 10270,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-23",
+      "price": 13450,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-08-24",
+      "price": 11510,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-25",
+      "price": 11500,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-08-26",
+      "price": 11250,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-08-27",
+      "price": 11190,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-08-28",
+      "price": 12130,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-08-29",
+      "price": 13280,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-08-30",
+      "price": 10550,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-08-31",
+      "price": 12440,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-09-01",
+      "price": 11090,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-09-02",
+      "price": 9800,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-09-03",
+      "price": 9870,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-09-04",
+      "price": 10600,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-09-05",
+      "price": 12980,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-09-06",
+      "price": 10730,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-07",
+      "price": 12330,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-08",
+      "price": 9440,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-09-09",
+      "price": 11500,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-10",
+      "price": 11760,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-09-11",
+      "price": 10690,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-12",
+      "price": 11860,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-13",
+      "price": 11610,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-14",
+      "price": 12670,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-09-15",
+      "price": 11330,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-16",
+      "price": 11450,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-17",
+      "price": 11290,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-18",
+      "price": 10980,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-09-19",
+      "price": 12090,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-09-20",
+      "price": 11890,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-21",
+      "price": 13000,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-22",
+      "price": 10820,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-23",
+      "price": 10660,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-09-24",
+      "price": 11120,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-09-25",
+      "price": 10750,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-09-26",
+      "price": 12400,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-09-27",
+      "price": 12990,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-09-28",
+      "price": 13340,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-09-29",
+      "price": 12320,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-09-30",
+      "price": 13180,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-01",
+      "price": 12000,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-10-02",
+      "price": 10630,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-03",
+      "price": 12590,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-04",
+      "price": 10970,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-10-05",
+      "price": 11640,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-10-06",
+      "price": 11050,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-10-07",
+      "price": 11470,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-10-08",
+      "price": 11210,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-10-09",
+      "price": 11750,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-10-10",
+      "price": 13350,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-10-11",
+      "price": 14000,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-12",
+      "price": 10450,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-13",
+      "price": 12170,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-14",
+      "price": 11590,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-15",
+      "price": 12290,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-10-16",
+      "price": 11650,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-10-17",
+      "price": 10140,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-18",
+      "price": 11120,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-19",
+      "price": 11410,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-10-20",
+      "price": 10560,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-10-21",
+      "price": 10030,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-10-22",
+      "price": 10730,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-23",
+      "price": 10950,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-10-24",
+      "price": 14140,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-25",
+      "price": 10370,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-10-26",
+      "price": 13300,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-10-27",
+      "price": 10540,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-10-28",
+      "price": 11390,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-10-29",
+      "price": 11360,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-30",
+      "price": 11270,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-10-31",
+      "price": 12990,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-11-01",
+      "price": 12620,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-02",
+      "price": 15280,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-11-03",
+      "price": 14680,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-04",
+      "price": 11830,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-05",
+      "price": 12150,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-11-06",
+      "price": 13010,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-11-07",
+      "price": 13940,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-11-08",
+      "price": 13760,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-09",
+      "price": 14480,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-11-10",
+      "price": 12130,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-11",
+      "price": 10650,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-11-12",
+      "price": 13590,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-11-13",
+      "price": 13130,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-14",
+      "price": 13680,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-11-15",
+      "price": 15600,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-11-16",
+      "price": 14350,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-17",
+      "price": 11980,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-11-18",
+      "price": 13710,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-19",
+      "price": 11610,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-20",
+      "price": 12380,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-21",
+      "price": 15750,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-22",
+      "price": 14190,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-23",
+      "price": 16030,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-11-24",
+      "price": 12920,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-11-25",
+      "price": 12930,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-11-26",
+      "price": 13340,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-11-27",
+      "price": 12270,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-11-28",
+      "price": 11210,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-11-29",
+      "price": 13590,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-11-30",
+      "price": 13210,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-01",
+      "price": 11980,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-02",
+      "price": 12360,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-12-03",
+      "price": 14170,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-12-04",
+      "price": 13830,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-12-05",
+      "price": 15630,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-12-06",
+      "price": 13030,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-07",
+      "price": 14360,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-12-08",
+      "price": 14240,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-12-09",
+      "price": 12090,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-12-10",
+      "price": 12910,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-12-11",
+      "price": 12660,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-12-12",
+      "price": 15270,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-13",
+      "price": 14940,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-12-14",
+      "price": 16450,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-12-15",
+      "price": 12360,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-16",
+      "price": 12120,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-12-17",
+      "price": 11990,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-18",
+      "price": 11500,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-12-19",
+      "price": 12520,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-12-20",
+      "price": 11830,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-12-21",
+      "price": 13330,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-12-22",
+      "price": 11350,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-12-23",
+      "price": 12350,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-12-24",
+      "price": 12640,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-25",
+      "price": 12310,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2025-12-26",
+      "price": 13650,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-12-27",
+      "price": 15610,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-12-28",
+      "price": 13080,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2025-12-29",
+      "price": 11750,
+      "airline": "Various"
+    },
+    {
+      "date": "2025-12-30",
+      "price": 12760,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2025-12-31",
+      "price": 14220,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-01-01",
+      "price": 11010,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-01-02",
+      "price": 13730,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-01-03",
+      "price": 12940,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-01-04",
+      "price": 12660,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-05",
+      "price": 11430,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-06",
+      "price": 10280,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-01-07",
+      "price": 10140,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-01-08",
+      "price": 9540,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-01-09",
+      "price": 14740,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-10",
+      "price": 12930,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-01-11",
+      "price": 14210,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-01-12",
+      "price": 11220,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-01-13",
+      "price": 10180,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-01-14",
+      "price": 10220,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-01-15",
+      "price": 10110,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-01-16",
+      "price": 10850,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-17",
+      "price": 11300,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-01-18",
+      "price": 11750,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-01-19",
+      "price": 10170,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-20",
+      "price": 10410,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-01-21",
+      "price": 10050,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-22",
+      "price": 10810,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-01-23",
+      "price": 11850,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-24",
+      "price": 12280,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-01-25",
+      "price": 11850,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-01-26",
+      "price": 11900,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-01-27",
+      "price": 9560,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-01-28",
+      "price": 9990,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-01-29",
+      "price": 11440,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-01-30",
+      "price": 13100,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-01-31",
+      "price": 10730,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-02-01",
+      "price": 13170,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-02-02",
+      "price": 11760,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-02-03",
+      "price": 12050,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-04",
+      "price": 11720,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-05",
+      "price": 10690,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-06",
+      "price": 12450,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-07",
+      "price": 10130,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-08",
+      "price": 12690,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-09",
+      "price": 10840,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-10",
+      "price": 10180,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-11",
+      "price": 11000,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-02-12",
+      "price": 12730,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-02-13",
+      "price": 11380,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-14",
+      "price": 12580,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-02-15",
+      "price": 13050,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-02-16",
+      "price": 11590,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-17",
+      "price": 11380,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-18",
+      "price": 10410,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-19",
+      "price": 10150,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-20",
+      "price": 11640,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-21",
+      "price": 13130,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-02-22",
+      "price": 12820,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-02-23",
+      "price": 12390,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-02-24",
+      "price": 11660,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-02-25",
+      "price": 11050,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-02-26",
+      "price": 9440,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-02-27",
+      "price": 10950,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-02-28",
+      "price": 11310,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-03-01",
+      "price": 12940,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-03-02",
+      "price": 11170,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-03-03",
+      "price": 11220,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-04",
+      "price": 10110,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-03-05",
+      "price": 9540,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-06",
+      "price": 14100,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-03-07",
+      "price": 11480,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-03-08",
+      "price": 10910,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-09",
+      "price": 12320,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-10",
+      "price": 9200,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-11",
+      "price": 9550,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-12",
+      "price": 10560,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 13720,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-14",
+      "price": 11230,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-15",
+      "price": 12320,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-16",
+      "price": 9770,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-17",
+      "price": 10840,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-03-18",
+      "price": 11340,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-19",
+      "price": 11350,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 13230,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-03-21",
+      "price": 12960,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-22",
+      "price": 11920,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-03-23",
+      "price": 10760,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-03-24",
+      "price": 10590,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-03-25",
+      "price": 11740,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-26",
+      "price": 11600,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-03-27",
+      "price": 11370,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-03-28",
+      "price": 11620,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-29",
+      "price": 10170,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-30",
+      "price": 11910,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-03-31",
+      "price": 12090,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-01",
+      "price": 12180,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-04-02",
+      "price": 9490,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-03",
+      "price": 11250,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-04-04",
+      "price": 11970,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-04-05",
+      "price": 13610,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-04-06",
+      "price": 10460,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-07",
+      "price": 9560,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-08",
+      "price": 10150,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-04-09",
+      "price": 12070,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-04-10",
+      "price": 12180,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-04-11",
+      "price": 12730,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-12",
+      "price": 11930,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-04-13",
+      "price": 11400,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-04-14",
+      "price": 13570,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-15",
+      "price": 11800,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-04-16",
+      "price": 11980,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-17",
+      "price": 11210,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-18",
+      "price": 12400,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-04-19",
+      "price": 13760,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-04-20",
+      "price": 10230,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-04-21",
+      "price": 10750,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-22",
+      "price": 9920,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-04-23",
+      "price": 11400,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-04-24",
+      "price": 13400,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-25",
+      "price": 11680,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-04-26",
+      "price": 11980,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-04-27",
+      "price": 11610,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-04-28",
+      "price": 11250,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-04-29",
+      "price": 11820,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-04-30",
+      "price": 12470,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-05-01",
+      "price": 13970,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-05-02",
+      "price": 12470,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-05-03",
+      "price": 11790,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-05-04",
+      "price": 11570,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-05-05",
+      "price": 10380,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-06",
+      "price": 10150,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-07",
+      "price": 11960,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-05-08",
+      "price": 11490,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-05-09",
+      "price": 12140,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-10",
+      "price": 11870,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-11",
+      "price": 10220,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-12",
+      "price": 10910,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-05-13",
+      "price": 9820,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-14",
+      "price": 11050,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-05-15",
+      "price": 10520,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-16",
+      "price": 11940,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-05-17",
+      "price": 12940,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-05-18",
+      "price": 11360,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-05-19",
+      "price": 10250,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-20",
+      "price": 12540,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-21",
+      "price": 10960,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-05-22",
+      "price": 11040,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-05-23",
+      "price": 10850,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-05-24",
+      "price": 12870,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-05-25",
+      "price": 10200,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-05-26",
+      "price": 9970,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-05-27",
+      "price": 11060,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-05-28",
+      "price": 10360,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-05-29",
+      "price": 11800,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-05-30",
+      "price": 10630,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-05-31",
+      "price": 11740,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-01",
+      "price": 11530,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-06-02",
+      "price": 11110,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-03",
+      "price": 11410,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-06-04",
+      "price": 10740,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-06-05",
+      "price": 11450,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-06-06",
+      "price": 12220,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-07",
+      "price": 12070,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-06-08",
+      "price": 9850,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-06-09",
+      "price": 10430,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-06-10",
+      "price": 11890,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-11",
+      "price": 11620,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-06-12",
+      "price": 12730,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-06-13",
+      "price": 11610,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-14",
+      "price": 12610,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-06-15",
+      "price": 11130,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-06-16",
+      "price": 11280,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-06-17",
+      "price": 11630,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-18",
+      "price": 10660,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-06-19",
+      "price": 13280,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-20",
+      "price": 13290,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-06-21",
+      "price": 13690,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-06-22",
+      "price": 11230,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-06-23",
+      "price": 8890,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-06-24",
+      "price": 10050,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-06-25",
+      "price": 12590,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-06-26",
+      "price": 11750,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-06-27",
+      "price": 11750,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-06-28",
+      "price": 14200,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-06-29",
+      "price": 10830,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-06-30",
+      "price": 9400,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-07-01",
+      "price": 11230,
+      "airline": "Various"
+    },
+    {
+      "date": "2026-07-02",
+      "price": 10060,
+      "airline": "British Airways"
+    },
+    {
+      "date": "2026-07-03",
+      "price": 14520,
+      "airline": "Virgin Atlantic"
+    },
+    {
+      "date": "2026-07-04",
+      "price": 13150,
+      "airline": "Singapore Airlines"
+    },
+    {
+      "date": "2026-07-05",
+      "price": 11520,
+      "airline": "British Airways"
+    }
+  ]
+}
