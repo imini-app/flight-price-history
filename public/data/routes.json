@@ -1498,5 +1498,125 @@
     "originCountry": "India",
     "destCountry": "UK",
     "label": "Delhi (DEL) → London (LHR)"
+  },
+  {
+    "key": "JFK-PEK",
+    "origin": "JFK",
+    "dest": "PEK",
+    "originCity": "New York",
+    "destCity": "Beijing",
+    "originCountry": "USA",
+    "destCountry": "China",
+    "label": "New York (JFK) → Beijing (PEK)"
+  },
+  {
+    "key": "PEK-JFK",
+    "origin": "PEK",
+    "dest": "JFK",
+    "originCity": "Beijing",
+    "destCity": "New York",
+    "originCountry": "China",
+    "destCountry": "USA",
+    "label": "Beijing (PEK) → New York (JFK)"
+  },
+  {
+    "key": "JFK-DXB",
+    "origin": "JFK",
+    "dest": "DXB",
+    "originCity": "New York",
+    "destCity": "Dubai",
+    "originCountry": "USA",
+    "destCountry": "UAE",
+    "label": "New York (JFK) → Dubai (DXB)"
+  },
+  {
+    "key": "DXB-JFK",
+    "origin": "DXB",
+    "dest": "JFK",
+    "originCity": "Dubai",
+    "destCity": "New York",
+    "originCountry": "UAE",
+    "destCountry": "USA",
+    "label": "Dubai (DXB) → New York (JFK)"
+  },
+  {
+    "key": "JFK-AMS",
+    "origin": "JFK",
+    "dest": "AMS",
+    "originCity": "New York",
+    "destCity": "Amsterdam",
+    "originCountry": "USA",
+    "destCountry": "Netherlands",
+    "label": "New York (JFK) → Amsterdam (AMS)"
+  },
+  {
+    "key": "AMS-JFK",
+    "origin": "AMS",
+    "dest": "JFK",
+    "originCity": "Amsterdam",
+    "destCity": "New York",
+    "originCountry": "Netherlands",
+    "destCountry": "USA",
+    "label": "Amsterdam (AMS) → New York (JFK)"
+  },
+  {
+    "key": "LHR-SYD",
+    "origin": "LHR",
+    "dest": "SYD",
+    "originCity": "London",
+    "destCity": "Sydney",
+    "originCountry": "UK",
+    "destCountry": "Australia",
+    "label": "London (LHR) → Sydney (SYD)"
+  },
+  {
+    "key": "SYD-LHR",
+    "origin": "SYD",
+    "dest": "LHR",
+    "originCity": "Sydney",
+    "destCity": "London",
+    "originCountry": "Australia",
+    "destCountry": "UK",
+    "label": "Sydney (SYD) → London (LHR)"
+  },
+  {
+    "key": "SFO-JFK",
+    "origin": "SFO",
+    "dest": "JFK",
+    "originCity": "San Francisco",
+    "destCity": "New York",
+    "originCountry": "USA",
+    "destCountry": "USA",
+    "label": "San Francisco (SFO) → New York (JFK)"
+  },
+  {
+    "key": "JFK-SFO",
+    "origin": "JFK",
+    "dest": "SFO",
+    "originCity": "New York",
+    "destCity": "San Francisco",
+    "originCountry": "USA",
+    "destCountry": "USA",
+    "label": "New York (JFK) → San Francisco (SFO)"
+  },
+  {
+    "key": "SIN-SYD",
+    "origin": "SIN",
+    "dest": "SYD",
+    "originCity": "Singapore",
+    "destCity": "Sydney",
+    "originCountry": "Singapore",
+    "destCountry": "Australia",
+    "label": "Singapore (SIN) → Sydney (SYD)"
+  },
+  {
+    "key": "SYD-SIN",
+    "origin": "SYD",
+    "dest": "SIN",
+    "originCity": "Sydney",
+    "destCity": "Singapore",
+    "originCountry": "Australia",
+    "destCountry": "Singapore",
+    "label": "Sydney (SYD) → Singapore (SIN)"
   }
 ]
