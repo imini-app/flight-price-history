@@ -145,25 +145,6 @@ export default function Home() {
         </div>
       )}
 
-      {!recentChecksLoading && (
-        <div className="card recent-checks">
-          <h3 className="recent-checks-title">Recent Price Checks</h3>
-          {recentChecks.length > 0 ? (
-            <div className="recent-checks-list">
-              {recentChecks.map((c, i) => (
-                <div key={i} className="recent-check-item">
-                  <span className="rc-route">{c.route_label}</span>
-                  <span className="rc-date">{c.travel_date}</span>
-                  <span className="rc-time">{formatRelativeTime(c.created_at)}</span>
-                </div>
-              ))}
-            </div>
-          ) : (
-            <div className="recent-checks-empty">No checks yet — select a route and click Show Trend.</div>
-          )}
-        </div>
-      )}
-
       {error && <div className="error-banner">{error}</div>}
 
       {loading && (
@@ -188,6 +169,25 @@ export default function Home() {
         <div>
           <StatsCards stats={stats} prices={snapshotPrices} routeLabel={routeLabel} pickDate={pickDate} />
           <PriceChart prices={snapshotPrices} stats={stats} pickDate={pickDate} />
+        </div>
+      )}
+
+      {!recentChecksLoading && (
+        <div className="card recent-checks">
+          <h3 className="recent-checks-title">Recent Price Checks</h3>
+          {recentChecks.length > 0 ? (
+            <div className="recent-checks-list">
+              {recentChecks.map((c, i) => (
+                <div key={i} className="recent-check-item">
+                  <span className="rc-route">{c.route_label}</span>
+                  <span className="rc-date">{c.travel_date}</span>
+                  <span className="rc-time">{formatRelativeTime(c.created_at)}</span>
+                </div>
+              ))}
+            </div>
+          ) : (
+            <div className="recent-checks-empty">No checks yet — select a route and click Show Trend.</div>
+          )}
         </div>
       )}
     </main>
