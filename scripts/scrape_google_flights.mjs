@@ -374,19 +374,22 @@ async function main() {
     catch {
       data = { route: route.key, origin: route.origin, dest: route.dest, label: route.label, prices: [] };
     }
+    const seen = new Set(data.prices.map(p => `${p.date}|${p.snapshot}`));
     for (const r of routeResults) {
-      if (r.price) {
-        data.prices.push({
-          date: r.departDate,
-          snapshot: snapDate,
-          price: r.price,
-          airline: r.airline,
-          returnDate: r.returnDate,
-          nonstop: r.isNonstop,
-          stops: r.stops,
-          duration: r.duration,
-        });
-      }
+      if (!r.price) continue;
+      const key = `${r.departDate}|${snapDate}`;
+      if (seen.has(key)) continue;
+      seen.add(key);
+      data.prices.push({
+        date: r.departDate,
+        snapshot: snapDate,
+        price: r.price,
+        airline: r.airline,
+        returnDate: r.returnDate,
+        nonstop: r.isNonstop,
+        stops: r.stops,
+        duration: r.duration,
+      });
     }
     fs.writeFileSync(dataFile, JSON.stringify(data, null, 2));
     console.log(`  Saved ${dataFile}`);
