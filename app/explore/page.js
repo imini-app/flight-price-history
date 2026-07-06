@@ -5,6 +5,18 @@ import RoutePicker from '@/components/RoutePicker';
 import ExploreChart from '@/components/ExploreChart';
 import { fetchRouteData, groupPricesByDeparture, computeStats } from '@/lib/data-utils';
 
+function formatRelativeTime(dateStr) {
+  const diff = Date.now() - new Date(dateStr).getTime();
+  const mins = Math.floor(diff / 60000);
+  if (mins < 1) return 'just now';
+  if (mins < 60) return `${mins}m ago`;
+  const hours = Math.floor(mins / 60);
+  if (hours < 24) return `${hours}h ago`;
+  const days = Math.floor(hours / 24);
+  if (days < 30) return `${days}d ago`;
+  return new Date(dateStr).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
 export default function ExplorePage() {
   const [routeKey, setRouteKey] = useState(null);
   const [grouped, setGrouped] = useState([]);
@@ -16,15 +28,44 @@ export default function ExplorePage() {
   const [defaultOrigin, setDefaultOrigin] = useState('');
   const [defaultDest, setDefaultDest] = useState('');
 
+  const [recentChecks, setRecentChecks] = useState([]);
+  const [recentChecksLoading, setRecentChecksLoading] = useState(true);
+
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     setDefaultOrigin(params.get('origin') || '');
     setDefaultDest(params.get('dest') || '');
+    fetchRecentChecks();
   }, []);
+
+  async function fetchRecentChecks() {
+    try {
+      const res = await fetch('/api/checks');
+      if (res.ok) setRecentChecks(await res.json());
+      else console.error('Failed to fetch recent checks:', res.status, await res.text().catch(() => ''));
+    } catch (err) {
+      console.error('Failed to fetch recent checks:', err);
+    } finally {
+      setRecentChecksLoading(false);
+    }
+  }
 
   const handleSelect = useCallback((key, _date, label) => {
     setRouteKey(key);
     if (label) setRouteLabel(label);
+  }, []);
+
+  const handleSubmit = useCallback((key, date, label) => {
+    fetch('/api/checks', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ routeKey: key, routeLabel: label, travelDate: date }),
+    }).then(res => {
+      if (res.ok) fetchRecentChecks();
+      else console.error('Failed to save check:', res.status);
+    }).catch(err => {
+      console.error('Failed to save check:', err);
+    });
   }, []);
 
   useEffect(() => {
@@ -64,7 +105,7 @@ export default function ExplorePage() {
         <p>Compare average prices across different travel dates to find the cheapest time to fly.</p>
       </div>
 
-      <RoutePicker onSelect={handleSelect} showDate={false} defaultOrigin={defaultOrigin} defaultDest={defaultDest} />
+      <RoutePicker onSelect={handleSelect} onSubmit={handleSubmit} showDate={false} defaultOrigin={defaultOrigin} defaultDest={defaultDest} />
 
       {!routeKey && !loading && (
         <div className="card guide">
@@ -119,6 +160,28 @@ export default function ExplorePage() {
       {!loading && stats && (
         <div>
           <ExploreChart grouped={grouped} stats={stats} routeLabel={routeLabel} />
+        </div>
+      )}
+
+      {!recentChecksLoading && (
+        <div className="card recent-checks">
+          <h3 className="recent-checks-title">Recent Price Checks</h3>
+          {recentChecks.length > 0 ? (
+            <div className="recent-checks-list">
+              {recentChecks.map((c, i) => {
+                const [origin, dest] = c.route_key.split('-');
+                return (
+                  <a key={i} className="recent-check-item" href={`/?origin=${origin}&dest=${dest}${c.travel_date ? `&date=${c.travel_date}` : ''}`}>
+                    <span className="rc-route">{c.route_label}</span>
+                    {c.travel_date && <span className="rc-date">{c.travel_date}</span>}
+                    <span className="rc-time">{formatRelativeTime(c.created_at)}</span>
+                  </a>
+                );
+              })}
+            </div>
+          ) : (
+            <div className="recent-checks-empty">No checks yet — select a route and click View Prices.</div>
+          )}
         </div>
       )}
     </main>
