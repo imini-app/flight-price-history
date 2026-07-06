@@ -2,3662 +2,2707 @@
   "route": "LAX-SYD",
   "origin": "LAX",
   "dest": "SYD",
-  "label": "Los Angeles (LAX) \u2192  Sydney (SYD)",
+  "label": "Los Angeles (LAX) → Sydney (SYD)",
   "prices": [
     {
-      "date": "2024-07-05",
-      "price": 12710,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-07-06",
-      "price": 13670,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-07",
-      "price": 12850,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-07-08",
-      "price": 10590,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-09",
-      "price": 13440,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-07-10",
-      "price": 12610,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-11",
-      "price": 11430,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-12",
-      "price": 14780,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-13",
-      "price": 13420,
-      "airline": "American"
-    },
-    {
-      "date": "2024-07-14",
-      "price": 12650,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-07-15",
-      "price": 12240,
-      "airline": "United"
-    },
-    {
-      "date": "2024-07-16",
-      "price": 11150,
-      "airline": "United"
-    },
-    {
-      "date": "2024-07-17",
-      "price": 11980,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-18",
-      "price": 11600,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-07-19",
-      "price": 12370,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-20",
-      "price": 12350,
-      "airline": "American"
-    },
-    {
-      "date": "2024-07-21",
-      "price": 12970,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-22",
-      "price": 12910,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-07-23",
-      "price": 11830,
-      "airline": "American"
-    },
-    {
-      "date": "2024-07-24",
-      "price": 12690,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-07-25",
-      "price": 12590,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-07-26",
-      "price": 13790,
-      "airline": "United"
-    },
-    {
-      "date": "2024-07-27",
-      "price": 12480,
-      "airline": "American"
-    },
-    {
-      "date": "2024-07-28",
-      "price": 11720,
-      "airline": "American"
-    },
-    {
-      "date": "2024-07-29",
-      "price": 10750,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-30",
-      "price": 9720,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-31",
-      "price": 11790,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-08-01",
-      "price": 11150,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-02",
-      "price": 12370,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-03",
-      "price": 11910,
-      "airline": "American"
-    },
-    {
-      "date": "2024-08-04",
-      "price": 14500,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-05",
-      "price": 13180,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-06",
-      "price": 13270,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-08-07",
-      "price": 12770,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-08",
-      "price": 11060,
-      "airline": "American"
-    },
-    {
-      "date": "2024-08-09",
-      "price": 12880,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-08-10",
-      "price": 12760,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-11",
-      "price": 12760,
-      "airline": "American"
-    },
-    {
-      "date": "2024-08-12",
-      "price": 11560,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-08-13",
-      "price": 11140,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-14",
-      "price": 11550,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-15",
-      "price": 11060,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-08-16",
-      "price": 13880,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-17",
-      "price": 11870,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-08-18",
-      "price": 13210,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-08-19",
-      "price": 12540,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-20",
-      "price": 12640,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-21",
-      "price": 12620,
-      "airline": "American"
-    },
-    {
-      "date": "2024-08-22",
-      "price": 12630,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-08-23",
-      "price": 12440,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-24",
-      "price": 12910,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-08-25",
-      "price": 11700,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-26",
-      "price": 12200,
-      "airline": "American"
-    },
-    {
-      "date": "2024-08-27",
-      "price": 13100,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-08-28",
-      "price": 12740,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-29",
-      "price": 10910,
-      "airline": "American"
-    },
-    {
-      "date": "2024-08-30",
-      "price": 15610,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-31",
-      "price": 13820,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-09-01",
-      "price": 14070,
-      "airline": "United"
-    },
-    {
-      "date": "2024-09-02",
-      "price": 10550,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-03",
-      "price": 12010,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-09-04",
-      "price": 10760,
-      "airline": "United"
-    },
-    {
-      "date": "2024-09-05",
-      "price": 13040,
-      "airline": "American"
-    },
-    {
-      "date": "2024-09-06",
-      "price": 12020,
-      "airline": "United"
-    },
-    {
-      "date": "2024-09-07",
-      "price": 13900,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-08",
-      "price": 14080,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-09-09",
-      "price": 10680,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-09-10",
-      "price": 10660,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-11",
-      "price": 12650,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-12",
-      "price": 14460,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-09-13",
-      "price": 13130,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-14",
-      "price": 14420,
-      "airline": "United"
-    },
-    {
-      "date": "2024-09-15",
-      "price": 13590,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-16",
-      "price": 10930,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-17",
-      "price": 14510,
-      "airline": "United"
-    },
-    {
-      "date": "2024-09-18",
-      "price": 13210,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-19",
-      "price": 12270,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-20",
-      "price": 13560,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-09-21",
-      "price": 14530,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-22",
-      "price": 11790,
-      "airline": "United"
-    },
-    {
-      "date": "2024-09-23",
-      "price": 11700,
-      "airline": "United"
-    },
-    {
-      "date": "2024-09-24",
-      "price": 11080,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-09-25",
-      "price": 10390,
-      "airline": "United"
-    },
-    {
-      "date": "2024-09-26",
-      "price": 12570,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-27",
-      "price": 13740,
-      "airline": "United"
-    },
-    {
-      "date": "2024-09-28",
-      "price": 13420,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-29",
-      "price": 12800,
-      "airline": "United"
-    },
-    {
-      "date": "2024-09-30",
-      "price": 12800,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-01",
-      "price": 12870,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-02",
-      "price": 11710,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-10-03",
-      "price": 12850,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-04",
-      "price": 12750,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-05",
-      "price": 13120,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-10-06",
-      "price": 14330,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-07",
-      "price": 11480,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-08",
-      "price": 12250,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-10-09",
-      "price": 11520,
-      "airline": "American"
-    },
-    {
-      "date": "2024-10-10",
-      "price": 10250,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-10-11",
-      "price": 12720,
-      "airline": "American"
-    },
-    {
-      "date": "2024-10-12",
-      "price": 13510,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-13",
-      "price": 10720,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-14",
-      "price": 10790,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-10-15",
-      "price": 10360,
-      "airline": "American"
-    },
-    {
-      "date": "2024-10-16",
-      "price": 13470,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-17",
-      "price": 12130,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-18",
-      "price": 12870,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-19",
-      "price": 13200,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-10-20",
-      "price": 11040,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-21",
-      "price": 12990,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-10-22",
-      "price": 14080,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-10-23",
-      "price": 11600,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-24",
-      "price": 10730,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-25",
-      "price": 13090,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-26",
-      "price": 15360,
-      "airline": "American"
-    },
-    {
-      "date": "2024-10-27",
-      "price": 13540,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-28",
-      "price": 12340,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-10-29",
-      "price": 11930,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-30",
-      "price": 12060,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-31",
-      "price": 11700,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-01",
-      "price": 19420,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-11-02",
-      "price": 19840,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-11-03",
-      "price": 16940,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-11-04",
-      "price": 19040,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-11-05",
-      "price": 16310,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-11-06",
-      "price": 13860,
-      "airline": "United"
-    },
-    {
-      "date": "2024-11-07",
-      "price": 15150,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-11-08",
-      "price": 19100,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-11-09",
-      "price": 18970,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-11-10",
-      "price": 18110,
-      "airline": "United"
-    },
-    {
-      "date": "2024-11-11",
-      "price": 16290,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-11-12",
-      "price": 15660,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-11-13",
-      "price": 15750,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-11-14",
-      "price": 13860,
-      "airline": "United"
-    },
-    {
-      "date": "2024-11-15",
-      "price": 16880,
-      "airline": "United"
-    },
-    {
-      "date": "2024-11-16",
-      "price": 18530,
-      "airline": "United"
-    },
-    {
-      "date": "2024-11-17",
-      "price": 19740,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-11-18",
-      "price": 17770,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-11-19",
-      "price": 16770,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-11-20",
-      "price": 15360,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-11-21",
-      "price": 18080,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-11-22",
-      "price": 15950,
-      "airline": "American"
-    },
-    {
-      "date": "2024-11-23",
-      "price": 19170,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-11-24",
-      "price": 18470,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-11-25",
-      "price": 17920,
-      "airline": "United"
-    },
-    {
-      "date": "2024-11-26",
-      "price": 17510,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-27",
-      "price": 14350,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-11-28",
-      "price": 16390,
-      "airline": "United"
-    },
-    {
-      "date": "2024-11-29",
-      "price": 18480,
-      "airline": "United"
-    },
-    {
-      "date": "2024-11-30",
-      "price": 21240,
-      "airline": "American"
-    },
-    {
-      "date": "2024-12-01",
-      "price": 18400,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-12-02",
-      "price": 15710,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-03",
-      "price": 15230,
-      "airline": "United"
-    },
-    {
-      "date": "2024-12-04",
-      "price": 15440,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-05",
-      "price": 16840,
-      "airline": "United"
-    },
-    {
-      "date": "2024-12-06",
-      "price": 18490,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-12-07",
-      "price": 20100,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-12-08",
-      "price": 17190,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-09",
-      "price": 15060,
-      "airline": "United"
-    },
-    {
-      "date": "2024-12-10",
-      "price": 18040,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-11",
-      "price": 15450,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-12-12",
-      "price": 14070,
-      "airline": "American"
-    },
-    {
-      "date": "2024-12-13",
-      "price": 17830,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-12-14",
-      "price": 17870,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-15",
-      "price": 18000,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-12-16",
-      "price": 15410,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-17",
-      "price": 14610,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-12-18",
-      "price": 17450,
-      "airline": "American"
-    },
-    {
-      "date": "2024-12-19",
-      "price": 14970,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-20",
-      "price": 20980,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-21",
-      "price": 17520,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-22",
-      "price": 17710,
-      "airline": "United"
-    },
-    {
-      "date": "2024-12-23",
-      "price": 15780,
-      "airline": "United"
-    },
-    {
-      "date": "2024-12-24",
-      "price": 16100,
-      "airline": "American"
-    },
-    {
-      "date": "2024-12-25",
-      "price": 17440,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-26",
-      "price": 17330,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2024-12-27",
-      "price": 17230,
-      "airline": "American"
-    },
-    {
-      "date": "2024-12-28",
-      "price": 20510,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-29",
-      "price": 19240,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-12-30",
-      "price": 17110,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-31",
-      "price": 16950,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-01-01",
-      "price": 15460,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-02",
-      "price": 14300,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-03",
-      "price": 18530,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-04",
-      "price": 17120,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-01-05",
-      "price": 15780,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-01-06",
-      "price": 16080,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-01-07",
-      "price": 17170,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-08",
-      "price": 16420,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-09",
-      "price": 15990,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-10",
-      "price": 18930,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-01-11",
-      "price": 15310,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-01-12",
-      "price": 19500,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-13",
-      "price": 15250,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-14",
-      "price": 13930,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-15",
-      "price": 15790,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-16",
-      "price": 15740,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-01-17",
-      "price": 18070,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-01-18",
-      "price": 19020,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-01-19",
-      "price": 16870,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-20",
-      "price": 16160,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-01-21",
-      "price": 19120,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-22",
-      "price": 16420,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-01-23",
-      "price": 15160,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-01-24",
-      "price": 18870,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-01-25",
-      "price": 17450,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-26",
-      "price": 17700,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-27",
-      "price": 17010,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-01-28",
-      "price": 17390,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-29",
-      "price": 14730,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-01-30",
-      "price": 17190,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-31",
-      "price": 17230,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-02-01",
-      "price": 12630,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-02",
-      "price": 12730,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-03",
-      "price": 12170,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-04",
-      "price": 10470,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-05",
-      "price": 12780,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-06",
-      "price": 13070,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-07",
-      "price": 13900,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-08",
-      "price": 12130,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-09",
-      "price": 14550,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-10",
-      "price": 11700,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-11",
-      "price": 11510,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-12",
-      "price": 13040,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-13",
-      "price": 10880,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-02-14",
-      "price": 14480,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-02-15",
-      "price": 12950,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-16",
-      "price": 13140,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-17",
-      "price": 13370,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-18",
-      "price": 11500,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-02-19",
-      "price": 12690,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-20",
-      "price": 11300,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-21",
-      "price": 12970,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-22",
-      "price": 11950,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-23",
-      "price": 12520,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-24",
-      "price": 11800,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-02-25",
-      "price": 12930,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-26",
-      "price": 13720,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-02-27",
-      "price": 13160,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-28",
-      "price": 13030,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-03-01",
-      "price": 13470,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-02",
-      "price": 12390,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-03",
-      "price": 11810,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-04",
-      "price": 10750,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-05",
-      "price": 11610,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-06",
-      "price": 12650,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-07",
-      "price": 11520,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-08",
-      "price": 13430,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-09",
-      "price": 12260,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-10",
-      "price": 12690,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-11",
-      "price": 13440,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-12",
-      "price": 10710,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-13",
-      "price": 11480,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-14",
-      "price": 14120,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-03-15",
-      "price": 13630,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-03-16",
-      "price": 14050,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-17",
-      "price": 12310,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-18",
-      "price": 12940,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-19",
-      "price": 11640,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-20",
-      "price": 12350,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-21",
-      "price": 12080,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-22",
-      "price": 11870,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-23",
-      "price": 12900,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-24",
-      "price": 13390,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-03-25",
-      "price": 10780,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-26",
-      "price": 12060,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-03-27",
-      "price": 11310,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-28",
-      "price": 14980,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-29",
-      "price": 12620,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-30",
-      "price": 15460,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-31",
-      "price": 10860,
-      "airline": "American"
-    },
-    {
-      "date": "2025-04-01",
-      "price": 12810,
-      "airline": "United"
-    },
-    {
-      "date": "2025-04-02",
-      "price": 11210,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-04-03",
-      "price": 13070,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-04-04",
-      "price": 14430,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-05",
-      "price": 13810,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-06",
-      "price": 12860,
-      "airline": "American"
-    },
-    {
-      "date": "2025-04-07",
-      "price": 14090,
-      "airline": "United"
-    },
-    {
-      "date": "2025-04-08",
-      "price": 12110,
-      "airline": "American"
-    },
-    {
-      "date": "2025-04-09",
-      "price": 12500,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-04-10",
-      "price": 12150,
-      "airline": "United"
-    },
-    {
-      "date": "2025-04-11",
-      "price": 13750,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-12",
-      "price": 14680,
-      "airline": "United"
-    },
-    {
-      "date": "2025-04-13",
-      "price": 15280,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-04-14",
-      "price": 10400,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-04-15",
-      "price": 10980,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-04-16",
-      "price": 10430,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-04-17",
-      "price": 10970,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-18",
-      "price": 13580,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-04-19",
-      "price": 15220,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-04-20",
-      "price": 11790,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-21",
-      "price": 11050,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-22",
-      "price": 11450,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-04-23",
-      "price": 11740,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-24",
-      "price": 11000,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-25",
-      "price": 13330,
-      "airline": "American"
-    },
-    {
-      "date": "2025-04-26",
-      "price": 12120,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-27",
-      "price": 11960,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-28",
-      "price": 11070,
-      "airline": "United"
-    },
-    {
-      "date": "2025-04-29",
-      "price": 12560,
-      "airline": "American"
-    },
-    {
-      "date": "2025-04-30",
-      "price": 13560,
-      "airline": "American"
-    },
-    {
-      "date": "2025-05-01",
-      "price": 11310,
-      "airline": "United"
-    },
-    {
-      "date": "2025-05-02",
-      "price": 12530,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-03",
-      "price": 16110,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-04",
-      "price": 12150,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-05-05",
-      "price": 11850,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-06",
-      "price": 11380,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-07",
-      "price": 12450,
-      "airline": "United"
-    },
-    {
-      "date": "2025-05-08",
-      "price": 13400,
-      "airline": "American"
-    },
-    {
-      "date": "2025-05-09",
-      "price": 11630,
-      "airline": "United"
-    },
-    {
-      "date": "2025-05-10",
-      "price": 12340,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-11",
-      "price": 12860,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-12",
-      "price": 10980,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-05-13",
-      "price": 11690,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-14",
-      "price": 13390,
-      "airline": "American"
-    },
-    {
-      "date": "2025-05-15",
-      "price": 12060,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-05-16",
-      "price": 12240,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-17",
-      "price": 14930,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-18",
-      "price": 14710,
-      "airline": "American"
-    },
-    {
-      "date": "2025-05-19",
-      "price": 11980,
-      "airline": "American"
-    },
-    {
-      "date": "2025-05-20",
-      "price": 11560,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-21",
-      "price": 11460,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-22",
-      "price": 9960,
-      "airline": "American"
-    },
-    {
-      "date": "2025-05-23",
-      "price": 13460,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-24",
-      "price": 13250,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-25",
-      "price": 11640,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-05-26",
-      "price": 11430,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-27",
-      "price": 13180,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-28",
-      "price": 10250,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-29",
-      "price": 13400,
-      "airline": "United"
-    },
-    {
-      "date": "2025-05-30",
-      "price": 11410,
-      "airline": "United"
-    },
-    {
-      "date": "2025-05-31",
-      "price": 12670,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-06-01",
-      "price": 14340,
-      "airline": "United"
-    },
-    {
-      "date": "2025-06-02",
-      "price": 10720,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-03",
-      "price": 13580,
-      "airline": "United"
-    },
-    {
-      "date": "2025-06-04",
-      "price": 12970,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-05",
-      "price": 12780,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-06",
-      "price": 13870,
-      "airline": "United"
-    },
-    {
-      "date": "2025-06-07",
-      "price": 13630,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-06-08",
-      "price": 12110,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-06-09",
-      "price": 11960,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-10",
-      "price": 12870,
-      "airline": "United"
-    },
-    {
-      "date": "2025-06-11",
-      "price": 10840,
-      "airline": "United"
-    },
-    {
-      "date": "2025-06-12",
-      "price": 12640,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-13",
-      "price": 13300,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-06-14",
-      "price": 14190,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-15",
-      "price": 14380,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-06-16",
-      "price": 12700,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-06-17",
-      "price": 12920,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-18",
-      "price": 11270,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-19",
-      "price": 11810,
-      "airline": "United"
-    },
-    {
-      "date": "2025-06-20",
-      "price": 14430,
-      "airline": "United"
-    },
-    {
-      "date": "2025-06-21",
-      "price": 13110,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-06-22",
-      "price": 15120,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-06-23",
-      "price": 12020,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-06-24",
-      "price": 11760,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-25",
-      "price": 11520,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-26",
-      "price": 11790,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-06-27",
-      "price": 12810,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-06-28",
-      "price": 13050,
-      "airline": "American"
-    },
-    {
-      "date": "2025-06-29",
-      "price": 13330,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-30",
-      "price": 13610,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-01",
-      "price": 12240,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-02",
-      "price": 12500,
-      "airline": "American"
-    },
-    {
-      "date": "2025-07-03",
-      "price": 10990,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-04",
-      "price": 13880,
-      "airline": "American"
-    },
-    {
-      "date": "2025-07-05",
-      "price": 12990,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-07-06",
-      "price": 12960,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-07",
-      "price": 11390,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-08",
-      "price": 13490,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-09",
-      "price": 10890,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-10",
-      "price": 10670,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-11",
-      "price": 12160,
-      "airline": "American"
-    },
-    {
-      "date": "2025-07-12",
-      "price": 13500,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-07-13",
-      "price": 13390,
-      "airline": "American"
-    },
-    {
-      "date": "2025-07-14",
-      "price": 11000,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-15",
-      "price": 11370,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-16",
-      "price": 12110,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-17",
-      "price": 13210,
-      "airline": "American"
-    },
-    {
-      "date": "2025-07-18",
-      "price": 12920,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-19",
-      "price": 11290,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-20",
-      "price": 13830,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-07-21",
-      "price": 11870,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-22",
-      "price": 10780,
-      "airline": "American"
-    },
-    {
-      "date": "2025-07-23",
-      "price": 14020,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-24",
-      "price": 9780,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-25",
-      "price": 12510,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-26",
-      "price": 12590,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-27",
-      "price": 11850,
-      "airline": "American"
-    },
-    {
-      "date": "2025-07-28",
-      "price": 13330,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-07-29",
-      "price": 11300,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-30",
-      "price": 11640,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-31",
-      "price": 12200,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-01",
-      "price": 14320,
-      "airline": "American"
-    },
-    {
-      "date": "2025-08-02",
-      "price": 15260,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-03",
-      "price": 13300,
-      "airline": "United"
-    },
-    {
-      "date": "2025-08-04",
-      "price": 11610,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-08-05",
-      "price": 11230,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-08-06",
-      "price": 11120,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-07",
-      "price": 11650,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-08-08",
-      "price": 14300,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-08-09",
-      "price": 13440,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-08-10",
-      "price": 11160,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-08-11",
-      "price": 12560,
-      "airline": "American"
-    },
-    {
-      "date": "2025-08-12",
-      "price": 14990,
-      "airline": "American"
-    },
-    {
-      "date": "2025-08-13",
-      "price": 13430,
-      "airline": "United"
-    },
-    {
-      "date": "2025-08-14",
-      "price": 11810,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-08-15",
-      "price": 13340,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-16",
-      "price": 12420,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-17",
-      "price": 12480,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-18",
-      "price": 12010,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-19",
-      "price": 9330,
-      "airline": "American"
-    },
-    {
-      "date": "2025-08-20",
-      "price": 11930,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-21",
-      "price": 11570,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-08-22",
-      "price": 12920,
-      "airline": "United"
-    },
-    {
-      "date": "2025-08-23",
-      "price": 12480,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-24",
-      "price": 11940,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-25",
-      "price": 11900,
-      "airline": "American"
-    },
-    {
-      "date": "2025-08-26",
-      "price": 11100,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-08-27",
-      "price": 13390,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-28",
-      "price": 13060,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-29",
-      "price": 13020,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-30",
-      "price": 12750,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-31",
-      "price": 11390,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-09-01",
-      "price": 13220,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-02",
-      "price": 9660,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-09-03",
-      "price": 11350,
-      "airline": "United"
-    },
-    {
-      "date": "2025-09-04",
-      "price": 10930,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-09-05",
-      "price": 13730,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-09-06",
-      "price": 12910,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-09-07",
-      "price": 13550,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-09-08",
-      "price": 13210,
-      "airline": "United"
-    },
-    {
-      "date": "2025-09-09",
-      "price": 10840,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-09-10",
-      "price": 12520,
-      "airline": "United"
-    },
-    {
-      "date": "2025-09-11",
-      "price": 11730,
-      "airline": "United"
-    },
-    {
-      "date": "2025-09-12",
-      "price": 12190,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-13",
-      "price": 13710,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-09-14",
-      "price": 11830,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-09-15",
-      "price": 11880,
-      "airline": "United"
-    },
-    {
-      "date": "2025-09-16",
-      "price": 11080,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-09-17",
-      "price": 12310,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-18",
-      "price": 12590,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-09-19",
-      "price": 14360,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-20",
-      "price": 12450,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-21",
-      "price": 11700,
-      "airline": "American"
-    },
-    {
-      "date": "2025-09-22",
-      "price": 10760,
-      "airline": "United"
-    },
-    {
-      "date": "2025-09-23",
-      "price": 12280,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-24",
-      "price": 11580,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-25",
-      "price": 11810,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-26",
-      "price": 12330,
-      "airline": "United"
-    },
-    {
-      "date": "2025-09-27",
-      "price": 12350,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-09-28",
-      "price": 12560,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-09-29",
-      "price": 13170,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-09-30",
-      "price": 11650,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-01",
-      "price": 13160,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-02",
-      "price": 10920,
-      "airline": "American"
-    },
-    {
-      "date": "2025-10-03",
-      "price": 14470,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-04",
-      "price": 13600,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-10-05",
-      "price": 13270,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-06",
-      "price": 12730,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-10-07",
-      "price": 12730,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-08",
-      "price": 10730,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-09",
-      "price": 12130,
-      "airline": "American"
-    },
-    {
-      "date": "2025-10-10",
-      "price": 13750,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-11",
-      "price": 13030,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-10-12",
-      "price": 12920,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-13",
-      "price": 12340,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-10-14",
-      "price": 12410,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-15",
-      "price": 12220,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-16",
-      "price": 11700,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-10-17",
-      "price": 13350,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-18",
-      "price": 13210,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-19",
-      "price": 13100,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-20",
-      "price": 11900,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-10-21",
-      "price": 13280,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-22",
-      "price": 10960,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-10-23",
-      "price": 11850,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-24",
-      "price": 11080,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-10-25",
-      "price": 10660,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-26",
-      "price": 12060,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-27",
-      "price": 10700,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-28",
-      "price": 12440,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-29",
-      "price": 12050,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-30",
-      "price": 11760,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-31",
-      "price": 12910,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-01",
-      "price": 18010,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-02",
-      "price": 17480,
-      "airline": "United"
-    },
-    {
-      "date": "2025-11-03",
-      "price": 13120,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-04",
-      "price": 14710,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-11-05",
-      "price": 15450,
-      "airline": "United"
-    },
-    {
-      "date": "2025-11-06",
-      "price": 15260,
-      "airline": "United"
-    },
-    {
-      "date": "2025-11-07",
-      "price": 17950,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-08",
-      "price": 18730,
-      "airline": "United"
-    },
-    {
-      "date": "2025-11-09",
-      "price": 18690,
-      "airline": "American"
-    },
-    {
-      "date": "2025-11-10",
-      "price": 14540,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-11",
-      "price": 16380,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-12",
-      "price": 16520,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-11-13",
-      "price": 17230,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-14",
-      "price": 21000,
-      "airline": "United"
-    },
-    {
-      "date": "2025-11-15",
-      "price": 19520,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-16",
-      "price": 16650,
-      "airline": "United"
-    },
-    {
-      "date": "2025-11-17",
-      "price": 16050,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-18",
-      "price": 18530,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-19",
-      "price": 16410,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-11-20",
-      "price": 19310,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-11-21",
-      "price": 17740,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-22",
-      "price": 18130,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-23",
-      "price": 19440,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-11-24",
-      "price": 14870,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-25",
-      "price": 15130,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-26",
-      "price": 19140,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-27",
-      "price": 17780,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-28",
-      "price": 16570,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-29",
-      "price": 19140,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-30",
-      "price": 18240,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-01",
-      "price": 15480,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-12-02",
-      "price": 17040,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-03",
-      "price": 16140,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-12-04",
-      "price": 18280,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-12-05",
-      "price": 16110,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-06",
-      "price": 15300,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-12-07",
-      "price": 18400,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-08",
-      "price": 15110,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-09",
-      "price": 14870,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-10",
-      "price": 13920,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-11",
-      "price": 16570,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-12",
-      "price": 16030,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-12-13",
-      "price": 19050,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-14",
-      "price": 17320,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-12-15",
-      "price": 14450,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-12-16",
-      "price": 14340,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-17",
-      "price": 15010,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-12-18",
-      "price": 16710,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-19",
-      "price": 17500,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-12-20",
-      "price": 18580,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-12-21",
-      "price": 16100,
-      "airline": "American"
-    },
-    {
-      "date": "2025-12-22",
-      "price": 16460,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-23",
-      "price": 17070,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-24",
-      "price": 15570,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-12-25",
-      "price": 14230,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-26",
-      "price": 19210,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-27",
-      "price": 16680,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-12-28",
-      "price": 16100,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-29",
-      "price": 17640,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-30",
-      "price": 14680,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2025-12-31",
-      "price": 15360,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-01",
-      "price": 17570,
-      "airline": "American"
-    },
-    {
-      "date": "2026-01-02",
-      "price": 18020,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-03",
-      "price": 15300,
-      "airline": "American"
-    },
-    {
-      "date": "2026-01-04",
-      "price": 16350,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-05",
-      "price": 17780,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-06",
-      "price": 14910,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-07",
-      "price": 15930,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-01-08",
-      "price": 16380,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-09",
-      "price": 17400,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-10",
-      "price": 19770,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-11",
-      "price": 21490,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-12",
-      "price": 14370,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-01-13",
-      "price": 15370,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-14",
-      "price": 17490,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-15",
-      "price": 15430,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-16",
-      "price": 17010,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-17",
-      "price": 19670,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-01-18",
-      "price": 16320,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-19",
-      "price": 14770,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-20",
-      "price": 16610,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-21",
-      "price": 15980,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-22",
-      "price": 15070,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-23",
-      "price": 17330,
-      "airline": "American"
-    },
-    {
-      "date": "2026-01-24",
-      "price": 16850,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-01-25",
-      "price": 15860,
-      "airline": "American"
-    },
-    {
-      "date": "2026-01-26",
-      "price": 15830,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-01-27",
-      "price": 17330,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-28",
-      "price": 16750,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-29",
-      "price": 16050,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-30",
-      "price": 17890,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-01-31",
-      "price": 18330,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-01",
-      "price": 13050,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-02-02",
-      "price": 13450,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-02-03",
-      "price": 12070,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-04",
-      "price": 12670,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-05",
-      "price": 13010,
-      "airline": "United"
-    },
-    {
-      "date": "2026-02-06",
-      "price": 11810,
-      "airline": "American"
-    },
-    {
-      "date": "2026-02-07",
-      "price": 13690,
-      "airline": "American"
-    },
-    {
-      "date": "2026-02-08",
-      "price": 11570,
-      "airline": "American"
-    },
-    {
-      "date": "2026-02-09",
-      "price": 12870,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-10",
-      "price": 13090,
-      "airline": "American"
-    },
-    {
-      "date": "2026-02-11",
-      "price": 11690,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-12",
-      "price": 13910,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-02-13",
-      "price": 13660,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-02-14",
-      "price": 14270,
-      "airline": "United"
-    },
-    {
-      "date": "2026-02-15",
-      "price": 11280,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-16",
-      "price": 11410,
-      "airline": "United"
-    },
-    {
-      "date": "2026-02-17",
-      "price": 12300,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-02-18",
-      "price": 11170,
-      "airline": "American"
-    },
-    {
-      "date": "2026-02-19",
-      "price": 10880,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-20",
-      "price": 13010,
-      "airline": "United"
-    },
-    {
-      "date": "2026-02-21",
-      "price": 11700,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-02-22",
-      "price": 12670,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-02-23",
-      "price": 11780,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-02-24",
-      "price": 12320,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-25",
-      "price": 13690,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-02-26",
-      "price": 11750,
-      "airline": "American"
-    },
-    {
-      "date": "2026-02-27",
-      "price": 12390,
-      "airline": "American"
-    },
-    {
-      "date": "2026-02-28",
-      "price": 12720,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-01",
-      "price": 11980,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-03-02",
-      "price": 10120,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-03-03",
-      "price": 11440,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-03-04",
-      "price": 13340,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-05",
-      "price": 11300,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-06",
-      "price": 10920,
-      "airline": "United"
-    },
-    {
-      "date": "2026-03-07",
-      "price": 11890,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-08",
-      "price": 13410,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-09",
-      "price": 11300,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-03-10",
-      "price": 12190,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-11",
-      "price": 13520,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-12",
-      "price": 13040,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-03-13",
-      "price": 12700,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-14",
-      "price": 14290,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-03-15",
-      "price": 12820,
-      "airline": "United"
-    },
-    {
-      "date": "2026-03-16",
-      "price": 10090,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-17",
-      "price": 11970,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-18",
-      "price": 12440,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-19",
-      "price": 10830,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-20",
-      "price": 13080,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-03-21",
-      "price": 12610,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-22",
-      "price": 13420,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-23",
-      "price": 12910,
-      "airline": "United"
-    },
-    {
-      "date": "2026-03-24",
-      "price": 11580,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-25",
-      "price": 11180,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-26",
-      "price": 11380,
-      "airline": "United"
-    },
-    {
-      "date": "2026-03-27",
-      "price": 14460,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-28",
-      "price": 12530,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-29",
-      "price": 13110,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-03-30",
-      "price": 9710,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-03-31",
-      "price": 12840,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-01",
-      "price": 12170,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-02",
-      "price": 9920,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-03",
-      "price": 12610,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-04-04",
-      "price": 12880,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-05",
-      "price": 12140,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-04-06",
-      "price": 12770,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-07",
-      "price": 9800,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-08",
-      "price": 12350,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-09",
-      "price": 10230,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-10",
-      "price": 12900,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-11",
-      "price": 13140,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-12",
-      "price": 13470,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-13",
-      "price": 11660,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-04-14",
-      "price": 12300,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-15",
-      "price": 12430,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-16",
-      "price": 11250,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-04-17",
-      "price": 13780,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-18",
-      "price": 11440,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-19",
-      "price": 12590,
-      "airline": "American"
-    },
-    {
-      "date": "2026-04-20",
-      "price": 12010,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-21",
-      "price": 12510,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-22",
-      "price": 10990,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-23",
-      "price": 12380,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-24",
-      "price": 14740,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-25",
-      "price": 13850,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-26",
-      "price": 14050,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-27",
-      "price": 12110,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-28",
-      "price": 12920,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-04-29",
-      "price": 11280,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-30",
-      "price": 11560,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-01",
-      "price": 12560,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-05-02",
-      "price": 13490,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-03",
-      "price": 15050,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-05-04",
-      "price": 11670,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-05",
-      "price": 11530,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-06",
-      "price": 10560,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-07",
-      "price": 12140,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-05-08",
-      "price": 13790,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-09",
-      "price": 13250,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-10",
-      "price": 15540,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-11",
-      "price": 11280,
-      "airline": "United"
-    },
-    {
-      "date": "2026-05-12",
-      "price": 10700,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-05-13",
-      "price": 13060,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-14",
-      "price": 12560,
-      "airline": "United"
-    },
-    {
-      "date": "2026-05-15",
-      "price": 12800,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-16",
-      "price": 14050,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-05-17",
-      "price": 13910,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-18",
-      "price": 12270,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-19",
-      "price": 12150,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-20",
-      "price": 12170,
-      "airline": "United"
-    },
-    {
-      "date": "2026-05-21",
-      "price": 13320,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-22",
-      "price": 12530,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-23",
-      "price": 12750,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-24",
-      "price": 13460,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-05-25",
-      "price": 10980,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-26",
-      "price": 10980,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-27",
-      "price": 12430,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-05-28",
-      "price": 12750,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-29",
-      "price": 14160,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-30",
-      "price": 14710,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-05-31",
-      "price": 13200,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-01",
-      "price": 11890,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-02",
-      "price": 10160,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-03",
-      "price": 12210,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-04",
-      "price": 11750,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-05",
-      "price": 15020,
-      "airline": "United"
-    },
-    {
-      "date": "2026-06-06",
-      "price": 13800,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-07",
-      "price": 14230,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-06-08",
-      "price": 13010,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-09",
-      "price": 12040,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-10",
-      "price": 13120,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-11",
-      "price": 13200,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-12",
-      "price": 12060,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-06-13",
-      "price": 12990,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-14",
-      "price": 13490,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-15",
-      "price": 10940,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-06-16",
-      "price": 11980,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-17",
-      "price": 12120,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-18",
-      "price": 13660,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-19",
-      "price": 11860,
-      "airline": "United"
-    },
-    {
-      "date": "2026-06-20",
-      "price": 12170,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-21",
-      "price": 11840,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-06-22",
-      "price": 12800,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-23",
-      "price": 11890,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-06-24",
-      "price": 12340,
-      "airline": "Qantas"
-    },
-    {
-      "date": "2026-06-25",
-      "price": 13020,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-26",
-      "price": 14680,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-27",
-      "price": 13540,
-      "airline": "United"
-    },
-    {
-      "date": "2026-06-28",
-      "price": 13430,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-29",
-      "price": 11460,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-30",
-      "price": 11100,
-      "airline": "American"
-    },
-    {
-      "date": "2026-07-01",
-      "price": 12570,
-      "airline": "United"
-    },
-    {
-      "date": "2026-07-02",
-      "price": 11390,
-      "airline": "United"
-    },
-    {
-      "date": "2026-07-03",
-      "price": 13120,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-07-04",
-      "price": 13560,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-07-05",
-      "price": 13240,
-      "airline": "United"
+      "date": "2026-07-07",
+      "snapshot": "2026-07-06",
+      "price": 1561,
+      "airline": "Delta",
+      "returnDate": "2026-07-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-07-08",
+      "snapshot": "2026-07-06",
+      "price": 1561,
+      "airline": "Delta",
+      "returnDate": "2026-07-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-07-09",
+      "snapshot": "2026-07-06",
+      "price": 1273,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-07-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-07-10",
+      "snapshot": "2026-07-06",
+      "price": 1789,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-07-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-06",
+      "price": 1304,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-07-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-06",
+      "price": 1580,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-07-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-06",
+      "price": 1580,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-07-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-06",
+      "price": 1423,
+      "airline": "United",
+      "returnDate": "2026-07-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-06",
+      "price": 1701,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-07-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-06",
+      "price": 2326,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-07-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-06",
+      "price": 2345,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-07-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-06",
+      "price": 1535,
+      "airline": "United",
+      "returnDate": "2026-08-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-06",
+      "price": 1706,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-08-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-06",
+      "price": 1437,
+      "airline": "United",
+      "returnDate": "2026-08-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-06",
+      "price": 1523,
+      "airline": "United",
+      "returnDate": "2026-08-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-06",
+      "price": 1149,
+      "airline": "United",
+      "returnDate": "2026-08-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-06",
+      "price": 1641,
+      "airline": "United",
+      "returnDate": "2026-08-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-06",
+      "price": 1344,
+      "airline": "United",
+      "returnDate": "2026-08-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-06",
+      "price": 1276,
+      "airline": "United",
+      "returnDate": "2026-08-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-06",
+      "price": 1157,
+      "airline": "United",
+      "returnDate": "2026-08-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2026-08-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2026-08-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-06",
+      "price": 938,
+      "airline": "United",
+      "returnDate": "2026-08-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-06",
+      "price": 1075,
+      "airline": "QantasAmerican",
+      "returnDate": "2026-08-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-06",
+      "price": 1364,
+      "airline": "Delta",
+      "returnDate": "2026-08-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-06",
+      "price": 1079,
+      "airline": "United",
+      "returnDate": "2026-08-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-06",
+      "price": 975,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-08-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-06",
+      "price": 936,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-08-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-06",
+      "price": 936,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-08-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-06",
+      "price": 935,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-08-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-06",
+      "price": 995,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-08-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-07",
+      "snapshot": "2026-07-06",
+      "price": 989,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-08-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-06",
+      "price": 1037,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-08-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-06",
+      "price": 975,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-08-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-08-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-08-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-12",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-08-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-06",
+      "price": 1079,
+      "airline": "United",
+      "returnDate": "2026-08-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-06",
+      "price": 989,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-08-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-08-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-06",
+      "price": 975,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-08-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-08-17",
+      "snapshot": "2026-07-06",
+      "price": 997,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-08-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-06",
+      "price": 975,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-06",
+      "price": 995,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-06",
+      "price": 1037,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-09-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-08-22",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "Delta",
+      "returnDate": "2026-09-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 50 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-06",
+      "price": 1380,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-25",
+      "snapshot": "2026-07-06",
+      "price": 1381,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-09-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-08-26",
+      "snapshot": "2026-07-06",
+      "price": 1380,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-27",
+      "snapshot": "2026-07-06",
+      "price": 995,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-28",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-06",
+      "price": 935,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-09-01",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-09-03",
+      "snapshot": "2026-07-06",
+      "price": 995,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-06",
+      "price": 989,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-09-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-09-08",
+      "snapshot": "2026-07-06",
+      "price": 935,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-09-09",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-06",
+      "price": 1074,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-11",
+      "snapshot": "2026-07-06",
+      "price": 989,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-09-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-13",
+      "snapshot": "2026-07-06",
+      "price": 975,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-14",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-15",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-16",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-09-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-17",
+      "snapshot": "2026-07-06",
+      "price": 995,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-06",
+      "price": 989,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-10-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-09-19",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-21",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-24",
+      "snapshot": "2026-07-06",
+      "price": 995,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-25",
+      "snapshot": "2026-07-06",
+      "price": 989,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-10-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-09-26",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-27",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-28",
+      "snapshot": "2026-07-06",
+      "price": 935,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-29",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-09-30",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-10-01",
+      "snapshot": "2026-07-06",
+      "price": 998,
+      "airline": "Delta",
+      "returnDate": "2026-10-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-06",
+      "price": 989,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-10-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-10-04",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "Delta",
+      "returnDate": "2026-10-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-06",
+      "price": 1121,
+      "airline": "Delta",
+      "returnDate": "2026-10-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-10-06",
+      "snapshot": "2026-07-06",
+      "price": 938,
+      "airline": "United",
+      "returnDate": "2026-10-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-06",
+      "price": 1166,
+      "airline": "Delta",
+      "returnDate": "2026-10-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-10-08",
+      "snapshot": "2026-07-06",
+      "price": 996,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-10-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-10-09",
+      "snapshot": "2026-07-06",
+      "price": 1249,
+      "airline": "United",
+      "returnDate": "2026-10-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-10-10",
+      "snapshot": "2026-07-06",
+      "price": 1133,
+      "airline": "Delta",
+      "returnDate": "2026-10-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-10-11",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2026-10-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2026-10-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-06",
+      "price": 935,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-10-14",
+      "snapshot": "2026-07-06",
+      "price": 975,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-10-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-10-15",
+      "snapshot": "2026-07-06",
+      "price": 995,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-10-16",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-10-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-10-18",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-10-19",
+      "snapshot": "2026-07-06",
+      "price": 935,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-10-21",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-10-25",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-10-26",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-10-27",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-02",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-03",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-07",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-09",
+      "snapshot": "2026-07-06",
+      "price": 935,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-11",
+      "snapshot": "2026-07-06",
+      "price": 935,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-12",
+      "snapshot": "2026-07-06",
+      "price": 995,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-13",
+      "snapshot": "2026-07-06",
+      "price": 1074,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-14",
+      "snapshot": "2026-07-06",
+      "price": 1075,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-06",
+      "price": 975,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-16",
+      "snapshot": "2026-07-06",
+      "price": 935,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-11-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-17",
+      "snapshot": "2026-07-06",
+      "price": 975,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-12-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2026-12-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-06",
+      "price": 995,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-12-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-20",
+      "snapshot": "2026-07-06",
+      "price": 1037,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-12-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-11-21",
+      "snapshot": "2026-07-06",
+      "price": 1076,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-12-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-22",
+      "snapshot": "2026-07-06",
+      "price": 975,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-12-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-23",
+      "snapshot": "2026-07-06",
+      "price": 935,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-12-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-24",
+      "snapshot": "2026-07-06",
+      "price": 935,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-12-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "Delta",
+      "returnDate": "2026-12-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-11-26",
+      "snapshot": "2026-07-06",
+      "price": 1079,
+      "airline": "Delta",
+      "returnDate": "2026-12-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 15 min"
+    },
+    {
+      "date": "2026-11-27",
+      "snapshot": "2026-07-06",
+      "price": 1079,
+      "airline": "United",
+      "returnDate": "2026-12-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-28",
+      "snapshot": "2026-07-06",
+      "price": 1079,
+      "airline": "United",
+      "returnDate": "2026-12-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2026-12-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-11-30",
+      "snapshot": "2026-07-06",
+      "price": 1121,
+      "airline": "Delta",
+      "returnDate": "2026-12-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 10 min"
+    },
+    {
+      "date": "2026-12-01",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2026-12-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2026-12-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-12-03",
+      "snapshot": "2026-07-06",
+      "price": 1079,
+      "airline": "United",
+      "returnDate": "2026-12-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-06",
+      "price": 1079,
+      "airline": "Delta",
+      "returnDate": "2026-12-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-06",
+      "price": 1221,
+      "airline": "United",
+      "returnDate": "2026-12-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-06",
+      "price": 1121,
+      "airline": "Delta",
+      "returnDate": "2026-12-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-12-07",
+      "snapshot": "2026-07-06",
+      "price": 989,
+      "airline": "United",
+      "returnDate": "2026-12-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2026-12-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-06",
+      "price": 1166,
+      "airline": "Delta",
+      "returnDate": "2026-12-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-12-10",
+      "snapshot": "2026-07-06",
+      "price": 1467,
+      "airline": "QantasAmerican",
+      "returnDate": "2026-12-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-06",
+      "price": 1549,
+      "airline": "United",
+      "returnDate": "2026-12-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-06",
+      "price": 1520,
+      "airline": "United",
+      "returnDate": "2026-12-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-12-13",
+      "snapshot": "2026-07-06",
+      "price": 1321,
+      "airline": "United",
+      "returnDate": "2026-12-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-06",
+      "price": 1317,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2026-12-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-12-15",
+      "snapshot": "2026-07-06",
+      "price": 1714,
+      "airline": "United",
+      "returnDate": "2026-12-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-12-16",
+      "snapshot": "2026-07-06",
+      "price": 1822,
+      "airline": "Delta",
+      "returnDate": "2026-12-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-12-17",
+      "snapshot": "2026-07-06",
+      "price": 2196,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2026-12-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-06",
+      "price": 2435,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-01-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-12-19",
+      "snapshot": "2026-07-06",
+      "price": 2077,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-01-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-06",
+      "price": 2408,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-01-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-12-21",
+      "snapshot": "2026-07-06",
+      "price": 2170,
+      "airline": "Delta",
+      "returnDate": "2027-01-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-12-22",
+      "snapshot": "2026-07-06",
+      "price": 1820,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-01-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-06",
+      "price": 1685,
+      "airline": "Delta",
+      "returnDate": "2027-01-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-06",
+      "price": 1378,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-01-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-06",
+      "price": 1292,
+      "airline": "Delta",
+      "returnDate": "2027-01-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-12-26",
+      "snapshot": "2026-07-06",
+      "price": 1318,
+      "airline": "QantasAmerican",
+      "returnDate": "2027-01-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-06",
+      "price": 1166,
+      "airline": "Delta",
+      "returnDate": "2027-01-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-06",
+      "price": 1523,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-01-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2026-12-29",
+      "snapshot": "2026-07-06",
+      "price": 943,
+      "airline": "Delta",
+      "returnDate": "2027-01-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-06",
+      "price": 938,
+      "airline": "Delta",
+      "returnDate": "2027-01-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-06",
+      "price": 998,
+      "airline": "Delta",
+      "returnDate": "2027-01-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-06",
+      "price": 1307,
+      "airline": "QantasAlaska, American",
+      "returnDate": "2027-01-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-06",
+      "price": 1381,
+      "airline": "Delta",
+      "returnDate": "2027-01-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-06",
+      "price": 1321,
+      "airline": "United",
+      "returnDate": "2027-01-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-01-04",
+      "snapshot": "2026-07-06",
+      "price": 1321,
+      "airline": "United",
+      "returnDate": "2027-01-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-01-05",
+      "snapshot": "2026-07-06",
+      "price": 1321,
+      "airline": "United",
+      "returnDate": "2027-01-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-01-06",
+      "snapshot": "2026-07-06",
+      "price": 1321,
+      "airline": "United",
+      "returnDate": "2027-01-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-01-07",
+      "snapshot": "2026-07-06",
+      "price": 1421,
+      "airline": "United",
+      "returnDate": "2027-01-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-01-08",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-01-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-09",
+      "snapshot": "2026-07-06",
+      "price": 1448,
+      "airline": "United",
+      "returnDate": "2027-01-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-01-10",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "QantasAmerican",
+      "returnDate": "2027-01-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-11",
+      "snapshot": "2026-07-06",
+      "price": 1348,
+      "airline": "United",
+      "returnDate": "2027-01-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-01-12",
+      "snapshot": "2026-07-06",
+      "price": 1298,
+      "airline": "Delta",
+      "returnDate": "2027-01-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2027-01-13",
+      "snapshot": "2026-07-06",
+      "price": 1357,
+      "airline": "Delta",
+      "returnDate": "2027-01-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-14",
+      "snapshot": "2026-07-06",
+      "price": 1142,
+      "airline": "Delta",
+      "returnDate": "2027-01-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-15",
+      "snapshot": "2026-07-06",
+      "price": 1310,
+      "airline": "Delta",
+      "returnDate": "2027-01-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-16",
+      "snapshot": "2026-07-06",
+      "price": 1039,
+      "airline": "Delta",
+      "returnDate": "2027-01-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-17",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "Delta",
+      "returnDate": "2027-01-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2027-01-18",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2027-02-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-01-19",
+      "snapshot": "2026-07-06",
+      "price": 938,
+      "airline": "Delta",
+      "returnDate": "2027-02-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2027-01-20",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2027-02-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-01-21",
+      "snapshot": "2026-07-06",
+      "price": 1043,
+      "airline": "QantasAlaska, American",
+      "returnDate": "2027-02-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-22",
+      "snapshot": "2026-07-06",
+      "price": 1079,
+      "airline": "United",
+      "returnDate": "2027-02-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-01-23",
+      "snapshot": "2026-07-06",
+      "price": 1075,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-02-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-24",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2027-02-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-01-25",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2027-02-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-01-26",
+      "snapshot": "2026-07-06",
+      "price": 975,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-02-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-27",
+      "snapshot": "2026-07-06",
+      "price": 975,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-02-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-28",
+      "snapshot": "2026-07-06",
+      "price": 1075,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-02-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-29",
+      "snapshot": "2026-07-06",
+      "price": 1074,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-02-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-30",
+      "snapshot": "2026-07-06",
+      "price": 1075,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-02-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-01-31",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-02-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-01",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-02-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-02",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-02-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-02-03",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-02-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-02-04",
+      "snapshot": "2026-07-06",
+      "price": 1074,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-02-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-02-05",
+      "snapshot": "2026-07-06",
+      "price": 1076,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-02-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-02-06",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-02-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-07",
+      "snapshot": "2026-07-06",
+      "price": 975,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-02-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-08",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-02-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-09",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2027-02-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-10",
+      "snapshot": "2026-07-06",
+      "price": 986,
+      "airline": "QantasAmerican",
+      "returnDate": "2027-02-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-02-11",
+      "snapshot": "2026-07-06",
+      "price": 1079,
+      "airline": "United",
+      "returnDate": "2027-02-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 30 min"
+    },
+    {
+      "date": "2027-02-12",
+      "snapshot": "2026-07-06",
+      "price": 1074,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-02-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-13",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-02-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-14",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-02-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-15",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-16",
+      "snapshot": "2026-07-06",
+      "price": 936,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-03-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-02-17",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-18",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-19",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-20",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-21",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-22",
+      "snapshot": "2026-07-06",
+      "price": 935,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-23",
+      "snapshot": "2026-07-06",
+      "price": 935,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-24",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-25",
+      "snapshot": "2026-07-06",
+      "price": 1074,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-26",
+      "snapshot": "2026-07-06",
+      "price": 1074,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-27",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-02-28",
+      "snapshot": "2026-07-06",
+      "price": 975,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-03-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-03-01",
+      "snapshot": "2026-07-06",
+      "price": 1021,
+      "airline": "Delta",
+      "returnDate": "2027-03-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 20 min"
+    },
+    {
+      "date": "2027-03-02",
+      "snapshot": "2026-07-06",
+      "price": 938,
+      "airline": "Delta",
+      "returnDate": "2027-03-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 5 min"
+    },
+    {
+      "date": "2027-03-03",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "Delta",
+      "returnDate": "2027-03-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 20 min"
+    },
+    {
+      "date": "2027-03-04",
+      "snapshot": "2026-07-06",
+      "price": 1074,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-05",
+      "snapshot": "2026-07-06",
+      "price": 1075,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-03-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-03-06",
+      "snapshot": "2026-07-06",
+      "price": 1074,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-07",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-08",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-09",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-10",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-11",
+      "snapshot": "2026-07-06",
+      "price": 1074,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-12",
+      "snapshot": "2026-07-06",
+      "price": 1075,
+      "airline": "QantasAmerican, Alaska",
+      "returnDate": "2027-03-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    },
+    {
+      "date": "2027-03-13",
+      "snapshot": "2026-07-06",
+      "price": 1074,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-14",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-15",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-16",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-17",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-03-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-18",
+      "snapshot": "2026-07-06",
+      "price": 1074,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-04-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-19",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-04-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-20",
+      "snapshot": "2026-07-06",
+      "price": 1075,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-04-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-21",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-04-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-22",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-04-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-23",
+      "snapshot": "2026-07-06",
+      "price": 974,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-04-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-24",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2027-04-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 30 min"
+    },
+    {
+      "date": "2027-03-25",
+      "snapshot": "2026-07-06",
+      "price": 1079,
+      "airline": "United",
+      "returnDate": "2027-04-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 30 min"
+    },
+    {
+      "date": "2027-03-26",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "AmericanQantas, Alaska",
+      "returnDate": "2027-04-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 25 min"
+    },
+    {
+      "date": "2027-03-27",
+      "snapshot": "2026-07-06",
+      "price": 1079,
+      "airline": "United",
+      "returnDate": "2027-04-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 20 min"
+    },
+    {
+      "date": "2027-03-28",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2027-04-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 20 min"
+    },
+    {
+      "date": "2027-03-29",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2027-04-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 20 min"
+    },
+    {
+      "date": "2027-03-30",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2027-04-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 20 min"
+    },
+    {
+      "date": "2027-03-31",
+      "snapshot": "2026-07-06",
+      "price": 979,
+      "airline": "United",
+      "returnDate": "2027-04-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr 20 min"
+    },
+    {
+      "date": "2027-04-01",
+      "snapshot": "2026-07-06",
+      "price": 1079,
+      "airline": "Delta",
+      "returnDate": "2027-04-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
+    },
+    {
+      "date": "2027-04-02",
+      "snapshot": "2026-07-06",
+      "price": 1079,
+      "airline": "Delta",
+      "returnDate": "2027-04-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 55 min"
     }
   ]
 }

@@ -2,3662 +2,2707 @@
   "route": "LHR-HKG",
   "origin": "LHR",
   "dest": "HKG",
-  "label": "London (LHR) \u2192  Hong Kong (HKG)",
+  "label": "London (LHR) → Hong Kong (HKG)",
   "prices": [
     {
-      "date": "2024-07-05",
-      "price": 10740,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-06",
-      "price": 11310,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-07-07",
-      "price": 11410,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-08",
-      "price": 10240,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-07-09",
-      "price": 9510,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-10",
-      "price": 9920,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-11",
-      "price": 8460,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-07-12",
-      "price": 12460,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-13",
-      "price": 10730,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-07-14",
-      "price": 11100,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-07-15",
-      "price": 10480,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-16",
-      "price": 10060,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-17",
-      "price": 10470,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-18",
-      "price": 10960,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-19",
-      "price": 9240,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-07-20",
-      "price": 11370,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-21",
-      "price": 11220,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-07-22",
-      "price": 10770,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-07-23",
-      "price": 10390,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-07-24",
-      "price": 9460,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-07-25",
-      "price": 8700,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-07-26",
-      "price": 11280,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-07-27",
-      "price": 11050,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-28",
-      "price": 11590,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-29",
-      "price": 9250,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-30",
-      "price": 9390,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-31",
-      "price": 9930,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-01",
-      "price": 10320,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-02",
-      "price": 11220,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-08-03",
-      "price": 10390,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-04",
-      "price": 11050,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-05",
-      "price": 10350,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-06",
-      "price": 8830,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-07",
-      "price": 10710,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-08-08",
-      "price": 12110,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-08-09",
-      "price": 10770,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-08-10",
-      "price": 11390,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-08-11",
-      "price": 10350,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-12",
-      "price": 9290,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-13",
-      "price": 9850,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-08-14",
-      "price": 10540,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-15",
-      "price": 10890,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-16",
-      "price": 10290,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-17",
-      "price": 10210,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-18",
-      "price": 12380,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-19",
-      "price": 10290,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-20",
-      "price": 9900,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-08-21",
-      "price": 8580,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-22",
-      "price": 10510,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-23",
-      "price": 10530,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-24",
-      "price": 9860,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-08-25",
-      "price": 11430,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-08-26",
-      "price": 8860,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-27",
-      "price": 9920,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-28",
-      "price": 10330,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-08-29",
-      "price": 9720,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-08-30",
-      "price": 11170,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-31",
-      "price": 11080,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-01",
-      "price": 10300,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-02",
-      "price": 9810,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-03",
-      "price": 10260,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-09-04",
-      "price": 9630,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-05",
-      "price": 9040,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-09-06",
-      "price": 12450,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-07",
-      "price": 12210,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-08",
-      "price": 10080,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-09-09",
-      "price": 9930,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-09-10",
-      "price": 10600,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-11",
-      "price": 10260,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-09-12",
-      "price": 10130,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-13",
-      "price": 11040,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-09-14",
-      "price": 9780,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-09-15",
-      "price": 11630,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-09-16",
-      "price": 11020,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-09-17",
-      "price": 9140,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-18",
-      "price": 8980,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-19",
-      "price": 9420,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-09-20",
-      "price": 11220,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-21",
-      "price": 12160,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-09-22",
-      "price": 10450,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-23",
-      "price": 10050,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-09-24",
-      "price": 9380,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-09-25",
-      "price": 9940,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-26",
-      "price": 11450,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-27",
-      "price": 10600,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-28",
-      "price": 12430,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-29",
-      "price": 12530,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-09-30",
-      "price": 10050,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-01",
-      "price": 10110,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-02",
-      "price": 9500,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-03",
-      "price": 10660,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-04",
-      "price": 11600,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-10-05",
-      "price": 12170,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-06",
-      "price": 12100,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-07",
-      "price": 11030,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-08",
-      "price": 11790,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-10-09",
-      "price": 9430,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-10",
-      "price": 10080,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-11",
-      "price": 10990,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-12",
-      "price": 9800,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-13",
-      "price": 11040,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-14",
-      "price": 10600,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-15",
-      "price": 11280,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-16",
-      "price": 10380,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-17",
-      "price": 8810,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-18",
-      "price": 10040,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-19",
-      "price": 10280,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-10-20",
-      "price": 10970,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-21",
-      "price": 9200,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-22",
-      "price": 10090,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-23",
-      "price": 9110,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-24",
-      "price": 9390,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-25",
-      "price": 10980,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-26",
-      "price": 10820,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-10-27",
-      "price": 9750,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-10-28",
-      "price": 9830,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-29",
-      "price": 8900,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-30",
-      "price": 9590,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-10-31",
-      "price": 8540,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-01",
-      "price": 12470,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-11-02",
-      "price": 12670,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-03",
-      "price": 11840,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-11-04",
-      "price": 11380,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-05",
-      "price": 11680,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-11-06",
-      "price": 9600,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-07",
-      "price": 10780,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-08",
-      "price": 12810,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-11-09",
-      "price": 12960,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-10",
-      "price": 12630,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-11",
-      "price": 12200,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-11-12",
-      "price": 11120,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-13",
-      "price": 10520,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-14",
-      "price": 11570,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-15",
-      "price": 12530,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-16",
-      "price": 11880,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-17",
-      "price": 13620,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-18",
-      "price": 10470,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-19",
-      "price": 13370,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-20",
-      "price": 11290,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-21",
-      "price": 12210,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-22",
-      "price": 12570,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-23",
-      "price": 12720,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-24",
-      "price": 11360,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-25",
-      "price": 12420,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-26",
-      "price": 11450,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-11-27",
-      "price": 12010,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-11-28",
-      "price": 11880,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-29",
-      "price": 13790,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-30",
-      "price": 11410,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-12-01",
-      "price": 14220,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-12-02",
-      "price": 11080,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-12-03",
-      "price": 12630,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-12-04",
-      "price": 11090,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-12-05",
-      "price": 11780,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-06",
-      "price": 13610,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-07",
-      "price": 12490,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-08",
-      "price": 10370,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-12-09",
-      "price": 10670,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-10",
-      "price": 11280,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-11",
-      "price": 11130,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-12",
-      "price": 11150,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-12-13",
-      "price": 12720,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-14",
-      "price": 12540,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-12-15",
-      "price": 14100,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-16",
-      "price": 10930,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-12-17",
-      "price": 12400,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-18",
-      "price": 10040,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-19",
-      "price": 10290,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-20",
-      "price": 15170,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-12-21",
-      "price": 12830,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-22",
-      "price": 12200,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-23",
-      "price": 11200,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-12-24",
-      "price": 10360,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-12-25",
-      "price": 11340,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-26",
-      "price": 12200,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-27",
-      "price": 14310,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-28",
-      "price": 12140,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-12-29",
-      "price": 14610,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-12-30",
-      "price": 11450,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-31",
-      "price": 13170,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-01-01",
-      "price": 13030,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-02",
-      "price": 14270,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-01-03",
-      "price": 14550,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-04",
-      "price": 13810,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-01-05",
-      "price": 15130,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-01-06",
-      "price": 15470,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-07",
-      "price": 13590,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-01-08",
-      "price": 14100,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-01-09",
-      "price": 14490,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-01-10",
-      "price": 14300,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-11",
-      "price": 16240,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-12",
-      "price": 15100,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-01-13",
-      "price": 14050,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-01-14",
-      "price": 13720,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-01-15",
-      "price": 15250,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-16",
-      "price": 14160,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-01-17",
-      "price": 16710,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-01-18",
-      "price": 14700,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-01-19",
-      "price": 16110,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-20",
-      "price": 12370,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-01-21",
-      "price": 12550,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-01-22",
-      "price": 14680,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-01-23",
-      "price": 12250,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-01-24",
-      "price": 15710,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-01-25",
-      "price": 16560,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-26",
-      "price": 14520,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-27",
-      "price": 14530,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-28",
-      "price": 12400,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-01-29",
-      "price": 12980,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-01-30",
-      "price": 14860,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-01-31",
-      "price": 14500,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-01",
-      "price": 15960,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-02",
-      "price": 16900,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-02-03",
-      "price": 14270,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-04",
-      "price": 16490,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-05",
-      "price": 13940,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-06",
-      "price": 14490,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-02-07",
-      "price": 15150,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-08",
-      "price": 14740,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-02-09",
-      "price": 16630,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-10",
-      "price": 13410,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-11",
-      "price": 13790,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-02-12",
-      "price": 15100,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-02-13",
-      "price": 12460,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-02-14",
-      "price": 15240,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-15",
-      "price": 18460,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-16",
-      "price": 16890,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-17",
-      "price": 14220,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-02-18",
-      "price": 13360,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-02-19",
-      "price": 12710,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-02-20",
-      "price": 14610,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-21",
-      "price": 17220,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-02-22",
-      "price": 15980,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-02-23",
-      "price": 17970,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-24",
-      "price": 12940,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-25",
-      "price": 13800,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-26",
-      "price": 16050,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-27",
-      "price": 14280,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-02-28",
-      "price": 15330,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-01",
-      "price": 12380,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-02",
-      "price": 10990,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-03",
-      "price": 9940,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-04",
-      "price": 10840,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-05",
-      "price": 10190,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-06",
-      "price": 10810,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-07",
-      "price": 12220,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-08",
-      "price": 10880,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-09",
-      "price": 10240,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-10",
-      "price": 10120,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-03-11",
-      "price": 8910,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-12",
-      "price": 9530,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-13",
-      "price": 9920,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-14",
-      "price": 12130,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-15",
-      "price": 12640,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-16",
-      "price": 12380,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-03-17",
-      "price": 9950,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-18",
-      "price": 11170,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-19",
-      "price": 11030,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-03-20",
-      "price": 10310,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-21",
-      "price": 10160,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-22",
-      "price": 9030,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-23",
-      "price": 11700,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-03-24",
-      "price": 10880,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-25",
-      "price": 9740,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-26",
-      "price": 10370,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-03-27",
-      "price": 9400,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-28",
-      "price": 10290,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-29",
-      "price": 10050,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-30",
-      "price": 9910,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-03-31",
-      "price": 10250,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-01",
-      "price": 11130,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-02",
-      "price": 10010,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-04-03",
-      "price": 11110,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-04-04",
-      "price": 10400,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-05",
-      "price": 11500,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-06",
-      "price": 10880,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-07",
-      "price": 10380,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-08",
-      "price": 10110,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-09",
-      "price": 9350,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-10",
-      "price": 8580,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-04-11",
-      "price": 11910,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-12",
-      "price": 12210,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-13",
-      "price": 11390,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-14",
-      "price": 10290,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-15",
-      "price": 10670,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-04-16",
-      "price": 10500,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-17",
-      "price": 8790,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-04-18",
-      "price": 11830,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-04-19",
-      "price": 11970,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-20",
-      "price": 10990,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-04-21",
-      "price": 10240,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-22",
-      "price": 10970,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-23",
-      "price": 10680,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-24",
-      "price": 9550,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-04-25",
-      "price": 11480,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-26",
-      "price": 10780,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-27",
-      "price": 11500,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-04-28",
-      "price": 10580,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-29",
-      "price": 8170,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-04-30",
-      "price": 11390,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-01",
-      "price": 9710,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-02",
-      "price": 11680,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-05-03",
-      "price": 11340,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-04",
-      "price": 10690,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-05",
-      "price": 10360,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-06",
-      "price": 9300,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-07",
-      "price": 10240,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-08",
-      "price": 9970,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-09",
-      "price": 10360,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-10",
-      "price": 10390,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-05-11",
-      "price": 10650,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-12",
-      "price": 8790,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-13",
-      "price": 9770,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-05-14",
-      "price": 10180,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-15",
-      "price": 9510,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-16",
-      "price": 9300,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-17",
-      "price": 11390,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-18",
-      "price": 11260,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-19",
-      "price": 9360,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-05-20",
-      "price": 10570,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-05-21",
-      "price": 9600,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-22",
-      "price": 9410,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-05-23",
-      "price": 12290,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-24",
-      "price": 12950,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-25",
-      "price": 11700,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-05-26",
-      "price": 9910,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-27",
-      "price": 9410,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-28",
-      "price": 8160,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-29",
-      "price": 8840,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-05-30",
-      "price": 11270,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-31",
-      "price": 11140,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-06-01",
-      "price": 13290,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-02",
-      "price": 9500,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-06-03",
-      "price": 10140,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-04",
-      "price": 10130,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-05",
-      "price": 9140,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-06",
-      "price": 9960,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-06-07",
-      "price": 12300,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-08",
-      "price": 11340,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-09",
-      "price": 10250,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-06-10",
-      "price": 10730,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-11",
-      "price": 9960,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-12",
-      "price": 12060,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-06-13",
-      "price": 11110,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-14",
-      "price": 11860,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-15",
-      "price": 11190,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-16",
-      "price": 9890,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-06-17",
-      "price": 10400,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-18",
-      "price": 10950,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-19",
-      "price": 9530,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-06-20",
-      "price": 11700,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-21",
-      "price": 10680,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-06-22",
-      "price": 11460,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-23",
-      "price": 9570,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-06-24",
-      "price": 11120,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-25",
-      "price": 10250,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-26",
-      "price": 10310,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-27",
-      "price": 11140,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-28",
-      "price": 12030,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-29",
-      "price": 11530,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-30",
-      "price": 9520,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-07-01",
-      "price": 9700,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-02",
-      "price": 10200,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-03",
-      "price": 9400,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-04",
-      "price": 10820,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-05",
-      "price": 10960,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-06",
-      "price": 10540,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-07-07",
-      "price": 10210,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-08",
-      "price": 9700,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-09",
-      "price": 10170,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-10",
-      "price": 10400,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-11",
-      "price": 11230,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-12",
-      "price": 11010,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-07-13",
-      "price": 12600,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-14",
-      "price": 11130,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-15",
-      "price": 9210,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-16",
-      "price": 10050,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-17",
-      "price": 9990,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-18",
-      "price": 11690,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-19",
-      "price": 12220,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-20",
-      "price": 12620,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-21",
-      "price": 10410,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-07-22",
-      "price": 8660,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-23",
-      "price": 10450,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-24",
-      "price": 10610,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-25",
-      "price": 9260,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-26",
-      "price": 11030,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-27",
-      "price": 9800,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-28",
-      "price": 9840,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-29",
-      "price": 9970,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-30",
-      "price": 11050,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-31",
-      "price": 8600,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-01",
-      "price": 10930,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-08-02",
-      "price": 11570,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-03",
-      "price": 10870,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-04",
-      "price": 10170,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-05",
-      "price": 8800,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-08-06",
-      "price": 11900,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-08-07",
-      "price": 10930,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-08",
-      "price": 10710,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-09",
-      "price": 9510,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-08-10",
-      "price": 9310,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-11",
-      "price": 11010,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-08-12",
-      "price": 10710,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-13",
-      "price": 10430,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-14",
-      "price": 10050,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-08-15",
-      "price": 12540,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-16",
-      "price": 10050,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-17",
-      "price": 11720,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-08-18",
-      "price": 8780,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-19",
-      "price": 10720,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-08-20",
-      "price": 10970,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-08-21",
-      "price": 9620,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-22",
-      "price": 11310,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-08-23",
-      "price": 9810,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-08-24",
-      "price": 9860,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-08-25",
-      "price": 8730,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-26",
-      "price": 9090,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-27",
-      "price": 10290,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-08-28",
-      "price": 9650,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-08-29",
-      "price": 12480,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-30",
-      "price": 11800,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-08-31",
-      "price": 9830,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-01",
-      "price": 10600,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-09-02",
-      "price": 10040,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-03",
-      "price": 9200,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-09-04",
-      "price": 10150,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-09-05",
-      "price": 11690,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-09-06",
-      "price": 10330,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-07",
-      "price": 12900,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-09-08",
-      "price": 9520,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-09-09",
-      "price": 9350,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-09-10",
-      "price": 9560,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-09-11",
-      "price": 9920,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-09-12",
-      "price": 11120,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-09-13",
-      "price": 10550,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-09-14",
-      "price": 13900,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-09-15",
-      "price": 10380,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-16",
-      "price": 9730,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-09-17",
-      "price": 10230,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-18",
-      "price": 10450,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-09-19",
-      "price": 11350,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-09-20",
-      "price": 10220,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-21",
-      "price": 11040,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-09-22",
-      "price": 9860,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-09-23",
-      "price": 9990,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-09-24",
-      "price": 9380,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-09-25",
-      "price": 9670,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-09-26",
-      "price": 10150,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-09-27",
-      "price": 11910,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-09-28",
-      "price": 10540,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-09-29",
-      "price": 9190,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-09-30",
-      "price": 9880,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-01",
-      "price": 9920,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-02",
-      "price": 9610,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-03",
-      "price": 11390,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-04",
-      "price": 11800,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-05",
-      "price": 8980,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-06",
-      "price": 10530,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-07",
-      "price": 10630,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-08",
-      "price": 10310,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-09",
-      "price": 9150,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-10",
-      "price": 11420,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-11",
-      "price": 11410,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-12",
-      "price": 10340,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-13",
-      "price": 9320,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-14",
-      "price": 11150,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-15",
-      "price": 9210,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-16",
-      "price": 10740,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-17",
-      "price": 11500,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-18",
-      "price": 10000,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-19",
-      "price": 11540,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-20",
-      "price": 10520,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-21",
-      "price": 10580,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-22",
-      "price": 8660,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-23",
-      "price": 10380,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-24",
-      "price": 12490,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-25",
-      "price": 12020,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-26",
-      "price": 10840,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-27",
-      "price": 9860,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-28",
-      "price": 11240,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-29",
-      "price": 9590,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-30",
-      "price": 10690,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-31",
-      "price": 9750,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-11-01",
-      "price": 13450,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-02",
-      "price": 11960,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-11-03",
-      "price": 10190,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-11-04",
-      "price": 11740,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-11-05",
-      "price": 11400,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-11-06",
-      "price": 11090,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-11-07",
-      "price": 13380,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-11-08",
-      "price": 12650,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-11-09",
-      "price": 12540,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-11-10",
-      "price": 9720,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-11",
-      "price": 11880,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-12",
-      "price": 11540,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-13",
-      "price": 11110,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-11-14",
-      "price": 10920,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-11-15",
-      "price": 13530,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-11-16",
-      "price": 14830,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-11-17",
-      "price": 11920,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-11-18",
-      "price": 11970,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-11-19",
-      "price": 11820,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-20",
-      "price": 11850,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-21",
-      "price": 12030,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-22",
-      "price": 12840,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-11-23",
-      "price": 11660,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-11-24",
-      "price": 12550,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-11-25",
-      "price": 12840,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-11-26",
-      "price": 11450,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-11-27",
-      "price": 13290,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-11-28",
-      "price": 13960,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-11-29",
-      "price": 12400,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-30",
-      "price": 12760,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-12-01",
-      "price": 10300,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-02",
-      "price": 11260,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-03",
-      "price": 10440,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-04",
-      "price": 11210,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-12-05",
-      "price": 12710,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-06",
-      "price": 12480,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-07",
-      "price": 11890,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-12-08",
-      "price": 12720,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-09",
-      "price": 10650,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-10",
-      "price": 10100,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-11",
-      "price": 11500,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-12",
-      "price": 12300,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-12-13",
-      "price": 12380,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-14",
-      "price": 12070,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-12-15",
-      "price": 12390,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-12-16",
-      "price": 12460,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-17",
-      "price": 11350,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-18",
-      "price": 11850,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-19",
-      "price": 11940,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-20",
-      "price": 12190,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-21",
-      "price": 10870,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-22",
-      "price": 11240,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-12-23",
-      "price": 11190,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-12-24",
-      "price": 10000,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-12-25",
-      "price": 12050,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-26",
-      "price": 11990,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-27",
-      "price": 13980,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-12-28",
-      "price": 12460,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-12-29",
-      "price": 11300,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-30",
-      "price": 10690,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-12-31",
-      "price": 11660,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-01",
-      "price": 15570,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-02",
-      "price": 14390,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-03",
-      "price": 14470,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-04",
-      "price": 14790,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-01-05",
-      "price": 13730,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-06",
-      "price": 14770,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-07",
-      "price": 13300,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-08",
-      "price": 12410,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-01-09",
-      "price": 14570,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-01-10",
-      "price": 16940,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-11",
-      "price": 15590,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-12",
-      "price": 14120,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-01-13",
-      "price": 13500,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-01-14",
-      "price": 12850,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-15",
-      "price": 13960,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-16",
-      "price": 14540,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-01-17",
-      "price": 16060,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-18",
-      "price": 14900,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-01-19",
-      "price": 14910,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-20",
-      "price": 12960,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-21",
-      "price": 13550,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-22",
-      "price": 13920,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-01-23",
-      "price": 15260,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-01-24",
-      "price": 13980,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-01-25",
-      "price": 15260,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-01-26",
-      "price": 14380,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-01-27",
-      "price": 14570,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-28",
-      "price": 12450,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-01-29",
-      "price": 14800,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-01-30",
-      "price": 15730,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-31",
-      "price": 14650,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-02-01",
-      "price": 15870,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-02",
-      "price": 14380,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-02-03",
-      "price": 13980,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-02-04",
-      "price": 13590,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-02-05",
-      "price": 14730,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-02-06",
-      "price": 18230,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-02-07",
-      "price": 16690,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-08",
-      "price": 14930,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-09",
-      "price": 13220,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-02-10",
-      "price": 14010,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-11",
-      "price": 14580,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-12",
-      "price": 12170,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-02-13",
-      "price": 17140,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-02-14",
-      "price": 15940,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-02-15",
-      "price": 14970,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-02-16",
-      "price": 12550,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-02-17",
-      "price": 16470,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-02-18",
-      "price": 14010,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-02-19",
-      "price": 14180,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-20",
-      "price": 15170,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-02-21",
-      "price": 18930,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-02-22",
-      "price": 14010,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-23",
-      "price": 16060,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-24",
-      "price": 10850,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-25",
-      "price": 12950,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-02-26",
-      "price": 13190,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-27",
-      "price": 16770,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-02-28",
-      "price": 17330,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-01",
-      "price": 12500,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-03-02",
-      "price": 11280,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-03-03",
-      "price": 9430,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-03-04",
-      "price": 10610,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-03-05",
-      "price": 10140,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-03-06",
-      "price": 11790,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-07",
-      "price": 12540,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-03-08",
-      "price": 10270,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-03-09",
-      "price": 10520,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-10",
-      "price": 9520,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-11",
-      "price": 9290,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-03-12",
-      "price": 10040,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-13",
-      "price": 12450,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-03-14",
-      "price": 10710,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-15",
-      "price": 11600,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-03-16",
-      "price": 11090,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-17",
-      "price": 10340,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-18",
-      "price": 9460,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-03-19",
-      "price": 10310,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-03-20",
-      "price": 11780,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-03-21",
-      "price": 10270,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-03-22",
-      "price": 9910,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-03-23",
-      "price": 10100,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-24",
-      "price": 9200,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-03-25",
-      "price": 9460,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-03-26",
-      "price": 10410,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-03-27",
-      "price": 10720,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-03-28",
-      "price": 10840,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-29",
-      "price": 11680,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-03-30",
-      "price": 9470,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-03-31",
-      "price": 9690,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-04-01",
-      "price": 9560,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-04-02",
-      "price": 10070,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-04-03",
-      "price": 10710,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-04",
-      "price": 10940,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-05",
-      "price": 11950,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-04-06",
-      "price": 11050,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-04-07",
-      "price": 8890,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-04-08",
-      "price": 10320,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-04-09",
-      "price": 11110,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-10",
-      "price": 10970,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-04-11",
-      "price": 8200,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-12",
-      "price": 10650,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-04-13",
-      "price": 10350,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-04-14",
-      "price": 9120,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-15",
-      "price": 9510,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-16",
-      "price": 9720,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-04-17",
-      "price": 11060,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-04-18",
-      "price": 9830,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-04-19",
-      "price": 10870,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-20",
-      "price": 10420,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-21",
-      "price": 10260,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-04-22",
-      "price": 9420,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-04-23",
-      "price": 11100,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-24",
-      "price": 12280,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-04-25",
-      "price": 11070,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-04-26",
-      "price": 11260,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-04-27",
-      "price": 8520,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-04-28",
-      "price": 9190,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-29",
-      "price": 10650,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-04-30",
-      "price": 9580,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-05-01",
-      "price": 11240,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-02",
-      "price": 11080,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-03",
-      "price": 9300,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-05-04",
-      "price": 9410,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-05-05",
-      "price": 10700,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-05-06",
-      "price": 9510,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-07",
-      "price": 9910,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-05-08",
-      "price": 10850,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-09",
-      "price": 10190,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-05-10",
-      "price": 9710,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-11",
-      "price": 10200,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-12",
-      "price": 9560,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-05-13",
-      "price": 9830,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-14",
-      "price": 9720,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-15",
-      "price": 11350,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-16",
-      "price": 10120,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-17",
-      "price": 9450,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-05-18",
-      "price": 11180,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-05-19",
-      "price": 10040,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-05-20",
-      "price": 9550,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-05-21",
-      "price": 9640,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-22",
-      "price": 12040,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-23",
-      "price": 10660,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-24",
-      "price": 12120,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-05-25",
-      "price": 10780,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-26",
-      "price": 10350,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-27",
-      "price": 8970,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-28",
-      "price": 9530,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-29",
-      "price": 11050,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-30",
-      "price": 10920,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-31",
-      "price": 11700,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-06-01",
-      "price": 11180,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-06-02",
-      "price": 10250,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-06-03",
-      "price": 10090,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-06-04",
-      "price": 8180,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-06-05",
-      "price": 10950,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-06-06",
-      "price": 10720,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-07",
-      "price": 10410,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-06-08",
-      "price": 11200,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-06-09",
-      "price": 9980,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-06-10",
-      "price": 9270,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-06-11",
-      "price": 9950,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-06-12",
-      "price": 11110,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-13",
-      "price": 9970,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-06-14",
-      "price": 11080,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-06-15",
-      "price": 9670,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-06-16",
-      "price": 10000,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-17",
-      "price": 8650,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-18",
-      "price": 9730,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-19",
-      "price": 11290,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-06-20",
-      "price": 11810,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-21",
-      "price": 11050,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-06-22",
-      "price": 9400,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-06-23",
-      "price": 9730,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-06-24",
-      "price": 10820,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-25",
-      "price": 10520,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-26",
-      "price": 10900,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-06-27",
-      "price": 11970,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-28",
-      "price": 12460,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-06-29",
-      "price": 8890,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-06-30",
-      "price": 9980,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-07-01",
-      "price": 10560,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-07-02",
-      "price": 10000,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-07-03",
-      "price": 9800,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-07-04",
-      "price": 10610,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-07-05",
-      "price": 11280,
-      "airline": "Cathay Pacific"
+      "date": "2026-07-07",
+      "snapshot": "2026-07-06",
+      "price": 1246,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-07-08",
+      "snapshot": "2026-07-06",
+      "price": 1246,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-07-09",
+      "snapshot": "2026-07-06",
+      "price": 1360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-07-10",
+      "snapshot": "2026-07-06",
+      "price": 1700,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-06",
+      "price": 1500,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-06",
+      "price": 1500,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-06",
+      "price": 1500,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 50 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-06",
+      "price": 1500,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-06",
+      "price": 1700,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-06",
+      "price": 1966,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-06",
+      "price": 2101,
+      "airline": "British Airways",
+      "returnDate": "2026-07-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-06",
+      "price": 2680,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-06",
+      "price": 2145,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-06",
+      "price": 2089,
+      "airline": "British Airways",
+      "returnDate": "2026-08-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-06",
+      "price": 1901,
+      "airline": "British Airways",
+      "returnDate": "2026-08-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-06",
+      "price": 1675,
+      "airline": "British Airways",
+      "returnDate": "2026-08-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-06",
+      "price": 1675,
+      "airline": "British Airways",
+      "returnDate": "2026-08-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-06",
+      "price": 1953,
+      "airline": "British Airways",
+      "returnDate": "2026-08-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-06",
+      "price": 1877,
+      "airline": "British Airways",
+      "returnDate": "2026-08-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-06",
+      "price": 1689,
+      "airline": "British Airways",
+      "returnDate": "2026-08-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-06",
+      "price": 1531,
+      "airline": "British Airways",
+      "returnDate": "2026-08-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-06",
+      "price": 1820,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-06",
+      "price": 1820,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-06",
+      "price": 1700,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-06",
+      "price": 2145,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-06",
+      "price": 2086,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 50 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-06",
+      "price": 1820,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 50 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-06",
+      "price": 1820,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 50 min"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-06",
+      "price": 1507,
+      "airline": "British Airways",
+      "returnDate": "2026-08-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-06",
+      "price": 1656,
+      "airline": "British Airways",
+      "returnDate": "2026-08-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-06",
+      "price": 1820,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-08-07",
+      "snapshot": "2026-07-06",
+      "price": 1552,
+      "airline": "British Airways",
+      "returnDate": "2026-08-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-06",
+      "price": 1613,
+      "airline": "British Airways",
+      "returnDate": "2026-08-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-06",
+      "price": 1557,
+      "airline": "British Airways",
+      "returnDate": "2026-08-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-06",
+      "price": 1277,
+      "airline": "British Airways",
+      "returnDate": "2026-08-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-06",
+      "price": 1628,
+      "airline": "British Airways",
+      "returnDate": "2026-08-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-12",
+      "snapshot": "2026-07-06",
+      "price": 1507,
+      "airline": "British Airways",
+      "returnDate": "2026-08-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-06",
+      "price": 1412,
+      "airline": "British Airways",
+      "returnDate": "2026-08-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-06",
+      "price": 1432,
+      "airline": "British Airways",
+      "returnDate": "2026-08-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-06",
+      "price": 1539,
+      "airline": "British Airways",
+      "returnDate": "2026-08-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-06",
+      "price": 1769,
+      "airline": "British Airways",
+      "returnDate": "2026-08-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-17",
+      "snapshot": "2026-07-06",
+      "price": 1539,
+      "airline": "British Airways",
+      "returnDate": "2026-08-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-06",
+      "price": 1456,
+      "airline": "British Airways",
+      "returnDate": "2026-09-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-06",
+      "price": 1277,
+      "airline": "British Airways",
+      "returnDate": "2026-09-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-06",
+      "price": 1277,
+      "airline": "British Airways",
+      "returnDate": "2026-09-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-06",
+      "price": 1205,
+      "airline": "British Airways",
+      "returnDate": "2026-09-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-22",
+      "snapshot": "2026-07-06",
+      "price": 1212,
+      "airline": "British Airways",
+      "returnDate": "2026-09-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-06",
+      "price": 1122,
+      "airline": "British Airways",
+      "returnDate": "2026-09-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-06",
+      "price": 918,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-08-25",
+      "snapshot": "2026-07-06",
+      "price": 918,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-08-26",
+      "snapshot": "2026-07-06",
+      "price": 933,
+      "airline": "British Airways",
+      "returnDate": "2026-09-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-27",
+      "snapshot": "2026-07-06",
+      "price": 933,
+      "airline": "British Airways",
+      "returnDate": "2026-09-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-28",
+      "snapshot": "2026-07-06",
+      "price": 968,
+      "airline": "British Airways",
+      "returnDate": "2026-09-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-06",
+      "price": 968,
+      "airline": "British Airways",
+      "returnDate": "2026-09-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-06",
+      "price": 996,
+      "airline": "British Airways",
+      "returnDate": "2026-09-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-06",
+      "price": 933,
+      "airline": "British Airways",
+      "returnDate": "2026-09-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-09-01",
+      "snapshot": "2026-07-06",
+      "price": 918,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-06",
+      "price": 933,
+      "airline": "British Airways",
+      "returnDate": "2026-09-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-09-03",
+      "snapshot": "2026-07-06",
+      "price": 923,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-06",
+      "price": 1145,
+      "airline": "British Airways",
+      "returnDate": "2026-09-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-06",
+      "price": 1108,
+      "airline": "British Airways",
+      "returnDate": "2026-09-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-06",
+      "price": 1004,
+      "airline": "British Airways",
+      "returnDate": "2026-09-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-06",
+      "price": 957,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-09-08",
+      "snapshot": "2026-07-06",
+      "price": 1027,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-09-09",
+      "snapshot": "2026-07-06",
+      "price": 1082,
+      "airline": "British Airways",
+      "returnDate": "2026-09-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-06",
+      "price": 1174,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-09-11",
+      "snapshot": "2026-07-06",
+      "price": 1232,
+      "airline": "British Airways",
+      "returnDate": "2026-09-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-06",
+      "price": 1208,
+      "airline": "British Airways",
+      "returnDate": "2026-09-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-09-13",
+      "snapshot": "2026-07-06",
+      "price": 977,
+      "airline": "British Airways",
+      "returnDate": "2026-09-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-09-14",
+      "snapshot": "2026-07-06",
+      "price": 968,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-09-15",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-09-16",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-09-17",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-06",
+      "price": 968,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-09-19",
+      "snapshot": "2026-07-06",
+      "price": 968,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-09-21",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 50 min"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 50 min"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-09-24",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 50 min"
+    },
+    {
+      "date": "2026-09-25",
+      "snapshot": "2026-07-06",
+      "price": 949,
+      "airline": "British Airways",
+      "returnDate": "2026-10-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-09-26",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2026-10-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-09-27",
+      "snapshot": "2026-07-06",
+      "price": 985,
+      "airline": "British Airways",
+      "returnDate": "2026-10-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-09-28",
+      "snapshot": "2026-07-06",
+      "price": 941,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-09-29",
+      "snapshot": "2026-07-06",
+      "price": 933,
+      "airline": "British Airways",
+      "returnDate": "2026-10-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-09-30",
+      "snapshot": "2026-07-06",
+      "price": 933,
+      "airline": "British Airways",
+      "returnDate": "2026-10-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-01",
+      "snapshot": "2026-07-06",
+      "price": 941,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-06",
+      "price": 1041,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "British Airways",
+      "returnDate": "2026-10-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-04",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "British Airways",
+      "returnDate": "2026-10-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-06",
+      "price": 1041,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-10-06",
+      "snapshot": "2026-07-06",
+      "price": 1164,
+      "airline": "British Airways",
+      "returnDate": "2026-10-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-06",
+      "price": 1148,
+      "airline": "British Airways",
+      "returnDate": "2026-10-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-08",
+      "snapshot": "2026-07-06",
+      "price": 1041,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-10-09",
+      "snapshot": "2026-07-06",
+      "price": 1041,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-10-10",
+      "snapshot": "2026-07-06",
+      "price": 1174,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 50 min"
+    },
+    {
+      "date": "2026-10-11",
+      "snapshot": "2026-07-06",
+      "price": 1080,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-06",
+      "price": 1041,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-06",
+      "price": 1017,
+      "airline": "British Airways",
+      "returnDate": "2026-10-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-14",
+      "snapshot": "2026-07-06",
+      "price": 1010,
+      "airline": "British Airways",
+      "returnDate": "2026-10-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-15",
+      "snapshot": "2026-07-06",
+      "price": 1065,
+      "airline": "British Airways",
+      "returnDate": "2026-10-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-16",
+      "snapshot": "2026-07-06",
+      "price": 1425,
+      "airline": "British Airways",
+      "returnDate": "2026-10-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-06",
+      "price": 1257,
+      "airline": "British Airways",
+      "returnDate": "2026-10-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-18",
+      "snapshot": "2026-07-06",
+      "price": 1126,
+      "airline": "British Airways",
+      "returnDate": "2026-11-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-19",
+      "snapshot": "2026-07-06",
+      "price": 1001,
+      "airline": "British Airways",
+      "returnDate": "2026-11-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-06",
+      "price": 1041,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-10-21",
+      "snapshot": "2026-07-06",
+      "price": 1001,
+      "airline": "British Airways",
+      "returnDate": "2026-11-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-06",
+      "price": 1001,
+      "airline": "British Airways",
+      "returnDate": "2026-11-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "British Airways",
+      "returnDate": "2026-11-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "British Airways",
+      "returnDate": "2026-11-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-10-25",
+      "snapshot": "2026-07-06",
+      "price": 1036,
+      "airline": "British Airways",
+      "returnDate": "2026-11-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-10-26",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-27",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-06",
+      "price": 941,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2026-11-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-11-02",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-11-03",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-11-07",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-11-09",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-11-11",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-11-12",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-11-13",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-11-14",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-11-16",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-11-17",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-11-20",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-11-21",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-11-22",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-11-23",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-11-24",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-11-26",
+      "snapshot": "2026-07-06",
+      "price": 849,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-11-27",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-11-28",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-11-30",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-12-01",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-12-03",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-06",
+      "price": 1186,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-06",
+      "price": 1244,
+      "airline": "British Airways",
+      "returnDate": "2026-12-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-06",
+      "price": 1192,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-12-07",
+      "snapshot": "2026-07-06",
+      "price": 1126,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-06",
+      "price": 1126,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-06",
+      "price": 1224,
+      "airline": "British Airways",
+      "returnDate": "2026-12-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-10",
+      "snapshot": "2026-07-06",
+      "price": 1384,
+      "airline": "British Airways",
+      "returnDate": "2026-12-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-06",
+      "price": 1577,
+      "airline": "British Airways",
+      "returnDate": "2026-12-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-06",
+      "price": 1577,
+      "airline": "British Airways",
+      "returnDate": "2026-12-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-13",
+      "snapshot": "2026-07-06",
+      "price": 1325,
+      "airline": "British Airways",
+      "returnDate": "2026-12-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-06",
+      "price": 1372,
+      "airline": "British Airways",
+      "returnDate": "2026-12-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-15",
+      "snapshot": "2026-07-06",
+      "price": 1500,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-12-16",
+      "snapshot": "2026-07-06",
+      "price": 1500,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-12-17",
+      "snapshot": "2026-07-06",
+      "price": 1933,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-06",
+      "price": 2273,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2026-12-19",
+      "snapshot": "2026-07-06",
+      "price": 2508,
+      "airline": "British Airways",
+      "returnDate": "2027-01-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-06",
+      "price": 2125,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-12-21",
+      "snapshot": "2026-07-06",
+      "price": 1975,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-12-22",
+      "snapshot": "2026-07-06",
+      "price": 1759,
+      "airline": "British Airways",
+      "returnDate": "2027-01-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-06",
+      "price": 1596,
+      "airline": "British Airways",
+      "returnDate": "2027-01-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-06",
+      "price": 1444,
+      "airline": "British Airways",
+      "returnDate": "2027-01-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-06",
+      "price": 1499,
+      "airline": "British Airways",
+      "returnDate": "2027-01-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-26",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "British Airways",
+      "returnDate": "2027-01-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-06",
+      "price": 1283,
+      "airline": "British Airways",
+      "returnDate": "2027-01-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-06",
+      "price": 1094,
+      "airline": "British Airways",
+      "returnDate": "2027-01-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-29",
+      "snapshot": "2026-07-06",
+      "price": 1280,
+      "airline": "British Airways",
+      "returnDate": "2027-01-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-06",
+      "price": 1186,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-06",
+      "price": 1049,
+      "airline": "British Airways",
+      "returnDate": "2027-01-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-06",
+      "price": 1098,
+      "airline": "British Airways",
+      "returnDate": "2027-01-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-06",
+      "price": 1038,
+      "airline": "British Airways",
+      "returnDate": "2027-01-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-01-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-04",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-01-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-05",
+      "snapshot": "2026-07-06",
+      "price": 933,
+      "airline": "British Airways",
+      "returnDate": "2027-01-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-06",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-01-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-07",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-01-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-08",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-01-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-09",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-01-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-10",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-01-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-11",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-01-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-12",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-01-13",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-01-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-14",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-01-15",
+      "snapshot": "2026-07-06",
+      "price": 953,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2027-01-16",
+      "snapshot": "2026-07-06",
+      "price": 953,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-01-17",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-01-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-18",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-02-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-19",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-02-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-20",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-02-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-21",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-02-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-22",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-02-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-23",
+      "snapshot": "2026-07-06",
+      "price": 953,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-01-24",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-02-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-25",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2027-01-26",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2027-01-27",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2027-01-28",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-01-29",
+      "snapshot": "2026-07-06",
+      "price": 978,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-01-30",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-01-31",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2027-02-01",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-02-02",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2027-02-03",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2027-02-04",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2027-02-05",
+      "snapshot": "2026-07-06",
+      "price": 968,
+      "airline": "British Airways",
+      "returnDate": "2027-02-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-02-06",
+      "snapshot": "2026-07-06",
+      "price": 968,
+      "airline": "British Airways",
+      "returnDate": "2027-02-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-02-07",
+      "snapshot": "2026-07-06",
+      "price": 968,
+      "airline": "British Airways",
+      "returnDate": "2027-02-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-02-08",
+      "snapshot": "2026-07-06",
+      "price": 978,
+      "airline": "British Airways",
+      "returnDate": "2027-02-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-02-09",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-02-10",
+      "snapshot": "2026-07-06",
+      "price": 933,
+      "airline": "British Airways",
+      "returnDate": "2027-02-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-02-11",
+      "snapshot": "2026-07-06",
+      "price": 978,
+      "airline": "British Airways",
+      "returnDate": "2027-02-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-02-12",
+      "snapshot": "2026-07-06",
+      "price": 1203,
+      "airline": "British Airways",
+      "returnDate": "2027-02-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-02-13",
+      "snapshot": "2026-07-06",
+      "price": 1148,
+      "airline": "British Airways",
+      "returnDate": "2027-02-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-02-14",
+      "snapshot": "2026-07-06",
+      "price": 1049,
+      "airline": "British Airways",
+      "returnDate": "2027-02-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-02-15",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2027-02-16",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2027-02-17",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2027-02-18",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-02-19",
+      "snapshot": "2026-07-06",
+      "price": 957,
+      "airline": "British Airways",
+      "returnDate": "2027-03-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-02-20",
+      "snapshot": "2026-07-06",
+      "price": 953,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2027-02-21",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2027-02-22",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2027-02-23",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2027-02-24",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2027-02-25",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-02-26",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-03-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-02-27",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-03-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-02-28",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2027-03-01",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-03-02",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-03-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-03",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2027-03-04",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-03-05",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-03-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-06",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-03-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-07",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-03-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-08",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-03-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-09",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-03-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-10",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-03-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-11",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-03-12",
+      "snapshot": "2026-07-06",
+      "price": 1125,
+      "airline": "British Airways",
+      "returnDate": "2027-03-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-13",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2027-03-14",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-03-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-15",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-03-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-16",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-03-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-17",
+      "snapshot": "2026-07-06",
+      "price": 922,
+      "airline": "British Airways",
+      "returnDate": "2027-03-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-18",
+      "snapshot": "2026-07-06",
+      "price": 926,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-04-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2027-03-19",
+      "snapshot": "2026-07-06",
+      "price": 1025,
+      "airline": "British Airways",
+      "returnDate": "2027-04-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-20",
+      "snapshot": "2026-07-06",
+      "price": 1105,
+      "airline": "British Airways",
+      "returnDate": "2027-04-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-21",
+      "snapshot": "2026-07-06",
+      "price": 953,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-04-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-03-22",
+      "snapshot": "2026-07-06",
+      "price": 985,
+      "airline": "British Airways",
+      "returnDate": "2027-04-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-23",
+      "snapshot": "2026-07-06",
+      "price": 1080,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-04-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2027-03-24",
+      "snapshot": "2026-07-06",
+      "price": 1345,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-04-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2027-03-25",
+      "snapshot": "2026-07-06",
+      "price": 1818,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-04-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 40 min"
+    },
+    {
+      "date": "2027-03-26",
+      "snapshot": "2026-07-06",
+      "price": 1589,
+      "airline": "British Airways",
+      "returnDate": "2027-04-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-27",
+      "snapshot": "2026-07-06",
+      "price": 1596,
+      "airline": "British Airways",
+      "returnDate": "2027-04-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-03-28",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-04-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-03-29",
+      "snapshot": "2026-07-06",
+      "price": 1082,
+      "airline": "British Airways",
+      "returnDate": "2027-04-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2027-03-30",
+      "snapshot": "2026-07-06",
+      "price": 1001,
+      "airline": "British Airways",
+      "returnDate": "2027-04-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2027-03-31",
+      "snapshot": "2026-07-06",
+      "price": 1017,
+      "airline": "British Airways",
+      "returnDate": "2027-04-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2027-04-01",
+      "snapshot": "2026-07-06",
+      "price": 1006,
+      "airline": "British Airways",
+      "returnDate": "2027-04-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2027-04-02",
+      "snapshot": "2026-07-06",
+      "price": 1040,
+      "airline": "British Airways",
+      "returnDate": "2027-04-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
     }
   ]
 }

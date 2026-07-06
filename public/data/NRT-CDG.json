@@ -1,0 +1,7 @@
+{
+  "route": "NRT-CDG",
+  "origin": "NRT",
+  "dest": "CDG",
+  "label": "Tokyo (NRT) → Paris (CDG)",
+  "prices": []
+}

@@ -2,3662 +2,2707 @@
   "route": "ICN-NRT",
   "origin": "ICN",
   "dest": "NRT",
-  "label": "Seoul (ICN) \u2192  Tokyo (NRT)",
+  "label": "Seoul (ICN) → Tokyo (NRT)",
   "prices": [
     {
-      "date": "2024-07-05",
-      "price": 2590,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-07-06",
-      "price": 2600,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-07-07",
-      "price": 3430,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-08",
-      "price": 2460,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-07-09",
-      "price": 2800,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-07-10",
-      "price": 2160,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-07-11",
-      "price": 2300,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-07-12",
-      "price": 2540,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-13",
-      "price": 2900,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-07-14",
-      "price": 2680,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-07-15",
-      "price": 2570,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-16",
-      "price": 2330,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-07-17",
-      "price": 2230,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-18",
-      "price": 2410,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-07-19",
-      "price": 2780,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-07-20",
-      "price": 2300,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-07-21",
-      "price": 2580,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-07-22",
-      "price": 3040,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-07-23",
-      "price": 2450,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-07-24",
-      "price": 2560,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-07-25",
-      "price": 2070,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-26",
-      "price": 2700,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-07-27",
-      "price": 2870,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-28",
-      "price": 2790,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-07-29",
-      "price": 2450,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-30",
-      "price": 2220,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-07-31",
-      "price": 2900,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-08-01",
-      "price": 2600,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-08-02",
-      "price": 2610,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-08-03",
-      "price": 2940,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-08-04",
-      "price": 2830,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-05",
-      "price": 2050,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-08-06",
-      "price": 2520,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-08-07",
-      "price": 2470,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-08-08",
-      "price": 2720,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-08-09",
-      "price": 2690,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-08-10",
-      "price": 2620,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-08-11",
-      "price": 2270,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-08-12",
-      "price": 2380,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-08-13",
-      "price": 2620,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-08-14",
-      "price": 2540,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-08-15",
-      "price": 2610,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-08-16",
-      "price": 2870,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-08-17",
-      "price": 2720,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-08-18",
-      "price": 2630,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-08-19",
-      "price": 2630,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-08-20",
-      "price": 2560,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-08-21",
-      "price": 2710,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-08-22",
-      "price": 2530,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-08-23",
-      "price": 2850,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-08-24",
-      "price": 2990,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-08-25",
-      "price": 2730,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-08-26",
-      "price": 2400,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-08-27",
-      "price": 2720,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-08-28",
-      "price": 2840,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-08-29",
-      "price": 2610,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-08-30",
-      "price": 2920,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-08-31",
-      "price": 2830,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-01",
-      "price": 2650,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-09-02",
-      "price": 2470,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-09-03",
-      "price": 2320,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-09-04",
-      "price": 2810,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-09-05",
-      "price": 2430,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-09-06",
-      "price": 2910,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-07",
-      "price": 2690,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-09-08",
-      "price": 3050,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-09-09",
-      "price": 2520,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-09-10",
-      "price": 2140,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-09-11",
-      "price": 2310,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-12",
-      "price": 2300,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-09-13",
-      "price": 3130,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-09-14",
-      "price": 2990,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-15",
-      "price": 3050,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-16",
-      "price": 2490,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-09-17",
-      "price": 2210,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-18",
-      "price": 2250,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-09-19",
-      "price": 2350,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-09-20",
-      "price": 2420,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-09-21",
-      "price": 2170,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-09-22",
-      "price": 2620,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-09-23",
-      "price": 2460,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-09-24",
-      "price": 2530,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-09-25",
-      "price": 2360,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-09-26",
-      "price": 2700,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-09-27",
-      "price": 2910,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-09-28",
-      "price": 2860,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-29",
-      "price": 2650,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-09-30",
-      "price": 2670,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-10-01",
-      "price": 2360,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-10-02",
-      "price": 2230,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-10-03",
-      "price": 2460,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-10-04",
-      "price": 2780,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-10-05",
-      "price": 2360,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-10-06",
-      "price": 2790,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-07",
-      "price": 2530,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-10-08",
-      "price": 2490,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-10-09",
-      "price": 2450,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-10-10",
-      "price": 2100,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-10-11",
-      "price": 3160,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-10-12",
-      "price": 2510,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-13",
-      "price": 2690,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-14",
-      "price": 2230,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-10-15",
-      "price": 2150,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-16",
-      "price": 2430,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-10-17",
-      "price": 2070,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-10-18",
-      "price": 2470,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-10-19",
-      "price": 2590,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-10-20",
-      "price": 2430,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-10-21",
-      "price": 2140,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-10-22",
-      "price": 2600,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-10-23",
-      "price": 2650,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-10-24",
-      "price": 2610,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-10-25",
-      "price": 2920,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-10-26",
-      "price": 2590,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-10-27",
-      "price": 2690,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-10-28",
-      "price": 2480,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-29",
-      "price": 2600,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-10-30",
-      "price": 2570,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-10-31",
-      "price": 2630,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-11-01",
-      "price": 3180,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-11-02",
-      "price": 3370,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-11-03",
-      "price": 2950,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-04",
-      "price": 3210,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-11-05",
-      "price": 2890,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-11-06",
-      "price": 3070,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-11-07",
-      "price": 2790,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-11-08",
-      "price": 2860,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-11-09",
-      "price": 3250,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-11-10",
-      "price": 2820,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-11-11",
-      "price": 2440,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-11-12",
-      "price": 2880,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-13",
-      "price": 2740,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-11-14",
-      "price": 2770,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-15",
-      "price": 3320,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-16",
-      "price": 3150,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-17",
-      "price": 3310,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-18",
-      "price": 2810,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-19",
-      "price": 2790,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-11-20",
-      "price": 2880,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-11-21",
-      "price": 2900,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-11-22",
-      "price": 2850,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-23",
-      "price": 2690,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-11-24",
-      "price": 3230,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-25",
-      "price": 3190,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-26",
-      "price": 3040,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-11-27",
-      "price": 3080,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-11-28",
-      "price": 3050,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-11-29",
-      "price": 3180,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-11-30",
-      "price": 3000,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-01",
-      "price": 3680,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-12-02",
-      "price": 2580,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-12-03",
-      "price": 2640,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-12-04",
-      "price": 3100,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-12-05",
-      "price": 2500,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-12-06",
-      "price": 3560,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-12-07",
-      "price": 3190,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-12-08",
-      "price": 2940,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-12-09",
-      "price": 2980,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-12-10",
-      "price": 2510,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-11",
-      "price": 3440,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-12-12",
-      "price": 2770,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-13",
-      "price": 3030,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-12-14",
-      "price": 3040,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-12-15",
-      "price": 2900,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-16",
-      "price": 2480,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-12-17",
-      "price": 2980,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-12-18",
-      "price": 2890,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-19",
-      "price": 2520,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-20",
-      "price": 3140,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-12-21",
-      "price": 2900,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-22",
-      "price": 2930,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-12-23",
-      "price": 3040,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-12-24",
-      "price": 2690,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-25",
-      "price": 2960,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-26",
-      "price": 3380,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-12-27",
-      "price": 3000,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2024-12-28",
-      "price": 2800,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2024-12-29",
-      "price": 3440,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-12-30",
-      "price": 2880,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-12-31",
-      "price": 2430,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-01-01",
-      "price": 2390,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-02",
-      "price": 2390,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-01-03",
-      "price": 2870,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-04",
-      "price": 2640,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-01-05",
-      "price": 2690,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-01-06",
-      "price": 2410,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-01-07",
-      "price": 2680,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-08",
-      "price": 2830,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-09",
-      "price": 2270,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-10",
-      "price": 2920,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-01-11",
-      "price": 2920,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-01-12",
-      "price": 2940,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-13",
-      "price": 2560,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-01-14",
-      "price": 2650,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-01-15",
-      "price": 2300,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-01-16",
-      "price": 2370,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-01-17",
-      "price": 2890,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-18",
-      "price": 2750,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-01-19",
-      "price": 2510,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-01-20",
-      "price": 2270,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-01-21",
-      "price": 2540,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-01-22",
-      "price": 2240,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-01-23",
-      "price": 2120,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-01-24",
-      "price": 2830,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-01-25",
-      "price": 2630,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-01-26",
-      "price": 2620,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-01-27",
-      "price": 2970,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-01-28",
-      "price": 2410,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-01-29",
-      "price": 2870,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-01-30",
-      "price": 2660,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-31",
-      "price": 2900,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-02-01",
-      "price": 3000,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-02-02",
-      "price": 2640,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-02-03",
-      "price": 2800,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-04",
-      "price": 2180,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-05",
-      "price": 2400,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-06",
-      "price": 2620,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-07",
-      "price": 2840,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-02-08",
-      "price": 2980,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-02-09",
-      "price": 2530,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-10",
-      "price": 2350,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-11",
-      "price": 2360,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-02-12",
-      "price": 2500,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-02-13",
-      "price": 2230,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-02-14",
-      "price": 2610,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-15",
-      "price": 2970,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-02-16",
-      "price": 2930,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-02-17",
-      "price": 2800,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-18",
-      "price": 2860,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-19",
-      "price": 2610,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-02-20",
-      "price": 2330,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-02-21",
-      "price": 2980,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-02-22",
-      "price": 2770,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-23",
-      "price": 2740,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-24",
-      "price": 2640,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-02-25",
-      "price": 2170,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-26",
-      "price": 2330,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-27",
-      "price": 2470,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-02-28",
-      "price": 2760,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-01",
-      "price": 3540,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-03-02",
-      "price": 3460,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-03-03",
-      "price": 3150,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-03-04",
-      "price": 3250,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-05",
-      "price": 3310,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-03-06",
-      "price": 3110,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-07",
-      "price": 3710,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-03-08",
-      "price": 3840,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-09",
-      "price": 3890,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-03-10",
-      "price": 3490,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-03-11",
-      "price": 3070,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-12",
-      "price": 3060,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-13",
-      "price": 3190,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-03-14",
-      "price": 3480,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-15",
-      "price": 4140,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-03-16",
-      "price": 3380,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-03-17",
-      "price": 3440,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-03-18",
-      "price": 3300,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-03-19",
-      "price": 3060,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-03-20",
-      "price": 3520,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-21",
-      "price": 3800,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-03-22",
-      "price": 3490,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-23",
-      "price": 3340,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-03-24",
-      "price": 3270,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-03-25",
-      "price": 3700,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-03-26",
-      "price": 2900,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-27",
-      "price": 3210,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-28",
-      "price": 3600,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-29",
-      "price": 3540,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-30",
-      "price": 3620,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-31",
-      "price": 2730,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-01",
-      "price": 3090,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-04-02",
-      "price": 3340,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-03",
-      "price": 3000,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-04",
-      "price": 3150,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-04-05",
-      "price": 3620,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-06",
-      "price": 3650,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-04-07",
-      "price": 2750,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-08",
-      "price": 3590,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-04-09",
-      "price": 3410,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-04-10",
-      "price": 3050,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-04-11",
-      "price": 3520,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-04-12",
-      "price": 4210,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-13",
-      "price": 3680,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-04-14",
-      "price": 3140,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-04-15",
-      "price": 3060,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-16",
-      "price": 3290,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-04-17",
-      "price": 3200,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-04-18",
-      "price": 3210,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-04-19",
-      "price": 3400,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-20",
-      "price": 3550,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-21",
-      "price": 3220,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-04-22",
-      "price": 3220,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-04-23",
-      "price": 2890,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-04-24",
-      "price": 3060,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-04-25",
-      "price": 3810,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-04-26",
-      "price": 3680,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-27",
-      "price": 3270,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-28",
-      "price": 2610,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-29",
-      "price": 3220,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-30",
-      "price": 3460,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-05-01",
-      "price": 2390,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-05-02",
-      "price": 2940,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-05-03",
-      "price": 2680,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-04",
-      "price": 2650,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-05-05",
-      "price": 2280,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-05-06",
-      "price": 2170,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-07",
-      "price": 2020,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-05-08",
-      "price": 2610,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-05-09",
-      "price": 2460,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-10",
-      "price": 2830,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-05-11",
-      "price": 2940,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-05-12",
-      "price": 2540,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-05-13",
-      "price": 2890,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-05-14",
-      "price": 2290,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-05-15",
-      "price": 2330,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-05-16",
-      "price": 2800,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-05-17",
-      "price": 2520,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-05-18",
-      "price": 2870,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-05-19",
-      "price": 2490,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-05-20",
-      "price": 2480,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-05-21",
-      "price": 2820,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-22",
-      "price": 2500,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-05-23",
-      "price": 3050,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-05-24",
-      "price": 2800,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-05-25",
-      "price": 3340,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-05-26",
-      "price": 2570,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-05-27",
-      "price": 2660,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-05-28",
-      "price": 2630,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-05-29",
-      "price": 2820,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-30",
-      "price": 2870,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-31",
-      "price": 3060,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-06-01",
-      "price": 2640,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-06-02",
-      "price": 2160,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-06-03",
-      "price": 2350,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-06-04",
-      "price": 2730,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-06-05",
-      "price": 2590,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-06-06",
-      "price": 2470,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-06-07",
-      "price": 2700,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-06-08",
-      "price": 2350,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-06-09",
-      "price": 2800,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-06-10",
-      "price": 2560,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-06-11",
-      "price": 2530,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-12",
-      "price": 2760,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-06-13",
-      "price": 2680,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-06-14",
-      "price": 2750,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-06-15",
-      "price": 2650,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-16",
-      "price": 2520,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-17",
-      "price": 2400,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-06-18",
-      "price": 2450,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-06-19",
-      "price": 2600,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-06-20",
-      "price": 2540,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-21",
-      "price": 2870,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-22",
-      "price": 2840,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-06-23",
-      "price": 2210,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-06-24",
-      "price": 2350,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-06-25",
-      "price": 2780,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-06-26",
-      "price": 2230,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-06-27",
-      "price": 2580,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-06-28",
-      "price": 2790,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-06-29",
-      "price": 3020,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-06-30",
-      "price": 2330,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-07-01",
-      "price": 2770,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-07-02",
-      "price": 2530,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-07-03",
-      "price": 2220,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-04",
-      "price": 2690,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-07-05",
-      "price": 3010,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-07-06",
-      "price": 2740,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-07-07",
-      "price": 2460,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-08",
-      "price": 2550,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-07-09",
-      "price": 2770,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-07-10",
-      "price": 2600,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-07-11",
-      "price": 2710,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-07-12",
-      "price": 2720,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-07-13",
-      "price": 2620,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-07-14",
-      "price": 2660,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-07-15",
-      "price": 2630,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-07-16",
-      "price": 2520,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-07-17",
-      "price": 2660,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-07-18",
-      "price": 2970,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-19",
-      "price": 3000,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-07-20",
-      "price": 2980,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-07-21",
-      "price": 2800,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-07-22",
-      "price": 2270,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-07-23",
-      "price": 3100,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-07-24",
-      "price": 2220,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-07-25",
-      "price": 2940,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-07-26",
-      "price": 2430,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-27",
-      "price": 2360,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-07-28",
-      "price": 2250,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-07-29",
-      "price": 2870,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-30",
-      "price": 2520,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-07-31",
-      "price": 2860,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-08-01",
-      "price": 2730,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-02",
-      "price": 2840,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-08-03",
-      "price": 3000,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-04",
-      "price": 2810,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-05",
-      "price": 2470,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-08-06",
-      "price": 2190,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-07",
-      "price": 2520,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-08",
-      "price": 2900,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-09",
-      "price": 2990,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-08-10",
-      "price": 2850,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-08-11",
-      "price": 2710,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-08-12",
-      "price": 2340,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-13",
-      "price": 2610,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-08-14",
-      "price": 2550,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-15",
-      "price": 2440,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-08-16",
-      "price": 2540,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-17",
-      "price": 2690,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-18",
-      "price": 2250,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-08-19",
-      "price": 2440,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-20",
-      "price": 2730,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-21",
-      "price": 2300,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-08-22",
-      "price": 2830,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-08-23",
-      "price": 2550,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-24",
-      "price": 2490,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-08-25",
-      "price": 2590,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-26",
-      "price": 2320,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-27",
-      "price": 2280,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-08-28",
-      "price": 2660,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-08-29",
-      "price": 2790,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-30",
-      "price": 3190,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-31",
-      "price": 2820,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-09-01",
-      "price": 2640,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-09-02",
-      "price": 2220,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-03",
-      "price": 2330,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-09-04",
-      "price": 2590,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-09-05",
-      "price": 2720,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-09-06",
-      "price": 2630,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-09-07",
-      "price": 2880,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-09-08",
-      "price": 2540,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-09",
-      "price": 2500,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-09-10",
-      "price": 2630,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-09-11",
-      "price": 2310,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-09-12",
-      "price": 2660,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-09-13",
-      "price": 2580,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-14",
-      "price": 2690,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-09-15",
-      "price": 2510,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-09-16",
-      "price": 2520,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-17",
-      "price": 2580,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-09-18",
-      "price": 2790,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-09-19",
-      "price": 2960,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-09-20",
-      "price": 3200,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-09-21",
-      "price": 3190,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-22",
-      "price": 2330,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-09-23",
-      "price": 2740,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-09-24",
-      "price": 2390,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-09-25",
-      "price": 2600,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-09-26",
-      "price": 2910,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-09-27",
-      "price": 2690,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-09-28",
-      "price": 2640,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-09-29",
-      "price": 2360,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-09-30",
-      "price": 2480,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-10-01",
-      "price": 2490,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-02",
-      "price": 2350,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-10-03",
-      "price": 2730,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-10-04",
-      "price": 2520,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-10-05",
-      "price": 2570,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-10-06",
-      "price": 3010,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-10-07",
-      "price": 2490,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-10-08",
-      "price": 2550,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-10-09",
-      "price": 2370,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-10",
-      "price": 2640,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-10-11",
-      "price": 2890,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-12",
-      "price": 2750,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-13",
-      "price": 2590,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-10-14",
-      "price": 2490,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-10-15",
-      "price": 2280,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-10-16",
-      "price": 2340,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-10-17",
-      "price": 3170,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-18",
-      "price": 2970,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-10-19",
-      "price": 2570,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-10-20",
-      "price": 2450,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-10-21",
-      "price": 2750,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-10-22",
-      "price": 2550,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-23",
-      "price": 2500,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-24",
-      "price": 2880,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-10-25",
-      "price": 2490,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-10-26",
-      "price": 2980,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-10-27",
-      "price": 2600,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-28",
-      "price": 2340,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-10-29",
-      "price": 2360,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-10-30",
-      "price": 2480,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-10-31",
-      "price": 3170,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-01",
-      "price": 3180,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-11-02",
-      "price": 2760,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-11-03",
-      "price": 2460,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-11-04",
-      "price": 3030,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-11-05",
-      "price": 3090,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-06",
-      "price": 2820,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-11-07",
-      "price": 3390,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-08",
-      "price": 3190,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-09",
-      "price": 2960,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-11-10",
-      "price": 2980,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-11-11",
-      "price": 3160,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-11-12",
-      "price": 2940,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-11-13",
-      "price": 2700,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-11-14",
-      "price": 3230,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-11-15",
-      "price": 3170,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-16",
-      "price": 3590,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-17",
-      "price": 2740,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-18",
-      "price": 3170,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-11-19",
-      "price": 2740,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-11-20",
-      "price": 3060,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-21",
-      "price": 3170,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-11-22",
-      "price": 3590,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-11-23",
-      "price": 2810,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-24",
-      "price": 2880,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-25",
-      "price": 3300,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-26",
-      "price": 2990,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-27",
-      "price": 2690,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-11-28",
-      "price": 2630,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-11-29",
-      "price": 3160,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-30",
-      "price": 3180,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-12-01",
-      "price": 3270,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-12-02",
-      "price": 2940,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-12-03",
-      "price": 3050,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-12-04",
-      "price": 2880,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-05",
-      "price": 2660,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-12-06",
-      "price": 3260,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-07",
-      "price": 3720,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-08",
-      "price": 3070,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-09",
-      "price": 2480,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-12-10",
-      "price": 2730,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-11",
-      "price": 2900,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-12-12",
-      "price": 3230,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-12-13",
-      "price": 3080,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-14",
-      "price": 3560,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-15",
-      "price": 3040,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-12-16",
-      "price": 3020,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-12-17",
-      "price": 2430,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-18",
-      "price": 2650,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-19",
-      "price": 3090,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-20",
-      "price": 3500,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-21",
-      "price": 3250,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-12-22",
-      "price": 2730,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-12-23",
-      "price": 3130,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2025-12-24",
-      "price": 2690,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2025-12-25",
-      "price": 3110,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-26",
-      "price": 3180,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-27",
-      "price": 3010,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-28",
-      "price": 3140,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-29",
-      "price": 2530,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-30",
-      "price": 2750,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-31",
-      "price": 2690,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-01",
-      "price": 2650,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-01-02",
-      "price": 2990,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-01-03",
-      "price": 2720,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-04",
-      "price": 2460,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-05",
-      "price": 2280,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-01-06",
-      "price": 2210,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-01-07",
-      "price": 2100,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-01-08",
-      "price": 2610,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-01-09",
-      "price": 2930,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-10",
-      "price": 3020,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-01-11",
-      "price": 2440,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-01-12",
-      "price": 2100,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-01-13",
-      "price": 2760,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-01-14",
-      "price": 2700,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-01-15",
-      "price": 2370,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-16",
-      "price": 2900,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-17",
-      "price": 2540,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-01-18",
-      "price": 2810,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-01-19",
-      "price": 2720,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-01-20",
-      "price": 2330,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-21",
-      "price": 2630,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-01-22",
-      "price": 2370,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-01-23",
-      "price": 2970,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-01-24",
-      "price": 2630,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-01-25",
-      "price": 2900,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-26",
-      "price": 2180,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-01-27",
-      "price": 2720,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-01-28",
-      "price": 2490,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-01-29",
-      "price": 2240,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-30",
-      "price": 2900,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-01-31",
-      "price": 2750,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-02-01",
-      "price": 2640,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-02-02",
-      "price": 2370,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-02-03",
-      "price": 2680,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-04",
-      "price": 2500,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-02-05",
-      "price": 2230,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-02-06",
-      "price": 3140,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-02-07",
-      "price": 2690,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-08",
-      "price": 2600,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-02-09",
-      "price": 2430,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-02-10",
-      "price": 2330,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-02-11",
-      "price": 2540,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-02-12",
-      "price": 2320,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-02-13",
-      "price": 2670,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-02-14",
-      "price": 3230,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-02-15",
-      "price": 2920,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-02-16",
-      "price": 2440,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-02-17",
-      "price": 2830,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-18",
-      "price": 2560,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-19",
-      "price": 2540,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-02-20",
-      "price": 2500,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-02-21",
-      "price": 3310,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-02-22",
-      "price": 2640,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-02-23",
-      "price": 2310,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-24",
-      "price": 2730,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-02-25",
-      "price": 2670,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-02-26",
-      "price": 2740,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-02-27",
-      "price": 2870,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-02-28",
-      "price": 3060,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-03-01",
-      "price": 3580,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-03-02",
-      "price": 3080,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-03-03",
-      "price": 3670,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-03-04",
-      "price": 3300,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-03-05",
-      "price": 3100,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-03-06",
-      "price": 3430,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-03-07",
-      "price": 3520,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-03-08",
-      "price": 3210,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-03-09",
-      "price": 3160,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-03-10",
-      "price": 2950,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-11",
-      "price": 3200,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-03-12",
-      "price": 3040,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-03-13",
-      "price": 3320,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-14",
-      "price": 3580,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-03-15",
-      "price": 3420,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-03-16",
-      "price": 3060,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-03-17",
-      "price": 3330,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-03-18",
-      "price": 3370,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-03-19",
-      "price": 3070,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-20",
-      "price": 3900,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-03-21",
-      "price": 3980,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-03-22",
-      "price": 4220,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-23",
-      "price": 2920,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-03-24",
-      "price": 3170,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-25",
-      "price": 3310,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-03-26",
-      "price": 3290,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-27",
-      "price": 3530,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-28",
-      "price": 3630,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-29",
-      "price": 3530,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-03-30",
-      "price": 2880,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-03-31",
-      "price": 3110,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-04-01",
-      "price": 3070,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-04-02",
-      "price": 3100,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-03",
-      "price": 3560,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-04-04",
-      "price": 3680,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-04-05",
-      "price": 3810,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-04-06",
-      "price": 3000,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-04-07",
-      "price": 3210,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-04-08",
-      "price": 3370,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-04-09",
-      "price": 3730,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-04-10",
-      "price": 3520,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-04-11",
-      "price": 3980,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-04-12",
-      "price": 3310,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-13",
-      "price": 3180,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-04-14",
-      "price": 3510,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-04-15",
-      "price": 3660,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-04-16",
-      "price": 3580,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-17",
-      "price": 3880,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-04-18",
-      "price": 3640,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-04-19",
-      "price": 3930,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-04-20",
-      "price": 3330,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-04-21",
-      "price": 2990,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-04-22",
-      "price": 3870,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-04-23",
-      "price": 3150,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-04-24",
-      "price": 3580,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-04-25",
-      "price": 4020,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-04-26",
-      "price": 3720,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-27",
-      "price": 2970,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-04-28",
-      "price": 3310,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-04-29",
-      "price": 3420,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-04-30",
-      "price": 3030,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-05-01",
-      "price": 3010,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-05-02",
-      "price": 2990,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-05-03",
-      "price": 2710,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-05-04",
-      "price": 2620,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-05-05",
-      "price": 2610,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-05-06",
-      "price": 2110,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-05-07",
-      "price": 2410,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-08",
-      "price": 2500,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-05-09",
-      "price": 2620,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-05-10",
-      "price": 2790,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-11",
-      "price": 2510,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-05-12",
-      "price": 2650,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-05-13",
-      "price": 2060,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-05-14",
-      "price": 2730,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-15",
-      "price": 3110,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-05-16",
-      "price": 2790,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-17",
-      "price": 2740,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-05-18",
-      "price": 2710,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-19",
-      "price": 2440,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-05-20",
-      "price": 2370,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-05-21",
-      "price": 2870,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-22",
-      "price": 2850,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-05-23",
-      "price": 3060,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-05-24",
-      "price": 2230,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-05-25",
-      "price": 2760,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-05-26",
-      "price": 2470,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-05-27",
-      "price": 2200,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-05-28",
-      "price": 2270,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-29",
-      "price": 2500,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-05-30",
-      "price": 2990,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-05-31",
-      "price": 2860,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-06-01",
-      "price": 2560,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-02",
-      "price": 2460,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-06-03",
-      "price": 2560,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-04",
-      "price": 2340,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-05",
-      "price": 2640,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-06",
-      "price": 2720,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-07",
-      "price": 2870,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-06-08",
-      "price": 2470,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-06-09",
-      "price": 2560,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-10",
-      "price": 2470,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-11",
-      "price": 2550,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-06-12",
-      "price": 2680,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-06-13",
-      "price": 2250,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-06-14",
-      "price": 2800,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-06-15",
-      "price": 2340,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-16",
-      "price": 2850,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-06-17",
-      "price": 2460,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-06-18",
-      "price": 2460,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-19",
-      "price": 3000,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-06-20",
-      "price": 3060,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-06-21",
-      "price": 3120,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-22",
-      "price": 2350,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-06-23",
-      "price": 2760,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-06-24",
-      "price": 2640,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-06-25",
-      "price": 2760,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-26",
-      "price": 2810,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-27",
-      "price": 2970,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-28",
-      "price": 2430,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-06-29",
-      "price": 2720,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-30",
-      "price": 2280,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-07-01",
-      "price": 3030,
-      "airline": "Asiana"
-    },
-    {
-      "date": "2026-07-02",
-      "price": 2560,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-07-03",
-      "price": 2420,
-      "airline": "Korean Air"
-    },
-    {
-      "date": "2026-07-04",
-      "price": 2890,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-07-05",
-      "price": 2600,
-      "airline": "Korean Air"
+      "date": "2026-07-07",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2026-07-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-08",
+      "snapshot": "2026-07-06",
+      "price": 183,
+      "airline": "Unknown",
+      "returnDate": "2026-07-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-07-09",
+      "snapshot": "2026-07-06",
+      "price": 181,
+      "airline": "Unknown",
+      "returnDate": "2026-07-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-10",
+      "snapshot": "2026-07-06",
+      "price": 230,
+      "airline": "Unknown",
+      "returnDate": "2026-07-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2026-07-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-06",
+      "price": 263,
+      "airline": "Unknown",
+      "returnDate": "2026-07-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-06",
+      "price": 286,
+      "airline": "Unknown",
+      "returnDate": "2026-07-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-06",
+      "price": 214,
+      "airline": "Unknown",
+      "returnDate": "2026-07-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-06",
+      "price": 227,
+      "airline": "Unknown",
+      "returnDate": "2026-07-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-06",
+      "price": 247,
+      "airline": "Jin AirKorean Air",
+      "returnDate": "2026-07-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-06",
+      "price": 258,
+      "airline": "Unknown",
+      "returnDate": "2026-07-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-06",
+      "price": 240,
+      "airline": "Unknown",
+      "returnDate": "2026-08-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-06",
+      "price": 274,
+      "airline": "Unknown",
+      "returnDate": "2026-08-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-06",
+      "price": 309,
+      "airline": "Unknown",
+      "returnDate": "2026-08-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-06",
+      "price": 271,
+      "airline": "Unknown",
+      "returnDate": "2026-08-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-06",
+      "price": 273,
+      "airline": "Jin AirKorean Air",
+      "returnDate": "2026-08-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-06",
+      "price": 283,
+      "airline": "Unknown",
+      "returnDate": "2026-08-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-06",
+      "price": 309,
+      "airline": "Unknown",
+      "returnDate": "2026-08-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-06",
+      "price": 314,
+      "airline": "Unknown",
+      "returnDate": "2026-08-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-06",
+      "price": 292,
+      "airline": "Unknown",
+      "returnDate": "2026-08-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-06",
+      "price": 319,
+      "airline": "Unknown",
+      "returnDate": "2026-08-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-06",
+      "price": 237,
+      "airline": "Unknown",
+      "returnDate": "2026-08-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-06",
+      "price": 227,
+      "airline": "Unknown",
+      "returnDate": "2026-08-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-06",
+      "price": 185,
+      "airline": "Unknown",
+      "returnDate": "2026-08-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-06",
+      "price": 172,
+      "airline": "Unknown",
+      "returnDate": "2026-08-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-06",
+      "price": 191,
+      "airline": "Unknown",
+      "returnDate": "2026-08-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-06",
+      "price": 214,
+      "airline": "Unknown",
+      "returnDate": "2026-08-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-06",
+      "price": 273,
+      "airline": "Unknown",
+      "returnDate": "2026-08-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-06",
+      "price": 178,
+      "airline": "Unknown",
+      "returnDate": "2026-08-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-06",
+      "price": 178,
+      "airline": "Unknown",
+      "returnDate": "2026-08-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-06",
+      "price": 159,
+      "airline": "Unknown",
+      "returnDate": "2026-08-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-07",
+      "snapshot": "2026-07-06",
+      "price": 185,
+      "airline": "Unknown",
+      "returnDate": "2026-08-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-06",
+      "price": 185,
+      "airline": "Unknown",
+      "returnDate": "2026-08-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-06",
+      "price": 185,
+      "airline": "Unknown",
+      "returnDate": "2026-08-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-06",
+      "price": 193,
+      "airline": "Unknown",
+      "returnDate": "2026-08-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-06",
+      "price": 173,
+      "airline": "Unknown",
+      "returnDate": "2026-08-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-08-12",
+      "snapshot": "2026-07-06",
+      "price": 188,
+      "airline": "Unknown",
+      "returnDate": "2026-08-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-06",
+      "price": 204,
+      "airline": "Unknown",
+      "returnDate": "2026-08-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-06",
+      "price": 257,
+      "airline": "Unknown",
+      "returnDate": "2026-08-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-06",
+      "price": 275,
+      "airline": "Unknown",
+      "returnDate": "2026-08-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-06",
+      "price": 275,
+      "airline": "Unknown",
+      "returnDate": "2026-08-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-08-17",
+      "snapshot": "2026-07-06",
+      "price": 216,
+      "airline": "Unknown",
+      "returnDate": "2026-08-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-06",
+      "price": 164,
+      "airline": "Unknown",
+      "returnDate": "2026-09-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-06",
+      "price": 164,
+      "airline": "Unknown",
+      "returnDate": "2026-09-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-06",
+      "price": 159,
+      "airline": "Unknown",
+      "returnDate": "2026-09-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-06",
+      "price": 159,
+      "airline": "Unknown",
+      "returnDate": "2026-09-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-22",
+      "snapshot": "2026-07-06",
+      "price": 164,
+      "airline": "Unknown",
+      "returnDate": "2026-09-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-06",
+      "price": 210,
+      "airline": "Unknown",
+      "returnDate": "2026-09-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-06",
+      "price": 196,
+      "airline": "Unknown",
+      "returnDate": "2026-09-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-08-25",
+      "snapshot": "2026-07-06",
+      "price": 173,
+      "airline": "Unknown",
+      "returnDate": "2026-09-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-08-26",
+      "snapshot": "2026-07-06",
+      "price": 164,
+      "airline": "Unknown",
+      "returnDate": "2026-09-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-27",
+      "snapshot": "2026-07-06",
+      "price": 159,
+      "airline": "Unknown",
+      "returnDate": "2026-09-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-28",
+      "snapshot": "2026-07-06",
+      "price": 172,
+      "airline": "Unknown",
+      "returnDate": "2026-09-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-06",
+      "price": 164,
+      "airline": "Unknown",
+      "returnDate": "2026-09-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-06",
+      "price": 197,
+      "airline": "Unknown",
+      "returnDate": "2026-09-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-06",
+      "price": 180,
+      "airline": "Unknown",
+      "returnDate": "2026-09-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-01",
+      "snapshot": "2026-07-06",
+      "price": 180,
+      "airline": "Unknown",
+      "returnDate": "2026-09-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-06",
+      "price": 178,
+      "airline": "Unknown",
+      "returnDate": "2026-09-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-09-03",
+      "snapshot": "2026-07-06",
+      "price": 211,
+      "airline": "Unknown",
+      "returnDate": "2026-09-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-06",
+      "price": 304,
+      "airline": "Unknown",
+      "returnDate": "2026-09-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-06",
+      "price": 318,
+      "airline": "Unknown",
+      "returnDate": "2026-09-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-06",
+      "price": 297,
+      "airline": "Unknown",
+      "returnDate": "2026-09-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-06",
+      "price": 223,
+      "airline": "Unknown",
+      "returnDate": "2026-09-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-09-08",
+      "snapshot": "2026-07-06",
+      "price": 181,
+      "airline": "Unknown",
+      "returnDate": "2026-09-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-09-09",
+      "snapshot": "2026-07-06",
+      "price": 183,
+      "airline": "Unknown",
+      "returnDate": "2026-09-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-06",
+      "price": 178,
+      "airline": "Unknown",
+      "returnDate": "2026-09-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-09-11",
+      "snapshot": "2026-07-06",
+      "price": 198,
+      "airline": "Unknown",
+      "returnDate": "2026-09-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-06",
+      "price": 283,
+      "airline": "Unknown",
+      "returnDate": "2026-09-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-09-13",
+      "snapshot": "2026-07-06",
+      "price": 334,
+      "airline": "Unknown",
+      "returnDate": "2026-09-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-14",
+      "snapshot": "2026-07-06",
+      "price": 285,
+      "airline": "Unknown",
+      "returnDate": "2026-09-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-15",
+      "snapshot": "2026-07-06",
+      "price": 190,
+      "airline": "Unknown",
+      "returnDate": "2026-09-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-09-16",
+      "snapshot": "2026-07-06",
+      "price": 159,
+      "airline": "Unknown",
+      "returnDate": "2026-09-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-09-17",
+      "snapshot": "2026-07-06",
+      "price": 154,
+      "airline": "Unknown",
+      "returnDate": "2026-10-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-06",
+      "price": 216,
+      "airline": "Unknown",
+      "returnDate": "2026-10-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-09-19",
+      "snapshot": "2026-07-06",
+      "price": 224,
+      "airline": "Unknown",
+      "returnDate": "2026-10-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-06",
+      "price": 276,
+      "airline": "Unknown",
+      "returnDate": "2026-10-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-21",
+      "snapshot": "2026-07-06",
+      "price": 386,
+      "airline": "Unknown",
+      "returnDate": "2026-10-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-06",
+      "price": 377,
+      "airline": "Unknown",
+      "returnDate": "2026-10-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-06",
+      "price": 384,
+      "airline": "Unknown",
+      "returnDate": "2026-10-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-24",
+      "snapshot": "2026-07-06",
+      "price": 391,
+      "airline": "Unknown",
+      "returnDate": "2026-10-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-09-25",
+      "snapshot": "2026-07-06",
+      "price": 322,
+      "airline": "Unknown",
+      "returnDate": "2026-10-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-09-26",
+      "snapshot": "2026-07-06",
+      "price": 371,
+      "airline": "Unknown",
+      "returnDate": "2026-10-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-27",
+      "snapshot": "2026-07-06",
+      "price": 347,
+      "airline": "Unknown",
+      "returnDate": "2026-10-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-28",
+      "snapshot": "2026-07-06",
+      "price": 320,
+      "airline": "Unknown",
+      "returnDate": "2026-10-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-29",
+      "snapshot": "2026-07-06",
+      "price": 242,
+      "airline": "Unknown",
+      "returnDate": "2026-10-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-30",
+      "snapshot": "2026-07-06",
+      "price": 216,
+      "airline": "Unknown",
+      "returnDate": "2026-10-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-01",
+      "snapshot": "2026-07-06",
+      "price": 242,
+      "airline": "Unknown",
+      "returnDate": "2026-10-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-06",
+      "price": 314,
+      "airline": "Unknown",
+      "returnDate": "2026-10-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-06",
+      "price": 393,
+      "airline": "Unknown",
+      "returnDate": "2026-10-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-10-04",
+      "snapshot": "2026-07-06",
+      "price": 346,
+      "airline": "Unknown",
+      "returnDate": "2026-10-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-06",
+      "price": 268,
+      "airline": "Unknown",
+      "returnDate": "2026-10-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-06",
+      "snapshot": "2026-07-06",
+      "price": 242,
+      "airline": "Unknown",
+      "returnDate": "2026-10-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-06",
+      "price": 235,
+      "airline": "Unknown",
+      "returnDate": "2026-10-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-08",
+      "snapshot": "2026-07-06",
+      "price": 255,
+      "airline": "Unknown",
+      "returnDate": "2026-10-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-09",
+      "snapshot": "2026-07-06",
+      "price": 368,
+      "airline": "Unknown",
+      "returnDate": "2026-10-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-10-10",
+      "snapshot": "2026-07-06",
+      "price": 294,
+      "airline": "Unknown",
+      "returnDate": "2026-10-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-11",
+      "snapshot": "2026-07-06",
+      "price": 268,
+      "airline": "Unknown",
+      "returnDate": "2026-10-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-06",
+      "price": 321,
+      "airline": "Unknown",
+      "returnDate": "2026-10-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-06",
+      "price": 256,
+      "airline": "Unknown",
+      "returnDate": "2026-10-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-14",
+      "snapshot": "2026-07-06",
+      "price": 210,
+      "airline": "Unknown",
+      "returnDate": "2026-10-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-10-15",
+      "snapshot": "2026-07-06",
+      "price": 281,
+      "airline": "Unknown",
+      "returnDate": "2026-10-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-16",
+      "snapshot": "2026-07-06",
+      "price": 281,
+      "airline": "Unknown",
+      "returnDate": "2026-10-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-06",
+      "price": 339,
+      "airline": "Unknown",
+      "returnDate": "2026-10-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-18",
+      "snapshot": "2026-07-06",
+      "price": 268,
+      "airline": "Unknown",
+      "returnDate": "2026-11-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-19",
+      "snapshot": "2026-07-06",
+      "price": 256,
+      "airline": "Unknown",
+      "returnDate": "2026-11-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-06",
+      "price": 204,
+      "airline": "Unknown",
+      "returnDate": "2026-11-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-10-21",
+      "snapshot": "2026-07-06",
+      "price": 231,
+      "airline": "Unknown",
+      "returnDate": "2026-11-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-06",
+      "price": 225,
+      "airline": "Unknown",
+      "returnDate": "2026-11-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-06",
+      "price": 279,
+      "airline": "Unknown",
+      "returnDate": "2026-11-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-06",
+      "price": 268,
+      "airline": "Unknown",
+      "returnDate": "2026-11-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-25",
+      "snapshot": "2026-07-06",
+      "price": 271,
+      "airline": "Unknown",
+      "returnDate": "2026-11-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-10-26",
+      "snapshot": "2026-07-06",
+      "price": 271,
+      "airline": "Unknown",
+      "returnDate": "2026-11-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-10-27",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2026-11-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-06",
+      "price": 253,
+      "airline": "Unknown",
+      "returnDate": "2026-11-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-06",
+      "price": 253,
+      "airline": "Unknown",
+      "returnDate": "2026-11-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-06",
+      "price": 308,
+      "airline": "Unknown",
+      "returnDate": "2026-11-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-06",
+      "price": 299,
+      "airline": "Unknown",
+      "returnDate": "2026-11-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-06",
+      "price": 308,
+      "airline": "Unknown",
+      "returnDate": "2026-11-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-02",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2026-11-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-03",
+      "snapshot": "2026-07-06",
+      "price": 217,
+      "airline": "Unknown",
+      "returnDate": "2026-11-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-06",
+      "price": 247,
+      "airline": "Unknown",
+      "returnDate": "2026-11-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2026-11-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-06",
+      "price": 299,
+      "airline": "Unknown",
+      "returnDate": "2026-11-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-07",
+      "snapshot": "2026-07-06",
+      "price": 393,
+      "airline": "Asiana Airlines",
+      "returnDate": "2026-11-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 20 min"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-06",
+      "price": 271,
+      "airline": "Unknown",
+      "returnDate": "2026-11-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-09",
+      "snapshot": "2026-07-06",
+      "price": 247,
+      "airline": "Unknown",
+      "returnDate": "2026-11-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2026-11-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-11",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2026-11-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-12",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2026-11-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-13",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2026-11-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-14",
+      "snapshot": "2026-07-06",
+      "price": 283,
+      "airline": "Unknown",
+      "returnDate": "2026-11-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2026-11-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-16",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2026-11-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-17",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2026-12-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2026-12-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2026-12-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-20",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2026-12-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-21",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2026-12-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-22",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2026-12-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-23",
+      "snapshot": "2026-07-06",
+      "price": 271,
+      "airline": "Unknown",
+      "returnDate": "2026-12-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-24",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2026-12-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2026-12-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-26",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2026-12-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-27",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2026-12-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-28",
+      "snapshot": "2026-07-06",
+      "price": 271,
+      "airline": "Unknown",
+      "returnDate": "2026-12-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2026-12-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-11-30",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2026-12-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-01",
+      "snapshot": "2026-07-06",
+      "price": 209,
+      "airline": "Unknown",
+      "returnDate": "2026-12-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2026-12-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-03",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2026-12-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2026-12-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2026-12-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2026-12-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-07",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2026-12-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2026-12-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2026-12-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-10",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2026-12-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-06",
+      "price": 299,
+      "airline": "Unknown",
+      "returnDate": "2026-12-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-06",
+      "price": 333,
+      "airline": "Unknown",
+      "returnDate": "2026-12-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-13",
+      "snapshot": "2026-07-06",
+      "price": 311,
+      "airline": "Unknown",
+      "returnDate": "2026-12-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-06",
+      "price": 373,
+      "airline": "Unknown",
+      "returnDate": "2026-12-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-15",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Unknown",
+      "returnDate": "2026-12-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-16",
+      "snapshot": "2026-07-06",
+      "price": 299,
+      "airline": "Unknown",
+      "returnDate": "2026-12-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-17",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2026-12-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2027-01-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-19",
+      "snapshot": "2026-07-06",
+      "price": 271,
+      "airline": "Unknown",
+      "returnDate": "2027-01-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-06",
+      "price": 271,
+      "airline": "Unknown",
+      "returnDate": "2027-01-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-21",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2027-01-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-22",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2027-01-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2027-01-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2027-01-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-06",
+      "price": 311,
+      "airline": "Unknown",
+      "returnDate": "2027-01-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-26",
+      "snapshot": "2026-07-06",
+      "price": 287,
+      "airline": "Unknown",
+      "returnDate": "2027-01-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2027-01-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2027-01-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-29",
+      "snapshot": "2026-07-06",
+      "price": 255,
+      "airline": "Unknown",
+      "returnDate": "2027-01-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2027-01-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-06",
+      "price": 331,
+      "airline": "Unknown",
+      "returnDate": "2027-01-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-06",
+      "price": 271,
+      "airline": "Unknown",
+      "returnDate": "2027-01-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-06",
+      "price": 312,
+      "airline": "Unknown",
+      "returnDate": "2027-01-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-06",
+      "price": 374,
+      "airline": "Unknown",
+      "returnDate": "2027-01-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-04",
+      "snapshot": "2026-07-06",
+      "price": 289,
+      "airline": "Unknown",
+      "returnDate": "2027-01-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-01-05",
+      "snapshot": "2026-07-06",
+      "price": 243,
+      "airline": "Unknown",
+      "returnDate": "2027-01-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-01-06",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2027-01-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-07",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2027-01-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-08",
+      "snapshot": "2026-07-06",
+      "price": 247,
+      "airline": "Unknown",
+      "returnDate": "2027-01-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-09",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2027-01-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-10",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2027-01-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-11",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2027-01-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-12",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-01-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-13",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-01-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-14",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-01-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-15",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-01-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-16",
+      "snapshot": "2026-07-06",
+      "price": 247,
+      "airline": "Unknown",
+      "returnDate": "2027-01-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-17",
+      "snapshot": "2026-07-06",
+      "price": 247,
+      "airline": "Unknown",
+      "returnDate": "2027-01-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-18",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-02-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-19",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-02-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-20",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-02-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-21",
+      "snapshot": "2026-07-06",
+      "price": 240,
+      "airline": "Unknown",
+      "returnDate": "2027-02-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-22",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-02-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-23",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-02-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-24",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-02-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-25",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2027-02-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-26",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2027-02-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-27",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-02-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-28",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2027-02-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-29",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-02-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-30",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-02-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-01-31",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2027-02-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-01",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-02-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-02",
+      "snapshot": "2026-07-06",
+      "price": 191,
+      "airline": "Unknown",
+      "returnDate": "2027-02-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-02-03",
+      "snapshot": "2026-07-06",
+      "price": 185,
+      "airline": "Unknown",
+      "returnDate": "2027-02-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-02-04",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2027-02-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-05",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2027-02-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-06",
+      "snapshot": "2026-07-06",
+      "price": 284,
+      "airline": "Unknown",
+      "returnDate": "2027-02-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-07",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2027-02-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-08",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-02-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-09",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-02-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-10",
+      "snapshot": "2026-07-06",
+      "price": 204,
+      "airline": "Unknown",
+      "returnDate": "2027-02-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-02-11",
+      "snapshot": "2026-07-06",
+      "price": 207,
+      "airline": "Unknown",
+      "returnDate": "2027-02-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-12",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2027-02-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-13",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2027-02-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-14",
+      "snapshot": "2026-07-06",
+      "price": 247,
+      "airline": "Unknown",
+      "returnDate": "2027-02-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-15",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2027-03-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-16",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-03-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-17",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-03-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-18",
+      "snapshot": "2026-07-06",
+      "price": 222,
+      "airline": "Unknown",
+      "returnDate": "2027-03-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-19",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2027-03-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-20",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2027-03-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-21",
+      "snapshot": "2026-07-06",
+      "price": 247,
+      "airline": "Unknown",
+      "returnDate": "2027-03-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-22",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2027-03-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-23",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2027-03-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-24",
+      "snapshot": "2026-07-06",
+      "price": 159,
+      "airline": "Unknown",
+      "returnDate": "2027-03-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-02-25",
+      "snapshot": "2026-07-06",
+      "price": 217,
+      "airline": "Unknown",
+      "returnDate": "2027-03-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-02-26",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2027-03-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-27",
+      "snapshot": "2026-07-06",
+      "price": 253,
+      "airline": "Unknown",
+      "returnDate": "2027-03-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-02-28",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2027-03-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-03-01",
+      "snapshot": "2026-07-06",
+      "price": 234,
+      "airline": "Unknown",
+      "returnDate": "2027-03-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-03-02",
+      "snapshot": "2026-07-06",
+      "price": 191,
+      "airline": "Unknown",
+      "returnDate": "2027-03-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-03",
+      "snapshot": "2026-07-06",
+      "price": 159,
+      "airline": "Unknown",
+      "returnDate": "2027-03-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-04",
+      "snapshot": "2026-07-06",
+      "price": 219,
+      "airline": "Unknown",
+      "returnDate": "2027-03-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-03-05",
+      "snapshot": "2026-07-06",
+      "price": 259,
+      "airline": "Unknown",
+      "returnDate": "2027-03-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-03-06",
+      "snapshot": "2026-07-06",
+      "price": 271,
+      "airline": "Unknown",
+      "returnDate": "2027-03-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-03-07",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2027-03-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-03-08",
+      "snapshot": "2026-07-06",
+      "price": 250,
+      "airline": "Unknown",
+      "returnDate": "2027-03-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-09",
+      "snapshot": "2026-07-06",
+      "price": 159,
+      "airline": "Unknown",
+      "returnDate": "2027-03-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-10",
+      "snapshot": "2026-07-06",
+      "price": 159,
+      "airline": "Unknown",
+      "returnDate": "2027-03-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-11",
+      "snapshot": "2026-07-06",
+      "price": 159,
+      "airline": "Unknown",
+      "returnDate": "2027-03-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-12",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2027-03-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-03-13",
+      "snapshot": "2026-07-06",
+      "price": 246,
+      "airline": "Unknown",
+      "returnDate": "2027-03-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-03-14",
+      "snapshot": "2026-07-06",
+      "price": 381,
+      "airline": "Korean AirJAL",
+      "returnDate": "2027-03-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-15",
+      "snapshot": "2026-07-06",
+      "price": 336,
+      "airline": "Korean AirJAL",
+      "returnDate": "2027-03-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-16",
+      "snapshot": "2026-07-06",
+      "price": 326,
+      "airline": "Korean AirJAL",
+      "returnDate": "2027-03-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-17",
+      "snapshot": "2026-07-06",
+      "price": 326,
+      "airline": "Korean AirJAL",
+      "returnDate": "2027-03-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-18",
+      "snapshot": "2026-07-06",
+      "price": 336,
+      "airline": "Korean AirJAL",
+      "returnDate": "2027-04-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-19",
+      "snapshot": "2026-07-06",
+      "price": 336,
+      "airline": "Korean AirJAL",
+      "returnDate": "2027-04-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-20",
+      "snapshot": "2026-07-06",
+      "price": 336,
+      "airline": "Korean AirJAL",
+      "returnDate": "2027-04-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-21",
+      "snapshot": "2026-07-06",
+      "price": 385,
+      "airline": "Unknown",
+      "returnDate": "2027-04-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-03-22",
+      "snapshot": "2026-07-06",
+      "price": 379,
+      "airline": "Unknown",
+      "returnDate": "2027-04-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-03-23",
+      "snapshot": "2026-07-06",
+      "price": 304,
+      "airline": "Unknown",
+      "returnDate": "2027-04-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-24",
+      "snapshot": "2026-07-06",
+      "price": 304,
+      "airline": "Unknown",
+      "returnDate": "2027-04-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-25",
+      "snapshot": "2026-07-06",
+      "price": 304,
+      "airline": "Unknown",
+      "returnDate": "2027-04-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-26",
+      "snapshot": "2026-07-06",
+      "price": 326,
+      "airline": "Korean AirJAL",
+      "returnDate": "2027-04-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2027-03-27",
+      "snapshot": "2026-07-06",
+      "price": 336,
+      "airline": "Korean AirJAL",
+      "returnDate": "2027-04-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 20 min"
+    },
+    {
+      "date": "2027-03-28",
+      "snapshot": "2026-07-06",
+      "price": 372,
+      "airline": "Korean Air",
+      "returnDate": "2027-04-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-29",
+      "snapshot": "2026-07-06",
+      "price": 345,
+      "airline": "Korean AirJAL",
+      "returnDate": "2027-04-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-30",
+      "snapshot": "2026-07-06",
+      "price": 345,
+      "airline": "Korean AirJAL",
+      "returnDate": "2027-04-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-03-31",
+      "snapshot": "2026-07-06",
+      "price": 345,
+      "airline": "Korean AirJAL",
+      "returnDate": "2027-04-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-04-01",
+      "snapshot": "2026-07-06",
+      "price": 345,
+      "airline": "Korean AirJAL",
+      "returnDate": "2027-04-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
+    },
+    {
+      "date": "2027-04-02",
+      "snapshot": "2026-07-06",
+      "price": 345,
+      "airline": "Korean AirJAL",
+      "returnDate": "2027-04-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 25 min"
     }
   ]
 }

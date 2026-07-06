@@ -1,0 +1,1618 @@
+{
+  "route": "NRT-YYZ",
+  "origin": "NRT",
+  "dest": "YYZ",
+  "label": "Tokyo (NRT) → Toronto (YYZ)",
+  "prices": [
+    {
+      "date": "2026-07-07",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air Canada",
+      "returnDate": "2026-07-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-06",
+      "price": 1505,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-07-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-06",
+      "price": 1505,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-07-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-07-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-07-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-07-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-06",
+      "price": 1453,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-07-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-06",
+      "price": 1505,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-07-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-06",
+      "price": 1658,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-06",
+      "price": 1505,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-06",
+      "price": 1895,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air Canada",
+      "returnDate": "2026-08-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-06",
+      "price": 1883,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-06",
+      "price": 1910,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-06",
+      "price": 1600,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-06",
+      "price": 1852,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-06",
+      "price": 1835,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-06",
+      "price": 1911,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-06",
+      "price": 2020,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-06",
+      "price": 1542,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-06",
+      "price": 1505,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-06",
+      "price": 1972,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-06",
+      "price": 1486,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-07",
+      "snapshot": "2026-07-06",
+      "price": 1622,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-06",
+      "price": 1709,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-06",
+      "price": 1505,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-06",
+      "price": 1378,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air Canada",
+      "returnDate": "2026-08-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-06",
+      "price": 1505,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-06",
+      "price": 1505,
+      "airline": "Air Canada",
+      "returnDate": "2026-08-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-17",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-08-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-06",
+      "price": 1505,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-22",
+      "snapshot": "2026-07-06",
+      "price": 1505,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-06",
+      "price": 1505,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-06",
+      "price": 1450,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-28",
+      "snapshot": "2026-07-06",
+      "price": 1505,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-06",
+      "price": 1505,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-06",
+      "price": 1505,
+      "airline": "Air Canada",
+      "returnDate": "2026-09-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-06",
+      "price": 1605,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-06",
+      "price": 1605,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2026-09-08",
+      "snapshot": "2026-07-06",
+      "price": 1605,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-09",
+      "snapshot": "2026-07-06",
+      "price": 1605,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-06",
+      "price": 1605,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-11",
+      "snapshot": "2026-07-06",
+      "price": 1638,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-13",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-14",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-16",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-09-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-17",
+      "snapshot": "2026-07-06",
+      "price": 1602,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-06",
+      "price": 1636,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-19",
+      "snapshot": "2026-07-06",
+      "price": 1636,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-21",
+      "snapshot": "2026-07-06",
+      "price": 1602,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-06",
+      "price": 1602,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-06",
+      "price": 1602,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-24",
+      "snapshot": "2026-07-06",
+      "price": 1658,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-25",
+      "snapshot": "2026-07-06",
+      "price": 1694,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-26",
+      "snapshot": "2026-07-06",
+      "price": 1658,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-27",
+      "snapshot": "2026-07-06",
+      "price": 1661,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-28",
+      "snapshot": "2026-07-06",
+      "price": 1607,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-29",
+      "snapshot": "2026-07-06",
+      "price": 1654,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-09-30",
+      "snapshot": "2026-07-06",
+      "price": 1602,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-01",
+      "snapshot": "2026-07-06",
+      "price": 1602,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-06",
+      "price": 1636,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-06",
+      "price": 1636,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-04",
+      "snapshot": "2026-07-06",
+      "price": 1636,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-06",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-08",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-09",
+      "snapshot": "2026-07-06",
+      "price": 1636,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-10",
+      "snapshot": "2026-07-06",
+      "price": 1659,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-11",
+      "snapshot": "2026-07-06",
+      "price": 1655,
+      "airline": "Air Canada",
+      "returnDate": "2026-10-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air Canada",
+      "returnDate": "2026-10-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-14",
+      "snapshot": "2026-07-06",
+      "price": 1602,
+      "airline": "Air Canada",
+      "returnDate": "2026-10-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-15",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-16",
+      "snapshot": "2026-07-06",
+      "price": 1636,
+      "airline": "Air Canada",
+      "returnDate": "2026-10-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-10-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-18",
+      "snapshot": "2026-07-06",
+      "price": 1589,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-11-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-19",
+      "snapshot": "2026-07-06",
+      "price": 1497,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-11-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-11-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-21",
+      "snapshot": "2026-07-06",
+      "price": 1602,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-11-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-06",
+      "price": 1494,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-11-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-06",
+      "price": 1545,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-11-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-11-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 45 min"
+    },
+    {
+      "date": "2026-10-25",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air Canada",
+      "returnDate": "2026-11-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-11-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-11-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air Canada",
+      "returnDate": "2026-11-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-06",
+      "price": 1484,
+      "airline": "Air Canada",
+      "returnDate": "2026-11-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-06",
+      "price": 1493,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-11-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-11-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-11-11",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-11-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-11-13",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-11-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-06",
+      "price": 1530,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-11-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-12-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-11-20",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-12-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-11-22",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-12-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-12-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-11-27",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-12-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-12-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-06",
+      "price": 1658,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-12-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-06",
+      "price": 2012,
+      "airline": "Air CanadaANA",
+      "returnDate": "2026-12-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-06",
+      "price": 1691,
+      "airline": "Air Canada",
+      "returnDate": "2026-12-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-06",
+      "price": 1638,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-01-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-01-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-01-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-01-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-06",
+      "price": 1765,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-01-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-06",
+      "price": 1710,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-01-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-06",
+      "price": 1715,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-01-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-06",
+      "price": 2012,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-01-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-01-06",
+      "snapshot": "2026-07-06",
+      "price": 1951,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-01-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-01-08",
+      "snapshot": "2026-07-06",
+      "price": 1984,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-01-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-01-10",
+      "snapshot": "2026-07-06",
+      "price": 1738,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-01-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-01-13",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-01-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-01-15",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-01-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-01-17",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-01-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-01-20",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-02-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-01-22",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-02-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-01-24",
+      "snapshot": "2026-07-06",
+      "price": 1493,
+      "airline": "Air Canada",
+      "returnDate": "2027-02-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-01-27",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-02-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-01-29",
+      "snapshot": "2026-07-06",
+      "price": 1622,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-02-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-01-31",
+      "snapshot": "2026-07-06",
+      "price": 1589,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-02-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-02-03",
+      "snapshot": "2026-07-06",
+      "price": 1441,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-02-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-02-05",
+      "snapshot": "2026-07-06",
+      "price": 1480,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-02-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-02-07",
+      "snapshot": "2026-07-06",
+      "price": 1546,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-02-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-02-10",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-02-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-02-12",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-02-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-02-14",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-02-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-02-17",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-03-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-02-19",
+      "snapshot": "2026-07-06",
+      "price": 1533,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-03-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-02-21",
+      "snapshot": "2026-07-06",
+      "price": 1594,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-03-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-02-24",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-03-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-02-26",
+      "snapshot": "2026-07-06",
+      "price": 1585,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-03-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-02-28",
+      "snapshot": "2026-07-06",
+      "price": 1564,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-03-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2027-03-03",
+      "snapshot": "2026-07-06",
+      "price": 1533,
+      "airline": "Air Canada",
+      "returnDate": "2027-03-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-03-05",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air Canada",
+      "returnDate": "2027-03-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-03-07",
+      "snapshot": "2026-07-06",
+      "price": 1530,
+      "airline": "Air Canada",
+      "returnDate": "2027-03-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-03-10",
+      "snapshot": "2026-07-06",
+      "price": 1452,
+      "airline": "Air Canada",
+      "returnDate": "2027-03-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-03-12",
+      "snapshot": "2026-07-06",
+      "price": 1636,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-03-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-03-14",
+      "snapshot": "2026-07-06",
+      "price": 1621,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-03-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-03-17",
+      "snapshot": "2026-07-06",
+      "price": 1521,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-03-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-03-19",
+      "snapshot": "2026-07-06",
+      "price": 1638,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-04-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-03-21",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-04-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-03-24",
+      "snapshot": "2026-07-06",
+      "price": 1560,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-04-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-03-26",
+      "snapshot": "2026-07-06",
+      "price": 1535,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-04-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-03-28",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-04-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-03-29",
+      "snapshot": "2026-07-06",
+      "price": 1605,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-04-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-03-30",
+      "snapshot": "2026-07-06",
+      "price": 1605,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-04-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-03-31",
+      "snapshot": "2026-07-06",
+      "price": 1605,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-04-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-04-01",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-04-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    },
+    {
+      "date": "2027-04-02",
+      "snapshot": "2026-07-06",
+      "price": 1632,
+      "airline": "Air CanadaANA",
+      "returnDate": "2027-04-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 5 min"
+    }
+  ]
+}

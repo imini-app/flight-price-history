@@ -2,3662 +2,2707 @@
   "route": "LHR-DXB",
   "origin": "LHR",
   "dest": "DXB",
-  "label": "London (LHR) \u2192  Dubai (DXB)",
+  "label": "London (LHR) → Dubai (DXB)",
   "prices": [
     {
-      "date": "2024-07-05",
-      "price": 7070,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-06",
-      "price": 7300,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-07",
-      "price": 6400,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-08",
-      "price": 5690,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-09",
-      "price": 5680,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-07-10",
-      "price": 6530,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-07-11",
-      "price": 6880,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-07-12",
-      "price": 6620,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-13",
-      "price": 7220,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-14",
-      "price": 6380,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-07-15",
-      "price": 5160,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-16",
-      "price": 5910,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-17",
-      "price": 6380,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-18",
-      "price": 6000,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-07-19",
-      "price": 7270,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-20",
-      "price": 6730,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-21",
-      "price": 6130,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-07-22",
-      "price": 6680,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-23",
-      "price": 6360,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-24",
-      "price": 5290,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-25",
-      "price": 6470,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-26",
-      "price": 6600,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-27",
-      "price": 8020,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-28",
-      "price": 7290,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-29",
-      "price": 5200,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-30",
-      "price": 6210,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-07-31",
-      "price": 6070,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-01",
-      "price": 6020,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-02",
-      "price": 7510,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-08-03",
-      "price": 6490,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-08-04",
-      "price": 6330,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-08-05",
-      "price": 5860,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-08-06",
-      "price": 5650,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-07",
-      "price": 6490,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-08-08",
-      "price": 5910,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-09",
-      "price": 6790,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-08-10",
-      "price": 5980,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-11",
-      "price": 6860,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-08-12",
-      "price": 5790,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-13",
-      "price": 5920,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-08-14",
-      "price": 6360,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-15",
-      "price": 5930,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-08-16",
-      "price": 5500,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-17",
-      "price": 6540,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-18",
-      "price": 7030,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-19",
-      "price": 6470,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-08-20",
-      "price": 6250,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-08-21",
-      "price": 5860,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-08-22",
-      "price": 7470,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-08-23",
-      "price": 6390,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-24",
-      "price": 6350,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-08-25",
-      "price": 6160,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-08-26",
-      "price": 5920,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-08-27",
-      "price": 6010,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-08-28",
-      "price": 6230,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-08-29",
-      "price": 6120,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-08-30",
-      "price": 6810,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-08-31",
-      "price": 6610,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-01",
-      "price": 5840,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-02",
-      "price": 5780,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-09-03",
-      "price": 5660,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-09-04",
-      "price": 7060,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-05",
-      "price": 4980,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-06",
-      "price": 6260,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-07",
-      "price": 6720,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-09-08",
-      "price": 5790,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-09",
-      "price": 5320,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-09-10",
-      "price": 6170,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-09-11",
-      "price": 5580,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-09-12",
-      "price": 5140,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-13",
-      "price": 6810,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-14",
-      "price": 7360,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-09-15",
-      "price": 6510,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-16",
-      "price": 6340,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-09-17",
-      "price": 5560,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-18",
-      "price": 6880,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-09-19",
-      "price": 5490,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-20",
-      "price": 7530,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-09-21",
-      "price": 6340,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-22",
-      "price": 6540,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-09-23",
-      "price": 6780,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-09-24",
-      "price": 5960,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-25",
-      "price": 5790,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-09-26",
-      "price": 7030,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-27",
-      "price": 6450,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-09-28",
-      "price": 5820,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-09-29",
-      "price": 6420,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-30",
-      "price": 5710,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-10-01",
-      "price": 6740,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-10-02",
-      "price": 5940,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-03",
-      "price": 5940,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-10-04",
-      "price": 5940,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-05",
-      "price": 7140,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-10-06",
-      "price": 6320,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-07",
-      "price": 5740,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-10-08",
-      "price": 5220,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-09",
-      "price": 5380,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-10-10",
-      "price": 5440,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-10-11",
-      "price": 6520,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-12",
-      "price": 6300,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-10-13",
-      "price": 7070,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-14",
-      "price": 6540,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-10-15",
-      "price": 6310,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-10-16",
-      "price": 6340,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-17",
-      "price": 5750,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-18",
-      "price": 6730,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-10-19",
-      "price": 6670,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-10-20",
-      "price": 7170,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-21",
-      "price": 7260,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-10-22",
-      "price": 6600,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-10-23",
-      "price": 5700,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-10-24",
-      "price": 6660,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-10-25",
-      "price": 6420,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-26",
-      "price": 7080,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-10-27",
-      "price": 6790,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-10-28",
-      "price": 5980,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-10-29",
-      "price": 5330,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-30",
-      "price": 5350,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-10-31",
-      "price": 6670,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-01",
-      "price": 7990,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-02",
-      "price": 7040,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-11-03",
-      "price": 8180,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-11-04",
-      "price": 6950,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-11-05",
-      "price": 7090,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-11-06",
-      "price": 7650,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-07",
-      "price": 7190,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-08",
-      "price": 8020,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-09",
-      "price": 8130,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-11-10",
-      "price": 7590,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-11",
-      "price": 8660,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-11-12",
-      "price": 7860,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-11-13",
-      "price": 7630,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-11-14",
-      "price": 7980,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-11-15",
-      "price": 7690,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-16",
-      "price": 7090,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-11-17",
-      "price": 7390,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-18",
-      "price": 6440,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-19",
-      "price": 6960,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-20",
-      "price": 6440,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-11-21",
-      "price": 7260,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-22",
-      "price": 8490,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-23",
-      "price": 7090,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-11-24",
-      "price": 7490,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-11-25",
-      "price": 7420,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-26",
-      "price": 6870,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-11-27",
-      "price": 7690,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-11-28",
-      "price": 7240,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-11-29",
-      "price": 7610,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-11-30",
-      "price": 8240,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-12-01",
-      "price": 7960,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-02",
-      "price": 7230,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-03",
-      "price": 5780,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-04",
-      "price": 6530,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-12-05",
-      "price": 7140,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-12-06",
-      "price": 6630,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-07",
-      "price": 8010,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-12-08",
-      "price": 7020,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-12-09",
-      "price": 7110,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-12-10",
-      "price": 7240,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-12-11",
-      "price": 7310,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-12-12",
-      "price": 7670,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-12-13",
-      "price": 8640,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-12-14",
-      "price": 7990,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-15",
-      "price": 8150,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-16",
-      "price": 7320,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-17",
-      "price": 6540,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-12-18",
-      "price": 7740,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-19",
-      "price": 7440,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2024-12-20",
-      "price": 7470,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-12-21",
-      "price": 9010,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-22",
-      "price": 8080,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-23",
-      "price": 7020,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-24",
-      "price": 7090,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-12-25",
-      "price": 6860,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-26",
-      "price": 6820,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-27",
-      "price": 7330,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-28",
-      "price": 8890,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2024-12-29",
-      "price": 8070,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-12-30",
-      "price": 6230,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-31",
-      "price": 7800,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-01-01",
-      "price": 6120,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-02",
-      "price": 6060,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-03",
-      "price": 6130,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-01-04",
-      "price": 6880,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-05",
-      "price": 6310,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-06",
-      "price": 5850,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-07",
-      "price": 6250,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-08",
-      "price": 6230,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-09",
-      "price": 5560,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-01-10",
-      "price": 7130,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-11",
-      "price": 6900,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-12",
-      "price": 7210,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-13",
-      "price": 5240,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-14",
-      "price": 5550,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-01-15",
-      "price": 5570,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-16",
-      "price": 6230,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-17",
-      "price": 6340,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-01-18",
-      "price": 5800,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-19",
-      "price": 6610,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-20",
-      "price": 5800,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-21",
-      "price": 5820,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-22",
-      "price": 5920,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-01-23",
-      "price": 6110,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-01-24",
-      "price": 5770,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-25",
-      "price": 6270,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-26",
-      "price": 6320,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-27",
-      "price": 4880,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-28",
-      "price": 5320,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-01-29",
-      "price": 6400,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-30",
-      "price": 6130,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-31",
-      "price": 7400,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-01",
-      "price": 6500,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-02",
-      "price": 6250,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-02-03",
-      "price": 5740,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-04",
-      "price": 6250,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-05",
-      "price": 5960,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-06",
-      "price": 6170,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-02-07",
-      "price": 6590,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-08",
-      "price": 6480,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-09",
-      "price": 6530,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-10",
-      "price": 6080,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-11",
-      "price": 5950,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-12",
-      "price": 6480,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-13",
-      "price": 5520,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-14",
-      "price": 6220,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-02-15",
-      "price": 6800,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-02-16",
-      "price": 6860,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-02-17",
-      "price": 7010,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-18",
-      "price": 5970,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-19",
-      "price": 5950,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-20",
-      "price": 5870,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-21",
-      "price": 6800,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-02-22",
-      "price": 6680,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-23",
-      "price": 6950,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-24",
-      "price": 5980,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-25",
-      "price": 5530,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-02-26",
-      "price": 5980,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-02-27",
-      "price": 5600,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-02-28",
-      "price": 6510,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-01",
-      "price": 6910,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-02",
-      "price": 6710,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-03-03",
-      "price": 6170,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-04",
-      "price": 5890,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-03-05",
-      "price": 5240,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-06",
-      "price": 5800,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-07",
-      "price": 5530,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-08",
-      "price": 6010,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-09",
-      "price": 6010,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-10",
-      "price": 6000,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-11",
-      "price": 6030,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-12",
-      "price": 6490,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-03-13",
-      "price": 5830,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-03-14",
-      "price": 7050,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-03-15",
-      "price": 6870,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-03-16",
-      "price": 6360,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-17",
-      "price": 5340,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-03-18",
-      "price": 5430,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-19",
-      "price": 5500,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-20",
-      "price": 6610,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-21",
-      "price": 6830,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-03-22",
-      "price": 6430,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-23",
-      "price": 6140,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-24",
-      "price": 5790,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-25",
-      "price": 5240,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-26",
-      "price": 5810,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-27",
-      "price": 5880,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-28",
-      "price": 6280,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-29",
-      "price": 6020,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-03-30",
-      "price": 7250,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-03-31",
-      "price": 6570,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-01",
-      "price": 5900,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-02",
-      "price": 5730,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-03",
-      "price": 6050,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-04",
-      "price": 5730,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-04-05",
-      "price": 6990,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-06",
-      "price": 6270,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-07",
-      "price": 6250,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-08",
-      "price": 5830,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-09",
-      "price": 5810,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-10",
-      "price": 6210,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-11",
-      "price": 6040,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-12",
-      "price": 7640,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-04-13",
-      "price": 6120,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-14",
-      "price": 5660,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-15",
-      "price": 5860,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-16",
-      "price": 5050,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-04-17",
-      "price": 6280,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-04-18",
-      "price": 6600,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-19",
-      "price": 6920,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-20",
-      "price": 6160,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-04-21",
-      "price": 6160,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-22",
-      "price": 5600,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-23",
-      "price": 6580,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-24",
-      "price": 5950,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-25",
-      "price": 5680,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-04-26",
-      "price": 6170,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-04-27",
-      "price": 6200,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-28",
-      "price": 5780,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-29",
-      "price": 6210,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-04-30",
-      "price": 6610,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-01",
-      "price": 5940,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-05-02",
-      "price": 6120,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-05-03",
-      "price": 5730,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-04",
-      "price": 6830,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-05",
-      "price": 5600,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-05-06",
-      "price": 5810,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-05-07",
-      "price": 5610,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-08",
-      "price": 5990,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-09",
-      "price": 5780,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-10",
-      "price": 6870,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-11",
-      "price": 6140,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-12",
-      "price": 5250,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-13",
-      "price": 6330,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-14",
-      "price": 6020,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-15",
-      "price": 5950,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-16",
-      "price": 6910,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-17",
-      "price": 6530,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-05-18",
-      "price": 6130,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-19",
-      "price": 6420,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-20",
-      "price": 5930,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-21",
-      "price": 6000,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-05-22",
-      "price": 5300,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-05-23",
-      "price": 6130,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-24",
-      "price": 6620,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-25",
-      "price": 6320,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-05-26",
-      "price": 5860,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-05-27",
-      "price": 6040,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-28",
-      "price": 5760,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-29",
-      "price": 6120,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-30",
-      "price": 6540,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-05-31",
-      "price": 5440,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-06-01",
-      "price": 6730,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-06-02",
-      "price": 5600,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-03",
-      "price": 5240,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-04",
-      "price": 6070,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-05",
-      "price": 5880,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-06-06",
-      "price": 7620,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-07",
-      "price": 6780,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-06-08",
-      "price": 6740,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-06-09",
-      "price": 5980,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-10",
-      "price": 5360,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-06-11",
-      "price": 5710,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-12",
-      "price": 6250,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-06-13",
-      "price": 6930,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-06-14",
-      "price": 6090,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-15",
-      "price": 6430,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-16",
-      "price": 5250,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-17",
-      "price": 6050,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-18",
-      "price": 5190,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-06-19",
-      "price": 5880,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-06-20",
-      "price": 6790,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-06-21",
-      "price": 5620,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-06-22",
-      "price": 7110,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-06-23",
-      "price": 6400,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-24",
-      "price": 6190,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-06-25",
-      "price": 5830,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-26",
-      "price": 5570,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-06-27",
-      "price": 7080,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-06-28",
-      "price": 6860,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-06-29",
-      "price": 7740,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-06-30",
-      "price": 5150,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-01",
-      "price": 5300,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-02",
-      "price": 6380,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-07-03",
-      "price": 5930,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-07-04",
-      "price": 6640,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-07-05",
-      "price": 6280,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-06",
-      "price": 7350,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-07",
-      "price": 6120,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-08",
-      "price": 6620,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-09",
-      "price": 6140,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-07-10",
-      "price": 6340,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-11",
-      "price": 6090,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-07-12",
-      "price": 6560,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-13",
-      "price": 6850,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-14",
-      "price": 6100,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-15",
-      "price": 6430,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-07-16",
-      "price": 5700,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-07-17",
-      "price": 6390,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-18",
-      "price": 5900,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-07-19",
-      "price": 6150,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-20",
-      "price": 6630,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-07-21",
-      "price": 6010,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-07-22",
-      "price": 5420,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-23",
-      "price": 5980,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-24",
-      "price": 5790,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-25",
-      "price": 6890,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-26",
-      "price": 6710,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-07-27",
-      "price": 6460,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-28",
-      "price": 5530,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-29",
-      "price": 6060,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-07-30",
-      "price": 5120,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-07-31",
-      "price": 5990,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-01",
-      "price": 6980,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-02",
-      "price": 6060,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-03",
-      "price": 6650,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-04",
-      "price": 5670,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-05",
-      "price": 6020,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-08-06",
-      "price": 6750,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-08-07",
-      "price": 6480,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-08",
-      "price": 5810,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-09",
-      "price": 6760,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-08-10",
-      "price": 6280,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-08-11",
-      "price": 6330,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-12",
-      "price": 5760,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-13",
-      "price": 6130,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-14",
-      "price": 5620,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-08-15",
-      "price": 6850,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-16",
-      "price": 6280,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-08-17",
-      "price": 6210,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-08-18",
-      "price": 5390,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-19",
-      "price": 6490,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-08-20",
-      "price": 5140,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-21",
-      "price": 5880,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-08-22",
-      "price": 7330,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-23",
-      "price": 5900,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-24",
-      "price": 6790,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-25",
-      "price": 5770,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-08-26",
-      "price": 6050,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-08-27",
-      "price": 6240,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-28",
-      "price": 5890,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-08-29",
-      "price": 6160,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-30",
-      "price": 6590,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-31",
-      "price": 6130,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-09-01",
-      "price": 6100,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-02",
-      "price": 5830,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-03",
-      "price": 5890,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-04",
-      "price": 5740,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-05",
-      "price": 7610,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-06",
-      "price": 6620,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-09-07",
-      "price": 5070,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-08",
-      "price": 5950,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-09-09",
-      "price": 5700,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-09-10",
-      "price": 5870,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-09-11",
-      "price": 6920,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-12",
-      "price": 7270,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-09-13",
-      "price": 5680,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-09-14",
-      "price": 6790,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-15",
-      "price": 5670,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-09-16",
-      "price": 5610,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-17",
-      "price": 5400,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-18",
-      "price": 6470,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-09-19",
-      "price": 5970,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-20",
-      "price": 6670,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-21",
-      "price": 5710,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-22",
-      "price": 6470,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-23",
-      "price": 5980,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-24",
-      "price": 6060,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-09-25",
-      "price": 5410,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-26",
-      "price": 6060,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-09-27",
-      "price": 6730,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-28",
-      "price": 6580,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-09-29",
-      "price": 5710,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-30",
-      "price": 6330,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-01",
-      "price": 5850,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-02",
-      "price": 5760,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-03",
-      "price": 7160,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-04",
-      "price": 7170,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-05",
-      "price": 6370,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-06",
-      "price": 6060,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-07",
-      "price": 6340,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-08",
-      "price": 5160,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-09",
-      "price": 5610,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-10-10",
-      "price": 7050,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-11",
-      "price": 6410,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-12",
-      "price": 6650,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-13",
-      "price": 6540,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-10-14",
-      "price": 6760,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-15",
-      "price": 6180,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-10-16",
-      "price": 5370,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-17",
-      "price": 7050,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-10-18",
-      "price": 7310,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-19",
-      "price": 5460,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-20",
-      "price": 5950,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-21",
-      "price": 5810,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-22",
-      "price": 6340,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-23",
-      "price": 5620,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-24",
-      "price": 6600,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-25",
-      "price": 6420,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-26",
-      "price": 6730,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-27",
-      "price": 5620,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-10-28",
-      "price": 6220,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-29",
-      "price": 6720,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-10-30",
-      "price": 5800,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-10-31",
-      "price": 7010,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-01",
-      "price": 7130,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-11-02",
-      "price": 7850,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-03",
-      "price": 7090,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-11-04",
-      "price": 6810,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-11-05",
-      "price": 8260,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-06",
-      "price": 7610,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-07",
-      "price": 9070,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-08",
-      "price": 6760,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-11-09",
-      "price": 8230,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-11-10",
-      "price": 8250,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-11-11",
-      "price": 7750,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-11-12",
-      "price": 7490,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-13",
-      "price": 6760,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-11-14",
-      "price": 8180,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-11-15",
-      "price": 6350,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-11-16",
-      "price": 8490,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-11-17",
-      "price": 6480,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-18",
-      "price": 7020,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-11-19",
-      "price": 6260,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-20",
-      "price": 7440,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-21",
-      "price": 8250,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-11-22",
-      "price": 7940,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-11-23",
-      "price": 7290,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-11-24",
-      "price": 6780,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-25",
-      "price": 6970,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-11-26",
-      "price": 7750,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-11-27",
-      "price": 7300,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-28",
-      "price": 7610,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-11-29",
-      "price": 7340,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-11-30",
-      "price": 5890,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-01",
-      "price": 6790,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-02",
-      "price": 7510,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-03",
-      "price": 7200,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-04",
-      "price": 6500,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-12-05",
-      "price": 7670,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-06",
-      "price": 9310,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-12-07",
-      "price": 8020,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-08",
-      "price": 6670,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-09",
-      "price": 7590,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-10",
-      "price": 7250,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-11",
-      "price": 7290,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-12",
-      "price": 7780,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-13",
-      "price": 8380,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-14",
-      "price": 7450,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-15",
-      "price": 7700,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-12-16",
-      "price": 6410,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-12-17",
-      "price": 6770,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-18",
-      "price": 6920,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-12-19",
-      "price": 7440,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-20",
-      "price": 7290,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-12-21",
-      "price": 7530,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-12-22",
-      "price": 7120,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-23",
-      "price": 8260,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-12-24",
-      "price": 7220,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-12-25",
-      "price": 7770,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-12-26",
-      "price": 7030,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-12-27",
-      "price": 7350,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-12-28",
-      "price": 9250,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-12-29",
-      "price": 7100,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2025-12-30",
-      "price": 7180,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2025-12-31",
-      "price": 6770,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-01-01",
-      "price": 5430,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-01-02",
-      "price": 6530,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-03",
-      "price": 6890,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-04",
-      "price": 6710,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-05",
-      "price": 6410,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-06",
-      "price": 6480,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-01-07",
-      "price": 6260,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-01-08",
-      "price": 5570,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-01-09",
-      "price": 7510,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-10",
-      "price": 6510,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-11",
-      "price": 6010,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-01-12",
-      "price": 5770,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-13",
-      "price": 6480,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-01-14",
-      "price": 5320,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-15",
-      "price": 6320,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-01-16",
-      "price": 5970,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-17",
-      "price": 6790,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-01-18",
-      "price": 6650,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-19",
-      "price": 7060,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-01-20",
-      "price": 5760,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-21",
-      "price": 4870,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-01-22",
-      "price": 5860,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-01-23",
-      "price": 5770,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-24",
-      "price": 6920,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-01-25",
-      "price": 6540,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-01-26",
-      "price": 5610,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-01-27",
-      "price": 6070,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-28",
-      "price": 6620,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-01-29",
-      "price": 5820,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-01-30",
-      "price": 6440,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-01-31",
-      "price": 5340,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-02-01",
-      "price": 6350,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-02-02",
-      "price": 6300,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-02-03",
-      "price": 6130,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-04",
-      "price": 6430,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-05",
-      "price": 5880,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-06",
-      "price": 6090,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-07",
-      "price": 6010,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-02-08",
-      "price": 6430,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-09",
-      "price": 5830,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-02-10",
-      "price": 6140,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-02-11",
-      "price": 6420,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-02-12",
-      "price": 5740,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-13",
-      "price": 6450,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-02-14",
-      "price": 6900,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-15",
-      "price": 6720,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-02-16",
-      "price": 5430,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-17",
-      "price": 5450,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-02-18",
-      "price": 5950,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-19",
-      "price": 5650,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-20",
-      "price": 5820,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-02-21",
-      "price": 6300,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-02-22",
-      "price": 6170,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-02-23",
-      "price": 6320,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-24",
-      "price": 6310,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-02-25",
-      "price": 5500,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-02-26",
-      "price": 6650,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-02-27",
-      "price": 6030,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-02-28",
-      "price": 6190,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-03-01",
-      "price": 6050,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-02",
-      "price": 6100,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-03-03",
-      "price": 6520,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-04",
-      "price": 6210,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-05",
-      "price": 6020,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-03-06",
-      "price": 6650,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-07",
-      "price": 7400,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-08",
-      "price": 5880,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-03-09",
-      "price": 5270,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-03-10",
-      "price": 6330,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-11",
-      "price": 6720,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-12",
-      "price": 6020,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-03-13",
-      "price": 6640,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-03-14",
-      "price": 7210,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-15",
-      "price": 6320,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-03-16",
-      "price": 6250,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-03-17",
-      "price": 6220,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-03-18",
-      "price": 6210,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-03-19",
-      "price": 5470,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-03-20",
-      "price": 6060,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-03-21",
-      "price": 6810,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-03-22",
-      "price": 6850,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-23",
-      "price": 6110,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-24",
-      "price": 5360,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-25",
-      "price": 5490,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-03-26",
-      "price": 6520,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-03-27",
-      "price": 6290,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-03-28",
-      "price": 6730,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-03-29",
-      "price": 6200,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-30",
-      "price": 5250,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-31",
-      "price": 5260,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-04-01",
-      "price": 6010,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-04-02",
-      "price": 6070,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-04-03",
-      "price": 6340,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-04",
-      "price": 6550,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-04-05",
-      "price": 6630,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-06",
-      "price": 5450,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-04-07",
-      "price": 5640,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-04-08",
-      "price": 6710,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-04-09",
-      "price": 6180,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-04-10",
-      "price": 7090,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-04-11",
-      "price": 6190,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-04-12",
-      "price": 6650,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-04-13",
-      "price": 5850,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-14",
-      "price": 5610,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-04-15",
-      "price": 5810,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-04-16",
-      "price": 6230,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-04-17",
-      "price": 7030,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-04-18",
-      "price": 6520,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-04-19",
-      "price": 7230,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-20",
-      "price": 6750,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-04-21",
-      "price": 5340,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-04-22",
-      "price": 5030,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-04-23",
-      "price": 5760,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-04-24",
-      "price": 5660,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-04-25",
-      "price": 6610,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-04-26",
-      "price": 6350,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-04-27",
-      "price": 5950,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-28",
-      "price": 5450,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-29",
-      "price": 5570,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-04-30",
-      "price": 5880,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-01",
-      "price": 5820,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-02",
-      "price": 6970,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-05-03",
-      "price": 6480,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-04",
-      "price": 5860,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-05-05",
-      "price": 6650,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-06",
-      "price": 6030,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-05-07",
-      "price": 5860,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-05-08",
-      "price": 4950,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-09",
-      "price": 6570,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-05-10",
-      "price": 7060,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-11",
-      "price": 6020,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-12",
-      "price": 5570,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-05-13",
-      "price": 6000,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-05-14",
-      "price": 6670,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-15",
-      "price": 6710,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-16",
-      "price": 6970,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-05-17",
-      "price": 6250,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-05-18",
-      "price": 5830,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-05-19",
-      "price": 6530,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-20",
-      "price": 6620,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-05-21",
-      "price": 5770,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-05-22",
-      "price": 6990,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-23",
-      "price": 7350,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-24",
-      "price": 5600,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-25",
-      "price": 6210,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-26",
-      "price": 6560,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-27",
-      "price": 7520,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-28",
-      "price": 5620,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-29",
-      "price": 6810,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-05-30",
-      "price": 6730,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-05-31",
-      "price": 6710,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-06-01",
-      "price": 5240,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-06-02",
-      "price": 5530,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-06-03",
-      "price": 5740,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-06-04",
-      "price": 5240,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-05",
-      "price": 7070,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-06-06",
-      "price": 7390,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-06-07",
-      "price": 6720,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-06-08",
-      "price": 5200,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-09",
-      "price": 6150,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-06-10",
-      "price": 5380,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-11",
-      "price": 5890,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-06-12",
-      "price": 6680,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-06-13",
-      "price": 6300,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-06-14",
-      "price": 7390,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-15",
-      "price": 6450,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-16",
-      "price": 6510,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-06-17",
-      "price": 6610,
-      "airline": "British Airways"
-    },
-    {
-      "date": "2026-06-18",
-      "price": 6140,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-06-19",
-      "price": 6950,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-06-20",
-      "price": 6750,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-06-21",
-      "price": 6420,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-06-22",
-      "price": 5920,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-06-23",
-      "price": 6450,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-06-24",
-      "price": 5680,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-06-25",
-      "price": 5720,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-26",
-      "price": 7370,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-06-27",
-      "price": 7060,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-28",
-      "price": 6380,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-29",
-      "price": 6280,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-30",
-      "price": 5490,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-07-01",
-      "price": 5980,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-07-02",
-      "price": 5510,
-      "airline": "Virgin Atlantic"
-    },
-    {
-      "date": "2026-07-03",
-      "price": 5670,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-07-04",
-      "price": 7290,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-07-05",
-      "price": 6520,
-      "airline": "British Airways"
+      "date": "2026-07-07",
+      "snapshot": "2026-07-06",
+      "price": 1019,
+      "airline": "Emirates",
+      "returnDate": "2026-07-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-08",
+      "snapshot": "2026-07-06",
+      "price": 1019,
+      "airline": "Emirates",
+      "returnDate": "2026-07-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-09",
+      "snapshot": "2026-07-06",
+      "price": 814,
+      "airline": "Emirates",
+      "returnDate": "2026-07-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-10",
+      "snapshot": "2026-07-06",
+      "price": 881,
+      "airline": "Emirates",
+      "returnDate": "2026-07-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-06",
+      "price": 943,
+      "airline": "Emirates",
+      "returnDate": "2026-07-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-06",
+      "price": 916,
+      "airline": "Emirates",
+      "returnDate": "2026-07-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-06",
+      "price": 949,
+      "airline": "Emirates",
+      "returnDate": "2026-07-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-06",
+      "price": 949,
+      "airline": "Emirates",
+      "returnDate": "2026-07-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-06",
+      "price": 949,
+      "airline": "Emirates",
+      "returnDate": "2026-07-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-06",
+      "price": 1080,
+      "airline": "Emirates",
+      "returnDate": "2026-07-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-06",
+      "price": 1147,
+      "airline": "Emirates",
+      "returnDate": "2026-07-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-06",
+      "price": 1147,
+      "airline": "Emirates",
+      "returnDate": "2026-08-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-06",
+      "price": 1120,
+      "airline": "Emirates",
+      "returnDate": "2026-08-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-06",
+      "price": 1023,
+      "airline": "Emirates",
+      "returnDate": "2026-08-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-06",
+      "price": 958,
+      "airline": "Emirates",
+      "returnDate": "2026-08-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-06",
+      "price": 963,
+      "airline": "Emirates",
+      "returnDate": "2026-08-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-06",
+      "price": 963,
+      "airline": "Emirates",
+      "returnDate": "2026-08-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-06",
+      "price": 955,
+      "airline": "Emirates",
+      "returnDate": "2026-08-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-06",
+      "price": 1029,
+      "airline": "Emirates",
+      "returnDate": "2026-08-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-06",
+      "price": 1003,
+      "airline": "Emirates",
+      "returnDate": "2026-08-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Emirates",
+      "returnDate": "2026-08-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-06",
+      "price": 1023,
+      "airline": "Emirates",
+      "returnDate": "2026-08-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-06",
+      "price": 963,
+      "airline": "Emirates",
+      "returnDate": "2026-08-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-06",
+      "price": 1023,
+      "airline": "Emirates",
+      "returnDate": "2026-08-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-06",
+      "price": 1236,
+      "airline": "Emirates",
+      "returnDate": "2026-08-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-06",
+      "price": 1147,
+      "airline": "Emirates",
+      "returnDate": "2026-08-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-06",
+      "price": 1120,
+      "airline": "Emirates",
+      "returnDate": "2026-08-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-06",
+      "price": 1080,
+      "airline": "Emirates",
+      "returnDate": "2026-08-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-06",
+      "price": 1023,
+      "airline": "Emirates",
+      "returnDate": "2026-08-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-06",
+      "price": 1023,
+      "airline": "Emirates",
+      "returnDate": "2026-08-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-06",
+      "price": 1023,
+      "airline": "Emirates",
+      "returnDate": "2026-08-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-07",
+      "snapshot": "2026-07-06",
+      "price": 1029,
+      "airline": "Emirates",
+      "returnDate": "2026-08-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-06",
+      "price": 1029,
+      "airline": "Emirates",
+      "returnDate": "2026-08-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-06",
+      "price": 920,
+      "airline": "Emirates",
+      "returnDate": "2026-08-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-06",
+      "price": 1019,
+      "airline": "Emirates",
+      "returnDate": "2026-08-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-06",
+      "price": 888,
+      "airline": "Emirates",
+      "returnDate": "2026-08-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-08-12",
+      "snapshot": "2026-07-06",
+      "price": 948,
+      "airline": "Emirates",
+      "returnDate": "2026-08-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-06",
+      "price": 948,
+      "airline": "Emirates",
+      "returnDate": "2026-08-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-06",
+      "price": 1015,
+      "airline": "Emirates",
+      "returnDate": "2026-08-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-06",
+      "price": 1204,
+      "airline": "Emirates",
+      "returnDate": "2026-08-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-06",
+      "price": 1108,
+      "airline": "Emirates",
+      "returnDate": "2026-08-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-17",
+      "snapshot": "2026-07-06",
+      "price": 1204,
+      "airline": "Emirates",
+      "returnDate": "2026-08-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-06",
+      "price": 1067,
+      "airline": "Emirates",
+      "returnDate": "2026-09-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-06",
+      "price": 983,
+      "airline": "Emirates",
+      "returnDate": "2026-09-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-06",
+      "price": 928,
+      "airline": "Emirates",
+      "returnDate": "2026-09-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-06",
+      "price": 868,
+      "airline": "Emirates",
+      "returnDate": "2026-09-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-22",
+      "snapshot": "2026-07-06",
+      "price": 868,
+      "airline": "Emirates",
+      "returnDate": "2026-09-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-06",
+      "price": 841,
+      "airline": "Emirates",
+      "returnDate": "2026-09-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-09-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-25",
+      "snapshot": "2026-07-06",
+      "price": 760,
+      "airline": "Emirates",
+      "returnDate": "2026-09-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-26",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-09-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-27",
+      "snapshot": "2026-07-06",
+      "price": 760,
+      "airline": "Emirates",
+      "returnDate": "2026-09-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-28",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-09-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-09-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-06",
+      "price": 780,
+      "airline": "Emirates",
+      "returnDate": "2026-09-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-09-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-01",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-09-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-09-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-03",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-09-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-09-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-09-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-06",
+      "price": 780,
+      "airline": "Emirates",
+      "returnDate": "2026-09-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-09-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-08",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-09-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-09",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-09-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-09-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-11",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-09-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-09-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-13",
+      "snapshot": "2026-07-06",
+      "price": 780,
+      "airline": "Emirates",
+      "returnDate": "2026-09-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-14",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-09-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-15",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-09-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-16",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-09-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-17",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-10-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-19",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-10-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-06",
+      "price": 780,
+      "airline": "Emirates",
+      "returnDate": "2026-10-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-21",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-24",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-25",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-10-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-26",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-10-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-27",
+      "snapshot": "2026-07-06",
+      "price": 780,
+      "airline": "Emirates",
+      "returnDate": "2026-10-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-28",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-29",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-30",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-01",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-10-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-10-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-04",
+      "snapshot": "2026-07-06",
+      "price": 780,
+      "airline": "Emirates",
+      "returnDate": "2026-10-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-06",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-08",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-09",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-10-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-10",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-10-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-11",
+      "snapshot": "2026-07-06",
+      "price": 800,
+      "airline": "Emirates",
+      "returnDate": "2026-10-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-10-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-14",
+      "snapshot": "2026-07-06",
+      "price": 760,
+      "airline": "Emirates",
+      "returnDate": "2026-10-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-15",
+      "snapshot": "2026-07-06",
+      "price": 933,
+      "airline": "Emirates",
+      "returnDate": "2026-10-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-10-16",
+      "snapshot": "2026-07-06",
+      "price": 1069,
+      "airline": "Emirates",
+      "returnDate": "2026-10-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-06",
+      "price": 1195,
+      "airline": "Emirates",
+      "returnDate": "2026-10-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-18",
+      "snapshot": "2026-07-06",
+      "price": 1156,
+      "airline": "Emirates",
+      "returnDate": "2026-11-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-19",
+      "snapshot": "2026-07-06",
+      "price": 936,
+      "airline": "Emirates",
+      "returnDate": "2026-11-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-06",
+      "price": 936,
+      "airline": "Emirates",
+      "returnDate": "2026-11-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-21",
+      "snapshot": "2026-07-06",
+      "price": 936,
+      "airline": "Emirates",
+      "returnDate": "2026-11-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-06",
+      "price": 1004,
+      "airline": "Emirates",
+      "returnDate": "2026-11-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-06",
+      "price": 1071,
+      "airline": "Emirates",
+      "returnDate": "2026-11-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-06",
+      "price": 1071,
+      "airline": "Emirates",
+      "returnDate": "2026-11-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-10-25",
+      "snapshot": "2026-07-06",
+      "price": 976,
+      "airline": "Emirates",
+      "returnDate": "2026-11-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-10-26",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-11-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-10-27",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-11-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-11-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-11-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-11-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-11-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-06",
+      "price": 800,
+      "airline": "Emirates",
+      "returnDate": "2026-11-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-02",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-11-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-03",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-11-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-11-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-11-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-11-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-07",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-11-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-06",
+      "price": 800,
+      "airline": "Emirates",
+      "returnDate": "2026-11-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-09",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-11-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-11-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-11",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-11-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-12",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-11-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-13",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-11-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-14",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-11-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-06",
+      "price": 800,
+      "airline": "Emirates",
+      "returnDate": "2026-11-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-16",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-11-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-17",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-12-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-12-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-12-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-20",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-12-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-21",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-12-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-22",
+      "snapshot": "2026-07-06",
+      "price": 780,
+      "airline": "Emirates",
+      "returnDate": "2026-12-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-23",
+      "snapshot": "2026-07-06",
+      "price": 760,
+      "airline": "Emirates",
+      "returnDate": "2026-12-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-24",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-12-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-12-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-26",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-12-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-27",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-12-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-28",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-12-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-06",
+      "price": 780,
+      "airline": "Emirates",
+      "returnDate": "2026-12-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-30",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-12-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-01",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-12-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-12-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-03",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-12-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-12-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2026-12-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-06",
+      "price": 780,
+      "airline": "Emirates",
+      "returnDate": "2026-12-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-07",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2026-12-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-06",
+      "price": 936,
+      "airline": "Emirates",
+      "returnDate": "2026-12-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-06",
+      "price": 936,
+      "airline": "Emirates",
+      "returnDate": "2026-12-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-10",
+      "snapshot": "2026-07-06",
+      "price": 1004,
+      "airline": "Emirates",
+      "returnDate": "2026-12-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-06",
+      "price": 1306,
+      "airline": "Emirates",
+      "returnDate": "2026-12-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-06",
+      "price": 1306,
+      "airline": "Emirates",
+      "returnDate": "2026-12-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-13",
+      "snapshot": "2026-07-06",
+      "price": 1280,
+      "airline": "Emirates",
+      "returnDate": "2026-12-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-06",
+      "price": 1240,
+      "airline": "Emirates",
+      "returnDate": "2026-12-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-15",
+      "snapshot": "2026-07-06",
+      "price": 1240,
+      "airline": "Emirates",
+      "returnDate": "2026-12-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-16",
+      "snapshot": "2026-07-06",
+      "price": 1369,
+      "airline": "Emirates",
+      "returnDate": "2026-12-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-17",
+      "snapshot": "2026-07-06",
+      "price": 1429,
+      "airline": "Emirates",
+      "returnDate": "2026-12-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-06",
+      "price": 1713,
+      "airline": "Emirates",
+      "returnDate": "2027-01-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-19",
+      "snapshot": "2026-07-06",
+      "price": 2009,
+      "airline": "British Airways",
+      "returnDate": "2027-01-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-06",
+      "price": 1963,
+      "airline": "Emirates",
+      "returnDate": "2027-01-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-21",
+      "snapshot": "2026-07-06",
+      "price": 1949,
+      "airline": "British Airways",
+      "returnDate": "2027-01-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-12-22",
+      "snapshot": "2026-07-06",
+      "price": 1760,
+      "airline": "Emirates",
+      "returnDate": "2027-01-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-06",
+      "price": 1565,
+      "airline": "Emirates",
+      "returnDate": "2027-01-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-06",
+      "price": 1306,
+      "airline": "Emirates",
+      "returnDate": "2027-01-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-06",
+      "price": 1229,
+      "airline": "Emirates",
+      "returnDate": "2027-01-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-26",
+      "snapshot": "2026-07-06",
+      "price": 1229,
+      "airline": "Emirates",
+      "returnDate": "2027-01-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-06",
+      "price": 1202,
+      "airline": "Emirates",
+      "returnDate": "2027-01-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-06",
+      "price": 1013,
+      "airline": "Emirates",
+      "returnDate": "2027-01-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-29",
+      "snapshot": "2026-07-06",
+      "price": 946,
+      "airline": "Emirates",
+      "returnDate": "2027-01-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-06",
+      "price": 864,
+      "airline": "Emirates",
+      "returnDate": "2027-01-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-06",
+      "price": 864,
+      "airline": "Emirates",
+      "returnDate": "2027-01-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-06",
+      "price": 930,
+      "airline": "Emirates",
+      "returnDate": "2027-01-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-06",
+      "price": 930,
+      "airline": "Emirates",
+      "returnDate": "2027-01-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-06",
+      "price": 904,
+      "airline": "Emirates",
+      "returnDate": "2027-01-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-04",
+      "snapshot": "2026-07-06",
+      "price": 864,
+      "airline": "Emirates",
+      "returnDate": "2027-01-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-05",
+      "snapshot": "2026-07-06",
+      "price": 864,
+      "airline": "Emirates",
+      "returnDate": "2027-01-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 45 min"
+    },
+    {
+      "date": "2027-01-06",
+      "snapshot": "2026-07-06",
+      "price": 864,
+      "airline": "Emirates",
+      "returnDate": "2027-01-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-07",
+      "snapshot": "2026-07-06",
+      "price": 864,
+      "airline": "Emirates",
+      "returnDate": "2027-01-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-08",
+      "snapshot": "2026-07-06",
+      "price": 930,
+      "airline": "Emirates",
+      "returnDate": "2027-01-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-09",
+      "snapshot": "2026-07-06",
+      "price": 930,
+      "airline": "Emirates",
+      "returnDate": "2027-01-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-10",
+      "snapshot": "2026-07-06",
+      "price": 904,
+      "airline": "Emirates",
+      "returnDate": "2027-01-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-11",
+      "snapshot": "2026-07-06",
+      "price": 864,
+      "airline": "Emirates",
+      "returnDate": "2027-01-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-12",
+      "snapshot": "2026-07-06",
+      "price": 864,
+      "airline": "Emirates",
+      "returnDate": "2027-01-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-13",
+      "snapshot": "2026-07-06",
+      "price": 864,
+      "airline": "Emirates",
+      "returnDate": "2027-01-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-14",
+      "snapshot": "2026-07-06",
+      "price": 864,
+      "airline": "Emirates",
+      "returnDate": "2027-01-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-15",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2027-01-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-16",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2027-01-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-17",
+      "snapshot": "2026-07-06",
+      "price": 780,
+      "airline": "Emirates",
+      "returnDate": "2027-01-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-18",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-02-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-19",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-02-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-20",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-02-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-21",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-02-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-22",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2027-02-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-23",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2027-02-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-24",
+      "snapshot": "2026-07-06",
+      "price": 780,
+      "airline": "Emirates",
+      "returnDate": "2027-02-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-25",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-02-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-26",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-02-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-27",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-02-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-28",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-02-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-29",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2027-02-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-30",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2027-02-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-01-31",
+      "snapshot": "2026-07-06",
+      "price": 780,
+      "airline": "Emirates",
+      "returnDate": "2027-02-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-01",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-02-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-02",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-02-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-03",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-02-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-04",
+      "snapshot": "2026-07-06",
+      "price": 760,
+      "airline": "Emirates",
+      "returnDate": "2027-02-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-05",
+      "snapshot": "2026-07-06",
+      "price": 868,
+      "airline": "Emirates",
+      "returnDate": "2027-02-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-06",
+      "snapshot": "2026-07-06",
+      "price": 937,
+      "airline": "Emirates",
+      "returnDate": "2027-02-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-07",
+      "snapshot": "2026-07-06",
+      "price": 910,
+      "airline": "Emirates",
+      "returnDate": "2027-02-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-08",
+      "snapshot": "2026-07-06",
+      "price": 801,
+      "airline": "Emirates",
+      "returnDate": "2027-02-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-09",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-02-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-10",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-02-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-11",
+      "snapshot": "2026-07-06",
+      "price": 936,
+      "airline": "Emirates",
+      "returnDate": "2027-02-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-12",
+      "snapshot": "2026-07-06",
+      "price": 1002,
+      "airline": "Emirates",
+      "returnDate": "2027-02-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-13",
+      "snapshot": "2026-07-06",
+      "price": 1002,
+      "airline": "Emirates",
+      "returnDate": "2027-02-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-14",
+      "snapshot": "2026-07-06",
+      "price": 862,
+      "airline": "Emirates",
+      "returnDate": "2027-02-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-15",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-16",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-17",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-18",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-19",
+      "snapshot": "2026-07-06",
+      "price": 826,
+      "airline": "Emirates",
+      "returnDate": "2027-03-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-20",
+      "snapshot": "2026-07-06",
+      "price": 826,
+      "airline": "Emirates",
+      "returnDate": "2027-03-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-21",
+      "snapshot": "2026-07-06",
+      "price": 800,
+      "airline": "Emirates",
+      "returnDate": "2027-03-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-22",
+      "snapshot": "2026-07-06",
+      "price": 760,
+      "airline": "Emirates",
+      "returnDate": "2027-03-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-23",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-24",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-25",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-26",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2027-03-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-27",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2027-03-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-02-28",
+      "snapshot": "2026-07-06",
+      "price": 780,
+      "airline": "Emirates",
+      "returnDate": "2027-03-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-01",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-02",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-03",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-04",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-05",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2027-03-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-06",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2027-03-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-07",
+      "snapshot": "2026-07-06",
+      "price": 800,
+      "airline": "Emirates",
+      "returnDate": "2027-03-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-08",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-09",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-10",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-11",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-12",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2027-03-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-13",
+      "snapshot": "2026-07-06",
+      "price": 806,
+      "airline": "Emirates",
+      "returnDate": "2027-03-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-14",
+      "snapshot": "2026-07-06",
+      "price": 800,
+      "airline": "Emirates",
+      "returnDate": "2027-03-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-15",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-16",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-17",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-03-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-18",
+      "snapshot": "2026-07-06",
+      "price": 740,
+      "airline": "Emirates",
+      "returnDate": "2027-04-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-19",
+      "snapshot": "2026-07-06",
+      "price": 826,
+      "airline": "Emirates",
+      "returnDate": "2027-04-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-20",
+      "snapshot": "2026-07-06",
+      "price": 1000,
+      "airline": "Emirates",
+      "returnDate": "2027-04-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-21",
+      "snapshot": "2026-07-06",
+      "price": 973,
+      "airline": "Emirates",
+      "returnDate": "2027-04-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-22",
+      "snapshot": "2026-07-06",
+      "price": 864,
+      "airline": "Emirates",
+      "returnDate": "2027-04-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-23",
+      "snapshot": "2026-07-06",
+      "price": 864,
+      "airline": "Emirates",
+      "returnDate": "2027-04-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-24",
+      "snapshot": "2026-07-06",
+      "price": 936,
+      "airline": "Emirates",
+      "returnDate": "2027-04-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-03-25",
+      "snapshot": "2026-07-06",
+      "price": 1038,
+      "airline": "British Airways",
+      "returnDate": "2027-04-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2027-03-26",
+      "snapshot": "2026-07-06",
+      "price": 1004,
+      "airline": "British Airways",
+      "returnDate": "2027-04-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2027-03-27",
+      "snapshot": "2026-07-06",
+      "price": 1108,
+      "airline": "British Airways",
+      "returnDate": "2027-04-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2027-03-28",
+      "snapshot": "2026-07-06",
+      "price": 1073,
+      "airline": "British Airways",
+      "returnDate": "2027-04-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2027-03-29",
+      "snapshot": "2026-07-06",
+      "price": 1002,
+      "airline": "Emirates",
+      "returnDate": "2027-04-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2027-03-30",
+      "snapshot": "2026-07-06",
+      "price": 892,
+      "airline": "Emirates",
+      "returnDate": "2027-04-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2027-03-31",
+      "snapshot": "2026-07-06",
+      "price": 892,
+      "airline": "Emirates",
+      "returnDate": "2027-04-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2027-04-01",
+      "snapshot": "2026-07-06",
+      "price": 868,
+      "airline": "Emirates",
+      "returnDate": "2027-04-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2027-04-02",
+      "snapshot": "2026-07-06",
+      "price": 941,
+      "airline": "Emirates",
+      "returnDate": "2027-04-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
     }
   ]
 }

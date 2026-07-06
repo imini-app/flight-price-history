@@ -1,0 +1,7 @@
+{
+  "route": "NRT-JFK",
+  "origin": "NRT",
+  "dest": "JFK",
+  "label": "Tokyo (NRT) → New York (JFK)",
+  "prices": []
+}

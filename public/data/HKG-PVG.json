@@ -2,3662 +2,2677 @@
   "route": "HKG-PVG",
   "origin": "HKG",
   "dest": "PVG",
-  "label": "Hong Kong (HKG) \u2192  Shanghai (PVG)",
+  "label": "Hong Kong (HKG) → Shanghai (PVG)",
   "prices": [
     {
-      "date": "2024-07-05",
-      "price": 2470,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-07-06",
-      "price": 2580,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-07-07",
-      "price": 3070,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-07-08",
-      "price": 2380,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-09",
-      "price": 2610,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-07-10",
-      "price": 2460,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-11",
-      "price": 2550,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-12",
-      "price": 3300,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-07-13",
-      "price": 2810,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-07-14",
-      "price": 2760,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-07-15",
-      "price": 2480,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-07-16",
-      "price": 2640,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-07-17",
-      "price": 2280,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-07-18",
-      "price": 2530,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-19",
-      "price": 2890,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-07-20",
-      "price": 2720,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-07-21",
-      "price": 2600,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-07-22",
-      "price": 2440,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-07-23",
-      "price": 1940,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-07-24",
-      "price": 2560,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-07-25",
-      "price": 2720,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-07-26",
-      "price": 2830,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-07-27",
-      "price": 2470,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-07-28",
-      "price": 2590,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-07-29",
-      "price": 2330,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-07-30",
-      "price": 2480,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-07-31",
-      "price": 2790,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-08-01",
-      "price": 2320,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-08-02",
-      "price": 2330,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-08-03",
-      "price": 2690,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-08-04",
-      "price": 2690,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-08-05",
-      "price": 2530,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-06",
-      "price": 2660,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-08-07",
-      "price": 2630,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-08-08",
-      "price": 2560,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-08-09",
-      "price": 2500,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-08-10",
-      "price": 3080,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-08-11",
-      "price": 2810,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-12",
-      "price": 2770,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-13",
-      "price": 2120,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-08-14",
-      "price": 2670,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-08-15",
-      "price": 2580,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-08-16",
-      "price": 2800,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-08-17",
-      "price": 2810,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-08-18",
-      "price": 2920,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-08-19",
-      "price": 2540,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-08-20",
-      "price": 2320,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-08-21",
-      "price": 2490,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-08-22",
-      "price": 2500,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-08-23",
-      "price": 2500,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-08-24",
-      "price": 3330,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-08-25",
-      "price": 2980,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-26",
-      "price": 2470,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-08-27",
-      "price": 2530,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-08-28",
-      "price": 2510,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-08-29",
-      "price": 2710,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-08-30",
-      "price": 3200,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-31",
-      "price": 3050,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-09-01",
-      "price": 3090,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-09-02",
-      "price": 2660,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-03",
-      "price": 2640,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-04",
-      "price": 2880,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-09-05",
-      "price": 2760,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-06",
-      "price": 2600,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-09-07",
-      "price": 2800,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-08",
-      "price": 2840,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-09",
-      "price": 2390,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-09-10",
-      "price": 2490,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-11",
-      "price": 2280,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-12",
-      "price": 2420,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-09-13",
-      "price": 2990,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-14",
-      "price": 2830,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-15",
-      "price": 2540,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-16",
-      "price": 2660,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-17",
-      "price": 2490,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-18",
-      "price": 2620,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-19",
-      "price": 2440,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-20",
-      "price": 2750,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-21",
-      "price": 2860,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-22",
-      "price": 2590,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-23",
-      "price": 2360,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-24",
-      "price": 2410,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-09-25",
-      "price": 2550,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-26",
-      "price": 2380,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-27",
-      "price": 2890,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-28",
-      "price": 2640,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-29",
-      "price": 2580,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-09-30",
-      "price": 2490,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-01",
-      "price": 2450,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-10-02",
-      "price": 2630,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-03",
-      "price": 2900,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-10-04",
-      "price": 2870,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-10-05",
-      "price": 2770,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-10-06",
-      "price": 2860,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-07",
-      "price": 2450,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-10-08",
-      "price": 2580,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-10-09",
-      "price": 2330,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-10-10",
-      "price": 2470,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-10-11",
-      "price": 3080,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-12",
-      "price": 2520,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-10-13",
-      "price": 2460,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-10-14",
-      "price": 2240,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-10-15",
-      "price": 2470,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-10-16",
-      "price": 2260,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-10-17",
-      "price": 2480,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-18",
-      "price": 2400,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-10-19",
-      "price": 2690,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-20",
-      "price": 2310,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-10-21",
-      "price": 2800,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-10-22",
-      "price": 2740,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-23",
-      "price": 2680,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-10-24",
-      "price": 2470,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-25",
-      "price": 2660,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-10-26",
-      "price": 2830,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-10-27",
-      "price": 2750,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-10-28",
-      "price": 2540,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-10-29",
-      "price": 2200,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-10-30",
-      "price": 2310,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-10-31",
-      "price": 2540,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-11-01",
-      "price": 3170,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-02",
-      "price": 2960,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-03",
-      "price": 2990,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-11-04",
-      "price": 2810,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-11-05",
-      "price": 2940,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-11-06",
-      "price": 2820,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-11-07",
-      "price": 3240,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-11-08",
-      "price": 3130,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-11-09",
-      "price": 3370,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-11-10",
-      "price": 2980,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-11",
-      "price": 2910,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-12",
-      "price": 2740,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-13",
-      "price": 2820,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-14",
-      "price": 3040,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-15",
-      "price": 3130,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-16",
-      "price": 2920,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-11-17",
-      "price": 3180,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-18",
-      "price": 2580,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-19",
-      "price": 2530,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-20",
-      "price": 2770,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-11-21",
-      "price": 2840,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-11-22",
-      "price": 3260,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-23",
-      "price": 3140,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-11-24",
-      "price": 3190,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-25",
-      "price": 3000,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-11-26",
-      "price": 2740,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-11-27",
-      "price": 3060,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-11-28",
-      "price": 2510,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-29",
-      "price": 3540,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-11-30",
-      "price": 3080,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-01",
-      "price": 3250,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-12-02",
-      "price": 2660,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-12-03",
-      "price": 3120,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-12-04",
-      "price": 2900,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-05",
-      "price": 3030,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-06",
-      "price": 3060,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-12-07",
-      "price": 3270,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-12-08",
-      "price": 3220,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-12-09",
-      "price": 2670,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-10",
-      "price": 2720,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-12-11",
-      "price": 3120,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-12-12",
-      "price": 2820,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-12-13",
-      "price": 2980,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-12-14",
-      "price": 3320,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-15",
-      "price": 3240,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-12-16",
-      "price": 3220,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-12-17",
-      "price": 3280,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-12-18",
-      "price": 2910,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-19",
-      "price": 2910,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-20",
-      "price": 3460,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-21",
-      "price": 3090,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-22",
-      "price": 2860,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-12-23",
-      "price": 2580,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-24",
-      "price": 2560,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-12-25",
-      "price": 2790,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-12-26",
-      "price": 2860,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2024-12-27",
-      "price": 2900,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-12-28",
-      "price": 3160,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-12-29",
-      "price": 3110,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-30",
-      "price": 2970,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-12-31",
-      "price": 2600,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-01",
-      "price": 3700,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-01-02",
-      "price": 2900,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-01-03",
-      "price": 3510,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-04",
-      "price": 3820,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-01-05",
-      "price": 4230,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-01-06",
-      "price": 3370,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-01-07",
-      "price": 3520,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-01-08",
-      "price": 3130,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-01-09",
-      "price": 3640,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-01-10",
-      "price": 3810,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-01-11",
-      "price": 3660,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-01-12",
-      "price": 3740,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-01-13",
-      "price": 3860,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-01-14",
-      "price": 3530,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-15",
-      "price": 3400,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-01-16",
-      "price": 3600,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-17",
-      "price": 3380,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-01-18",
-      "price": 3470,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-19",
-      "price": 4010,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-01-20",
-      "price": 3890,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-01-21",
-      "price": 3460,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-01-22",
-      "price": 3390,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-01-23",
-      "price": 3540,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-24",
-      "price": 3830,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-01-25",
-      "price": 3880,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-01-26",
-      "price": 3640,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-01-27",
-      "price": 3390,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-01-28",
-      "price": 3230,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-01-29",
-      "price": 3680,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-30",
-      "price": 3130,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-31",
-      "price": 3680,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-02-01",
-      "price": 4280,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-02-02",
-      "price": 3320,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-03",
-      "price": 4260,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-02-04",
-      "price": 3730,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-02-05",
-      "price": 3070,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-06",
-      "price": 3610,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-02-07",
-      "price": 3440,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-02-08",
-      "price": 3460,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-02-09",
-      "price": 3480,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-10",
-      "price": 3220,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-02-11",
-      "price": 3380,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-02-12",
-      "price": 3470,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-13",
-      "price": 3490,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-02-14",
-      "price": 3900,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-02-15",
-      "price": 4020,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-02-16",
-      "price": 4220,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-02-17",
-      "price": 3520,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-02-18",
-      "price": 3750,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-02-19",
-      "price": 3180,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-02-20",
-      "price": 3740,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-02-21",
-      "price": 4700,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-22",
-      "price": 3860,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-02-23",
-      "price": 4480,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-02-24",
-      "price": 3570,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-02-25",
-      "price": 3820,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-02-26",
-      "price": 3390,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-02-27",
-      "price": 3420,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-02-28",
-      "price": 3770,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-03-01",
-      "price": 2560,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-03-02",
-      "price": 2980,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-03-03",
-      "price": 2840,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-03-04",
-      "price": 2490,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-03-05",
-      "price": 2390,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-03-06",
-      "price": 3020,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-07",
-      "price": 2820,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-03-08",
-      "price": 2730,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-03-09",
-      "price": 2320,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-03-10",
-      "price": 2790,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-03-11",
-      "price": 2390,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-03-12",
-      "price": 2730,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-03-13",
-      "price": 2730,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-03-14",
-      "price": 3300,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-03-15",
-      "price": 2890,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-03-16",
-      "price": 3250,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-03-17",
-      "price": 2220,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-03-18",
-      "price": 2250,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-03-19",
-      "price": 2510,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-20",
-      "price": 2420,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-03-21",
-      "price": 2580,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-03-22",
-      "price": 2780,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-23",
-      "price": 2790,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-03-24",
-      "price": 2630,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-03-25",
-      "price": 2320,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-26",
-      "price": 2610,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-03-27",
-      "price": 2320,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-03-28",
-      "price": 2810,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-03-29",
-      "price": 2730,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-03-30",
-      "price": 2830,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-03-31",
-      "price": 2750,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-04-01",
-      "price": 2480,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-04-02",
-      "price": 2600,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-03",
-      "price": 2330,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-04-04",
-      "price": 3100,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-05",
-      "price": 3150,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-06",
-      "price": 2970,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-04-07",
-      "price": 2630,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-04-08",
-      "price": 2770,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-09",
-      "price": 2840,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-04-10",
-      "price": 2370,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-04-11",
-      "price": 3000,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-12",
-      "price": 2200,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-04-13",
-      "price": 3060,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-04-14",
-      "price": 2570,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-04-15",
-      "price": 2410,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-04-16",
-      "price": 2490,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-04-17",
-      "price": 2490,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-04-18",
-      "price": 2290,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-19",
-      "price": 3410,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-20",
-      "price": 2780,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-04-21",
-      "price": 2270,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-04-22",
-      "price": 2590,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-04-23",
-      "price": 2250,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-24",
-      "price": 2710,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-04-25",
-      "price": 2620,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-04-26",
-      "price": 2770,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-04-27",
-      "price": 2470,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-04-28",
-      "price": 2520,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-04-29",
-      "price": 2270,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-30",
-      "price": 2650,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-05-01",
-      "price": 2610,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-05-02",
-      "price": 2840,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-05-03",
-      "price": 2650,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-04",
-      "price": 2710,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-05-05",
-      "price": 2400,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-05-06",
-      "price": 2690,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-07",
-      "price": 2630,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-08",
-      "price": 2760,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-05-09",
-      "price": 3190,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-05-10",
-      "price": 2710,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-05-11",
-      "price": 2610,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-12",
-      "price": 2550,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-05-13",
-      "price": 2750,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-14",
-      "price": 2770,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-15",
-      "price": 2430,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-05-16",
-      "price": 2790,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-05-17",
-      "price": 2390,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-18",
-      "price": 2330,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-19",
-      "price": 2640,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-20",
-      "price": 2380,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-05-21",
-      "price": 2500,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-05-22",
-      "price": 2280,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-05-23",
-      "price": 2750,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-05-24",
-      "price": 2640,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-25",
-      "price": 2670,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-05-26",
-      "price": 2580,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-05-27",
-      "price": 2460,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-05-28",
-      "price": 2590,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-05-29",
-      "price": 2520,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-05-30",
-      "price": 3050,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-05-31",
-      "price": 3000,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-06-01",
-      "price": 2520,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-06-02",
-      "price": 2500,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-06-03",
-      "price": 2590,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-04",
-      "price": 2480,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-06-05",
-      "price": 2710,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-06-06",
-      "price": 2760,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-07",
-      "price": 2620,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-06-08",
-      "price": 2930,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-06-09",
-      "price": 2300,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-06-10",
-      "price": 2400,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-06-11",
-      "price": 2460,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-06-12",
-      "price": 2100,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-06-13",
-      "price": 2900,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-06-14",
-      "price": 2710,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-06-15",
-      "price": 2640,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-16",
-      "price": 2840,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-17",
-      "price": 2400,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-06-18",
-      "price": 2670,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-06-19",
-      "price": 2480,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-06-20",
-      "price": 2520,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-21",
-      "price": 2810,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-06-22",
-      "price": 2870,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-06-23",
-      "price": 2670,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-06-24",
-      "price": 2910,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-06-25",
-      "price": 2160,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-06-26",
-      "price": 2710,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-27",
-      "price": 2670,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-06-28",
-      "price": 2660,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-06-29",
-      "price": 3040,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-06-30",
-      "price": 2320,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-07-01",
-      "price": 2450,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-07-02",
-      "price": 2350,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-07-03",
-      "price": 2520,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-04",
-      "price": 2370,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-07-05",
-      "price": 2090,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-07-06",
-      "price": 2940,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-07",
-      "price": 2640,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-07-08",
-      "price": 2500,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-07-09",
-      "price": 2950,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-07-10",
-      "price": 2480,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-07-11",
-      "price": 2480,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-12",
-      "price": 2860,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-07-13",
-      "price": 2870,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-07-14",
-      "price": 2330,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-07-15",
-      "price": 2590,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-07-16",
-      "price": 2710,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-07-17",
-      "price": 2590,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-07-18",
-      "price": 2900,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-07-19",
-      "price": 2360,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-20",
-      "price": 2810,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-07-21",
-      "price": 2280,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-07-22",
-      "price": 2770,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-07-23",
-      "price": 2260,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-07-24",
-      "price": 2480,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-07-25",
-      "price": 2680,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-07-26",
-      "price": 2770,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-27",
-      "price": 2810,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-28",
-      "price": 2460,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-07-29",
-      "price": 2480,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-07-30",
-      "price": 2860,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-07-31",
-      "price": 2740,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-08-01",
-      "price": 2850,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-02",
-      "price": 2980,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-08-03",
-      "price": 2930,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-04",
-      "price": 2280,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-05",
-      "price": 2850,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-08-06",
-      "price": 2520,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-07",
-      "price": 2570,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-08",
-      "price": 2820,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-08-09",
-      "price": 2990,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-10",
-      "price": 2860,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-11",
-      "price": 2490,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-12",
-      "price": 2430,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-13",
-      "price": 2650,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-08-14",
-      "price": 2370,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-15",
-      "price": 2940,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-08-16",
-      "price": 2980,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-08-17",
-      "price": 2440,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-08-18",
-      "price": 2020,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-19",
-      "price": 2410,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-08-20",
-      "price": 2680,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-08-21",
-      "price": 2670,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-22",
-      "price": 2740,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-23",
-      "price": 2880,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-24",
-      "price": 2530,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-08-25",
-      "price": 2510,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-26",
-      "price": 2420,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-08-27",
-      "price": 2400,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-28",
-      "price": 2610,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-29",
-      "price": 3090,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-30",
-      "price": 2610,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-08-31",
-      "price": 2750,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-09-01",
-      "price": 2470,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-09-02",
-      "price": 2470,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-03",
-      "price": 2680,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-09-04",
-      "price": 2200,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-09-05",
-      "price": 2520,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-06",
-      "price": 2480,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-09-07",
-      "price": 2940,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-09-08",
-      "price": 2590,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-09-09",
-      "price": 2580,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-09-10",
-      "price": 2950,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-09-11",
-      "price": 2330,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-09-12",
-      "price": 2230,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-09-13",
-      "price": 2990,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-09-14",
-      "price": 2910,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-09-15",
-      "price": 3020,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-09-16",
-      "price": 2460,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-17",
-      "price": 2450,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-09-18",
-      "price": 2280,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-19",
-      "price": 2830,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-20",
-      "price": 2780,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-09-21",
-      "price": 2690,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-22",
-      "price": 2640,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-23",
-      "price": 2250,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-09-24",
-      "price": 2240,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-09-25",
-      "price": 2580,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-26",
-      "price": 2720,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-09-27",
-      "price": 2710,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-09-28",
-      "price": 2610,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-09-29",
-      "price": 2410,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-09-30",
-      "price": 2270,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-01",
-      "price": 2370,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-10-02",
-      "price": 2460,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-10-03",
-      "price": 3090,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-10-04",
-      "price": 2690,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-10-05",
-      "price": 2670,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-10-06",
-      "price": 2590,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-10-07",
-      "price": 2730,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-10-08",
-      "price": 2390,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-10-09",
-      "price": 2450,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-10",
-      "price": 2870,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-10-11",
-      "price": 2890,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-12",
-      "price": 3090,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-10-13",
-      "price": 2230,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-10-14",
-      "price": 2770,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-10-15",
-      "price": 2330,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-10-16",
-      "price": 2010,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-10-17",
-      "price": 2670,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-18",
-      "price": 2630,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-19",
-      "price": 2850,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-10-20",
-      "price": 2780,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-10-21",
-      "price": 2520,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-22",
-      "price": 2550,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-23",
-      "price": 2440,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-10-24",
-      "price": 2780,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-25",
-      "price": 2910,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-26",
-      "price": 2610,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-27",
-      "price": 2610,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-10-28",
-      "price": 2790,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-29",
-      "price": 2550,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-10-30",
-      "price": 2480,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-10-31",
-      "price": 2530,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-11-01",
-      "price": 3330,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-11-02",
-      "price": 2750,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-03",
-      "price": 2670,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-04",
-      "price": 3460,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-11-05",
-      "price": 2990,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-11-06",
-      "price": 2420,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-11-07",
-      "price": 3050,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-11-08",
-      "price": 3220,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-11-09",
-      "price": 2970,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-11-10",
-      "price": 3070,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-11-11",
-      "price": 2630,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-11-12",
-      "price": 2610,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-11-13",
-      "price": 2650,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-11-14",
-      "price": 3040,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-11-15",
-      "price": 3220,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-11-16",
-      "price": 3150,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-11-17",
-      "price": 2840,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-11-18",
-      "price": 2580,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-11-19",
-      "price": 2620,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-20",
-      "price": 3250,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-11-21",
-      "price": 3350,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-11-22",
-      "price": 3450,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-11-23",
-      "price": 3350,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-11-24",
-      "price": 2820,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-11-25",
-      "price": 3060,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-11-26",
-      "price": 2720,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-27",
-      "price": 3090,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-11-28",
-      "price": 3240,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-11-29",
-      "price": 2980,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-11-30",
-      "price": 3300,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-12-01",
-      "price": 2790,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-12-02",
-      "price": 2750,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-12-03",
-      "price": 2640,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-04",
-      "price": 2760,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-12-05",
-      "price": 2760,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-06",
-      "price": 3370,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-12-07",
-      "price": 2930,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-08",
-      "price": 2580,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-12-09",
-      "price": 3100,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-10",
-      "price": 2910,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-12-11",
-      "price": 3020,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-12-12",
-      "price": 3370,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-12-13",
-      "price": 2870,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-12-14",
-      "price": 3330,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-12-15",
-      "price": 2920,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-12-16",
-      "price": 2800,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-12-17",
-      "price": 2860,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-18",
-      "price": 2810,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-12-19",
-      "price": 3260,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-12-20",
-      "price": 2700,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-12-21",
-      "price": 3560,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-12-22",
-      "price": 2660,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-12-23",
-      "price": 2640,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-24",
-      "price": 2870,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-12-25",
-      "price": 2800,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-26",
-      "price": 3260,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-12-27",
-      "price": 3340,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-12-28",
-      "price": 3250,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-12-29",
-      "price": 2760,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-30",
-      "price": 2730,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2025-12-31",
-      "price": 3160,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-01-01",
-      "price": 3260,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-01-02",
-      "price": 3830,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-03",
-      "price": 3400,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-01-04",
-      "price": 3590,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-01-05",
-      "price": 3300,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-01-06",
-      "price": 3600,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-01-07",
-      "price": 3580,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-01-08",
-      "price": 4230,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-01-09",
-      "price": 4060,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-01-10",
-      "price": 4180,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-01-11",
-      "price": 3700,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-01-12",
-      "price": 4200,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-01-13",
-      "price": 3490,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-01-14",
-      "price": 3460,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-01-15",
-      "price": 3330,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-01-16",
-      "price": 3980,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-01-17",
-      "price": 4360,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-01-18",
-      "price": 3570,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-19",
-      "price": 3350,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-01-20",
-      "price": 3800,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-01-21",
-      "price": 3640,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-01-22",
-      "price": 4100,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-01-23",
-      "price": 3600,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-01-24",
-      "price": 3640,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-01-25",
-      "price": 3520,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-01-26",
-      "price": 3920,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-01-27",
-      "price": 3970,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-01-28",
-      "price": 3730,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-01-29",
-      "price": 3420,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-01-30",
-      "price": 4100,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-01-31",
-      "price": 3980,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-01",
-      "price": 4010,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-02",
-      "price": 3160,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-02-03",
-      "price": 3430,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-02-04",
-      "price": 2980,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-02-05",
-      "price": 3450,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-02-06",
-      "price": 3380,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-02-07",
-      "price": 3400,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-02-08",
-      "price": 3820,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-02-09",
-      "price": 3610,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-02-10",
-      "price": 3070,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-02-11",
-      "price": 3440,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-02-12",
-      "price": 3550,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-02-13",
-      "price": 3550,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-02-14",
-      "price": 4300,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-02-15",
-      "price": 4030,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-02-16",
-      "price": 3790,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-02-17",
-      "price": 3630,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-02-18",
-      "price": 3560,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-02-19",
-      "price": 3510,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-20",
-      "price": 3630,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-02-21",
-      "price": 3480,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-02-22",
-      "price": 3790,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-02-23",
-      "price": 3730,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-02-24",
-      "price": 3500,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-02-25",
-      "price": 3830,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-26",
-      "price": 3420,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-02-27",
-      "price": 3940,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-02-28",
-      "price": 4040,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-03-01",
-      "price": 2950,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-03-02",
-      "price": 2820,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-03-03",
-      "price": 2280,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-04",
-      "price": 2410,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-03-05",
-      "price": 2660,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-03-06",
-      "price": 2430,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-03-07",
-      "price": 2920,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-03-08",
-      "price": 2970,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-03-09",
-      "price": 2670,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-03-10",
-      "price": 2590,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-03-11",
-      "price": 2670,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-03-12",
-      "price": 2600,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-13",
-      "price": 2750,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-03-14",
-      "price": 2880,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-03-15",
-      "price": 2840,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-03-16",
-      "price": 2290,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-03-17",
-      "price": 2300,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-18",
-      "price": 2240,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-19",
-      "price": 2630,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-03-20",
-      "price": 2960,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-03-21",
-      "price": 2980,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-03-22",
-      "price": 2730,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-03-23",
-      "price": 2660,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-03-24",
-      "price": 2560,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-03-25",
-      "price": 2550,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-03-26",
-      "price": 3040,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-03-27",
-      "price": 2810,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-28",
-      "price": 2520,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-03-29",
-      "price": 2540,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-30",
-      "price": 2610,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-31",
-      "price": 2370,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-04-01",
-      "price": 2770,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-04-02",
-      "price": 2490,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-03",
-      "price": 2900,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-04-04",
-      "price": 2520,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-05",
-      "price": 2520,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-06",
-      "price": 2240,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-07",
-      "price": 2430,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-04-08",
-      "price": 2570,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-04-09",
-      "price": 2070,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-10",
-      "price": 2460,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-04-11",
-      "price": 2730,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-04-12",
-      "price": 2790,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-04-13",
-      "price": 2510,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-04-14",
-      "price": 2750,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-04-15",
-      "price": 2400,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-04-16",
-      "price": 2460,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-04-17",
-      "price": 3140,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-04-18",
-      "price": 2440,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-19",
-      "price": 2810,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-20",
-      "price": 2510,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-04-21",
-      "price": 2400,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-22",
-      "price": 2560,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-23",
-      "price": 2510,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-04-24",
-      "price": 3030,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-25",
-      "price": 3170,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-04-26",
-      "price": 2290,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-27",
-      "price": 2650,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-28",
-      "price": 2370,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-29",
-      "price": 2760,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-30",
-      "price": 2040,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-05-01",
-      "price": 2340,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-02",
-      "price": 2780,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-05-03",
-      "price": 2800,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-04",
-      "price": 2350,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-05-05",
-      "price": 2290,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-06",
-      "price": 1970,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-05-07",
-      "price": 2620,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-05-08",
-      "price": 3230,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-05-09",
-      "price": 2570,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-05-10",
-      "price": 2780,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-11",
-      "price": 2720,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-05-12",
-      "price": 2350,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-05-13",
-      "price": 2720,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-14",
-      "price": 2390,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-05-15",
-      "price": 2830,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-05-16",
-      "price": 2770,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-17",
-      "price": 2870,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-05-18",
-      "price": 2310,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-19",
-      "price": 2720,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-20",
-      "price": 2080,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-21",
-      "price": 2170,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-05-22",
-      "price": 2540,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-05-23",
-      "price": 2540,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-05-24",
-      "price": 2850,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-25",
-      "price": 2270,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-26",
-      "price": 2510,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-27",
-      "price": 2580,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-05-28",
-      "price": 2820,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-29",
-      "price": 2420,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-30",
-      "price": 2420,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-31",
-      "price": 2820,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-06-01",
-      "price": 2550,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-06-02",
-      "price": 2530,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-06-03",
-      "price": 2420,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-06-04",
-      "price": 2120,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-06-05",
-      "price": 2440,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-06-06",
-      "price": 2720,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-07",
-      "price": 2790,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-06-08",
-      "price": 2780,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-06-09",
-      "price": 2420,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-10",
-      "price": 2640,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-06-11",
-      "price": 2750,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-12",
-      "price": 2610,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-06-13",
-      "price": 2960,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-06-14",
-      "price": 2330,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-06-15",
-      "price": 2620,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-16",
-      "price": 2530,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-06-17",
-      "price": 2320,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-06-18",
-      "price": 2640,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-06-19",
-      "price": 2380,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-06-20",
-      "price": 2790,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-06-21",
-      "price": 2820,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-06-22",
-      "price": 2530,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-06-23",
-      "price": 2820,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-24",
-      "price": 2520,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-25",
-      "price": 2680,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-06-26",
-      "price": 2550,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-27",
-      "price": 2520,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-06-28",
-      "price": 2710,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-06-29",
-      "price": 2580,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-06-30",
-      "price": 2350,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-07-01",
-      "price": 2710,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-07-02",
-      "price": 2440,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-07-03",
-      "price": 2810,
-      "airline": "Cathay Pacific"
-    },
-    {
-      "date": "2026-07-04",
-      "price": 2770,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-07-05",
-      "price": 3110,
-      "airline": "China Eastern"
+      "date": "2026-07-07",
+      "snapshot": "2026-07-06",
+      "price": 207,
+      "airline": "Unknown",
+      "returnDate": "2026-07-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-07-08",
+      "snapshot": "2026-07-06",
+      "price": 258,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-07-09",
+      "snapshot": "2026-07-06",
+      "price": 232,
+      "airline": "Unknown",
+      "returnDate": "2026-07-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-10",
+      "snapshot": "2026-07-06",
+      "price": 287,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-06",
+      "price": 227,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-06",
+      "price": 310,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-06",
+      "price": 208,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-06",
+      "price": 216,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-06",
+      "price": 232,
+      "airline": "Unknown",
+      "returnDate": "2026-07-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-07-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-06",
+      "price": 264,
+      "airline": "Unknown",
+      "returnDate": "2026-08-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-06",
+      "price": 216,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-06",
+      "price": 208,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-06",
+      "price": 216,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-06",
+      "price": 216,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-06",
+      "price": 245,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-06",
+      "price": 232,
+      "airline": "Unknown",
+      "returnDate": "2026-08-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-06",
+      "price": 216,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-06",
+      "price": 200,
+      "airline": "Unknown",
+      "returnDate": "2026-08-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-06",
+      "price": 216,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-06",
+      "price": 206,
+      "airline": "Unknown",
+      "returnDate": "2026-08-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-06",
+      "price": 245,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-06",
+      "price": 206,
+      "airline": "Unknown",
+      "returnDate": "2026-08-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-06",
+      "price": 216,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-06",
+      "price": 193,
+      "airline": "Unknown",
+      "returnDate": "2026-08-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-06",
+      "price": 230,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-06",
+      "price": 192,
+      "airline": "Unknown",
+      "returnDate": "2026-08-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-07",
+      "snapshot": "2026-07-06",
+      "price": 245,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-06",
+      "price": 179,
+      "airline": "Unknown",
+      "returnDate": "2026-08-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-06",
+      "price": 216,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-06",
+      "price": 171,
+      "airline": "Unknown",
+      "returnDate": "2026-08-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-08-12",
+      "snapshot": "2026-07-06",
+      "price": 216,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-06",
+      "price": 193,
+      "airline": "Unknown",
+      "returnDate": "2026-08-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-06",
+      "price": 245,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-06",
+      "price": 192,
+      "airline": "Unknown",
+      "returnDate": "2026-08-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-08-17",
+      "snapshot": "2026-07-06",
+      "price": 216,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-08-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-06",
+      "price": 159,
+      "airline": "Unknown",
+      "returnDate": "2026-09-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-06",
+      "price": 213,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-06",
+      "price": 167,
+      "airline": "Unknown",
+      "returnDate": "2026-09-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-06",
+      "price": 242,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-08-22",
+      "snapshot": "2026-07-06",
+      "price": 195,
+      "airline": "Unknown",
+      "returnDate": "2026-09-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-06",
+      "price": 213,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-08-25",
+      "snapshot": "2026-07-06",
+      "price": 147,
+      "airline": "Unknown",
+      "returnDate": "2026-09-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-08-26",
+      "snapshot": "2026-07-06",
+      "price": 213,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-08-27",
+      "snapshot": "2026-07-06",
+      "price": 182,
+      "airline": "Unknown",
+      "returnDate": "2026-09-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-08-28",
+      "snapshot": "2026-07-06",
+      "price": 242,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-06",
+      "price": 204,
+      "airline": "Unknown",
+      "returnDate": "2026-09-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-06",
+      "price": 213,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-01",
+      "snapshot": "2026-07-06",
+      "price": 171,
+      "airline": "Unknown",
+      "returnDate": "2026-09-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-06",
+      "price": 213,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-09-03",
+      "snapshot": "2026-07-06",
+      "price": 178,
+      "airline": "Unknown",
+      "returnDate": "2026-09-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-06",
+      "price": 242,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-06",
+      "price": 177,
+      "airline": "Unknown",
+      "returnDate": "2026-09-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-06",
+      "price": 213,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-08",
+      "snapshot": "2026-07-06",
+      "price": 162,
+      "airline": "Unknown",
+      "returnDate": "2026-09-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-09-09",
+      "snapshot": "2026-07-06",
+      "price": 264,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-06",
+      "price": 237,
+      "airline": "Unknown",
+      "returnDate": "2026-09-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-09-11",
+      "snapshot": "2026-07-06",
+      "price": 302,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-06",
+      "price": 214,
+      "airline": "Unknown",
+      "returnDate": "2026-09-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-09-13",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-09-14",
+      "snapshot": "2026-07-06",
+      "price": 309,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-15",
+      "snapshot": "2026-07-06",
+      "price": 261,
+      "airline": "Unknown",
+      "returnDate": "2026-09-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-09-16",
+      "snapshot": "2026-07-06",
+      "price": 338,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-09-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-09-17",
+      "snapshot": "2026-07-06",
+      "price": 283,
+      "airline": "Unknown",
+      "returnDate": "2026-10-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-09-19",
+      "snapshot": "2026-07-06",
+      "price": 239,
+      "airline": "Unknown",
+      "returnDate": "2026-10-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-09-21",
+      "snapshot": "2026-07-06",
+      "price": 279,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-06",
+      "price": 162,
+      "airline": "Unknown",
+      "returnDate": "2026-10-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-06",
+      "price": 264,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-09-24",
+      "snapshot": "2026-07-06",
+      "price": 162,
+      "airline": "Unknown",
+      "returnDate": "2026-10-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-09-25",
+      "snapshot": "2026-07-06",
+      "price": 286,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-09-26",
+      "snapshot": "2026-07-06",
+      "price": 162,
+      "airline": "Unknown",
+      "returnDate": "2026-10-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-09-27",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-09-28",
+      "snapshot": "2026-07-06",
+      "price": 264,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-09-29",
+      "snapshot": "2026-07-06",
+      "price": 169,
+      "airline": "Unknown",
+      "returnDate": "2026-10-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-09-30",
+      "snapshot": "2026-07-06",
+      "price": 264,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-10-01",
+      "snapshot": "2026-07-06",
+      "price": 214,
+      "airline": "Unknown",
+      "returnDate": "2026-10-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-06",
+      "price": 201,
+      "airline": "Unknown",
+      "returnDate": "2026-10-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-10-04",
+      "snapshot": "2026-07-06",
+      "price": 489,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-06",
+      "price": 386,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-06",
+      "snapshot": "2026-07-06",
+      "price": 278,
+      "airline": "Unknown",
+      "returnDate": "2026-10-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-06",
+      "price": 411,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-10-08",
+      "snapshot": "2026-07-06",
+      "price": 320,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-10-09",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-10-10",
+      "snapshot": "2026-07-06",
+      "price": 243,
+      "airline": "Unknown",
+      "returnDate": "2026-10-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-10-11",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-06",
+      "price": 162,
+      "airline": "Unknown",
+      "returnDate": "2026-10-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-10-14",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-10-15",
+      "snapshot": "2026-07-06",
+      "price": 184,
+      "airline": "Unknown",
+      "returnDate": "2026-10-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-10-16",
+      "snapshot": "2026-07-06",
+      "price": 386,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-10-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-06",
+      "price": 213,
+      "airline": "Unknown",
+      "returnDate": "2026-10-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-10-18",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-10-19",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 50 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2026-11-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-10-21",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2026-11-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-06",
+      "price": 199,
+      "airline": "Unknown",
+      "returnDate": "2026-11-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 35 min"
+    },
+    {
+      "date": "2026-10-25",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-10-26",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-10-27",
+      "snapshot": "2026-07-06",
+      "price": 165,
+      "airline": "Unknown",
+      "returnDate": "2026-11-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-06",
+      "price": 162,
+      "airline": "Unknown",
+      "returnDate": "2026-11-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-06",
+      "price": 199,
+      "airline": "Unknown",
+      "returnDate": "2026-11-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-11-02",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-11-03",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2026-11-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2026-11-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-11-07",
+      "snapshot": "2026-07-06",
+      "price": 213,
+      "airline": "Unknown",
+      "returnDate": "2026-11-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-11-09",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2026-11-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-11-11",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-11-12",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2026-11-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-11-13",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-11-14",
+      "snapshot": "2026-07-06",
+      "price": 213,
+      "airline": "Unknown",
+      "returnDate": "2026-11-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-11-16",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-11-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-11-17",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2026-12-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2026-12-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-11-20",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-11-21",
+      "snapshot": "2026-07-06",
+      "price": 213,
+      "airline": "Unknown",
+      "returnDate": "2026-12-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-11-22",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-11-23",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-11-24",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2026-12-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-11-26",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2026-12-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-11-27",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-11-28",
+      "snapshot": "2026-07-06",
+      "price": 213,
+      "airline": "Unknown",
+      "returnDate": "2026-12-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-11-30",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-12-01",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2026-12-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-12-03",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2026-12-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-06",
+      "price": 213,
+      "airline": "Unknown",
+      "returnDate": "2026-12-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-12-07",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-06",
+      "price": 184,
+      "airline": "Unknown",
+      "returnDate": "2026-12-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-12-10",
+      "snapshot": "2026-07-06",
+      "price": 199,
+      "airline": "Unknown",
+      "returnDate": "2026-12-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-06",
+      "price": 228,
+      "airline": "Unknown",
+      "returnDate": "2026-12-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-12-13",
+      "snapshot": "2026-07-06",
+      "price": 489,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-06",
+      "price": 386,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-12-15",
+      "snapshot": "2026-07-06",
+      "price": 244,
+      "airline": "Unknown",
+      "returnDate": "2026-12-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-12-16",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2026-12-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-12-17",
+      "snapshot": "2026-07-06",
+      "price": 272,
+      "airline": "Unknown",
+      "returnDate": "2026-12-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-12-19",
+      "snapshot": "2026-07-06",
+      "price": 317,
+      "airline": "Unknown",
+      "returnDate": "2027-01-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-12-21",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-12-22",
+      "snapshot": "2026-07-06",
+      "price": 228,
+      "airline": "Unknown",
+      "returnDate": "2027-01-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-06",
+      "price": 228,
+      "airline": "Unknown",
+      "returnDate": "2027-01-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-06",
+      "price": 386,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-12-26",
+      "snapshot": "2026-07-06",
+      "price": 184,
+      "airline": "Unknown",
+      "returnDate": "2027-01-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-06",
+      "price": 463,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2026-12-29",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2027-01-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2027-01-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-06",
+      "price": 213,
+      "airline": "Unknown",
+      "returnDate": "2027-01-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-04",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-05",
+      "snapshot": "2026-07-06",
+      "price": 184,
+      "airline": "Unknown",
+      "returnDate": "2027-01-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-06",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-07",
+      "snapshot": "2026-07-06",
+      "price": 199,
+      "airline": "Unknown",
+      "returnDate": "2027-01-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-08",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-09",
+      "snapshot": "2026-07-06",
+      "price": 213,
+      "airline": "Unknown",
+      "returnDate": "2027-01-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-10",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-11",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-12",
+      "snapshot": "2026-07-06",
+      "price": 229,
+      "airline": "Unknown",
+      "returnDate": "2027-01-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-13",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-14",
+      "snapshot": "2026-07-06",
+      "price": 229,
+      "airline": "Unknown",
+      "returnDate": "2027-01-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-15",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-16",
+      "snapshot": "2026-07-06",
+      "price": 258,
+      "airline": "Unknown",
+      "returnDate": "2027-01-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-17",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-01-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-18",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-19",
+      "snapshot": "2026-07-06",
+      "price": 258,
+      "airline": "Unknown",
+      "returnDate": "2027-02-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-20",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-21",
+      "snapshot": "2026-07-06",
+      "price": 272,
+      "airline": "Unknown",
+      "returnDate": "2027-02-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-22",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-23",
+      "snapshot": "2026-07-06",
+      "price": 272,
+      "airline": "Unknown",
+      "returnDate": "2027-02-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-24",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-25",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-26",
+      "snapshot": "2026-07-06",
+      "price": 288,
+      "airline": "Unknown",
+      "returnDate": "2027-02-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-27",
+      "snapshot": "2026-07-06",
+      "price": 386,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-28",
+      "snapshot": "2026-07-06",
+      "price": 272,
+      "airline": "Unknown",
+      "returnDate": "2027-02-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-29",
+      "snapshot": "2026-07-06",
+      "price": 386,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-30",
+      "snapshot": "2026-07-06",
+      "price": 258,
+      "airline": "Unknown",
+      "returnDate": "2027-02-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-31",
+      "snapshot": "2026-07-06",
+      "price": 411,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-01",
+      "snapshot": "2026-07-06",
+      "price": 386,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-02",
+      "snapshot": "2026-07-06",
+      "price": 257,
+      "airline": "Unknown",
+      "returnDate": "2027-02-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-02-03",
+      "snapshot": "2026-07-06",
+      "price": 386,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-04",
+      "snapshot": "2026-07-06",
+      "price": 243,
+      "airline": "Unknown",
+      "returnDate": "2027-02-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-02-05",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-06",
+      "snapshot": "2026-07-06",
+      "price": 184,
+      "airline": "Unknown",
+      "returnDate": "2027-02-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-02-07",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-08",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-09",
+      "snapshot": "2026-07-06",
+      "price": 228,
+      "airline": "Unknown",
+      "returnDate": "2027-02-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-02-10",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-11",
+      "snapshot": "2026-07-06",
+      "price": 228,
+      "airline": "Unknown",
+      "returnDate": "2027-02-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-02-12",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-13",
+      "snapshot": "2026-07-06",
+      "price": 228,
+      "airline": "Unknown",
+      "returnDate": "2027-02-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-02-14",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-02-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-15",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-16",
+      "snapshot": "2026-07-06",
+      "price": 184,
+      "airline": "Unknown",
+      "returnDate": "2027-03-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-02-17",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-18",
+      "snapshot": "2026-07-06",
+      "price": 199,
+      "airline": "Unknown",
+      "returnDate": "2027-03-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-02-19",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-20",
+      "snapshot": "2026-07-06",
+      "price": 214,
+      "airline": "Unknown",
+      "returnDate": "2027-03-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-02-21",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-22",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-23",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2027-03-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-02-24",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-25",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2027-03-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-02-26",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-02-27",
+      "snapshot": "2026-07-06",
+      "price": 184,
+      "airline": "Unknown",
+      "returnDate": "2027-03-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-02-28",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-01",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-02",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2027-03-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-03",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-04",
+      "snapshot": "2026-07-06",
+      "price": 170,
+      "airline": "Unknown",
+      "returnDate": "2027-03-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-05",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-06",
+      "snapshot": "2026-07-06",
+      "price": 199,
+      "airline": "Unknown",
+      "returnDate": "2027-03-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-07",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-08",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-09",
+      "snapshot": "2026-07-06",
+      "price": 184,
+      "airline": "Unknown",
+      "returnDate": "2027-03-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-10",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-11",
+      "snapshot": "2026-07-06",
+      "price": 214,
+      "airline": "Unknown",
+      "returnDate": "2027-03-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-12",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-13",
+      "snapshot": "2026-07-06",
+      "price": 244,
+      "airline": "Unknown",
+      "returnDate": "2027-03-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-14",
+      "snapshot": "2026-07-06",
+      "price": 386,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-15",
+      "snapshot": "2026-07-06",
+      "price": 386,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-16",
+      "snapshot": "2026-07-06",
+      "price": 256,
+      "airline": "Unknown",
+      "returnDate": "2027-03-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-17",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-03-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-18",
+      "snapshot": "2026-07-06",
+      "price": 270,
+      "airline": "Unknown",
+      "returnDate": "2027-04-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-19",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-04-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-20",
+      "snapshot": "2026-07-06",
+      "price": 270,
+      "airline": "Unknown",
+      "returnDate": "2027-04-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-21",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-04-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-22",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-04-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-23",
+      "snapshot": "2026-07-06",
+      "price": 299,
+      "airline": "Unknown",
+      "returnDate": "2027-04-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-24",
+      "snapshot": "2026-07-06",
+      "price": 386,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-04-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-25",
+      "snapshot": "2026-07-06",
+      "price": 329,
+      "airline": "Unknown",
+      "returnDate": "2027-04-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-26",
+      "snapshot": "2026-07-06",
+      "price": 386,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-04-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-03-27",
+      "snapshot": "2026-07-06",
+      "price": 358,
+      "airline": "Unknown",
+      "returnDate": "2027-04-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-03-28",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-04-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2027-03-29",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-04-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
+    },
+    {
+      "date": "2027-04-02",
+      "snapshot": "2026-07-06",
+      "price": 360,
+      "airline": "Cathay Pacific",
+      "returnDate": "2027-04-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 55 min"
     }
   ]
 }

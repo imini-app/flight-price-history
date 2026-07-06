@@ -2,3662 +2,2707 @@
   "route": "LAX-PVG",
   "origin": "LAX",
   "dest": "PVG",
-  "label": "Los Angeles (LAX) \u2192  Shanghai (PVG)",
+  "label": "Los Angeles (LAX) → Shanghai (PVG)",
   "prices": [
     {
-      "date": "2024-07-05",
-      "price": 12920,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-07-06",
-      "price": 13490,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-07",
-      "price": 12960,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-07-08",
-      "price": 10410,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-07-09",
-      "price": 10530,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-10",
-      "price": 9740,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-11",
-      "price": 10380,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-07-12",
-      "price": 12020,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-07-13",
-      "price": 10940,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-07-14",
-      "price": 12360,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-15",
-      "price": 10850,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-07-16",
-      "price": 10900,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-17",
-      "price": 10820,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-18",
-      "price": 10400,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-07-19",
-      "price": 13130,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-20",
-      "price": 13210,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-07-21",
-      "price": 11600,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-07-22",
-      "price": 8670,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-23",
-      "price": 10160,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-07-24",
-      "price": 9880,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-07-25",
-      "price": 10450,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-07-26",
-      "price": 12550,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-07-27",
-      "price": 10440,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-07-28",
-      "price": 12460,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-07-29",
-      "price": 10270,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-30",
-      "price": 10740,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-07-31",
-      "price": 9880,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-08-01",
-      "price": 10310,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-08-02",
-      "price": 11290,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-08-03",
-      "price": 11410,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-08-04",
-      "price": 10400,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-08-05",
-      "price": 11620,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-06",
-      "price": 10710,
-      "airline": "American"
-    },
-    {
-      "date": "2024-08-07",
-      "price": 10790,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-08-08",
-      "price": 11710,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-09",
-      "price": 10430,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-08-10",
-      "price": 10230,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-08-11",
-      "price": 12950,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-08-12",
-      "price": 9110,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-13",
-      "price": 10910,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-14",
-      "price": 9850,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-08-15",
-      "price": 10430,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-16",
-      "price": 12170,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-17",
-      "price": 10780,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-08-18",
-      "price": 11420,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-08-19",
-      "price": 10890,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-20",
-      "price": 11840,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-08-21",
-      "price": 10190,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-08-22",
-      "price": 11450,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-08-23",
-      "price": 10230,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-08-24",
-      "price": 11560,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-25",
-      "price": 10690,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-08-26",
-      "price": 8920,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-08-27",
-      "price": 12010,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-08-28",
-      "price": 12340,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-29",
-      "price": 10360,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-30",
-      "price": 10860,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-08-31",
-      "price": 12320,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-09-01",
-      "price": 9230,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-02",
-      "price": 9340,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-09-03",
-      "price": 9650,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-04",
-      "price": 10190,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-09-05",
-      "price": 12080,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-09-06",
-      "price": 11830,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-09-07",
-      "price": 12290,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-08",
-      "price": 12800,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-09-09",
-      "price": 11280,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-09-10",
-      "price": 10290,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-09-11",
-      "price": 11370,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-09-12",
-      "price": 10890,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-09-13",
-      "price": 11420,
-      "airline": "American"
-    },
-    {
-      "date": "2024-09-14",
-      "price": 10580,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-09-15",
-      "price": 11460,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-16",
-      "price": 10400,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-17",
-      "price": 9940,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-18",
-      "price": 10510,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-09-19",
-      "price": 10050,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-20",
-      "price": 12550,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-09-21",
-      "price": 10530,
-      "airline": "American"
-    },
-    {
-      "date": "2024-09-22",
-      "price": 11050,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-23",
-      "price": 10280,
-      "airline": "United"
-    },
-    {
-      "date": "2024-09-24",
-      "price": 11370,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-09-25",
-      "price": 10330,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-26",
-      "price": 9660,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-09-27",
-      "price": 12450,
-      "airline": "United"
-    },
-    {
-      "date": "2024-09-28",
-      "price": 9840,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-09-29",
-      "price": 11990,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-09-30",
-      "price": 10900,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-10-01",
-      "price": 12080,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-10-02",
-      "price": 10240,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-03",
-      "price": 9710,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-10-04",
-      "price": 10820,
-      "airline": "American"
-    },
-    {
-      "date": "2024-10-05",
-      "price": 10440,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-10-06",
-      "price": 12960,
-      "airline": "American"
-    },
-    {
-      "date": "2024-10-07",
-      "price": 11340,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-10-08",
-      "price": 10030,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-09",
-      "price": 10370,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-10",
-      "price": 11190,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-11",
-      "price": 10010,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-12",
-      "price": 10660,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-10-13",
-      "price": 10680,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-14",
-      "price": 11050,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-10-15",
-      "price": 10230,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-16",
-      "price": 10670,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-10-17",
-      "price": 11430,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-10-18",
-      "price": 11750,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-19",
-      "price": 11470,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-20",
-      "price": 11740,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-10-21",
-      "price": 11750,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-10-22",
-      "price": 10110,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-23",
-      "price": 9050,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-10-24",
-      "price": 11260,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-10-25",
-      "price": 9870,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-10-26",
-      "price": 13360,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-27",
-      "price": 12210,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-10-28",
-      "price": 11600,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-29",
-      "price": 10390,
-      "airline": "American"
-    },
-    {
-      "date": "2024-10-30",
-      "price": 9860,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-10-31",
-      "price": 9840,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-11-01",
-      "price": 12720,
-      "airline": "American"
-    },
-    {
-      "date": "2024-11-02",
-      "price": 14590,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-11-03",
-      "price": 11710,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-11-04",
-      "price": 11700,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-11-05",
-      "price": 11720,
-      "airline": "American"
-    },
-    {
-      "date": "2024-11-06",
-      "price": 12150,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-11-07",
-      "price": 11740,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-11-08",
-      "price": 13290,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-11-09",
-      "price": 11830,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-10",
-      "price": 13190,
-      "airline": "United"
-    },
-    {
-      "date": "2024-11-11",
-      "price": 11060,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-11-12",
-      "price": 12760,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-11-13",
-      "price": 11080,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-11-14",
-      "price": 11740,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-11-15",
-      "price": 13890,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-11-16",
-      "price": 13370,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-11-17",
-      "price": 12790,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-18",
-      "price": 12400,
-      "airline": "American"
-    },
-    {
-      "date": "2024-11-19",
-      "price": 13030,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-11-20",
-      "price": 14120,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-11-21",
-      "price": 11980,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-11-22",
-      "price": 11940,
-      "airline": "American"
-    },
-    {
-      "date": "2024-11-23",
-      "price": 14050,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-11-24",
-      "price": 14410,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-11-25",
-      "price": 10910,
-      "airline": "American"
-    },
-    {
-      "date": "2024-11-26",
-      "price": 10600,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-11-27",
-      "price": 12260,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-11-28",
-      "price": 10300,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-11-29",
-      "price": 14350,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-11-30",
-      "price": 13330,
-      "airline": "American"
-    },
-    {
-      "date": "2024-12-01",
-      "price": 14630,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-02",
-      "price": 12440,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-12-03",
-      "price": 12310,
-      "airline": "United"
-    },
-    {
-      "date": "2024-12-04",
-      "price": 10800,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-05",
-      "price": 10140,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-06",
-      "price": 12540,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-12-07",
-      "price": 14330,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-08",
-      "price": 12560,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-12-09",
-      "price": 11240,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-12-10",
-      "price": 11410,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-11",
-      "price": 12000,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-12-12",
-      "price": 11790,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-12-13",
-      "price": 11860,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-12-14",
-      "price": 13640,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-15",
-      "price": 13970,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-12-16",
-      "price": 12060,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2024-12-17",
-      "price": 13180,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-18",
-      "price": 12160,
-      "airline": "American"
-    },
-    {
-      "date": "2024-12-19",
-      "price": 12250,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-20",
-      "price": 11250,
-      "airline": "American"
-    },
-    {
-      "date": "2024-12-21",
-      "price": 12850,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-12-22",
-      "price": 14150,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-12-23",
-      "price": 10120,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2024-12-24",
-      "price": 12840,
-      "airline": "United"
-    },
-    {
-      "date": "2024-12-25",
-      "price": 11340,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-26",
-      "price": 11140,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-12-27",
-      "price": 12980,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-12-28",
-      "price": 15230,
-      "airline": "Air China"
-    },
-    {
-      "date": "2024-12-29",
-      "price": 12150,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2024-12-30",
-      "price": 14610,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-31",
-      "price": 12370,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-01",
-      "price": 14980,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-01-02",
-      "price": 16890,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-03",
-      "price": 14110,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-04",
-      "price": 19450,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-01-05",
-      "price": 14770,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-01-06",
-      "price": 15160,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-01-07",
-      "price": 16080,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-08",
-      "price": 13810,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-01-09",
-      "price": 16440,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-10",
-      "price": 16100,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-01-11",
-      "price": 14460,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-01-12",
-      "price": 14980,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-13",
-      "price": 13710,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-01-14",
-      "price": 14050,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-01-15",
-      "price": 13930,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-01-16",
-      "price": 13820,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-17",
-      "price": 16640,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-01-18",
-      "price": 15200,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-01-19",
-      "price": 15680,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-20",
-      "price": 14510,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-01-21",
-      "price": 13470,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-01-22",
-      "price": 15450,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-23",
-      "price": 15030,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-01-24",
-      "price": 14000,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-01-25",
-      "price": 16440,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-01-26",
-      "price": 16990,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-01-27",
-      "price": 13890,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-01-28",
-      "price": 12180,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-29",
-      "price": 15460,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-01-30",
-      "price": 14840,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-01-31",
-      "price": 17700,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-02-01",
-      "price": 15990,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-02",
-      "price": 15480,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-02-03",
-      "price": 12220,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-04",
-      "price": 13730,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-05",
-      "price": 15540,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-06",
-      "price": 14670,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-07",
-      "price": 18310,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-02-08",
-      "price": 17530,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-09",
-      "price": 14440,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-10",
-      "price": 14180,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-02-11",
-      "price": 14720,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-12",
-      "price": 15950,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-02-13",
-      "price": 17130,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-14",
-      "price": 15230,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-15",
-      "price": 16860,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-16",
-      "price": 13760,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-17",
-      "price": 14960,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-02-18",
-      "price": 15230,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-02-19",
-      "price": 14590,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-02-20",
-      "price": 15170,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-21",
-      "price": 15990,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-22",
-      "price": 13240,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-23",
-      "price": 16260,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-02-24",
-      "price": 14730,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-25",
-      "price": 15070,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-26",
-      "price": 14410,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-27",
-      "price": 14280,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-28",
-      "price": 15970,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-01",
-      "price": 11760,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-02",
-      "price": 13100,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-03-03",
-      "price": 9160,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-04",
-      "price": 11650,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-03-05",
-      "price": 10780,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-03-06",
-      "price": 11420,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-07",
-      "price": 14590,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-08",
-      "price": 12040,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-03-09",
-      "price": 10420,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-10",
-      "price": 11190,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-11",
-      "price": 10520,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-12",
-      "price": 10290,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-13",
-      "price": 11650,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-03-14",
-      "price": 11230,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-15",
-      "price": 11390,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-03-16",
-      "price": 10970,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-17",
-      "price": 9700,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-18",
-      "price": 10960,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-19",
-      "price": 11360,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-20",
-      "price": 10440,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-03-21",
-      "price": 12060,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-22",
-      "price": 12160,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-23",
-      "price": 11250,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-03-24",
-      "price": 12010,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-25",
-      "price": 10930,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-26",
-      "price": 8950,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-27",
-      "price": 10360,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-03-28",
-      "price": 12770,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-29",
-      "price": 12060,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-03-30",
-      "price": 11170,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-31",
-      "price": 8830,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-04-01",
-      "price": 9910,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-04-02",
-      "price": 10380,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-04-03",
-      "price": 10390,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-04-04",
-      "price": 10930,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-05",
-      "price": 11000,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-06",
-      "price": 11730,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-07",
-      "price": 10100,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-04-08",
-      "price": 10070,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-04-09",
-      "price": 10110,
-      "airline": "American"
-    },
-    {
-      "date": "2025-04-10",
-      "price": 8910,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-04-11",
-      "price": 12020,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-12",
-      "price": 11920,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-13",
-      "price": 11200,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-04-14",
-      "price": 11130,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-04-15",
-      "price": 11020,
-      "airline": "United"
-    },
-    {
-      "date": "2025-04-16",
-      "price": 10270,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-04-17",
-      "price": 10710,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-18",
-      "price": 12570,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-04-19",
-      "price": 10730,
-      "airline": "United"
-    },
-    {
-      "date": "2025-04-20",
-      "price": 10860,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-04-21",
-      "price": 9750,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-22",
-      "price": 10880,
-      "airline": "American"
-    },
-    {
-      "date": "2025-04-23",
-      "price": 9970,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-24",
-      "price": 10340,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-04-25",
-      "price": 11410,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-04-26",
-      "price": 12130,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-04-27",
-      "price": 11550,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-04-28",
-      "price": 11730,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-04-29",
-      "price": 11020,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-30",
-      "price": 10850,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-01",
-      "price": 8610,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-05-02",
-      "price": 11130,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-05-03",
-      "price": 11850,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-05-04",
-      "price": 11550,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-05-05",
-      "price": 10530,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-06",
-      "price": 10790,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-05-07",
-      "price": 10410,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-08",
-      "price": 9500,
-      "airline": "American"
-    },
-    {
-      "date": "2025-05-09",
-      "price": 12600,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-05-10",
-      "price": 11250,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-11",
-      "price": 10840,
-      "airline": "United"
-    },
-    {
-      "date": "2025-05-12",
-      "price": 10240,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-05-13",
-      "price": 10820,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-05-14",
-      "price": 9380,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-05-15",
-      "price": 10380,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-16",
-      "price": 13280,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-05-17",
-      "price": 12280,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-18",
-      "price": 12360,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-19",
-      "price": 10560,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-05-20",
-      "price": 9600,
-      "airline": "American"
-    },
-    {
-      "date": "2025-05-21",
-      "price": 10520,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-05-22",
-      "price": 10940,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-05-23",
-      "price": 12890,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-05-24",
-      "price": 11950,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-05-25",
-      "price": 11680,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-05-26",
-      "price": 10840,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-27",
-      "price": 10420,
-      "airline": "American"
-    },
-    {
-      "date": "2025-05-28",
-      "price": 9600,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-29",
-      "price": 12260,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-30",
-      "price": 10500,
-      "airline": "United"
-    },
-    {
-      "date": "2025-05-31",
-      "price": 12010,
-      "airline": "American"
-    },
-    {
-      "date": "2025-06-01",
-      "price": 11700,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-06-02",
-      "price": 10450,
-      "airline": "American"
-    },
-    {
-      "date": "2025-06-03",
-      "price": 10130,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-04",
-      "price": 10380,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-06-05",
-      "price": 10190,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-06-06",
-      "price": 12250,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-06-07",
-      "price": 12050,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-06-08",
-      "price": 10740,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-06-09",
-      "price": 11050,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-06-10",
-      "price": 11190,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-06-11",
-      "price": 11690,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-06-12",
-      "price": 9880,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-13",
-      "price": 12200,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-06-14",
-      "price": 12920,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-15",
-      "price": 12120,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-06-16",
-      "price": 10610,
-      "airline": "United"
-    },
-    {
-      "date": "2025-06-17",
-      "price": 11360,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-06-18",
-      "price": 10270,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-06-19",
-      "price": 10630,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-06-20",
-      "price": 11450,
-      "airline": "United"
-    },
-    {
-      "date": "2025-06-21",
-      "price": 12290,
-      "airline": "American"
-    },
-    {
-      "date": "2025-06-22",
-      "price": 12870,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-23",
-      "price": 10540,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-24",
-      "price": 10300,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-06-25",
-      "price": 11210,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-26",
-      "price": 10660,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-06-27",
-      "price": 11460,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-06-28",
-      "price": 10350,
-      "airline": "American"
-    },
-    {
-      "date": "2025-06-29",
-      "price": 12480,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-06-30",
-      "price": 10400,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-01",
-      "price": 11090,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-02",
-      "price": 9670,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-03",
-      "price": 10900,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-07-04",
-      "price": 10950,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-07-05",
-      "price": 11830,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-06",
-      "price": 14070,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-07",
-      "price": 10360,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-08",
-      "price": 10270,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-09",
-      "price": 10280,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-07-10",
-      "price": 10180,
-      "airline": "American"
-    },
-    {
-      "date": "2025-07-11",
-      "price": 12020,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-07-12",
-      "price": 11960,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-13",
-      "price": 11850,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-14",
-      "price": 11560,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-15",
-      "price": 9990,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-07-16",
-      "price": 9870,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-17",
-      "price": 10900,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-18",
-      "price": 11420,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-19",
-      "price": 11600,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-07-20",
-      "price": 12790,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-21",
-      "price": 10170,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-22",
-      "price": 9810,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-23",
-      "price": 10830,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-24",
-      "price": 11280,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-07-25",
-      "price": 11460,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-26",
-      "price": 11590,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-07-27",
-      "price": 11000,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-28",
-      "price": 10730,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-07-29",
-      "price": 10350,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-07-30",
-      "price": 9390,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-31",
-      "price": 9640,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-08-01",
-      "price": 11940,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-08-02",
-      "price": 11340,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-03",
-      "price": 12730,
-      "airline": "United"
-    },
-    {
-      "date": "2025-08-04",
-      "price": 9350,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-05",
-      "price": 9400,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-06",
-      "price": 10680,
-      "airline": "United"
-    },
-    {
-      "date": "2025-08-07",
-      "price": 10180,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-08",
-      "price": 12480,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-09",
-      "price": 11440,
-      "airline": "American"
-    },
-    {
-      "date": "2025-08-10",
-      "price": 11370,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-11",
-      "price": 11910,
-      "airline": "United"
-    },
-    {
-      "date": "2025-08-12",
-      "price": 10060,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-08-13",
-      "price": 10960,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-08-14",
-      "price": 9860,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-15",
-      "price": 10890,
-      "airline": "American"
-    },
-    {
-      "date": "2025-08-16",
-      "price": 11380,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-17",
-      "price": 13150,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-08-18",
-      "price": 10500,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-19",
-      "price": 12130,
-      "airline": "United"
-    },
-    {
-      "date": "2025-08-20",
-      "price": 10280,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-21",
-      "price": 11380,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-22",
-      "price": 10800,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-08-23",
-      "price": 11870,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-24",
-      "price": 11860,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-25",
-      "price": 11560,
-      "airline": "United"
-    },
-    {
-      "date": "2025-08-26",
-      "price": 10620,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-08-27",
-      "price": 8770,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-08-28",
-      "price": 10490,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-08-29",
-      "price": 11010,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-30",
-      "price": 10310,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-31",
-      "price": 11590,
-      "airline": "American"
-    },
-    {
-      "date": "2025-09-01",
-      "price": 10310,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-09-02",
-      "price": 10790,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-03",
-      "price": 11820,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-09-04",
-      "price": 10070,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-05",
-      "price": 11260,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-09-06",
-      "price": 12120,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-07",
-      "price": 10510,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-08",
-      "price": 10200,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-09",
-      "price": 10400,
-      "airline": "American"
-    },
-    {
-      "date": "2025-09-10",
-      "price": 10330,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-11",
-      "price": 10440,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-09-12",
-      "price": 11030,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-13",
-      "price": 10390,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-09-14",
-      "price": 10520,
-      "airline": "American"
-    },
-    {
-      "date": "2025-09-15",
-      "price": 9820,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-16",
-      "price": 10890,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-09-17",
-      "price": 11220,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-09-18",
-      "price": 10910,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-19",
-      "price": 11410,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-20",
-      "price": 11170,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-09-21",
-      "price": 10910,
-      "airline": "United"
-    },
-    {
-      "date": "2025-09-22",
-      "price": 10510,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-23",
-      "price": 11700,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-09-24",
-      "price": 10960,
-      "airline": "American"
-    },
-    {
-      "date": "2025-09-25",
-      "price": 10320,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-09-26",
-      "price": 12800,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-09-27",
-      "price": 11690,
-      "airline": "United"
-    },
-    {
-      "date": "2025-09-28",
-      "price": 11440,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-29",
-      "price": 10370,
-      "airline": "American"
-    },
-    {
-      "date": "2025-09-30",
-      "price": 9400,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-01",
-      "price": 12810,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-02",
-      "price": 10190,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-03",
-      "price": 10890,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-10-04",
-      "price": 11120,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-05",
-      "price": 12080,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-06",
-      "price": 11600,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-07",
-      "price": 9490,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-10-08",
-      "price": 11340,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-09",
-      "price": 10930,
-      "airline": "American"
-    },
-    {
-      "date": "2025-10-10",
-      "price": 13180,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-10-11",
-      "price": 12920,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-10-12",
-      "price": 13180,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-10-13",
-      "price": 10830,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-10-14",
-      "price": 12020,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-10-15",
-      "price": 10690,
-      "airline": "American"
-    },
-    {
-      "date": "2025-10-16",
-      "price": 10210,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-17",
-      "price": 10640,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-18",
-      "price": 10420,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-10-19",
-      "price": 11180,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-20",
-      "price": 10350,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-10-21",
-      "price": 10690,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-10-22",
-      "price": 10480,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-23",
-      "price": 10610,
-      "airline": "American"
-    },
-    {
-      "date": "2025-10-24",
-      "price": 12180,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-10-25",
-      "price": 12270,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-26",
-      "price": 12110,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-10-27",
-      "price": 10740,
-      "airline": "American"
-    },
-    {
-      "date": "2025-10-28",
-      "price": 9430,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-29",
-      "price": 10600,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-10-30",
-      "price": 9870,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-10-31",
-      "price": 11570,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-01",
-      "price": 12840,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-02",
-      "price": 13160,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-11-03",
-      "price": 12830,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-04",
-      "price": 12780,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-05",
-      "price": 10850,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-06",
-      "price": 11640,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-11-07",
-      "price": 13180,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-11-08",
-      "price": 13520,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-11-09",
-      "price": 12480,
-      "airline": "American"
-    },
-    {
-      "date": "2025-11-10",
-      "price": 12820,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-11",
-      "price": 11220,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-11-12",
-      "price": 12730,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-11-13",
-      "price": 12400,
-      "airline": "American"
-    },
-    {
-      "date": "2025-11-14",
-      "price": 13400,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-15",
-      "price": 13370,
-      "airline": "American"
-    },
-    {
-      "date": "2025-11-16",
-      "price": 13320,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-17",
-      "price": 11770,
-      "airline": "United"
-    },
-    {
-      "date": "2025-11-18",
-      "price": 12280,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-11-19",
-      "price": 11900,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-11-20",
-      "price": 12560,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-21",
-      "price": 12310,
-      "airline": "American"
-    },
-    {
-      "date": "2025-11-22",
-      "price": 12180,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-11-23",
-      "price": 14030,
-      "airline": "American"
-    },
-    {
-      "date": "2025-11-24",
-      "price": 13000,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-25",
-      "price": 11150,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-26",
-      "price": 13550,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-27",
-      "price": 13960,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-28",
-      "price": 11530,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2025-11-29",
-      "price": 13260,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-30",
-      "price": 11180,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-12-01",
-      "price": 11400,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-12-02",
-      "price": 11910,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-12-03",
-      "price": 12420,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-12-04",
-      "price": 10750,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-12-05",
-      "price": 12640,
-      "airline": "American"
-    },
-    {
-      "date": "2025-12-06",
-      "price": 13650,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-12-07",
-      "price": 14560,
-      "airline": "American"
-    },
-    {
-      "date": "2025-12-08",
-      "price": 11570,
-      "airline": "American"
-    },
-    {
-      "date": "2025-12-09",
-      "price": 13060,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-12-10",
-      "price": 13540,
-      "airline": "American"
-    },
-    {
-      "date": "2025-12-11",
-      "price": 13390,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-12-12",
-      "price": 15030,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-13",
-      "price": 12400,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-12-14",
-      "price": 14590,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-12-15",
-      "price": 11270,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-16",
-      "price": 13220,
-      "airline": "American"
-    },
-    {
-      "date": "2025-12-17",
-      "price": 11860,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-12-18",
-      "price": 12500,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2025-12-19",
-      "price": 13590,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-12-20",
-      "price": 13810,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-21",
-      "price": 12560,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-12-22",
-      "price": 12420,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-12-23",
-      "price": 11920,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-24",
-      "price": 10930,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-12-25",
-      "price": 12240,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-26",
-      "price": 12970,
-      "airline": "American"
-    },
-    {
-      "date": "2025-12-27",
-      "price": 14360,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-12-28",
-      "price": 10690,
-      "airline": "Air China"
-    },
-    {
-      "date": "2025-12-29",
-      "price": 11240,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2025-12-30",
-      "price": 11250,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-31",
-      "price": 14500,
-      "airline": "American"
-    },
-    {
-      "date": "2026-01-01",
-      "price": 15570,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-02",
-      "price": 11530,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-03",
-      "price": 15750,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-01-04",
-      "price": 15660,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-01-05",
-      "price": 15460,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-01-06",
-      "price": 15090,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-07",
-      "price": 14100,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-08",
-      "price": 15750,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-09",
-      "price": 15150,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-01-10",
-      "price": 17020,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-01-11",
-      "price": 13760,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-12",
-      "price": 18290,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-01-13",
-      "price": 14530,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-01-14",
-      "price": 12210,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-15",
-      "price": 14050,
-      "airline": "American"
-    },
-    {
-      "date": "2026-01-16",
-      "price": 15380,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-01-17",
-      "price": 14660,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-01-18",
-      "price": 15290,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-01-19",
-      "price": 12150,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-20",
-      "price": 14280,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-21",
-      "price": 13590,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-22",
-      "price": 13840,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-01-23",
-      "price": 16770,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-01-24",
-      "price": 16280,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-25",
-      "price": 13250,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-26",
-      "price": 15530,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-27",
-      "price": 13340,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-01-28",
-      "price": 16220,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-29",
-      "price": 15140,
-      "airline": "American"
-    },
-    {
-      "date": "2026-01-30",
-      "price": 15500,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-01-31",
-      "price": 16900,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-02-01",
-      "price": 17260,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-02",
-      "price": 14080,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-02-03",
-      "price": 15370,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-02-04",
-      "price": 15040,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-05",
-      "price": 14740,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-06",
-      "price": 16870,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-07",
-      "price": 16760,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-02-08",
-      "price": 14200,
-      "airline": "United"
-    },
-    {
-      "date": "2026-02-09",
-      "price": 12290,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-10",
-      "price": 16460,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-02-11",
-      "price": 15150,
-      "airline": "American"
-    },
-    {
-      "date": "2026-02-12",
-      "price": 14760,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-13",
-      "price": 16090,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-14",
-      "price": 15730,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-15",
-      "price": 16050,
-      "airline": "American"
-    },
-    {
-      "date": "2026-02-16",
-      "price": 13240,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-02-17",
-      "price": 14820,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-02-18",
-      "price": 14050,
-      "airline": "American"
-    },
-    {
-      "date": "2026-02-19",
-      "price": 15120,
-      "airline": "American"
-    },
-    {
-      "date": "2026-02-20",
-      "price": 14800,
-      "airline": "United"
-    },
-    {
-      "date": "2026-02-21",
-      "price": 18010,
-      "airline": "United"
-    },
-    {
-      "date": "2026-02-22",
-      "price": 16380,
-      "airline": "United"
-    },
-    {
-      "date": "2026-02-23",
-      "price": 16170,
-      "airline": "United"
-    },
-    {
-      "date": "2026-02-24",
-      "price": 13790,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-02-25",
-      "price": 14360,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-26",
-      "price": 12370,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-02-27",
-      "price": 16630,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-02-28",
-      "price": 15060,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-01",
-      "price": 12530,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-03-02",
-      "price": 10860,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-03-03",
-      "price": 10500,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-04",
-      "price": 9050,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-03-05",
-      "price": 10940,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-03-06",
-      "price": 11870,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-07",
-      "price": 11270,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-03-08",
-      "price": 11420,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-03-09",
-      "price": 10660,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-03-10",
-      "price": 9880,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-03-11",
-      "price": 11820,
-      "airline": "United"
-    },
-    {
-      "date": "2026-03-12",
-      "price": 11110,
-      "airline": "United"
-    },
-    {
-      "date": "2026-03-13",
-      "price": 12690,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-03-14",
-      "price": 11800,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-15",
-      "price": 10590,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-03-16",
-      "price": 11530,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-03-17",
-      "price": 10210,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-03-18",
-      "price": 10290,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-03-19",
-      "price": 10460,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-03-20",
-      "price": 11670,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-21",
-      "price": 11380,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-22",
-      "price": 10080,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-03-23",
-      "price": 9220,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-03-24",
-      "price": 10130,
-      "airline": "United"
-    },
-    {
-      "date": "2026-03-25",
-      "price": 11590,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-03-26",
-      "price": 10520,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-27",
-      "price": 11130,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-28",
-      "price": 10610,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-03-29",
-      "price": 11730,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-30",
-      "price": 10370,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-03-31",
-      "price": 9320,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-01",
-      "price": 11040,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-04-02",
-      "price": 11570,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-03",
-      "price": 12190,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-04-04",
-      "price": 11640,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-04-05",
-      "price": 12720,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-06",
-      "price": 10370,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-07",
-      "price": 9410,
-      "airline": "American"
-    },
-    {
-      "date": "2026-04-08",
-      "price": 10740,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-09",
-      "price": 11780,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-04-10",
-      "price": 12530,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-04-11",
-      "price": 13360,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-12",
-      "price": 10710,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-13",
-      "price": 10180,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-04-14",
-      "price": 11180,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-04-15",
-      "price": 11760,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-04-16",
-      "price": 9750,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-17",
-      "price": 10830,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-18",
-      "price": 11340,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-19",
-      "price": 10760,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-20",
-      "price": 9960,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-04-21",
-      "price": 10190,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-04-22",
-      "price": 10870,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-23",
-      "price": 10810,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-24",
-      "price": 11580,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-25",
-      "price": 11040,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-26",
-      "price": 12440,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-04-27",
-      "price": 10530,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-04-28",
-      "price": 9690,
-      "airline": "American"
-    },
-    {
-      "date": "2026-04-29",
-      "price": 10120,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-30",
-      "price": 10770,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-01",
-      "price": 12410,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-05-02",
-      "price": 11120,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-03",
-      "price": 10950,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-04",
-      "price": 12210,
-      "airline": "United"
-    },
-    {
-      "date": "2026-05-05",
-      "price": 9750,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-05-06",
-      "price": 11420,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-07",
-      "price": 10960,
-      "airline": "United"
-    },
-    {
-      "date": "2026-05-08",
-      "price": 12940,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-09",
-      "price": 11320,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-05-10",
-      "price": 12300,
-      "airline": "United"
-    },
-    {
-      "date": "2026-05-11",
-      "price": 9730,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-12",
-      "price": 12030,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-05-13",
-      "price": 10390,
-      "airline": "United"
-    },
-    {
-      "date": "2026-05-14",
-      "price": 11020,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-15",
-      "price": 11900,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-16",
-      "price": 12240,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-17",
-      "price": 11390,
-      "airline": "United"
-    },
-    {
-      "date": "2026-05-18",
-      "price": 11410,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-19",
-      "price": 11070,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-05-20",
-      "price": 10980,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-21",
-      "price": 9890,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-05-22",
-      "price": 11060,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-05-23",
-      "price": 9820,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-24",
-      "price": 12010,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-25",
-      "price": 10950,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-26",
-      "price": 11370,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-27",
-      "price": 10760,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-05-28",
-      "price": 10920,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-05-29",
-      "price": 11650,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-05-30",
-      "price": 13110,
-      "airline": "United"
-    },
-    {
-      "date": "2026-05-31",
-      "price": 10940,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-06-01",
-      "price": 9970,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-06-02",
-      "price": 10740,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-03",
-      "price": 11040,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-06-04",
-      "price": 9290,
-      "airline": "United"
-    },
-    {
-      "date": "2026-06-05",
-      "price": 9940,
-      "airline": "Hainan Airlines"
-    },
-    {
-      "date": "2026-06-06",
-      "price": 11330,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-06-07",
-      "price": 11730,
-      "airline": "United"
-    },
-    {
-      "date": "2026-06-08",
-      "price": 9830,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-09",
-      "price": 9980,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-06-10",
-      "price": 11020,
-      "airline": "United"
-    },
-    {
-      "date": "2026-06-11",
-      "price": 11310,
-      "airline": "United"
-    },
-    {
-      "date": "2026-06-12",
-      "price": 11650,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-13",
-      "price": 11360,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-14",
-      "price": 9480,
-      "airline": "United"
-    },
-    {
-      "date": "2026-06-15",
-      "price": 10930,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-16",
-      "price": 10100,
-      "airline": "United"
-    },
-    {
-      "date": "2026-06-17",
-      "price": 10980,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-18",
-      "price": 10070,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-06-19",
-      "price": 11970,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-20",
-      "price": 11630,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-06-21",
-      "price": 12020,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-06-22",
-      "price": 10910,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-23",
-      "price": 10420,
-      "airline": "United"
-    },
-    {
-      "date": "2026-06-24",
-      "price": 9780,
-      "airline": "China Southern"
-    },
-    {
-      "date": "2026-06-25",
-      "price": 10490,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-06-26",
-      "price": 11660,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-27",
-      "price": 11800,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-06-28",
-      "price": 12080,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-29",
-      "price": 10880,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-30",
-      "price": 10070,
-      "airline": "China Eastern"
-    },
-    {
-      "date": "2026-07-01",
-      "price": 10920,
-      "airline": "American"
-    },
-    {
-      "date": "2026-07-02",
-      "price": 10450,
-      "airline": "Air China"
-    },
-    {
-      "date": "2026-07-03",
-      "price": 11510,
-      "airline": "United"
-    },
-    {
-      "date": "2026-07-04",
-      "price": 11200,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-07-05",
-      "price": 10250,
-      "airline": "American"
+      "date": "2026-07-07",
+      "snapshot": "2026-07-06",
+      "price": 2813,
+      "airline": "United",
+      "returnDate": "2026-07-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-08",
+      "snapshot": "2026-07-06",
+      "price": 1287,
+      "airline": "United",
+      "returnDate": "2026-07-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-09",
+      "snapshot": "2026-07-06",
+      "price": 1412,
+      "airline": "United",
+      "returnDate": "2026-07-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-10",
+      "snapshot": "2026-07-06",
+      "price": 1387,
+      "airline": "United",
+      "returnDate": "2026-07-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-06",
+      "price": 1451,
+      "airline": "United",
+      "returnDate": "2026-07-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-06",
+      "price": 1387,
+      "airline": "United",
+      "returnDate": "2026-07-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-06",
+      "price": 1287,
+      "airline": "United",
+      "returnDate": "2026-07-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-06",
+      "price": 1287,
+      "airline": "United",
+      "returnDate": "2026-07-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-06",
+      "price": 1287,
+      "airline": "United",
+      "returnDate": "2026-07-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "United",
+      "returnDate": "2026-07-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-06",
+      "price": 1397,
+      "airline": "Delta",
+      "returnDate": "2026-07-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-06",
+      "price": 1533,
+      "airline": "United",
+      "returnDate": "2026-08-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-06",
+      "price": 1397,
+      "airline": "Delta",
+      "returnDate": "2026-08-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-06",
+      "price": 1458,
+      "airline": "United",
+      "returnDate": "2026-08-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-06",
+      "price": 1287,
+      "airline": "United",
+      "returnDate": "2026-08-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2026-08-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-06",
+      "price": 1422,
+      "airline": "United",
+      "returnDate": "2026-08-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-06",
+      "price": 1397,
+      "airline": "Delta",
+      "returnDate": "2026-08-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-06",
+      "price": 1528,
+      "airline": "United",
+      "returnDate": "2026-08-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-06",
+      "price": 1403,
+      "airline": "United",
+      "returnDate": "2026-08-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-06",
+      "price": 1287,
+      "airline": "United",
+      "returnDate": "2026-08-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-06",
+      "price": 1287,
+      "airline": "United",
+      "returnDate": "2026-08-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-06",
+      "price": 1287,
+      "airline": "United",
+      "returnDate": "2026-08-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-06",
+      "price": 1287,
+      "airline": "United",
+      "returnDate": "2026-08-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-06",
+      "price": 1387,
+      "airline": "United",
+      "returnDate": "2026-08-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-06",
+      "price": 1397,
+      "airline": "United",
+      "returnDate": "2026-08-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-06",
+      "price": 1523,
+      "airline": "United",
+      "returnDate": "2026-08-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-06",
+      "price": 1287,
+      "airline": "United",
+      "returnDate": "2026-08-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-06",
+      "price": 1287,
+      "airline": "United",
+      "returnDate": "2026-08-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-06",
+      "price": 1287,
+      "airline": "United",
+      "returnDate": "2026-08-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-06",
+      "price": 1414,
+      "airline": "United",
+      "returnDate": "2026-08-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-07",
+      "snapshot": "2026-07-06",
+      "price": 1397,
+      "airline": "Delta",
+      "returnDate": "2026-08-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-06",
+      "price": 1387,
+      "airline": "United",
+      "returnDate": "2026-08-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-06",
+      "price": 1387,
+      "airline": "United",
+      "returnDate": "2026-08-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-08-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-08-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-12",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-08-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-08-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-06",
+      "price": 1312,
+      "airline": "United",
+      "returnDate": "2026-08-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-06",
+      "price": 1312,
+      "airline": "United",
+      "returnDate": "2026-08-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-06",
+      "price": 1312,
+      "airline": "United",
+      "returnDate": "2026-08-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-17",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-08-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-09-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-09-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-09-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-06",
+      "price": 1299,
+      "airline": "Delta",
+      "returnDate": "2026-09-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-08-22",
+      "snapshot": "2026-07-06",
+      "price": 1395,
+      "airline": "United",
+      "returnDate": "2026-09-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-06",
+      "price": 1299,
+      "airline": "Delta",
+      "returnDate": "2026-09-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-09-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-25",
+      "snapshot": "2026-07-06",
+      "price": 1192,
+      "airline": "United",
+      "returnDate": "2026-09-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-26",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-09-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-27",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-09-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-28",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-09-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-09-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-09-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-09-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-09-01",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-09-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-09-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-09-03",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-09-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-09-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-09-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-06",
+      "price": 1267,
+      "airline": "United",
+      "returnDate": "2026-09-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-06",
+      "price": 1242,
+      "airline": "United",
+      "returnDate": "2026-09-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-09-08",
+      "snapshot": "2026-07-06",
+      "price": 1192,
+      "airline": "United",
+      "returnDate": "2026-09-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-09",
+      "snapshot": "2026-07-06",
+      "price": 1192,
+      "airline": "United",
+      "returnDate": "2026-09-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-06",
+      "price": 1317,
+      "airline": "United",
+      "returnDate": "2026-09-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-11",
+      "snapshot": "2026-07-06",
+      "price": 1277,
+      "airline": "Delta",
+      "returnDate": "2026-09-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-06",
+      "price": 1317,
+      "airline": "United",
+      "returnDate": "2026-09-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-13",
+      "snapshot": "2026-07-06",
+      "price": 1317,
+      "airline": "United",
+      "returnDate": "2026-09-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-14",
+      "snapshot": "2026-07-06",
+      "price": 1292,
+      "airline": "United",
+      "returnDate": "2026-09-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-15",
+      "snapshot": "2026-07-06",
+      "price": 1242,
+      "airline": "United",
+      "returnDate": "2026-09-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-16",
+      "snapshot": "2026-07-06",
+      "price": 1242,
+      "airline": "United",
+      "returnDate": "2026-09-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-17",
+      "snapshot": "2026-07-06",
+      "price": 1242,
+      "airline": "United",
+      "returnDate": "2026-10-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-06",
+      "price": 1267,
+      "airline": "United",
+      "returnDate": "2026-10-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-19",
+      "snapshot": "2026-07-06",
+      "price": 1267,
+      "airline": "United",
+      "returnDate": "2026-10-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-10-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-21",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-10-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-10-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "Delta",
+      "returnDate": "2026-10-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-09-24",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-10-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-25",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-10-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-26",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-10-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-27",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-10-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-09-28",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-10-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-29",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-10-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-09-30",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "Delta",
+      "returnDate": "2026-10-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-10-01",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-10-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-10-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "United",
+      "returnDate": "2026-10-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-04",
+      "snapshot": "2026-07-06",
+      "price": 1317,
+      "airline": "United",
+      "returnDate": "2026-10-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "United",
+      "returnDate": "2026-10-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-06",
+      "snapshot": "2026-07-06",
+      "price": 1252,
+      "airline": "Delta",
+      "returnDate": "2026-10-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-06",
+      "price": 1298,
+      "airline": "United",
+      "returnDate": "2026-10-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-08",
+      "snapshot": "2026-07-06",
+      "price": 1242,
+      "airline": "United",
+      "returnDate": "2026-10-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-09",
+      "snapshot": "2026-07-06",
+      "price": 1317,
+      "airline": "United",
+      "returnDate": "2026-10-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-10",
+      "snapshot": "2026-07-06",
+      "price": 1317,
+      "airline": "Delta",
+      "returnDate": "2026-10-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-10-11",
+      "snapshot": "2026-07-06",
+      "price": 1317,
+      "airline": "United",
+      "returnDate": "2026-10-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-10-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-10-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-14",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-10-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-15",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-10-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-16",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-10-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-10-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-10-18",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-11-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-10-19",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-11-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-11-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-21",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-11-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-11-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-11-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-11-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-10-25",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-11-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-10-26",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-11-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-10-27",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-11-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-11-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "Delta",
+      "returnDate": "2026-11-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-11-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-11-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-11-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-02",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-11-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-11-03",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-11-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-11-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "Delta",
+      "returnDate": "2026-11-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-11-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-07",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-11-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-11-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-09",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-11-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-11-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-11-11",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-11-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-11-12",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "Delta",
+      "returnDate": "2026-11-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-13",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-11-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-14",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-11-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-11-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-16",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-11-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-11-17",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-12-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-12-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "Delta",
+      "returnDate": "2026-12-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-20",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-12-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-21",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-12-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-22",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-12-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-23",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-12-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-11-24",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-12-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-12-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-11-26",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "Delta",
+      "returnDate": "2026-12-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-27",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-12-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-28",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-12-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-06",
+      "price": 1237,
+      "airline": "Delta",
+      "returnDate": "2026-12-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-11-30",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-12-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-01",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-12-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "United",
+      "returnDate": "2026-12-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-03",
+      "snapshot": "2026-07-06",
+      "price": 1187,
+      "airline": "Delta",
+      "returnDate": "2026-12-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-06",
+      "price": 1267,
+      "airline": "Delta",
+      "returnDate": "2026-12-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-06",
+      "price": 1314,
+      "airline": "Delta",
+      "returnDate": "2026-12-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-06",
+      "price": 1267,
+      "airline": "Delta",
+      "returnDate": "2026-12-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-12-07",
+      "snapshot": "2026-07-06",
+      "price": 1192,
+      "airline": "United",
+      "returnDate": "2026-12-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-06",
+      "price": 1267,
+      "airline": "United",
+      "returnDate": "2026-12-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-06",
+      "price": 1366,
+      "airline": "Delta",
+      "returnDate": "2026-12-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-12-10",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "United",
+      "returnDate": "2026-12-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-06",
+      "price": 1665,
+      "airline": "United",
+      "returnDate": "2026-12-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-06",
+      "price": 1804,
+      "airline": "United",
+      "returnDate": "2026-12-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-13",
+      "snapshot": "2026-07-06",
+      "price": 1665,
+      "airline": "United",
+      "returnDate": "2026-12-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-06",
+      "price": 1579,
+      "airline": "United",
+      "returnDate": "2026-12-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-15",
+      "snapshot": "2026-07-06",
+      "price": 1722,
+      "airline": "United",
+      "returnDate": "2026-12-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-16",
+      "snapshot": "2026-07-06",
+      "price": 1722,
+      "airline": "United",
+      "returnDate": "2026-12-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-17",
+      "snapshot": "2026-07-06",
+      "price": 2525,
+      "airline": "United",
+      "returnDate": "2026-12-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-06",
+      "price": 2841,
+      "airline": "United",
+      "returnDate": "2027-01-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-19",
+      "snapshot": "2026-07-06",
+      "price": 3012,
+      "airline": "United",
+      "returnDate": "2027-01-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-06",
+      "price": 2889,
+      "airline": "Delta",
+      "returnDate": "2027-01-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-12-21",
+      "snapshot": "2026-07-06",
+      "price": 2447,
+      "airline": "United",
+      "returnDate": "2027-01-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-22",
+      "snapshot": "2026-07-06",
+      "price": 2074,
+      "airline": "United",
+      "returnDate": "2027-01-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-06",
+      "price": 1525,
+      "airline": "United",
+      "returnDate": "2027-01-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-06",
+      "price": 1614,
+      "airline": "Delta",
+      "returnDate": "2027-01-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-06",
+      "price": 1634,
+      "airline": "Delta",
+      "returnDate": "2027-01-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-12-26",
+      "snapshot": "2026-07-06",
+      "price": 1689,
+      "airline": "United",
+      "returnDate": "2027-01-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-06",
+      "price": 1489,
+      "airline": "Delta",
+      "returnDate": "2027-01-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-06",
+      "price": 1392,
+      "airline": "United",
+      "returnDate": "2027-01-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-29",
+      "snapshot": "2026-07-06",
+      "price": 1342,
+      "airline": "United",
+      "returnDate": "2027-01-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-06",
+      "price": 1192,
+      "airline": "United",
+      "returnDate": "2027-01-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-06",
+      "price": 1192,
+      "airline": "Delta",
+      "returnDate": "2027-01-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-06",
+      "price": 1347,
+      "airline": "Delta",
+      "returnDate": "2027-01-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-06",
+      "price": 1347,
+      "airline": "United",
+      "returnDate": "2027-01-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-06",
+      "price": 1347,
+      "airline": "Delta",
+      "returnDate": "2027-01-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-04",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "United",
+      "returnDate": "2027-01-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-01-05",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-01-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-01-06",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-01-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-01-07",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "Delta",
+      "returnDate": "2027-01-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-08",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-01-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-09",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-01-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-10",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-01-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-11",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-01-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-01-12",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-01-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-01-13",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-01-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-01-14",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "Delta",
+      "returnDate": "2027-01-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-15",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-01-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-16",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-01-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-17",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-01-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-18",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-02-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-01-19",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-02-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-01-20",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-02-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-01-21",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "Delta",
+      "returnDate": "2027-02-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-22",
+      "snapshot": "2026-07-06",
+      "price": 1347,
+      "airline": "Delta",
+      "returnDate": "2027-02-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-23",
+      "snapshot": "2026-07-06",
+      "price": 1347,
+      "airline": "Delta",
+      "returnDate": "2027-02-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-24",
+      "snapshot": "2026-07-06",
+      "price": 1347,
+      "airline": "Delta",
+      "returnDate": "2027-02-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-25",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "United",
+      "returnDate": "2027-02-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-01-26",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-02-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-01-27",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-02-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-01-28",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "Delta",
+      "returnDate": "2027-02-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-29",
+      "snapshot": "2026-07-06",
+      "price": 1347,
+      "airline": "Delta",
+      "returnDate": "2027-02-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-01-30",
+      "snapshot": "2026-07-06",
+      "price": 1347,
+      "airline": "United",
+      "returnDate": "2027-02-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-01-31",
+      "snapshot": "2026-07-06",
+      "price": 1347,
+      "airline": "Delta",
+      "returnDate": "2027-02-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 5 min"
+    },
+    {
+      "date": "2027-02-01",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "United",
+      "returnDate": "2027-02-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-02-02",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-02-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-02-03",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-02-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-02-04",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "Delta",
+      "returnDate": "2027-02-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-05",
+      "snapshot": "2026-07-06",
+      "price": 1347,
+      "airline": "Delta",
+      "returnDate": "2027-02-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-06",
+      "snapshot": "2026-07-06",
+      "price": 1347,
+      "airline": "Delta",
+      "returnDate": "2027-02-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-07",
+      "snapshot": "2026-07-06",
+      "price": 1347,
+      "airline": "Delta",
+      "returnDate": "2027-02-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-08",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "United",
+      "returnDate": "2027-02-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-02-09",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-02-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-02-10",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-02-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-02-11",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "Delta",
+      "returnDate": "2027-02-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-12",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-02-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-13",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-02-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-14",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-02-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-15",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-03-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-02-16",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-03-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-02-17",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-03-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-02-18",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "Delta",
+      "returnDate": "2027-03-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-19",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-03-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-20",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-03-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-21",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-03-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-22",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-03-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-02-23",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-03-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-02-24",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-03-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-02-25",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "Delta",
+      "returnDate": "2027-03-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-26",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-03-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-27",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-03-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-02-28",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-03-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 15 min"
+    },
+    {
+      "date": "2027-03-01",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-03-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-02",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-03-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-03",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-03-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-04",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "Delta",
+      "returnDate": "2027-03-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2027-03-05",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-03-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2027-03-06",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-03-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2027-03-07",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-03-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2027-03-08",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-03-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-09",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-03-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-10",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-03-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-11",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "Delta",
+      "returnDate": "2027-03-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2027-03-12",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-03-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2027-03-13",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-03-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2027-03-14",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-03-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2027-03-15",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-03-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-16",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-03-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-17",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-03-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-18",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "Delta",
+      "returnDate": "2027-04-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2027-03-19",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "United",
+      "returnDate": "2027-04-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-20",
+      "snapshot": "2026-07-06",
+      "price": 1360,
+      "airline": "United",
+      "returnDate": "2027-04-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-21",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-04-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2027-03-22",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-04-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-23",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-04-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-24",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-04-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-25",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-04-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-26",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "United",
+      "returnDate": "2027-04-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2027-03-27",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "United",
+      "returnDate": "2027-04-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2027-03-28",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "United",
+      "returnDate": "2027-04-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2027-03-29",
+      "snapshot": "2026-07-06",
+      "price": 1247,
+      "airline": "United",
+      "returnDate": "2027-04-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2027-03-30",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-04-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2027-03-31",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "United",
+      "returnDate": "2027-04-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2027-04-01",
+      "snapshot": "2026-07-06",
+      "price": 1197,
+      "airline": "Delta",
+      "returnDate": "2027-04-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2027-04-02",
+      "snapshot": "2026-07-06",
+      "price": 1297,
+      "airline": "Delta",
+      "returnDate": "2027-04-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
     }
   ]
 }

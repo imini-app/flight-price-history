@@ -26,38 +26,38 @@ Each price entry must follow this structure:
 
 ### Sources
 
-Use one of the following APIs / services (pick one that fits your budget and access):
+| Source | Type | Price | Notes |
+|---|---|---|---|
+| [SerpApi Google Flights API](https://serpapi.com/google-flights-api) | Third-party API | Paid from $50/mo | 100 free searches on signup, no CC required for trial. Returns structured JSON. **Recommended.** |
+| [Scrapeless Google Flights API](https://www.scrapeless.com/en/blog/google-flights-api) | Third-party API | ~$1/1K URLs | Pay-as-you-go, no monthly minimum |
+| [AviationStack](https://aviationstack.com/) | Official API | Free: 100 req/mo · Paid from $50/mo | Flight schedules & pricing data |
+| [Skyscanner API](https://developers.skyscanner.net/) | Official API | Needs partnership | Requires application/approval |
+| [Apify Skyscanner Actor](https://apify.com/scraped/flight-price-trends) | Scraping platform | $15/mo + usage | Pre-built Skyscanner scraper, easy setup |
+| [Google Flights scraping](https://github.com/nicedoc/selenium-google-flights-scraper) | DIY scraping | Free | Fragile, requires maintenance |
 
-| Source | Type | Notes |
-|---|---|---|
-| [Google Flights API](https://developers.google.com/flights) | Official | Requires API key, rate-limited |
-| [Amadeus Self-Service API](https://developers.amadeus.com/self-service) | Official | Free tier available (2,000 req/day) |
-| [AviationStack](https://aviationstack.com/) | Official | Free tier (100 req/month) |
-| [Skyscanner API](https://developers.skyscanner.net/) | Official | Requires API key |
-| [SerpAPI Google Flights](https://serpapi.com/google-flights-api) | Third-party | Paid, easy to use |
-| [Web scrape Google Flights](https://github.com/nicedoc/selenium-google-flights-scraper) | Scraping | Free but fragile |
-
-### Recommended approach (Amadeus)
+### Recommended approach (SerpApi Google Flights)
 
 ```bash
-# 1. Get access token
-curl -X POST "https://test.api.amadeus.com/v1/security/oauth2/token" \
-  -d "grant_type=client_credentials" \
-  -d "client_id=YOUR_API_KEY" \
-  -d "client_secret=YOUR_API_SECRET"
+curl -s "https://serpapi.com/search?engine=google_flights&departure_id=YYZ&arrival_id=PVG&outbound_date=2025-09-01&return_date=2025-09-15&currency=USD&hl=en&api_key=YOUR_API_KEY"
+```
 
-# 2. Search flight offers
-curl "https://test.api.amadeus.com/v2/shopping/flight-offers" \
-  -H "Authorization: Bearer YOUR_TOKEN" \
-  -d '{
-    "originLocationCode": "YYZ",
-    "destinationLocationCode": "PVG",
-    "departureDate": "2025-09-01",
-    "returnDate": "2025-09-15",
-    "adults": 1,
-    "currencyCode": "USD",
-    "max": 5
-  }'
+Response includes `best_flights` and `other_flights` arrays with price, airline, duration, stops, etc.
+
+### Alternative free approach (Skyscanner scraping with Python)
+
+```python
+from playwright.sync_api import sync_playwright
+
+def scrape_skyscanner(origin, dest, dep_date, ret_date):
+    url = f"https://www.skyscanner.ca/transport/flights/{origin}/{dest}/{dep_date}/{ret_date}/"
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        page.goto(url, timeout=30000)
+        page.wait_for_selector('[data-testid="ticket-price"]', timeout=15000)
+        prices = page.locator('[data-testid="ticket-price"]').all_inner_texts()
+        browser.close()
+        return prices
 ```
 
 ### Automation script template

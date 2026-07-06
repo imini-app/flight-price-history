@@ -2,3662 +2,2707 @@
   "route": "DXB-NRT",
   "origin": "DXB",
   "dest": "NRT",
-  "label": "Dubai (DXB) \u2192  Tokyo (NRT)",
+  "label": "Dubai (DXB) → Tokyo (NRT)",
   "prices": [
     {
-      "date": "2024-07-05",
-      "price": 9700,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-07-06",
-      "price": 10310,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-07-07",
-      "price": 9000,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-07-08",
-      "price": 10620,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-07-09",
-      "price": 9150,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-07-10",
-      "price": 8590,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-11",
-      "price": 8910,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-07-12",
-      "price": 11570,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-07-13",
-      "price": 10870,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-07-14",
-      "price": 11200,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-07-15",
-      "price": 9320,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-07-16",
-      "price": 8580,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-07-17",
-      "price": 9750,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-07-18",
-      "price": 9050,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-19",
-      "price": 10940,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-07-20",
-      "price": 10450,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-07-21",
-      "price": 10240,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-07-22",
-      "price": 9370,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-07-23",
-      "price": 8790,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-07-24",
-      "price": 8010,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-07-25",
-      "price": 8980,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-07-26",
-      "price": 9490,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-07-27",
-      "price": 9820,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-07-28",
-      "price": 9410,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-29",
-      "price": 9110,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-07-30",
-      "price": 8730,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-07-31",
-      "price": 9920,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-08-01",
-      "price": 9170,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-02",
-      "price": 8850,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-08-03",
-      "price": 9850,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-08-04",
-      "price": 10180,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-05",
-      "price": 9940,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-08-06",
-      "price": 7960,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-07",
-      "price": 8890,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-08-08",
-      "price": 6920,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-08-09",
-      "price": 8960,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-10",
-      "price": 10720,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-08-11",
-      "price": 11230,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-08-12",
-      "price": 8310,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-08-13",
-      "price": 8720,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-14",
-      "price": 8450,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-08-15",
-      "price": 8830,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-08-16",
-      "price": 10900,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-08-17",
-      "price": 9360,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-08-18",
-      "price": 10320,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-08-19",
-      "price": 9810,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-08-20",
-      "price": 8980,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-08-21",
-      "price": 8900,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-08-22",
-      "price": 9780,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-08-23",
-      "price": 9850,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-08-24",
-      "price": 9020,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-08-25",
-      "price": 9890,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-08-26",
-      "price": 8590,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-08-27",
-      "price": 8810,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-08-28",
-      "price": 8970,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-08-29",
-      "price": 9420,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-08-30",
-      "price": 10790,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-08-31",
-      "price": 9510,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-01",
-      "price": 9710,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-09-02",
-      "price": 8980,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-09-03",
-      "price": 8680,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-09-04",
-      "price": 8250,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-09-05",
-      "price": 9800,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-06",
-      "price": 10120,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-07",
-      "price": 11300,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-09-08",
-      "price": 9750,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-09",
-      "price": 8130,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-10",
-      "price": 8690,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-11",
-      "price": 8120,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-09-12",
-      "price": 9200,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-09-13",
-      "price": 10130,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-09-14",
-      "price": 9440,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-15",
-      "price": 9330,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-16",
-      "price": 9860,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-09-17",
-      "price": 8230,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-18",
-      "price": 9760,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-19",
-      "price": 9510,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-20",
-      "price": 10090,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-09-21",
-      "price": 10870,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-22",
-      "price": 8560,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-23",
-      "price": 9040,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-09-24",
-      "price": 9790,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-09-25",
-      "price": 9390,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-26",
-      "price": 8740,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-09-27",
-      "price": 9780,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-28",
-      "price": 9650,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-29",
-      "price": 10550,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-09-30",
-      "price": 8670,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-10-01",
-      "price": 8740,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-10-02",
-      "price": 9160,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-10-03",
-      "price": 8610,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-10-04",
-      "price": 9230,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-10-05",
-      "price": 10150,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-10-06",
-      "price": 9780,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-10-07",
-      "price": 8770,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-08",
-      "price": 9040,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-10-09",
-      "price": 9410,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-10",
-      "price": 9370,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-10-11",
-      "price": 10170,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-10-12",
-      "price": 10370,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-10-13",
-      "price": 9230,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-10-14",
-      "price": 9340,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-10-15",
-      "price": 8650,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-10-16",
-      "price": 9570,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-10-17",
-      "price": 9390,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-18",
-      "price": 7730,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-10-19",
-      "price": 9590,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-10-20",
-      "price": 9320,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-21",
-      "price": 9180,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-10-22",
-      "price": 8450,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-10-23",
-      "price": 7900,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-10-24",
-      "price": 8760,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-25",
-      "price": 8990,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-10-26",
-      "price": 9700,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-10-27",
-      "price": 9880,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-10-28",
-      "price": 8220,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-10-29",
-      "price": 8540,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-10-30",
-      "price": 9200,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-10-31",
-      "price": 8960,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-01",
-      "price": 11250,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-11-02",
-      "price": 10480,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-11-03",
-      "price": 10880,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-04",
-      "price": 10490,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-11-05",
-      "price": 11110,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-06",
-      "price": 9700,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-11-07",
-      "price": 10490,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-11-08",
-      "price": 11550,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-09",
-      "price": 12130,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-11-10",
-      "price": 11110,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-11-11",
-      "price": 9460,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-11-12",
-      "price": 10240,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-11-13",
-      "price": 10520,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-11-14",
-      "price": 11110,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-11-15",
-      "price": 13690,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-11-16",
-      "price": 11320,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-11-17",
-      "price": 8800,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-11-18",
-      "price": 11290,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-11-19",
-      "price": 10200,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-11-20",
-      "price": 11540,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-21",
-      "price": 9890,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-11-22",
-      "price": 12230,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-11-23",
-      "price": 11270,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-24",
-      "price": 11460,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-25",
-      "price": 9520,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-26",
-      "price": 11330,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-11-27",
-      "price": 11300,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-11-28",
-      "price": 9030,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-11-29",
-      "price": 12720,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-30",
-      "price": 12740,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-12-01",
-      "price": 11780,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-02",
-      "price": 9370,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-12-03",
-      "price": 10530,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-04",
-      "price": 8460,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-05",
-      "price": 11400,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-06",
-      "price": 12390,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-07",
-      "price": 12510,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-08",
-      "price": 10480,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-12-09",
-      "price": 10250,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-12-10",
-      "price": 9520,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-11",
-      "price": 10500,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-12",
-      "price": 11210,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-13",
-      "price": 11900,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-14",
-      "price": 9860,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-12-15",
-      "price": 10720,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-16",
-      "price": 11760,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-12-17",
-      "price": 11490,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-12-18",
-      "price": 9180,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-19",
-      "price": 10620,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-12-20",
-      "price": 11380,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-12-21",
-      "price": 10160,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-12-22",
-      "price": 11310,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-12-23",
-      "price": 9290,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-12-24",
-      "price": 9840,
-      "airline": "ANA"
-    },
-    {
-      "date": "2024-12-25",
-      "price": 10640,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-12-26",
-      "price": 10300,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-12-27",
-      "price": 12040,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-28",
-      "price": 10010,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2024-12-29",
-      "price": 11100,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2024-12-30",
-      "price": 9430,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2024-12-31",
-      "price": 9290,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-01",
-      "price": 8480,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-01-02",
-      "price": 9080,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-03",
-      "price": 9700,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-01-04",
-      "price": 10230,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-01-05",
-      "price": 8110,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-01-06",
-      "price": 9540,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-07",
-      "price": 9320,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-08",
-      "price": 8820,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-09",
-      "price": 9270,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-01-10",
-      "price": 9950,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-01-11",
-      "price": 9050,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-01-12",
-      "price": 10330,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-13",
-      "price": 8710,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-01-14",
-      "price": 9490,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-01-15",
-      "price": 8100,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-16",
-      "price": 9350,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-01-17",
-      "price": 8720,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-18",
-      "price": 10260,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-19",
-      "price": 9630,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-20",
-      "price": 8500,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-21",
-      "price": 8270,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-01-22",
-      "price": 8840,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-01-23",
-      "price": 8940,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-24",
-      "price": 10340,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-25",
-      "price": 9920,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-26",
-      "price": 8110,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-01-27",
-      "price": 9070,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-01-28",
-      "price": 10510,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-01-29",
-      "price": 8710,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-01-30",
-      "price": 9590,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-01-31",
-      "price": 9550,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-02-01",
-      "price": 11380,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-02-02",
-      "price": 9960,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-03",
-      "price": 9020,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-04",
-      "price": 7890,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-05",
-      "price": 9090,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-02-06",
-      "price": 7900,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-07",
-      "price": 10210,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-08",
-      "price": 9210,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-02-09",
-      "price": 10350,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-02-10",
-      "price": 7790,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-11",
-      "price": 8410,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-02-12",
-      "price": 8100,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-02-13",
-      "price": 9030,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-02-14",
-      "price": 9760,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-02-15",
-      "price": 9740,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-16",
-      "price": 9670,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-17",
-      "price": 8970,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-02-18",
-      "price": 8850,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-19",
-      "price": 7310,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-02-20",
-      "price": 9320,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-21",
-      "price": 9040,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-22",
-      "price": 11810,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-02-23",
-      "price": 9750,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-24",
-      "price": 9100,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-02-25",
-      "price": 9050,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-02-26",
-      "price": 9420,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-02-27",
-      "price": 8590,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-02-28",
-      "price": 10520,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-03-01",
-      "price": 13320,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-02",
-      "price": 12800,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-03-03",
-      "price": 12630,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-03-04",
-      "price": 12560,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-03-05",
-      "price": 11260,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-03-06",
-      "price": 12520,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-03-07",
-      "price": 14030,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-08",
-      "price": 11880,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-09",
-      "price": 13980,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-03-10",
-      "price": 12860,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-03-11",
-      "price": 10370,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-03-12",
-      "price": 12950,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-13",
-      "price": 10400,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-03-14",
-      "price": 12160,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-03-15",
-      "price": 12490,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-03-16",
-      "price": 13400,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-03-17",
-      "price": 11720,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-03-18",
-      "price": 11960,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-03-19",
-      "price": 13350,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-20",
-      "price": 11970,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-03-21",
-      "price": 12520,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-03-22",
-      "price": 13360,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-03-23",
-      "price": 12190,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-03-24",
-      "price": 12140,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-25",
-      "price": 11870,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-03-26",
-      "price": 11010,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-03-27",
-      "price": 10610,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-03-28",
-      "price": 14150,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-03-29",
-      "price": 11430,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-30",
-      "price": 12020,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-03-31",
-      "price": 11090,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-01",
-      "price": 9760,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-02",
-      "price": 11340,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-04-03",
-      "price": 10820,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-04",
-      "price": 15110,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-05",
-      "price": 13420,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-06",
-      "price": 12910,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-04-07",
-      "price": 11130,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-08",
-      "price": 10500,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-09",
-      "price": 11260,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-10",
-      "price": 12080,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-11",
-      "price": 12690,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-12",
-      "price": 14350,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-13",
-      "price": 10650,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-14",
-      "price": 9240,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-15",
-      "price": 11990,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-16",
-      "price": 10210,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-04-17",
-      "price": 9780,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-18",
-      "price": 12400,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-04-19",
-      "price": 12720,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-04-20",
-      "price": 12830,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-21",
-      "price": 12220,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-22",
-      "price": 11650,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-04-23",
-      "price": 12550,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-24",
-      "price": 11450,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-25",
-      "price": 11600,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-26",
-      "price": 13380,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-27",
-      "price": 14430,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-04-28",
-      "price": 12040,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-04-29",
-      "price": 10780,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-04-30",
-      "price": 10290,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-01",
-      "price": 8520,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-02",
-      "price": 8750,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-05-03",
-      "price": 10650,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-04",
-      "price": 10090,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-05",
-      "price": 8370,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-05-06",
-      "price": 8950,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-07",
-      "price": 8820,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-05-08",
-      "price": 9930,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-09",
-      "price": 11220,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-05-10",
-      "price": 9910,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-11",
-      "price": 10650,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-12",
-      "price": 8890,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-13",
-      "price": 8540,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-14",
-      "price": 8970,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-15",
-      "price": 9180,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-05-16",
-      "price": 11130,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-05-17",
-      "price": 9670,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-05-18",
-      "price": 10120,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-05-19",
-      "price": 9630,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-05-20",
-      "price": 10330,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-21",
-      "price": 9190,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-05-22",
-      "price": 9920,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-05-23",
-      "price": 9240,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-05-24",
-      "price": 11410,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-25",
-      "price": 9790,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-05-26",
-      "price": 9450,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-27",
-      "price": 9380,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-05-28",
-      "price": 9080,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-05-29",
-      "price": 10200,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-30",
-      "price": 10680,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-31",
-      "price": 8650,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-06-01",
-      "price": 8990,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-06-02",
-      "price": 8230,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-03",
-      "price": 7300,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-06-04",
-      "price": 8340,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-06-05",
-      "price": 8450,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-06-06",
-      "price": 10500,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-06-07",
-      "price": 8460,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-08",
-      "price": 10450,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-06-09",
-      "price": 7400,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-06-10",
-      "price": 9610,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-06-11",
-      "price": 8040,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-06-12",
-      "price": 8850,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-06-13",
-      "price": 9520,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-06-14",
-      "price": 11200,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-15",
-      "price": 9410,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-06-16",
-      "price": 8870,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-17",
-      "price": 9080,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-06-18",
-      "price": 9470,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-19",
-      "price": 7900,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-20",
-      "price": 9070,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-06-21",
-      "price": 11060,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-22",
-      "price": 10370,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-23",
-      "price": 7980,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-24",
-      "price": 8820,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-25",
-      "price": 8690,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-06-26",
-      "price": 8280,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-06-27",
-      "price": 8380,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-06-28",
-      "price": 10020,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-06-29",
-      "price": 10040,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-06-30",
-      "price": 8700,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-01",
-      "price": 9270,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-02",
-      "price": 8650,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-07-03",
-      "price": 8680,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-07-04",
-      "price": 10390,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-07-05",
-      "price": 11150,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-07-06",
-      "price": 10970,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-07-07",
-      "price": 8830,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-07-08",
-      "price": 10160,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-07-09",
-      "price": 8890,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-10",
-      "price": 8950,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-07-11",
-      "price": 8770,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-07-12",
-      "price": 8800,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-07-13",
-      "price": 10570,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-14",
-      "price": 9550,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-15",
-      "price": 8480,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-07-16",
-      "price": 7720,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-07-17",
-      "price": 9290,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-07-18",
-      "price": 10310,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-19",
-      "price": 8730,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-07-20",
-      "price": 12050,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-07-21",
-      "price": 9260,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-07-22",
-      "price": 8790,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-07-23",
-      "price": 9430,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-07-24",
-      "price": 9130,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-25",
-      "price": 8860,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-07-26",
-      "price": 9820,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-07-27",
-      "price": 9770,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-07-28",
-      "price": 9570,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-07-29",
-      "price": 8360,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-07-30",
-      "price": 9440,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-31",
-      "price": 8160,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-01",
-      "price": 10080,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-08-02",
-      "price": 9500,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-08-03",
-      "price": 10020,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-08-04",
-      "price": 9030,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-05",
-      "price": 8350,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-08-06",
-      "price": 9310,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-08-07",
-      "price": 8890,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-08-08",
-      "price": 10150,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-08-09",
-      "price": 9890,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-08-10",
-      "price": 9480,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-08-11",
-      "price": 8970,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-12",
-      "price": 9350,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-08-13",
-      "price": 9640,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-08-14",
-      "price": 9050,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-08-15",
-      "price": 10230,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-16",
-      "price": 10680,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-08-17",
-      "price": 11650,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-08-18",
-      "price": 7840,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-08-19",
-      "price": 8600,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-20",
-      "price": 10180,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-08-21",
-      "price": 9220,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-08-22",
-      "price": 10220,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-08-23",
-      "price": 9210,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-24",
-      "price": 9840,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-25",
-      "price": 8660,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-26",
-      "price": 11550,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-08-27",
-      "price": 7720,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-28",
-      "price": 8630,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-08-29",
-      "price": 9360,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-08-30",
-      "price": 9270,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-08-31",
-      "price": 9370,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-01",
-      "price": 8970,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-02",
-      "price": 9440,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-03",
-      "price": 8940,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-04",
-      "price": 8770,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-09-05",
-      "price": 10280,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-09-06",
-      "price": 9830,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-07",
-      "price": 10990,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-09-08",
-      "price": 8980,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-09",
-      "price": 9230,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-09-10",
-      "price": 7910,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-09-11",
-      "price": 9450,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-12",
-      "price": 9120,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-09-13",
-      "price": 9450,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-09-14",
-      "price": 10120,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-15",
-      "price": 7780,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-09-16",
-      "price": 9600,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-09-17",
-      "price": 8950,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-18",
-      "price": 8850,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-19",
-      "price": 8500,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-20",
-      "price": 9410,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-09-21",
-      "price": 10400,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-22",
-      "price": 10030,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-09-23",
-      "price": 9620,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-24",
-      "price": 9660,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-25",
-      "price": 7870,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-09-26",
-      "price": 10840,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-09-27",
-      "price": 9440,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-09-28",
-      "price": 10280,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-09-29",
-      "price": 9790,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-09-30",
-      "price": 8570,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-10-01",
-      "price": 8510,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-10-02",
-      "price": 9600,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-10-03",
-      "price": 9850,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-10-04",
-      "price": 10270,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-10-05",
-      "price": 9170,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-06",
-      "price": 9590,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-07",
-      "price": 8200,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-08",
-      "price": 10840,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-09",
-      "price": 9270,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-10-10",
-      "price": 8730,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-11",
-      "price": 9660,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-12",
-      "price": 10280,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-10-13",
-      "price": 8670,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-10-14",
-      "price": 7390,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-15",
-      "price": 8930,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-16",
-      "price": 8820,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-10-17",
-      "price": 8890,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-18",
-      "price": 10190,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-10-19",
-      "price": 10120,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-10-20",
-      "price": 8910,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-10-21",
-      "price": 8410,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-10-22",
-      "price": 10820,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-10-23",
-      "price": 8800,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-10-24",
-      "price": 8740,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-10-25",
-      "price": 11130,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-10-26",
-      "price": 10080,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-10-27",
-      "price": 9990,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-28",
-      "price": 10030,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-10-29",
-      "price": 9320,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-10-30",
-      "price": 8400,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-31",
-      "price": 11300,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-01",
-      "price": 10400,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-02",
-      "price": 12760,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-03",
-      "price": 9760,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-04",
-      "price": 9340,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-05",
-      "price": 8870,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-06",
-      "price": 9690,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-07",
-      "price": 13350,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-11-08",
-      "price": 11080,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-09",
-      "price": 9520,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-11-10",
-      "price": 8780,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-11-11",
-      "price": 10070,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-12",
-      "price": 8800,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-11-13",
-      "price": 9710,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-14",
-      "price": 12140,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-15",
-      "price": 10970,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-16",
-      "price": 10110,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-17",
-      "price": 11040,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-18",
-      "price": 9970,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-19",
-      "price": 11030,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-20",
-      "price": 9860,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-21",
-      "price": 11590,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-22",
-      "price": 12250,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-11-23",
-      "price": 10610,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-24",
-      "price": 10910,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-25",
-      "price": 8980,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-11-26",
-      "price": 11070,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-11-27",
-      "price": 9890,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-11-28",
-      "price": 11790,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-11-29",
-      "price": 12390,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-11-30",
-      "price": 10560,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-12-01",
-      "price": 10140,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-12-02",
-      "price": 10860,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-12-03",
-      "price": 9620,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-12-04",
-      "price": 10330,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-05",
-      "price": 11820,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-06",
-      "price": 12400,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2025-12-07",
-      "price": 11500,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-12-08",
-      "price": 9450,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-09",
-      "price": 9770,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-12-10",
-      "price": 10350,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-11",
-      "price": 10330,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-12",
-      "price": 11070,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-13",
-      "price": 13450,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-14",
-      "price": 10690,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-15",
-      "price": 10380,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-12-16",
-      "price": 10100,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-12-17",
-      "price": 10330,
-      "airline": "ANA"
-    },
-    {
-      "date": "2025-12-18",
-      "price": 9600,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-12-19",
-      "price": 12960,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-20",
-      "price": 10650,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-21",
-      "price": 10610,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-12-22",
-      "price": 9020,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-12-23",
-      "price": 9020,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-24",
-      "price": 9240,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-25",
-      "price": 11580,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-26",
-      "price": 12500,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-12-27",
-      "price": 9700,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-28",
-      "price": 10780,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-29",
-      "price": 11550,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2025-12-30",
-      "price": 10080,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2025-12-31",
-      "price": 10920,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-01",
-      "price": 8640,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-02",
-      "price": 10860,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-03",
-      "price": 8600,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-04",
-      "price": 10200,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-01-05",
-      "price": 8740,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-01-06",
-      "price": 9360,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-01-07",
-      "price": 9760,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-08",
-      "price": 9430,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-01-09",
-      "price": 10190,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-01-10",
-      "price": 10710,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-11",
-      "price": 9790,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-01-12",
-      "price": 10490,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-13",
-      "price": 9540,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-01-14",
-      "price": 9690,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-01-15",
-      "price": 8510,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-16",
-      "price": 10950,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-01-17",
-      "price": 9380,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-01-18",
-      "price": 9700,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-01-19",
-      "price": 8270,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-01-20",
-      "price": 8760,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-01-21",
-      "price": 8290,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-22",
-      "price": 8850,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-23",
-      "price": 9990,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-24",
-      "price": 8380,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-25",
-      "price": 11070,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-01-26",
-      "price": 8940,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-01-27",
-      "price": 10590,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-01-28",
-      "price": 8930,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-01-29",
-      "price": 8550,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-01-30",
-      "price": 10760,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-01-31",
-      "price": 9810,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-01",
-      "price": 9790,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-02",
-      "price": 8550,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-02-03",
-      "price": 9310,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-04",
-      "price": 8020,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-05",
-      "price": 7660,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-02-06",
-      "price": 8890,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-07",
-      "price": 10610,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-02-08",
-      "price": 7980,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-02-09",
-      "price": 7790,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-02-10",
-      "price": 8850,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-11",
-      "price": 9090,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-12",
-      "price": 9520,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-02-13",
-      "price": 9250,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-02-14",
-      "price": 10400,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-15",
-      "price": 9100,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-16",
-      "price": 10130,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-17",
-      "price": 9050,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-18",
-      "price": 8690,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-02-19",
-      "price": 8310,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-02-20",
-      "price": 9690,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-21",
-      "price": 9480,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-22",
-      "price": 10180,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-23",
-      "price": 9650,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-24",
-      "price": 8780,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-25",
-      "price": 10270,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-26",
-      "price": 9530,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-02-27",
-      "price": 10410,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-02-28",
-      "price": 8970,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-01",
-      "price": 11880,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-02",
-      "price": 12480,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-03-03",
-      "price": 12430,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-03-04",
-      "price": 11960,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-05",
-      "price": 12030,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-03-06",
-      "price": 12700,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-07",
-      "price": 12890,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-03-08",
-      "price": 12950,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-03-09",
-      "price": 11510,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-10",
-      "price": 12540,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-03-11",
-      "price": 13140,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-12",
-      "price": 12590,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-03-13",
-      "price": 13260,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-14",
-      "price": 11100,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-15",
-      "price": 13640,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-03-16",
-      "price": 11290,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-03-17",
-      "price": 13110,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-18",
-      "price": 11650,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-03-19",
-      "price": 10760,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-03-20",
-      "price": 14110,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-21",
-      "price": 13710,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-03-22",
-      "price": 14390,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-23",
-      "price": 10000,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-24",
-      "price": 12130,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-25",
-      "price": 11270,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-26",
-      "price": 11390,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-03-27",
-      "price": 12420,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-03-28",
-      "price": 13580,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-03-29",
-      "price": 11680,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-03-30",
-      "price": 13480,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-31",
-      "price": 10860,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-04-01",
-      "price": 12970,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-02",
-      "price": 12910,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-04-03",
-      "price": 12540,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-04-04",
-      "price": 13140,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-04-05",
-      "price": 13170,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-04-06",
-      "price": 11970,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-04-07",
-      "price": 10720,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-04-08",
-      "price": 12130,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-04-09",
-      "price": 10910,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-04-10",
-      "price": 12960,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-04-11",
-      "price": 13570,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-12",
-      "price": 14350,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-04-13",
-      "price": 13290,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-04-14",
-      "price": 12330,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-04-15",
-      "price": 10560,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-04-16",
-      "price": 13520,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-04-17",
-      "price": 10960,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-04-18",
-      "price": 12880,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-04-19",
-      "price": 12180,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-04-20",
-      "price": 10650,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-04-21",
-      "price": 12500,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-04-22",
-      "price": 11770,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-23",
-      "price": 10860,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-24",
-      "price": 13110,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-25",
-      "price": 11980,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-04-26",
-      "price": 12800,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-04-27",
-      "price": 12160,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-04-28",
-      "price": 11210,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-04-29",
-      "price": 11300,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-04-30",
-      "price": 12430,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-05-01",
-      "price": 11320,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-05-02",
-      "price": 10030,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-03",
-      "price": 11890,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-05-04",
-      "price": 11070,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-05-05",
-      "price": 9210,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-05-06",
-      "price": 8010,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-05-07",
-      "price": 8100,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-05-08",
-      "price": 9210,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-05-09",
-      "price": 10250,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-05-10",
-      "price": 8860,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-05-11",
-      "price": 8200,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-05-12",
-      "price": 11010,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-05-13",
-      "price": 9420,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-05-14",
-      "price": 8590,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-05-15",
-      "price": 11020,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-16",
-      "price": 9780,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-05-17",
-      "price": 9670,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-05-18",
-      "price": 8750,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-19",
-      "price": 8210,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-05-20",
-      "price": 8310,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-05-21",
-      "price": 9590,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-05-22",
-      "price": 9700,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-05-23",
-      "price": 10430,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-05-24",
-      "price": 9970,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-05-25",
-      "price": 8420,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-26",
-      "price": 8100,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-05-27",
-      "price": 9590,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-05-28",
-      "price": 9190,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-05-29",
-      "price": 10650,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-30",
-      "price": 11110,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-31",
-      "price": 10030,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-01",
-      "price": 8800,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-02",
-      "price": 8540,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-03",
-      "price": 10500,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-06-04",
-      "price": 9200,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-05",
-      "price": 9320,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-06",
-      "price": 10180,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-07",
-      "price": 9110,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-08",
-      "price": 8800,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-09",
-      "price": 8730,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-06-10",
-      "price": 9400,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-11",
-      "price": 9380,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-06-12",
-      "price": 10020,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-06-13",
-      "price": 9730,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-06-14",
-      "price": 8590,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-15",
-      "price": 8550,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-06-16",
-      "price": 10660,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-17",
-      "price": 8260,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-06-18",
-      "price": 8230,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-06-19",
-      "price": 9790,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-20",
-      "price": 8850,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-21",
-      "price": 10900,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-06-22",
-      "price": 8110,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-06-23",
-      "price": 8160,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-24",
-      "price": 8720,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-25",
-      "price": 10170,
-      "airline": "Emirates"
-    },
-    {
-      "date": "2026-06-26",
-      "price": 9670,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-06-27",
-      "price": 8590,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-06-28",
-      "price": 11140,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-06-29",
-      "price": 9660,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-06-30",
-      "price": 8690,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-07-01",
-      "price": 9590,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-07-02",
-      "price": 11170,
-      "airline": "ANA"
-    },
-    {
-      "date": "2026-07-03",
-      "price": 9320,
-      "airline": "Etihad"
-    },
-    {
-      "date": "2026-07-04",
-      "price": 10000,
-      "airline": "Japan Airlines"
-    },
-    {
-      "date": "2026-07-05",
-      "price": 10080,
-      "airline": "Japan Airlines"
+      "date": "2026-07-07",
+      "snapshot": "2026-07-06",
+      "price": 1561,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-07-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-08",
+      "snapshot": "2026-07-06",
+      "price": 1705,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-07-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-09",
+      "snapshot": "2026-07-06",
+      "price": 1493,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-07-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-10",
+      "snapshot": "2026-07-06",
+      "price": 1740,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-07-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-06",
+      "price": 1553,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-07-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-06",
+      "price": 1455,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-07-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-06",
+      "price": 1504,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-07-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-06",
+      "price": 1389,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-07-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-06",
+      "price": 1553,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-07-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-06",
+      "price": 1392,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-07-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-06",
+      "price": 1912,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-07-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-06",
+      "price": 1498,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-06",
+      "price": 1523,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-06",
+      "price": 1506,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-06",
+      "price": 1623,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-06",
+      "price": 1623,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-06",
+      "price": 1506,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-06",
+      "price": 1599,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-06",
+      "price": 1667,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-06",
+      "price": 1675,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-06",
+      "price": 1675,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-06",
+      "price": 1675,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-06",
+      "price": 1506,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-06",
+      "price": 1506,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-06",
+      "price": 1547,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-06",
+      "price": 1640,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-06",
+      "price": 1547,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-06",
+      "price": 1506,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-06",
+      "price": 1506,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-06",
+      "price": 1506,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-06",
+      "price": 1621,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-07",
+      "snapshot": "2026-07-06",
+      "price": 1661,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-06",
+      "price": 1702,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-06",
+      "price": 1618,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-06",
+      "price": 1577,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-06",
+      "price": 1569,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-12",
+      "snapshot": "2026-07-06",
+      "price": 1577,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-06",
+      "price": 1569,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-06",
+      "price": 1915,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-06",
+      "price": 1828,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-06",
+      "price": 1855,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-17",
+      "snapshot": "2026-07-06",
+      "price": 1463,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-08-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-22",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-25",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-26",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-27",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-28",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-01",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-03",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-06",
+      "price": 1653,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-06",
+      "price": 1708,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-06",
+      "price": 1583,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-08",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-09",
+      "snapshot": "2026-07-06",
+      "price": 1506,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-11",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-06",
+      "price": 1449,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-13",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-14",
+      "snapshot": "2026-07-06",
+      "price": 1506,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-15",
+      "snapshot": "2026-07-06",
+      "price": 1583,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-16",
+      "snapshot": "2026-07-06",
+      "price": 1697,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-09-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-17",
+      "snapshot": "2026-07-06",
+      "price": 1392,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-10-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-10-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-19",
+      "snapshot": "2026-07-06",
+      "price": 1887,
+      "airline": "Emirates",
+      "returnDate": "2026-10-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-06",
+      "price": 1659,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-10-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-21",
+      "snapshot": "2026-07-06",
+      "price": 1596,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-10-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-06",
+      "price": 1928,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-10-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-06",
+      "price": 2062,
+      "airline": "Emirates",
+      "returnDate": "2026-10-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-24",
+      "snapshot": "2026-07-06",
+      "price": 1928,
+      "airline": "Emirates",
+      "returnDate": "2026-10-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-25",
+      "snapshot": "2026-07-06",
+      "price": 2217,
+      "airline": "Emirates",
+      "returnDate": "2026-10-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-26",
+      "snapshot": "2026-07-06",
+      "price": 6478,
+      "airline": "Emirates",
+      "returnDate": "2026-10-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-27",
+      "snapshot": "2026-07-06",
+      "price": 1945,
+      "airline": "Emirates",
+      "returnDate": "2026-10-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-28",
+      "snapshot": "2026-07-06",
+      "price": 2179,
+      "airline": "Emirates",
+      "returnDate": "2026-10-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-29",
+      "snapshot": "2026-07-06",
+      "price": 1928,
+      "airline": "Emirates",
+      "returnDate": "2026-10-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-09-30",
+      "snapshot": "2026-07-06",
+      "price": 1950,
+      "airline": "Emirates",
+      "returnDate": "2026-10-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-01",
+      "snapshot": "2026-07-06",
+      "price": 1836,
+      "airline": "Emirates",
+      "returnDate": "2026-10-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-06",
+      "price": 1988,
+      "airline": "Emirates",
+      "returnDate": "2026-10-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-06",
+      "price": 1795,
+      "airline": "Emirates",
+      "returnDate": "2026-10-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-04",
+      "snapshot": "2026-07-06",
+      "price": 1849,
+      "airline": "Emirates",
+      "returnDate": "2026-10-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-06",
+      "price": 2043,
+      "airline": "Emirates",
+      "returnDate": "2026-10-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-06",
+      "snapshot": "2026-07-06",
+      "price": 1583,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-10-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-06",
+      "price": 1950,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-10-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-08",
+      "snapshot": "2026-07-06",
+      "price": 1520,
+      "airline": "Emirates",
+      "returnDate": "2026-10-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-09",
+      "snapshot": "2026-07-06",
+      "price": 1672,
+      "airline": "Emirates",
+      "returnDate": "2026-10-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-10",
+      "snapshot": "2026-07-06",
+      "price": 1637,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-10-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-11",
+      "snapshot": "2026-07-06",
+      "price": 2212,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-10-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-06",
+      "price": 1950,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-10-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-10-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-14",
+      "snapshot": "2026-07-06",
+      "price": 2075,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-10-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-15",
+      "snapshot": "2026-07-06",
+      "price": 1961,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-10-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-16",
+      "snapshot": "2026-07-06",
+      "price": 1988,
+      "airline": "Emirates",
+      "returnDate": "2026-10-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-06",
+      "price": 6478,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-10-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-18",
+      "snapshot": "2026-07-06",
+      "price": 1754,
+      "airline": "Emirates",
+      "returnDate": "2026-11-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-19",
+      "snapshot": "2026-07-06",
+      "price": 1855,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-06",
+      "price": 1836,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-21",
+      "snapshot": "2026-07-06",
+      "price": 2043,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-06",
+      "price": 1836,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-06",
+      "price": 1800,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2026-10-25",
+      "snapshot": "2026-07-06",
+      "price": 1408,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-10-26",
+      "snapshot": "2026-07-06",
+      "price": 1596,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-10-27",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "Emirates",
+      "returnDate": "2026-11-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "Emirates",
+      "returnDate": "2026-11-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "Emirates",
+      "returnDate": "2026-11-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "Emirates",
+      "returnDate": "2026-11-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-02",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "Emirates",
+      "returnDate": "2026-11-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-03",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-07",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "Emirates",
+      "returnDate": "2026-11-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "Emirates",
+      "returnDate": "2026-11-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-09",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "Emirates",
+      "returnDate": "2026-11-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-11",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-12",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-13",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-14",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-16",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-11-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-17",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-20",
+      "snapshot": "2026-07-06",
+      "price": 1642,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-21",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-22",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-23",
+      "snapshot": "2026-07-06",
+      "price": 1629,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-24",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-06",
+      "price": 1604,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-26",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-27",
+      "snapshot": "2026-07-06",
+      "price": 1642,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-28",
+      "snapshot": "2026-07-06",
+      "price": 1457,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-06",
+      "price": 1416,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-11-30",
+      "snapshot": "2026-07-06",
+      "price": 1629,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-01",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-06",
+      "price": 1604,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-03",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-06",
+      "price": 1653,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-06",
+      "price": 1457,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-06",
+      "price": 1416,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-07",
+      "snapshot": "2026-07-06",
+      "price": 1615,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-06",
+      "price": 1629,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-10",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-06",
+      "price": 1838,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-06",
+      "price": 1879,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-13",
+      "snapshot": "2026-07-06",
+      "price": 1836,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-06",
+      "price": 1686,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-15",
+      "snapshot": "2026-07-06",
+      "price": 1656,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-16",
+      "snapshot": "2026-07-06",
+      "price": 1749,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-17",
+      "snapshot": "2026-07-06",
+      "price": 1457,
+      "airline": "EmiratesJAL",
+      "returnDate": "2026-12-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-06",
+      "price": 1833,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-19",
+      "snapshot": "2026-07-06",
+      "price": 1520,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-06",
+      "price": 1476,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-21",
+      "snapshot": "2026-07-06",
+      "price": 1689,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-22",
+      "snapshot": "2026-07-06",
+      "price": 1406,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-06",
+      "price": 1656,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-06",
+      "price": 1348,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-26",
+      "snapshot": "2026-07-06",
+      "price": 1403,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-06",
+      "price": 1463,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-29",
+      "snapshot": "2026-07-06",
+      "price": 1348,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "Emirates",
+      "returnDate": "2027-01-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "Emirates",
+      "returnDate": "2027-01-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "Emirates",
+      "returnDate": "2027-01-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "Emirates",
+      "returnDate": "2027-01-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-04",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "Emirates",
+      "returnDate": "2027-01-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-05",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "Emirates",
+      "returnDate": "2027-01-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-06",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-07",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-08",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-09",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-10",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-11",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-12",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-13",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-14",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-15",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-16",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-17",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-01-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-18",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-19",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-20",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-21",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-22",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-23",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-24",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-25",
+      "snapshot": "2026-07-06",
+      "price": 1596,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-26",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-27",
+      "snapshot": "2026-07-06",
+      "price": 1659,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-28",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-29",
+      "snapshot": "2026-07-06",
+      "price": 1634,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-30",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-01-31",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-01",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-02",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-03",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-04",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-05",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-06",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-07",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-08",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-09",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-10",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-11",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "Emirates",
+      "returnDate": "2027-02-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-12",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-13",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-14",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-02-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-15",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "Emirates",
+      "returnDate": "2027-03-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-16",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-17",
+      "snapshot": "2026-07-06",
+      "price": 1460,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-18",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-19",
+      "snapshot": "2026-07-06",
+      "price": 1501,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-20",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "Emirates",
+      "returnDate": "2027-03-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-21",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-22",
+      "snapshot": "2026-07-06",
+      "price": 1596,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-23",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-24",
+      "snapshot": "2026-07-06",
+      "price": 1596,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-25",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "Emirates",
+      "returnDate": "2027-03-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-26",
+      "snapshot": "2026-07-06",
+      "price": 1670,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-27",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-02-28",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-01",
+      "snapshot": "2026-07-06",
+      "price": 1629,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-02",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "Emirates",
+      "returnDate": "2027-03-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-03",
+      "snapshot": "2026-07-06",
+      "price": 1615,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-04",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "Emirates",
+      "returnDate": "2027-03-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-05",
+      "snapshot": "2026-07-06",
+      "price": 1634,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-06",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-07",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-08",
+      "snapshot": "2026-07-06",
+      "price": 1596,
+      "airline": "Emirates",
+      "returnDate": "2027-03-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-09",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "Emirates",
+      "returnDate": "2027-03-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-10",
+      "snapshot": "2026-07-06",
+      "price": 1596,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-11",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "Emirates",
+      "returnDate": "2027-03-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-12",
+      "snapshot": "2026-07-06",
+      "price": 1634,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-13",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-14",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-15",
+      "snapshot": "2026-07-06",
+      "price": 1596,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-16",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-17",
+      "snapshot": "2026-07-06",
+      "price": 1463,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-03-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-18",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-04-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-19",
+      "snapshot": "2026-07-06",
+      "price": 1504,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-04-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-20",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "Emirates",
+      "returnDate": "2027-04-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-21",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "Emirates",
+      "returnDate": "2027-04-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-22",
+      "snapshot": "2026-07-06",
+      "price": 1574,
+      "airline": "Emirates",
+      "returnDate": "2027-04-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-23",
+      "snapshot": "2026-07-06",
+      "price": 1457,
+      "airline": "Emirates",
+      "returnDate": "2027-04-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-24",
+      "snapshot": "2026-07-06",
+      "price": 1463,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-04-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-25",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "Emirates",
+      "returnDate": "2027-04-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-26",
+      "snapshot": "2026-07-06",
+      "price": 1504,
+      "airline": "Emirates",
+      "returnDate": "2027-04-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-27",
+      "snapshot": "2026-07-06",
+      "price": 1400,
+      "airline": "Emirates",
+      "returnDate": "2027-04-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 25 min"
+    },
+    {
+      "date": "2027-03-28",
+      "snapshot": "2026-07-06",
+      "price": 1362,
+      "airline": "Emirates",
+      "returnDate": "2027-04-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr"
+    },
+    {
+      "date": "2027-03-29",
+      "snapshot": "2026-07-06",
+      "price": 1463,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-04-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2027-03-30",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "Emirates",
+      "returnDate": "2027-04-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr"
+    },
+    {
+      "date": "2027-03-31",
+      "snapshot": "2026-07-06",
+      "price": 1463,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-04-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2027-04-01",
+      "snapshot": "2026-07-06",
+      "price": 1346,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-04-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
+    },
+    {
+      "date": "2027-04-02",
+      "snapshot": "2026-07-06",
+      "price": 1612,
+      "airline": "EmiratesJAL",
+      "returnDate": "2027-04-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "9 hr 55 min"
     }
   ]
 }

@@ -2,3662 +2,2707 @@
   "route": "JFK-CDG",
   "origin": "JFK",
   "dest": "CDG",
-  "label": "New York (JFK) \u2192  Paris (CDG)",
+  "label": "New York (JFK) → Paris (CDG)",
   "prices": [
     {
-      "date": "2024-07-05",
-      "price": 9640,
-      "airline": "United"
-    },
-    {
-      "date": "2024-07-06",
-      "price": 8470,
-      "airline": "United"
-    },
-    {
-      "date": "2024-07-07",
-      "price": 9010,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-08",
-      "price": 9320,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-07-09",
-      "price": 7930,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-10",
-      "price": 7430,
-      "airline": "American"
-    },
-    {
-      "date": "2024-07-11",
-      "price": 7760,
-      "airline": "American"
-    },
-    {
-      "date": "2024-07-12",
-      "price": 8130,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-07-13",
-      "price": 8690,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-14",
-      "price": 8940,
-      "airline": "American"
-    },
-    {
-      "date": "2024-07-15",
-      "price": 7190,
-      "airline": "American"
-    },
-    {
-      "date": "2024-07-16",
-      "price": 7170,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-07-17",
-      "price": 7700,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-18",
-      "price": 6500,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-07-19",
-      "price": 7890,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-07-20",
-      "price": 8980,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-21",
-      "price": 7980,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-07-22",
-      "price": 7610,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-07-23",
-      "price": 7860,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-24",
-      "price": 7160,
-      "airline": "American"
-    },
-    {
-      "date": "2024-07-25",
-      "price": 7600,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-07-26",
-      "price": 8210,
-      "airline": "United"
-    },
-    {
-      "date": "2024-07-27",
-      "price": 7980,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-07-28",
-      "price": 8650,
-      "airline": "United"
-    },
-    {
-      "date": "2024-07-29",
-      "price": 7340,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-07-30",
-      "price": 7610,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-07-31",
-      "price": 8250,
-      "airline": "American"
-    },
-    {
-      "date": "2024-08-01",
-      "price": 8470,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-02",
-      "price": 8760,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-03",
-      "price": 8810,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-04",
-      "price": 7170,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-05",
-      "price": 8180,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-08-06",
-      "price": 7720,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-07",
-      "price": 7180,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-08-08",
-      "price": 7480,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-09",
-      "price": 6870,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-08-10",
-      "price": 8920,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-08-11",
-      "price": 9250,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-08-12",
-      "price": 6870,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-08-13",
-      "price": 8140,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-14",
-      "price": 6880,
-      "airline": "American"
-    },
-    {
-      "date": "2024-08-15",
-      "price": 6450,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-16",
-      "price": 8740,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-17",
-      "price": 8940,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-18",
-      "price": 8730,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-08-19",
-      "price": 8420,
-      "airline": "American"
-    },
-    {
-      "date": "2024-08-20",
-      "price": 7670,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-21",
-      "price": 6680,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-22",
-      "price": 8270,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-23",
-      "price": 8840,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-24",
-      "price": 9480,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-25",
-      "price": 9720,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-26",
-      "price": 6740,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-27",
-      "price": 9010,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-08-28",
-      "price": 8030,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-29",
-      "price": 8560,
-      "airline": "United"
-    },
-    {
-      "date": "2024-08-30",
-      "price": 7880,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-08-31",
-      "price": 8970,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-01",
-      "price": 6510,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-09-02",
-      "price": 5000,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-09-03",
-      "price": 6140,
-      "airline": "American"
-    },
-    {
-      "date": "2024-09-04",
-      "price": 5620,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-09-05",
-      "price": 5520,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-09-06",
-      "price": 7510,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-07",
-      "price": 5950,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-09-08",
-      "price": 6050,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-09",
-      "price": 5250,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-09-10",
-      "price": 5430,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-11",
-      "price": 6620,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-12",
-      "price": 6010,
-      "airline": "American"
-    },
-    {
-      "date": "2024-09-13",
-      "price": 6840,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-14",
-      "price": 7000,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-09-15",
-      "price": 5960,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-16",
-      "price": 6110,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-17",
-      "price": 6420,
-      "airline": "United"
-    },
-    {
-      "date": "2024-09-18",
-      "price": 6360,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-09-19",
-      "price": 5460,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-09-20",
-      "price": 6270,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-09-21",
-      "price": 6680,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-22",
-      "price": 6690,
-      "airline": "American"
-    },
-    {
-      "date": "2024-09-23",
-      "price": 6300,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-24",
-      "price": 6340,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-09-25",
-      "price": 6390,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-09-26",
-      "price": 5540,
-      "airline": "American"
-    },
-    {
-      "date": "2024-09-27",
-      "price": 6900,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-09-28",
-      "price": 6320,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-29",
-      "price": 5610,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-09-30",
-      "price": 5290,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-01",
-      "price": 5040,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-10-02",
-      "price": 5970,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-03",
-      "price": 5700,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-04",
-      "price": 5850,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-05",
-      "price": 7160,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-06",
-      "price": 6050,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-10-07",
-      "price": 6040,
-      "airline": "American"
-    },
-    {
-      "date": "2024-10-08",
-      "price": 6590,
-      "airline": "American"
-    },
-    {
-      "date": "2024-10-09",
-      "price": 6110,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-10",
-      "price": 6370,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-10-11",
-      "price": 7270,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-12",
-      "price": 6240,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-13",
-      "price": 6340,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-14",
-      "price": 6480,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-10-15",
-      "price": 6930,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-16",
-      "price": 5720,
-      "airline": "American"
-    },
-    {
-      "date": "2024-10-17",
-      "price": 6270,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-18",
-      "price": 6640,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-10-19",
-      "price": 6750,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-20",
-      "price": 5760,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-21",
-      "price": 5930,
-      "airline": "United"
-    },
-    {
-      "date": "2024-10-22",
-      "price": 6080,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-10-23",
-      "price": 5300,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-10-24",
-      "price": 6090,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-25",
-      "price": 6850,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-10-26",
-      "price": 7280,
-      "airline": "American"
-    },
-    {
-      "date": "2024-10-27",
-      "price": 5140,
-      "airline": "American"
-    },
-    {
-      "date": "2024-10-28",
-      "price": 5300,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-10-29",
-      "price": 5780,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-10-30",
-      "price": 5470,
-      "airline": "American"
-    },
-    {
-      "date": "2024-10-31",
-      "price": 6090,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-11-01",
-      "price": 7740,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-02",
-      "price": 7820,
-      "airline": "American"
-    },
-    {
-      "date": "2024-11-03",
-      "price": 7920,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-04",
-      "price": 8140,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-11-05",
-      "price": 6250,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-11-06",
-      "price": 6900,
-      "airline": "American"
-    },
-    {
-      "date": "2024-11-07",
-      "price": 6590,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-11-08",
-      "price": 7710,
-      "airline": "American"
-    },
-    {
-      "date": "2024-11-09",
-      "price": 6680,
-      "airline": "American"
-    },
-    {
-      "date": "2024-11-10",
-      "price": 7370,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-11-11",
-      "price": 7070,
-      "airline": "American"
-    },
-    {
-      "date": "2024-11-12",
-      "price": 7530,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-11-13",
-      "price": 7500,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-11-14",
-      "price": 6760,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-11-15",
-      "price": 6700,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-11-16",
-      "price": 7950,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-11-17",
-      "price": 7420,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-18",
-      "price": 6880,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-11-19",
-      "price": 6740,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-11-20",
-      "price": 6440,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-11-21",
-      "price": 7100,
-      "airline": "American"
-    },
-    {
-      "date": "2024-11-22",
-      "price": 7230,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-23",
-      "price": 7020,
-      "airline": "United"
-    },
-    {
-      "date": "2024-11-24",
-      "price": 7630,
-      "airline": "United"
-    },
-    {
-      "date": "2024-11-25",
-      "price": 6640,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-11-26",
-      "price": 7260,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-11-27",
-      "price": 7160,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-11-28",
-      "price": 6360,
-      "airline": "United"
-    },
-    {
-      "date": "2024-11-29",
-      "price": 8040,
-      "airline": "American"
-    },
-    {
-      "date": "2024-11-30",
-      "price": 7110,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-12-01",
-      "price": 7340,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-12-02",
-      "price": 6450,
-      "airline": "American"
-    },
-    {
-      "date": "2024-12-03",
-      "price": 6590,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-12-04",
-      "price": 7270,
-      "airline": "United"
-    },
-    {
-      "date": "2024-12-05",
-      "price": 7900,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-06",
-      "price": 6800,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-07",
-      "price": 8320,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-08",
-      "price": 6970,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-12-09",
-      "price": 6070,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-10",
-      "price": 6520,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-12-11",
-      "price": 6250,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-12",
-      "price": 6010,
-      "airline": "American"
-    },
-    {
-      "date": "2024-12-13",
-      "price": 7020,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-12-14",
-      "price": 7880,
-      "airline": "United"
-    },
-    {
-      "date": "2024-12-15",
-      "price": 7530,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-12-16",
-      "price": 6430,
-      "airline": "United"
-    },
-    {
-      "date": "2024-12-17",
-      "price": 7130,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-12-18",
-      "price": 6580,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-12-19",
-      "price": 7250,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-12-20",
-      "price": 7850,
-      "airline": "American"
-    },
-    {
-      "date": "2024-12-21",
-      "price": 7200,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-22",
-      "price": 7610,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-23",
-      "price": 6770,
-      "airline": "American"
-    },
-    {
-      "date": "2024-12-24",
-      "price": 6430,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-12-25",
-      "price": 7140,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2024-12-26",
-      "price": 6970,
-      "airline": "American"
-    },
-    {
-      "date": "2024-12-27",
-      "price": 8290,
-      "airline": "Air France"
-    },
-    {
-      "date": "2024-12-28",
-      "price": 7410,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-29",
-      "price": 7460,
-      "airline": "Various"
-    },
-    {
-      "date": "2024-12-30",
-      "price": 7470,
-      "airline": "Delta"
-    },
-    {
-      "date": "2024-12-31",
-      "price": 6760,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-01",
-      "price": 5780,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-02",
-      "price": 6130,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-01-03",
-      "price": 5930,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-04",
-      "price": 5680,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-05",
-      "price": 6520,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-06",
-      "price": 6950,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-07",
-      "price": 5780,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-08",
-      "price": 5730,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-09",
-      "price": 6160,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-10",
-      "price": 6630,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-01-11",
-      "price": 5850,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-01-12",
-      "price": 7460,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-01-13",
-      "price": 6580,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-14",
-      "price": 5640,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-01-15",
-      "price": 6320,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-16",
-      "price": 5740,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-17",
-      "price": 5850,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-18",
-      "price": 6870,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-19",
-      "price": 6370,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-01-20",
-      "price": 6900,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-21",
-      "price": 5770,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-22",
-      "price": 6020,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-01-23",
-      "price": 5780,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-01-24",
-      "price": 6700,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-25",
-      "price": 6710,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-01-26",
-      "price": 5660,
-      "airline": "American"
-    },
-    {
-      "date": "2025-01-27",
-      "price": 6100,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-01-28",
-      "price": 6020,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-01-29",
-      "price": 5790,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-01-30",
-      "price": 5920,
-      "airline": "United"
-    },
-    {
-      "date": "2025-01-31",
-      "price": 6610,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-02-01",
-      "price": 6370,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-02-02",
-      "price": 5940,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-03",
-      "price": 5930,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-04",
-      "price": 6270,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-02-05",
-      "price": 5330,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-06",
-      "price": 6070,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-07",
-      "price": 6700,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-08",
-      "price": 7410,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-02-09",
-      "price": 6460,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-10",
-      "price": 6040,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-02-11",
-      "price": 6130,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-12",
-      "price": 6010,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-02-13",
-      "price": 6530,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-14",
-      "price": 6740,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-15",
-      "price": 6670,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-16",
-      "price": 7880,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-02-17",
-      "price": 5770,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-18",
-      "price": 6150,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-19",
-      "price": 6460,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-20",
-      "price": 6020,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-02-21",
-      "price": 6690,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-02-22",
-      "price": 5990,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-02-23",
-      "price": 7450,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-24",
-      "price": 5290,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-25",
-      "price": 6240,
-      "airline": "United"
-    },
-    {
-      "date": "2025-02-26",
-      "price": 5670,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-02-27",
-      "price": 6000,
-      "airline": "American"
-    },
-    {
-      "date": "2025-02-28",
-      "price": 5510,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-03-01",
-      "price": 8460,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-02",
-      "price": 5790,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-03",
-      "price": 6510,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-04",
-      "price": 6530,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-05",
-      "price": 5140,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-03-06",
-      "price": 6560,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-07",
-      "price": 6930,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-03-08",
-      "price": 6990,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-09",
-      "price": 5880,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-10",
-      "price": 7310,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-11",
-      "price": 6260,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-12",
-      "price": 5630,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-13",
-      "price": 6180,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-14",
-      "price": 5850,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-15",
-      "price": 6120,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-16",
-      "price": 6020,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-03-17",
-      "price": 6180,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-18",
-      "price": 6110,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-19",
-      "price": 5930,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-20",
-      "price": 5970,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-21",
-      "price": 6980,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-22",
-      "price": 6890,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-23",
-      "price": 5980,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-03-24",
-      "price": 5740,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-25",
-      "price": 5720,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-26",
-      "price": 6000,
-      "airline": "American"
-    },
-    {
-      "date": "2025-03-27",
-      "price": 7660,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-28",
-      "price": 6630,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-29",
-      "price": 6440,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-03-30",
-      "price": 5640,
-      "airline": "United"
-    },
-    {
-      "date": "2025-03-31",
-      "price": 5980,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-01",
-      "price": 6430,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-04-02",
-      "price": 5210,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-03",
-      "price": 5450,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-04-04",
-      "price": 6480,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-05",
-      "price": 7140,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-04-06",
-      "price": 6830,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-07",
-      "price": 6360,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-08",
-      "price": 6340,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-09",
-      "price": 5990,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-04-10",
-      "price": 5770,
-      "airline": "American"
-    },
-    {
-      "date": "2025-04-11",
-      "price": 6960,
-      "airline": "American"
-    },
-    {
-      "date": "2025-04-12",
-      "price": 7080,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-04-13",
-      "price": 6180,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-04-14",
-      "price": 6040,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-04-15",
-      "price": 6030,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-04-16",
-      "price": 5480,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-17",
-      "price": 5780,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-18",
-      "price": 6010,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-19",
-      "price": 6430,
-      "airline": "American"
-    },
-    {
-      "date": "2025-04-20",
-      "price": 7260,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-21",
-      "price": 5920,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-22",
-      "price": 6020,
-      "airline": "United"
-    },
-    {
-      "date": "2025-04-23",
-      "price": 6250,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-04-24",
-      "price": 6430,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-04-25",
-      "price": 7180,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-04-26",
-      "price": 6690,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-04-27",
-      "price": 6870,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-04-28",
-      "price": 5450,
-      "airline": "American"
-    },
-    {
-      "date": "2025-04-29",
-      "price": 6130,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-04-30",
-      "price": 6080,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-01",
-      "price": 5940,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-02",
-      "price": 6490,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-03",
-      "price": 6530,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-04",
-      "price": 7620,
-      "airline": "American"
-    },
-    {
-      "date": "2025-05-05",
-      "price": 6060,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-06",
-      "price": 6720,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-07",
-      "price": 5430,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-08",
-      "price": 5950,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-09",
-      "price": 7510,
-      "airline": "American"
-    },
-    {
-      "date": "2025-05-10",
-      "price": 5940,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-11",
-      "price": 7430,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-12",
-      "price": 5810,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-13",
-      "price": 5120,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-05-14",
-      "price": 5110,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-15",
-      "price": 6870,
-      "airline": "American"
-    },
-    {
-      "date": "2025-05-16",
-      "price": 6780,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-17",
-      "price": 7600,
-      "airline": "United"
-    },
-    {
-      "date": "2025-05-18",
-      "price": 6110,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-19",
-      "price": 6520,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-20",
-      "price": 6610,
-      "airline": "United"
-    },
-    {
-      "date": "2025-05-21",
-      "price": 5220,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-05-22",
-      "price": 5890,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-05-23",
-      "price": 8000,
-      "airline": "United"
-    },
-    {
-      "date": "2025-05-24",
-      "price": 6440,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-25",
-      "price": 7190,
-      "airline": "American"
-    },
-    {
-      "date": "2025-05-26",
-      "price": 5750,
-      "airline": "American"
-    },
-    {
-      "date": "2025-05-27",
-      "price": 5990,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-05-28",
-      "price": 6140,
-      "airline": "United"
-    },
-    {
-      "date": "2025-05-29",
-      "price": 5790,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-05-30",
-      "price": 6630,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-05-31",
-      "price": 6430,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-01",
-      "price": 8770,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-06-02",
-      "price": 8550,
-      "airline": "American"
-    },
-    {
-      "date": "2025-06-03",
-      "price": 8290,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-06-04",
-      "price": 7060,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-05",
-      "price": 7740,
-      "airline": "United"
-    },
-    {
-      "date": "2025-06-06",
-      "price": 8810,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-06-07",
-      "price": 7680,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-08",
-      "price": 8900,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-09",
-      "price": 7590,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-06-10",
-      "price": 5750,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-06-11",
-      "price": 6690,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-12",
-      "price": 7470,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-13",
-      "price": 8170,
-      "airline": "United"
-    },
-    {
-      "date": "2025-06-14",
-      "price": 8620,
-      "airline": "American"
-    },
-    {
-      "date": "2025-06-15",
-      "price": 8920,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-16",
-      "price": 7280,
-      "airline": "American"
-    },
-    {
-      "date": "2025-06-17",
-      "price": 8060,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-06-18",
-      "price": 8520,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-06-19",
-      "price": 7270,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-06-20",
-      "price": 8270,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-21",
-      "price": 10000,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-22",
-      "price": 8000,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-06-23",
-      "price": 7590,
-      "airline": "United"
-    },
-    {
-      "date": "2025-06-24",
-      "price": 8920,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-06-25",
-      "price": 8690,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-26",
-      "price": 7490,
-      "airline": "United"
-    },
-    {
-      "date": "2025-06-27",
-      "price": 7970,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-28",
-      "price": 9470,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-06-29",
-      "price": 8840,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-06-30",
-      "price": 7040,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-01",
-      "price": 6880,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-02",
-      "price": 6840,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-03",
-      "price": 7510,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-04",
-      "price": 9320,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-05",
-      "price": 8700,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-07-06",
-      "price": 8670,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-07",
-      "price": 7830,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-08",
-      "price": 8070,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-09",
-      "price": 8000,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-10",
-      "price": 7870,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-11",
-      "price": 7290,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-12",
-      "price": 8230,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-13",
-      "price": 8480,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-14",
-      "price": 8840,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-15",
-      "price": 7530,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-16",
-      "price": 7010,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-07-17",
-      "price": 8360,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-18",
-      "price": 9290,
-      "airline": "United"
-    },
-    {
-      "date": "2025-07-19",
-      "price": 8760,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-20",
-      "price": 6500,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-21",
-      "price": 8040,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-07-22",
-      "price": 7610,
-      "airline": "American"
-    },
-    {
-      "date": "2025-07-23",
-      "price": 7650,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-24",
-      "price": 7930,
-      "airline": "American"
-    },
-    {
-      "date": "2025-07-25",
-      "price": 8320,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-07-26",
-      "price": 8910,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-27",
-      "price": 8570,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-07-28",
-      "price": 7140,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-07-29",
-      "price": 8610,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-07-30",
-      "price": 8690,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-07-31",
-      "price": 5720,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-01",
-      "price": 8160,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-08-02",
-      "price": 8850,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-03",
-      "price": 8560,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-08-04",
-      "price": 7800,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-08-05",
-      "price": 8260,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-06",
-      "price": 7920,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-07",
-      "price": 8260,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-08",
-      "price": 8920,
-      "airline": "American"
-    },
-    {
-      "date": "2025-08-09",
-      "price": 9120,
-      "airline": "United"
-    },
-    {
-      "date": "2025-08-10",
-      "price": 8230,
-      "airline": "United"
-    },
-    {
-      "date": "2025-08-11",
-      "price": 7310,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-12",
-      "price": 7810,
-      "airline": "American"
-    },
-    {
-      "date": "2025-08-13",
-      "price": 6980,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-08-14",
-      "price": 8190,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-15",
-      "price": 8530,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-16",
-      "price": 8730,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-08-17",
-      "price": 8370,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-08-18",
-      "price": 7930,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-08-19",
-      "price": 8940,
-      "airline": "American"
-    },
-    {
-      "date": "2025-08-20",
-      "price": 6920,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-21",
-      "price": 8130,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-22",
-      "price": 8950,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-23",
-      "price": 8590,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-24",
-      "price": 7610,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-08-25",
-      "price": 8770,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-08-26",
-      "price": 7520,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-08-27",
-      "price": 7970,
-      "airline": "United"
-    },
-    {
-      "date": "2025-08-28",
-      "price": 7490,
-      "airline": "American"
-    },
-    {
-      "date": "2025-08-29",
-      "price": 7910,
-      "airline": "American"
-    },
-    {
-      "date": "2025-08-30",
-      "price": 8820,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-08-31",
-      "price": 9090,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-01",
-      "price": 5430,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-02",
-      "price": 5730,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-03",
-      "price": 6260,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-09-04",
-      "price": 5650,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-09-05",
-      "price": 5970,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-06",
-      "price": 7120,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-09-07",
-      "price": 6510,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-09-08",
-      "price": 4960,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-09",
-      "price": 6400,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-09-10",
-      "price": 5610,
-      "airline": "American"
-    },
-    {
-      "date": "2025-09-11",
-      "price": 6930,
-      "airline": "United"
-    },
-    {
-      "date": "2025-09-12",
-      "price": 6370,
-      "airline": "United"
-    },
-    {
-      "date": "2025-09-13",
-      "price": 6940,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-14",
-      "price": 6850,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-09-15",
-      "price": 6070,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-16",
-      "price": 5750,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-17",
-      "price": 5820,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-18",
-      "price": 6360,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-19",
-      "price": 6580,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-20",
-      "price": 6840,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-21",
-      "price": 6670,
-      "airline": "American"
-    },
-    {
-      "date": "2025-09-22",
-      "price": 5310,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-09-23",
-      "price": 6360,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-09-24",
-      "price": 5190,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-09-25",
-      "price": 5800,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-09-26",
-      "price": 6240,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-27",
-      "price": 6780,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-09-28",
-      "price": 7040,
-      "airline": "United"
-    },
-    {
-      "date": "2025-09-29",
-      "price": 6410,
-      "airline": "United"
-    },
-    {
-      "date": "2025-09-30",
-      "price": 5880,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-01",
-      "price": 6110,
-      "airline": "American"
-    },
-    {
-      "date": "2025-10-02",
-      "price": 6610,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-03",
-      "price": 6810,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-10-04",
-      "price": 6500,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-10-05",
-      "price": 6870,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-10-06",
-      "price": 5990,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-07",
-      "price": 6140,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-08",
-      "price": 5840,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-10-09",
-      "price": 5650,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-10-10",
-      "price": 6170,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-11",
-      "price": 6230,
-      "airline": "American"
-    },
-    {
-      "date": "2025-10-12",
-      "price": 6330,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-10-13",
-      "price": 6450,
-      "airline": "American"
-    },
-    {
-      "date": "2025-10-14",
-      "price": 6470,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-15",
-      "price": 4990,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-16",
-      "price": 6360,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-17",
-      "price": 6140,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-18",
-      "price": 6470,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-19",
-      "price": 6560,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-20",
-      "price": 6140,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-10-21",
-      "price": 4760,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-10-22",
-      "price": 6030,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-10-23",
-      "price": 5890,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-10-24",
-      "price": 6910,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-25",
-      "price": 6200,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-26",
-      "price": 6810,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-10-27",
-      "price": 5070,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-28",
-      "price": 5790,
-      "airline": "American"
-    },
-    {
-      "date": "2025-10-29",
-      "price": 6330,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-10-30",
-      "price": 5560,
-      "airline": "United"
-    },
-    {
-      "date": "2025-10-31",
-      "price": 6060,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-11-01",
-      "price": 7660,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-02",
-      "price": 7550,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-03",
-      "price": 7080,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-11-04",
-      "price": 7190,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-11-05",
-      "price": 6510,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-06",
-      "price": 8260,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-07",
-      "price": 8260,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-11-08",
-      "price": 7430,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-09",
-      "price": 7460,
-      "airline": "United"
-    },
-    {
-      "date": "2025-11-10",
-      "price": 7170,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-11",
-      "price": 7010,
-      "airline": "American"
-    },
-    {
-      "date": "2025-11-12",
-      "price": 6950,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-11-13",
-      "price": 6590,
-      "airline": "American"
-    },
-    {
-      "date": "2025-11-14",
-      "price": 9290,
-      "airline": "United"
-    },
-    {
-      "date": "2025-11-15",
-      "price": 8590,
-      "airline": "United"
-    },
-    {
-      "date": "2025-11-16",
-      "price": 6950,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-17",
-      "price": 7120,
-      "airline": "American"
-    },
-    {
-      "date": "2025-11-18",
-      "price": 6140,
-      "airline": "American"
-    },
-    {
-      "date": "2025-11-19",
-      "price": 7000,
-      "airline": "American"
-    },
-    {
-      "date": "2025-11-20",
-      "price": 5360,
-      "airline": "American"
-    },
-    {
-      "date": "2025-11-21",
-      "price": 6860,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-22",
-      "price": 7700,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-23",
-      "price": 7130,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-11-24",
-      "price": 5240,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-11-25",
-      "price": 7130,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-11-26",
-      "price": 6650,
-      "airline": "United"
-    },
-    {
-      "date": "2025-11-27",
-      "price": 5990,
-      "airline": "American"
-    },
-    {
-      "date": "2025-11-28",
-      "price": 7950,
-      "airline": "United"
-    },
-    {
-      "date": "2025-11-29",
-      "price": 5750,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-11-30",
-      "price": 8230,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-01",
-      "price": 7370,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-12-02",
-      "price": 6270,
-      "airline": "American"
-    },
-    {
-      "date": "2025-12-03",
-      "price": 7060,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-12-04",
-      "price": 7110,
-      "airline": "American"
-    },
-    {
-      "date": "2025-12-05",
-      "price": 7720,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-06",
-      "price": 8030,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-12-07",
-      "price": 7230,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-08",
-      "price": 7380,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-12-09",
-      "price": 6750,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-12-10",
-      "price": 5800,
-      "airline": "American"
-    },
-    {
-      "date": "2025-12-11",
-      "price": 6400,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-12",
-      "price": 7720,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-12-13",
-      "price": 7260,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-12-14",
-      "price": 7940,
-      "airline": "Air France"
-    },
-    {
-      "date": "2025-12-15",
-      "price": 6790,
-      "airline": "Delta"
-    },
-    {
-      "date": "2025-12-16",
-      "price": 7160,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-17",
-      "price": 6900,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-18",
-      "price": 6240,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-19",
-      "price": 8080,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-20",
-      "price": 5960,
-      "airline": "American"
-    },
-    {
-      "date": "2025-12-21",
-      "price": 9020,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-22",
-      "price": 7160,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-23",
-      "price": 6640,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-12-24",
-      "price": 6520,
-      "airline": "United"
-    },
-    {
-      "date": "2025-12-25",
-      "price": 6820,
-      "airline": "American"
-    },
-    {
-      "date": "2025-12-26",
-      "price": 6360,
-      "airline": "American"
-    },
-    {
-      "date": "2025-12-27",
-      "price": 7840,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-28",
-      "price": 7890,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2025-12-29",
-      "price": 6740,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-30",
-      "price": 7560,
-      "airline": "Various"
-    },
-    {
-      "date": "2025-12-31",
-      "price": 7720,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-01-01",
-      "price": 5890,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-02",
-      "price": 6680,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-03",
-      "price": 6390,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-04",
-      "price": 6630,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-05",
-      "price": 5640,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-06",
-      "price": 5500,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-07",
-      "price": 5380,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-01-08",
-      "price": 6940,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-01-09",
-      "price": 6800,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-01-10",
-      "price": 6360,
-      "airline": "American"
-    },
-    {
-      "date": "2026-01-11",
-      "price": 6820,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-12",
-      "price": 5950,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-01-13",
-      "price": 6060,
-      "airline": "American"
-    },
-    {
-      "date": "2026-01-14",
-      "price": 6050,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-15",
-      "price": 5830,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-01-16",
-      "price": 6780,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-17",
-      "price": 6240,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-18",
-      "price": 6770,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-01-19",
-      "price": 6440,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-20",
-      "price": 5890,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-01-21",
-      "price": 5440,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-22",
-      "price": 5750,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-01-23",
-      "price": 6330,
-      "airline": "United"
-    },
-    {
-      "date": "2026-01-24",
-      "price": 7640,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-25",
-      "price": 6670,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-26",
-      "price": 5960,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-01-27",
-      "price": 5420,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-01-28",
-      "price": 5460,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-01-29",
-      "price": 6200,
-      "airline": "American"
-    },
-    {
-      "date": "2026-01-30",
-      "price": 6860,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-01-31",
-      "price": 6190,
-      "airline": "United"
-    },
-    {
-      "date": "2026-02-01",
-      "price": 6560,
-      "airline": "United"
-    },
-    {
-      "date": "2026-02-02",
-      "price": 7070,
-      "airline": "United"
-    },
-    {
-      "date": "2026-02-03",
-      "price": 5980,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-04",
-      "price": 6150,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-02-05",
-      "price": 6410,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-06",
-      "price": 5610,
-      "airline": "American"
-    },
-    {
-      "date": "2026-02-07",
-      "price": 5870,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-02-08",
-      "price": 6710,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-09",
-      "price": 6040,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-10",
-      "price": 5770,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-11",
-      "price": 5380,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-12",
-      "price": 5140,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-13",
-      "price": 6270,
-      "airline": "American"
-    },
-    {
-      "date": "2026-02-14",
-      "price": 7280,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-02-15",
-      "price": 5290,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-16",
-      "price": 5720,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-17",
-      "price": 5970,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-02-18",
-      "price": 6590,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-19",
-      "price": 5530,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-20",
-      "price": 6360,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-21",
-      "price": 6290,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-02-22",
-      "price": 6570,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-02-23",
-      "price": 7400,
-      "airline": "United"
-    },
-    {
-      "date": "2026-02-24",
-      "price": 6560,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-02-25",
-      "price": 5770,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-02-26",
-      "price": 5870,
-      "airline": "American"
-    },
-    {
-      "date": "2026-02-27",
-      "price": 6510,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-02-28",
-      "price": 7170,
-      "airline": "United"
-    },
-    {
-      "date": "2026-03-01",
-      "price": 6490,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-02",
-      "price": 6090,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-03",
-      "price": 6590,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-03-04",
-      "price": 5940,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-05",
-      "price": 5990,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-03-06",
-      "price": 7010,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-07",
-      "price": 6170,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-03-08",
-      "price": 6030,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-09",
-      "price": 6050,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-10",
-      "price": 6610,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-03-11",
-      "price": 7370,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-12",
-      "price": 5780,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-13",
-      "price": 6070,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-03-14",
-      "price": 6600,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-15",
-      "price": 6680,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-16",
-      "price": 6280,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-17",
-      "price": 5850,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-03-18",
-      "price": 5400,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-03-19",
-      "price": 6080,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-20",
-      "price": 6720,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-21",
-      "price": 6730,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-22",
-      "price": 6900,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-23",
-      "price": 6530,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-03-24",
-      "price": 6220,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-03-25",
-      "price": 5890,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-26",
-      "price": 6100,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-27",
-      "price": 6980,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-28",
-      "price": 6000,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-03-29",
-      "price": 6080,
-      "airline": "American"
-    },
-    {
-      "date": "2026-03-30",
-      "price": 6050,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-03-31",
-      "price": 6340,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-01",
-      "price": 6200,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-02",
-      "price": 6110,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-03",
-      "price": 6180,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-04-04",
-      "price": 6940,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-05",
-      "price": 6330,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-06",
-      "price": 6040,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-04-07",
-      "price": 7140,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-04-08",
-      "price": 6020,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-09",
-      "price": 5150,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-10",
-      "price": 6780,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-04-11",
-      "price": 5710,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-12",
-      "price": 6890,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-13",
-      "price": 6310,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-04-14",
-      "price": 5700,
-      "airline": "American"
-    },
-    {
-      "date": "2026-04-15",
-      "price": 6650,
-      "airline": "American"
-    },
-    {
-      "date": "2026-04-16",
-      "price": 6780,
-      "airline": "American"
-    },
-    {
-      "date": "2026-04-17",
-      "price": 6610,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-18",
-      "price": 6870,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-04-19",
-      "price": 6130,
-      "airline": "American"
-    },
-    {
-      "date": "2026-04-20",
-      "price": 5390,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-21",
-      "price": 6640,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-22",
-      "price": 5560,
-      "airline": "American"
-    },
-    {
-      "date": "2026-04-23",
-      "price": 5720,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-24",
-      "price": 7400,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-25",
-      "price": 6690,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-26",
-      "price": 7370,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-27",
-      "price": 5870,
-      "airline": "United"
-    },
-    {
-      "date": "2026-04-28",
-      "price": 6060,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-04-29",
-      "price": 6040,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-04-30",
-      "price": 6340,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-01",
-      "price": 6370,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-02",
-      "price": 7450,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-05-03",
-      "price": 7140,
-      "airline": "United"
-    },
-    {
-      "date": "2026-05-04",
-      "price": 6520,
-      "airline": "United"
-    },
-    {
-      "date": "2026-05-05",
-      "price": 6000,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-06",
-      "price": 5280,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-07",
-      "price": 6520,
-      "airline": "United"
-    },
-    {
-      "date": "2026-05-08",
-      "price": 6680,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-09",
-      "price": 6010,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-10",
-      "price": 7500,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-05-11",
-      "price": 6070,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-05-12",
-      "price": 5710,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-13",
-      "price": 6150,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-05-14",
-      "price": 5440,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-15",
-      "price": 7180,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-16",
-      "price": 6160,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-05-17",
-      "price": 6890,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-18",
-      "price": 5410,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-19",
-      "price": 5890,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-05-20",
-      "price": 5320,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-21",
-      "price": 5910,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-05-22",
-      "price": 5810,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-05-23",
-      "price": 6450,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-05-24",
-      "price": 6640,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-25",
-      "price": 5810,
-      "airline": "United"
-    },
-    {
-      "date": "2026-05-26",
-      "price": 6160,
-      "airline": "United"
-    },
-    {
-      "date": "2026-05-27",
-      "price": 5510,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-05-28",
-      "price": 6340,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-05-29",
-      "price": 6030,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-30",
-      "price": 6460,
-      "airline": "American"
-    },
-    {
-      "date": "2026-05-31",
-      "price": 6230,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-01",
-      "price": 8660,
-      "airline": "United"
-    },
-    {
-      "date": "2026-06-02",
-      "price": 8750,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-03",
-      "price": 8310,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-06-04",
-      "price": 7080,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-06-05",
-      "price": 8790,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-06",
-      "price": 8190,
-      "airline": "United"
-    },
-    {
-      "date": "2026-06-07",
-      "price": 9440,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-08",
-      "price": 7680,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-06-09",
-      "price": 7560,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-10",
-      "price": 8050,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-11",
-      "price": 7320,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-12",
-      "price": 9200,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-13",
-      "price": 8010,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-14",
-      "price": 8620,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-15",
-      "price": 7790,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-16",
-      "price": 7070,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-06-17",
-      "price": 7890,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-06-18",
-      "price": 8020,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-19",
-      "price": 8860,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-06-20",
-      "price": 7630,
-      "airline": "United"
-    },
-    {
-      "date": "2026-06-21",
-      "price": 9480,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-06-22",
-      "price": 8330,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-06-23",
-      "price": 7440,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-06-24",
-      "price": 7950,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-06-25",
-      "price": 8320,
-      "airline": "Delta"
-    },
-    {
-      "date": "2026-06-26",
-      "price": 8360,
-      "airline": "American"
-    },
-    {
-      "date": "2026-06-27",
-      "price": 7380,
-      "airline": "United"
-    },
-    {
-      "date": "2026-06-28",
-      "price": 8970,
-      "airline": "Various"
-    },
-    {
-      "date": "2026-06-29",
-      "price": 7740,
-      "airline": "Air France"
-    },
-    {
-      "date": "2026-06-30",
-      "price": 7310,
-      "airline": "American"
-    },
-    {
-      "date": "2026-07-01",
-      "price": 8050,
-      "airline": "United"
-    },
-    {
-      "date": "2026-07-02",
-      "price": 7280,
-      "airline": "United"
-    },
-    {
-      "date": "2026-07-03",
-      "price": 7280,
-      "airline": "United"
-    },
-    {
-      "date": "2026-07-04",
-      "price": 8690,
-      "airline": "Southwest"
-    },
-    {
-      "date": "2026-07-05",
-      "price": 8640,
-      "airline": "Delta"
+      "date": "2026-07-07",
+      "snapshot": "2026-07-06",
+      "price": 817,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-07-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-07-08",
+      "snapshot": "2026-07-06",
+      "price": 817,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-07-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-07-09",
+      "snapshot": "2026-07-06",
+      "price": 817,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-07-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-07-10",
+      "snapshot": "2026-07-06",
+      "price": 817,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-07-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-06",
+      "price": 822,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-07-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-06",
+      "price": 822,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-07-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-06",
+      "price": 817,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-07-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-06",
+      "price": 822,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-07-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-06",
+      "price": 817,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-07-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-06",
+      "price": 817,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-07-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-06",
+      "price": 822,
+      "airline": "DeltaVirgin Atlantic",
+      "returnDate": "2026-07-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-06",
+      "price": 897,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-08-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-06",
+      "price": 897,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-08-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-06",
+      "price": 817,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-08-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-06",
+      "price": 832,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-08-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-06",
+      "price": 817,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-08-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-06",
+      "price": 817,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-08-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-06",
+      "price": 817,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-08-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-06",
+      "price": 822,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-08-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-06",
+      "price": 832,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-08-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-06",
+      "price": 787,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-08-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-06",
+      "price": 792,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-08-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-06",
+      "price": 787,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-08-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-06",
+      "price": 817,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-08-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-06",
+      "price": 842,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-08-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-06",
+      "price": 822,
+      "airline": "DeltaVirgin Atlantic, Air France",
+      "returnDate": "2026-08-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 46 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-06",
+      "price": 792,
+      "airline": "DeltaVirgin Atlantic, Air France",
+      "returnDate": "2026-08-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-06",
+      "price": 787,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-08-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-06",
+      "price": 787,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-08-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 35 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-06",
+      "price": 787,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-08-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-08-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-07",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-08-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-06",
+      "price": 764,
+      "airline": "DeltaAir France, Virgin Atlantic",
+      "returnDate": "2026-08-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 38 min"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-06",
+      "price": 727,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-08-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-06",
+      "price": 722,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-08-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-06",
+      "price": 722,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-08-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-12",
+      "snapshot": "2026-07-06",
+      "price": 727,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-08-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-06",
+      "price": 757,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-08-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-06",
+      "price": 845,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-08-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-06",
+      "price": 757,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-08-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-06",
+      "price": 727,
+      "airline": "DeltaVirgin Atlantic",
+      "returnDate": "2026-08-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 38 min"
+    },
+    {
+      "date": "2026-08-17",
+      "snapshot": "2026-07-06",
+      "price": 722,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-08-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-06",
+      "price": 727,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-09-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-06",
+      "price": 727,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-09-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-09-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-09-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-22",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-09-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-06",
+      "price": 734,
+      "airline": "DeltaAir France, Virgin Atlantic",
+      "returnDate": "2026-09-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 38 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-06",
+      "price": 734,
+      "airline": "DeltaAir France, Virgin Atlantic",
+      "returnDate": "2026-09-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-08-25",
+      "snapshot": "2026-07-06",
+      "price": 722,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-09-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-26",
+      "snapshot": "2026-07-06",
+      "price": 712,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-09-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-27",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-09-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-28",
+      "snapshot": "2026-07-06",
+      "price": 728,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-09-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-09-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-09-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-09-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-01",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-09-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-09-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-03",
+      "snapshot": "2026-07-06",
+      "price": 728,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-09-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-06",
+      "price": 728,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-09-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-09-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-09-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-09-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-08",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-09-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-09",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-09-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-09-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-11",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-09-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-09-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-13",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-09-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-14",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-09-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-15",
+      "snapshot": "2026-07-06",
+      "price": 757,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-09-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-09-16",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-09-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-17",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-19",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-06",
+      "price": 757,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-10-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-09-21",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-24",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-25",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-26",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-27",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-10-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-28",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-10-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-29",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-10-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-09-30",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-10-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-10-01",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-06",
+      "price": 757,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-10-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-06",
+      "price": 777,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-10-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-04",
+      "snapshot": "2026-07-06",
+      "price": 767,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-10-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-10-06",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-10-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-10-08",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-10-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-10-09",
+      "snapshot": "2026-07-06",
+      "price": 757,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-10-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-10",
+      "snapshot": "2026-07-06",
+      "price": 767,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-10-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-11",
+      "snapshot": "2026-07-06",
+      "price": 807,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-10-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-06",
+      "price": 812,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-10-14",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-10-15",
+      "snapshot": "2026-07-06",
+      "price": 757,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-10-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-16",
+      "snapshot": "2026-07-06",
+      "price": 752,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-10-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-06",
+      "price": 807,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-10-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-18",
+      "snapshot": "2026-07-06",
+      "price": 772,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-11-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-10-19",
+      "snapshot": "2026-07-06",
+      "price": 777,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-06",
+      "price": 722,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-11-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-10-21",
+      "snapshot": "2026-07-06",
+      "price": 727,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-06",
+      "price": 727,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-06",
+      "price": 727,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-06",
+      "price": 777,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-25",
+      "snapshot": "2026-07-06",
+      "price": 772,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-11-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-10-26",
+      "snapshot": "2026-07-06",
+      "price": 687,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-10-27",
+      "snapshot": "2026-07-06",
+      "price": 681,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-06",
+      "price": 687,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-06",
+      "price": 777,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-06",
+      "price": 684,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-06",
+      "price": 694,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-06",
+      "price": 634,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 5 min"
+    },
+    {
+      "date": "2026-11-02",
+      "snapshot": "2026-07-06",
+      "price": 797,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-11-03",
+      "snapshot": "2026-07-06",
+      "price": 634,
+      "airline": "DeltaVirgin Atlantic, Air France",
+      "returnDate": "2026-11-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-06",
+      "price": 697,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-11-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-11-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-11-07",
+      "snapshot": "2026-07-06",
+      "price": 792,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-11-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-11-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-11-09",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-11-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-06",
+      "price": 692,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-11-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-11-11",
+      "snapshot": "2026-07-06",
+      "price": 692,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-11-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-11-12",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-11-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-11-13",
+      "snapshot": "2026-07-06",
+      "price": 732,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-11-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-11-14",
+      "snapshot": "2026-07-06",
+      "price": 832,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-11-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-06",
+      "price": 786,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-11-16",
+      "snapshot": "2026-07-06",
+      "price": 732,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-11-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-11-17",
+      "snapshot": "2026-07-06",
+      "price": 634,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-06",
+      "price": 644,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-06",
+      "price": 732,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-12-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-11-20",
+      "snapshot": "2026-07-06",
+      "price": 737,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-11-21",
+      "snapshot": "2026-07-06",
+      "price": 827,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-11-22",
+      "snapshot": "2026-07-06",
+      "price": 772,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-12-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-11-23",
+      "snapshot": "2026-07-06",
+      "price": 640,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-11-24",
+      "snapshot": "2026-07-06",
+      "price": 640,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-06",
+      "price": 634,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-11-26",
+      "snapshot": "2026-07-06",
+      "price": 732,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-12-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-11-27",
+      "snapshot": "2026-07-06",
+      "price": 694,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-11-28",
+      "snapshot": "2026-07-06",
+      "price": 694,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2026-12-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-06",
+      "price": 644,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-11-30",
+      "snapshot": "2026-07-06",
+      "price": 644,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-12-01",
+      "snapshot": "2026-07-06",
+      "price": 692,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-12-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-06",
+      "price": 682,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-12-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-12-03",
+      "snapshot": "2026-07-06",
+      "price": 732,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-12-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-06",
+      "price": 747,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-06",
+      "price": 797,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-06",
+      "price": 747,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-07",
+      "snapshot": "2026-07-06",
+      "price": 745,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-12-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-06",
+      "price": 682,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-12-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-06",
+      "price": 682,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-12-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-12-10",
+      "snapshot": "2026-07-06",
+      "price": 732,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-12-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-06",
+      "price": 747,
+      "airline": "DeltaVirgin Atlantic",
+      "returnDate": "2026-12-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-06",
+      "price": 934,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-13",
+      "snapshot": "2026-07-06",
+      "price": 907,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-06",
+      "price": 907,
+      "airline": "Air FranceDelta",
+      "returnDate": "2026-12-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-12-15",
+      "snapshot": "2026-07-06",
+      "price": 857,
+      "airline": "DeltaVirgin Atlantic",
+      "returnDate": "2026-12-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2026-12-16",
+      "snapshot": "2026-07-06",
+      "price": 783,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-12-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-12-17",
+      "snapshot": "2026-07-06",
+      "price": 1095,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2026-12-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-06",
+      "price": 1106,
+      "airline": "DeltaAir France, Virgin Atlantic",
+      "returnDate": "2027-01-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-12-19",
+      "snapshot": "2026-07-06",
+      "price": 1328,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-01-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-06",
+      "price": 1277,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-01-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-12-21",
+      "snapshot": "2026-07-06",
+      "price": 1086,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-01-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-12-22",
+      "snapshot": "2026-07-06",
+      "price": 956,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-01-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-06",
+      "price": 956,
+      "airline": "DeltaVirgin Atlantic, Air France",
+      "returnDate": "2027-01-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-06",
+      "price": 702,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-01-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-06",
+      "price": 754,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-01-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-12-26",
+      "snapshot": "2026-07-06",
+      "price": 768,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-01-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-06",
+      "price": 718,
+      "airline": "DeltaVirgin Atlantic, Air France",
+      "returnDate": "2027-01-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-06",
+      "price": 722,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-01-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-12-29",
+      "snapshot": "2026-07-06",
+      "price": 637,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-01-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-06",
+      "price": 640,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-01-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-06",
+      "price": 732,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-01-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-06",
+      "price": 694,
+      "airline": "DeltaVirgin Atlantic",
+      "returnDate": "2027-01-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-06",
+      "price": 818,
+      "airline": "DeltaVirgin Atlantic, Air France",
+      "returnDate": "2027-01-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-06",
+      "price": 768,
+      "airline": "DeltaVirgin Atlantic",
+      "returnDate": "2027-01-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2027-01-04",
+      "snapshot": "2026-07-06",
+      "price": 644,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-01-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-05",
+      "snapshot": "2026-07-06",
+      "price": 692,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2027-01-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-06",
+      "snapshot": "2026-07-06",
+      "price": 692,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2027-01-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-07",
+      "snapshot": "2026-07-06",
+      "price": 707,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-01-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-08",
+      "snapshot": "2026-07-06",
+      "price": 722,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-01-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-01-09",
+      "snapshot": "2026-07-06",
+      "price": 694,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-01-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-01-10",
+      "snapshot": "2026-07-06",
+      "price": 682,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-01-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-11",
+      "snapshot": "2026-07-06",
+      "price": 717,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2027-01-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-12",
+      "snapshot": "2026-07-06",
+      "price": 692,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2027-01-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-13",
+      "snapshot": "2026-07-06",
+      "price": 692,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2027-01-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-14",
+      "snapshot": "2026-07-06",
+      "price": 717,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2027-01-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-15",
+      "snapshot": "2026-07-06",
+      "price": 717,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2027-01-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-16",
+      "snapshot": "2026-07-06",
+      "price": 738,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-01-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-17",
+      "snapshot": "2026-07-06",
+      "price": 644,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-01-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-01-18",
+      "snapshot": "2026-07-06",
+      "price": 644,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-02-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-01-19",
+      "snapshot": "2026-07-06",
+      "price": 692,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2027-02-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-20",
+      "snapshot": "2026-07-06",
+      "price": 692,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2027-02-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-21",
+      "snapshot": "2026-07-06",
+      "price": 694,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-02-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-01-22",
+      "snapshot": "2026-07-06",
+      "price": 707,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-23",
+      "snapshot": "2026-07-06",
+      "price": 694,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-02-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-01-24",
+      "snapshot": "2026-07-06",
+      "price": 722,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-02-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-01-25",
+      "snapshot": "2026-07-06",
+      "price": 722,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-02-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-01-26",
+      "snapshot": "2026-07-06",
+      "price": 682,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-27",
+      "snapshot": "2026-07-06",
+      "price": 692,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2027-02-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-28",
+      "snapshot": "2026-07-06",
+      "price": 707,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-29",
+      "snapshot": "2026-07-06",
+      "price": 707,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-01-30",
+      "snapshot": "2026-07-06",
+      "price": 747,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-02-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-01-31",
+      "snapshot": "2026-07-06",
+      "price": 713,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-01",
+      "snapshot": "2026-07-06",
+      "price": 692,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-02",
+      "snapshot": "2026-07-06",
+      "price": 682,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-03",
+      "snapshot": "2026-07-06",
+      "price": 682,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-04",
+      "snapshot": "2026-07-06",
+      "price": 694,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-02-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-02-05",
+      "snapshot": "2026-07-06",
+      "price": 707,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-06",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2027-02-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-07",
+      "snapshot": "2026-07-06",
+      "price": 713,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-08",
+      "snapshot": "2026-07-06",
+      "price": 682,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-09",
+      "snapshot": "2026-07-06",
+      "price": 682,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-10",
+      "snapshot": "2026-07-06",
+      "price": 682,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-11",
+      "snapshot": "2026-07-06",
+      "price": 707,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-12",
+      "snapshot": "2026-07-06",
+      "price": 684,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-13",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-14",
+      "snapshot": "2026-07-06",
+      "price": 713,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-02-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-15",
+      "snapshot": "2026-07-06",
+      "price": 713,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-03-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-16",
+      "snapshot": "2026-07-06",
+      "price": 682,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-03-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-17",
+      "snapshot": "2026-07-06",
+      "price": 692,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2027-03-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-18",
+      "snapshot": "2026-07-06",
+      "price": 684,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-02-19",
+      "snapshot": "2026-07-06",
+      "price": 690,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-02-20",
+      "snapshot": "2026-07-06",
+      "price": 767,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2027-03-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-21",
+      "snapshot": "2026-07-06",
+      "price": 644,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-02-22",
+      "snapshot": "2026-07-06",
+      "price": 644,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-02-23",
+      "snapshot": "2026-07-06",
+      "price": 712,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-03-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-24",
+      "snapshot": "2026-07-06",
+      "price": 634,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-02-25",
+      "snapshot": "2026-07-06",
+      "price": 694,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-02-26",
+      "snapshot": "2026-07-06",
+      "price": 737,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-03-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-02-27",
+      "snapshot": "2026-07-06",
+      "price": 802,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-02-28",
+      "snapshot": "2026-07-06",
+      "price": 777,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-01",
+      "snapshot": "2026-07-06",
+      "price": 644,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2027-03-02",
+      "snapshot": "2026-07-06",
+      "price": 644,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-03",
+      "snapshot": "2026-07-06",
+      "price": 722,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-03-17",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-03-04",
+      "snapshot": "2026-07-06",
+      "price": 694,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-18",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-05",
+      "snapshot": "2026-07-06",
+      "price": 737,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-19",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-06",
+      "snapshot": "2026-07-06",
+      "price": 750,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-20",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-07",
+      "snapshot": "2026-07-06",
+      "price": 807,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-21",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-08",
+      "snapshot": "2026-07-06",
+      "price": 807,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-22",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-09",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-03-23",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-03-10",
+      "snapshot": "2026-07-06",
+      "price": 742,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-03-24",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-03-11",
+      "snapshot": "2026-07-06",
+      "price": 802,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-03-25",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-03-12",
+      "snapshot": "2026-07-06",
+      "price": 750,
+      "airline": "DeltaVirgin Atlantic",
+      "returnDate": "2027-03-26",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2027-03-13",
+      "snapshot": "2026-07-06",
+      "price": 750,
+      "airline": "DeltaVirgin Atlantic",
+      "returnDate": "2027-03-27",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2027-03-14",
+      "snapshot": "2026-07-06",
+      "price": 807,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-28",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-15",
+      "snapshot": "2026-07-06",
+      "price": 757,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-03-29",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-03-16",
+      "snapshot": "2026-07-06",
+      "price": 691,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-30",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-17",
+      "snapshot": "2026-07-06",
+      "price": 691,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-03-31",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-18",
+      "snapshot": "2026-07-06",
+      "price": 731,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-04-01",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-19",
+      "snapshot": "2026-07-06",
+      "price": 750,
+      "airline": "DeltaVirgin Atlantic, Air France",
+      "returnDate": "2027-04-02",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2027-03-20",
+      "snapshot": "2026-07-06",
+      "price": 790,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-04-03",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2027-03-21",
+      "snapshot": "2026-07-06",
+      "price": 754,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-04-04",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-22",
+      "snapshot": "2026-07-06",
+      "price": 697,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-04-05",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-23",
+      "snapshot": "2026-07-06",
+      "price": 691,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-04-06",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-24",
+      "snapshot": "2026-07-06",
+      "price": 691,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-04-07",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-25",
+      "snapshot": "2026-07-06",
+      "price": 741,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-04-08",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-26",
+      "snapshot": "2026-07-06",
+      "price": 751,
+      "airline": "AmericanIberia, Finnair",
+      "returnDate": "2027-04-09",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2027-03-27",
+      "snapshot": "2026-07-06",
+      "price": 741,
+      "airline": "Air FranceDelta",
+      "returnDate": "2027-04-10",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2027-03-28",
+      "snapshot": "2026-07-06",
+      "price": 817,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-04-11",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2027-03-29",
+      "snapshot": "2026-07-06",
+      "price": 775,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-04-12",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2027-03-30",
+      "snapshot": "2026-07-06",
+      "price": 712,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-04-13",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2027-03-31",
+      "snapshot": "2026-07-06",
+      "price": 712,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-04-14",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2027-04-01",
+      "snapshot": "2026-07-06",
+      "price": 772,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-04-15",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
+    },
+    {
+      "date": "2027-04-02",
+      "snapshot": "2026-07-06",
+      "price": 772,
+      "airline": "AmericanFinnair, Iberia",
+      "returnDate": "2027-04-16",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 30 min"
     }
   ]
 }

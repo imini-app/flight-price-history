@@ -6,13 +6,21 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "export": "next build && next export"
+    "export": "next build && next export",
+    "scrape": "node scripts/scrape_google_flights.mjs",
+    "scrape:dry": "node scripts/scrape_google_flights.mjs --dry-run",
+    "scrape:direct": "node scripts/scrape_google_flights.mjs --stops 0",
+    "scrape:1stop": "node scripts/scrape_google_flights.mjs --stops 1",
+    "snapshot": "bash scripts/daily_snapshot.sh"
   },
   "dependencies": {
+    "date-fns": "^3.6.0",
     "next": "^14.2.0",
+    "playwright": "^1.61.1",
+    "puppeteer": "^21.11.0",
+    "puppeteer-core": "^25.3.0",
     "react": "^18.3.0",
     "react-dom": "^18.3.0",
-    "recharts": "^2.12.0",
-    "date-fns": "^3.6.0"
+    "recharts": "^2.12.0"
   }
 }
