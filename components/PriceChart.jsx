@@ -7,11 +7,11 @@ import {
 } from 'recharts';
 import { format, parseISO } from 'date-fns';
 
-export default function PriceChart({ prices, stats }) {
+export default function PriceChart({ prices, stats, pickDate }) {
   const chartData = useMemo(() => {
     if (!prices || prices.length === 0) return [];
     return prices.map(p => ({
-      date: p.date,
+      snapshot: p.snapshot,
       price: p.price,
       airline: p.airline,
     }));
@@ -24,7 +24,7 @@ export default function PriceChart({ prices, stats }) {
       <div className="card">
         <div className="empty-state">
           <h3>No data to display</h3>
-          <p>Select a route and date to view price history.</p>
+          <p>Select a route and departure date to view price trend.</p>
         </div>
       </div>
     );
@@ -37,7 +37,7 @@ export default function PriceChart({ prices, stats }) {
           <LineChart data={chartData} margin={{ top: 8, right: 16, left: 8, bottom: 8 }}>
             <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
             <XAxis
-              dataKey="date"
+              dataKey="snapshot"
               tick={{ fontSize: 11, fill: '#718096' }}
               tickFormatter={d => format(parseISO(d), 'MMM d')}
               interval="preserveStartEnd"
@@ -50,7 +50,7 @@ export default function PriceChart({ prices, stats }) {
             />
             <Tooltip
               contentStyle={{ borderRadius: 8, border: '1px solid #e2e8f0', fontSize: 13 }}
-              labelFormatter={d => format(parseISO(d), 'MMM d, yyyy')}
+              labelFormatter={d => `Snapshot: ${format(parseISO(d), 'MMM d, yyyy')}`}
               formatter={(value, name) => [name === 'price' ? `$${value}` : value, name === 'price' ? 'Price' : name]}
             />
             <Legend />

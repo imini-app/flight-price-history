@@ -4,12 +4,12 @@ import { useState, useCallback, useEffect } from 'react';
 import RoutePicker from '@/components/RoutePicker';
 import PriceChart from '@/components/PriceChart';
 import StatsCards from '@/components/StatsCards';
-import { fetchRouteData, filterPricesByDateRange, computeStats } from '@/lib/data-utils';
+import { fetchRouteData, filterPricesByDepartureDate, computeSnapshotStats } from '@/lib/data-utils';
 
 export default function Home() {
   const [routeKey, setRouteKey] = useState(null);
   const [pickDate, setPickDate] = useState(null);
-  const [prices, setPrices] = useState([]);
+  const [snapshotPrices, setSnapshotPrices] = useState([]);
   const [stats, setStats] = useState(null);
   const [routeLabel, setRouteLabel] = useState('');
   const [loading, setLoading] = useState(false);
@@ -27,9 +27,9 @@ export default function Home() {
 
     fetchRouteData(routeKey)
       .then(data => {
-        const filtered = filterPricesByDateRange(data.prices, pickDate, 12);
-        const s = computeStats(filtered);
-        setPrices(filtered);
+        const snaps = filterPricesByDepartureDate(data.prices, pickDate);
+        const s = computeSnapshotStats(snaps);
+        setSnapshotPrices(snaps);
         setStats(s);
         setRouteLabel(data.label);
         setLoading(false);
@@ -44,11 +44,32 @@ export default function Home() {
     <>
       <header>
         <h1>✈ Flight Price History</h1>
-        <p>Explore historic airfare trends for major international routes</p>
+        <p>Daily price snapshots for major international routes — see how fares change over time</p>
       </header>
 
       <main className="container" style={{ marginTop: 24 }}>
         <RoutePicker onSelect={handleSelect} />
+
+        <div className="card guide">
+          <h3>How it works</h3>
+          <p>Pick a route and a future departure date. Each day, a snapshot records the lowest nonstop round-trip price for that departure. The chart shows how the price has trended over time, so you can decide whether to <strong>buy now</strong> or <strong>wait</strong>.</p>
+          <div className="examples">
+            <div className="example">
+              <span className="example-icon">📈</span>
+              <div>
+                <strong>London → New York, Dec 20</strong>
+                <p>If the price was $580 in July but rose to $720 in August, the trend suggests buying earlier was better.</p>
+              </div>
+            </div>
+            <div className="example">
+              <span className="example-icon">📉</span>
+              <div>
+                <strong>Hong Kong → Tokyo, Sep 1</strong>
+                <p>If the price dropped from $305 to $252 over several weeks, waiting may have saved you money.</p>
+              </div>
+            </div>
+          </div>
+        </div>
 
         {error && <div className="error-banner">{error}</div>}
 
@@ -61,19 +82,19 @@ export default function Home() {
           </div>
         )}
 
-        {!loading && routeKey && prices.length === 0 && !error && (
+        {!loading && routeKey && snapshotPrices.length === 0 && !error && (
           <div className="card">
             <div className="empty-state">
               <h3>No data available</h3>
-              <p>No price data found for this route in the selected date range.</p>
+              <p>No price snapshots found for {pickDate} on this route yet. Check back after the next daily snapshot.</p>
             </div>
           </div>
         )}
 
         {!loading && stats && (
           <div>
-            <StatsCards stats={stats} prices={prices} routeLabel={routeLabel} dateRange={pickDate} />
-            <PriceChart prices={prices} stats={stats} />
+            <StatsCards stats={stats} prices={snapshotPrices} routeLabel={routeLabel} pickDate={pickDate} />
+            <PriceChart prices={snapshotPrices} stats={stats} pickDate={pickDate} />
           </div>
         )}
       </main>

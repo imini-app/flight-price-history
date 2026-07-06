@@ -10,6 +10,7 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest }) {
   const [selectedDest, setSelectedDest] = useState(defaultDest || '');
   const [pickDate, setPickDate] = useState(() => {
     const d = new Date();
+    d.setDate(d.getDate() + 60);
     return d.toISOString().split('T')[0];
   });
   const [loading, setLoading] = useState(true);
@@ -74,11 +75,11 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest }) {
           </select>
         </div>
         <div className="control-group">
-          <label>Reference Date</label>
-          <input type="date" value={pickDate} max={new Date().toISOString().split('T')[0]} onChange={e => setPickDate(e.target.value)} />
+          <label>Departure Date</label>
+          <input type="date" value={pickDate} onChange={e => setPickDate(e.target.value)} />
         </div>
         <button type="submit" className="btn btn-primary" disabled={!selectedOrigin || !selectedDest || !pickDate}>
-          Show Prices
+          Show Trend
         </button>
       </div>
     </form>
