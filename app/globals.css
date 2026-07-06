@@ -120,19 +120,58 @@ body {
 }
 .search-field select { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%235f6368' d='M2 4l4 4 4-4'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 12px center; padding-right: 32px; }
 
-/* Date availability info */
-.date-info { font-size: 0.72rem; margin-top: 4px; line-height: 1.4; }
-.date-info-loading { color: var(--gf-gray-500); }
-.date-info-none { color: var(--gf-red); }
-.date-info-ok { color: var(--gf-green); }
+/* Date picker wrapper + popup */
+.search-field-date { position: relative; }
+.date-picker-wrap { position: relative; }
+.date-picker-wrap input[type="date"] { padding-right: 40px; }
+.date-picker-badge {
+  position: absolute;
+  right: 6px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 26px;
+  height: 22px;
+  border: none;
+  border-radius: 4px;
+  background: var(--gf-blue-light);
+  color: var(--gf-blue);
+  font-size: 0.7rem;
+  font-weight: 600;
+  font-family: var(--gf-font);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  transition: background 0.12s;
+}
+.date-picker-badge:hover { background: var(--gf-blue); color: var(--gf-white); }
+
+.date-picker-popup {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  min-width: 300px;
+  background: var(--gf-white);
+  border: 1px solid var(--gf-gray-200);
+  border-radius: var(--gf-radius);
+  box-shadow: var(--gf-shadow-hover);
+  z-index: 300;
+  padding: 12px;
+}
+.dpp-header { margin-bottom: 8px; }
+.dpp-title { display: block; font-size: 0.8rem; font-weight: 600; color: var(--gf-gray-800); margin-bottom: 2px; }
+.dpp-range { display: block; font-size: 0.7rem; color: var(--gf-gray-500); }
+.dpp-loading { font-size: 0.8rem; color: var(--gf-gray-500); padding: 12px 0; text-align: center; }
+.dpp-none { font-size: 0.8rem; color: var(--gf-gray-600); padding: 12px 0; text-align: center; }
 
 /* Date-price list */
 .date-price-list {
   display: flex;
   flex-wrap: wrap;
   gap: 4px;
-  margin-top: 6px;
-  max-height: 160px;
+  max-height: 180px;
   overflow-y: auto;
 }
 .date-price-chip {
@@ -362,4 +401,9 @@ body {
   .chart-wrapper { height: 280px; }
   .landing-cards { grid-template-columns: 1fr; }
   .hero h1 { font-size: 1.8rem; }
+  .date-picker-popup {
+    left: -12px;
+    right: -12px;
+    min-width: 0;
+  }
 }

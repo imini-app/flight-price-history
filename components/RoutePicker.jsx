@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useCallback, useMemo } from 'react';
+import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { fetchRoutes, buildOriginIndex } from '@/lib/data-utils';
 import SearchableSelect from './SearchableSelect';
 
@@ -19,6 +19,8 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
   const [availableDates, setAvailableDates] = useState([]);
   const [datePrices, setDatePrices] = useState([]);
   const [routeDataLoading, setRouteDataLoading] = useState(false);
+  const [showDatePopup, setShowDatePopup] = useState(false);
+  const popupRef = useRef(null);
 
   useEffect(() => {
     if (!selectedOrigin || !selectedDest || !routes.length) {
@@ -96,6 +98,17 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
     if (route) onSelect(route.key, showDate ? pickDate : null, route.label);
   };
 
+  useEffect(() => {
+    if (!showDatePopup) return;
+    const handler = (e) => {
+      if (popupRef.current && !popupRef.current.contains(e.target)) {
+        setShowDatePopup(false);
+      }
+    };
+    document.addEventListener('mousedown', handler);
+    return () => document.removeEventListener('mousedown', handler);
+  }, [showDatePopup]);
+
   const dateInfo = useMemo(() => {
     if (!showDate || !selectedOrigin || !selectedDest) return null;
     if (routeDataLoading) return { type: 'loading' };
@@ -149,41 +162,63 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
           />
         </div>
         {showDate && (
-          <div className="search-field">
+          <div className="search-field search-field-date">
             <label>Travel Date</label>
-            <input
-              type="date"
-              value={pickDate}
-              onChange={e => setPickDate(e.target.value)}
-              min={dateInfo?.type === 'available' ? dateInfo.min : undefined}
-              max={dateInfo?.type === 'available' ? dateInfo.max : undefined}
-            />
-            {dateInfo?.type === 'loading' && (
-              <div className="date-info date-info-loading">Loading available dates...</div>
-            )}
-            {dateInfo?.type === 'none' && (
-              <div className="date-info date-info-none">No price data for this route</div>
-            )}
-            {dateInfo?.type === 'available' && (
-              <div className="date-info date-info-ok">
-                Data available for {dateInfo.count} dates ({new Date(dateInfo.min).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })} – {new Date(dateInfo.max).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })})
-              </div>
-            )}
-            {dateInfo?.type === 'available' && (
-              <div className="date-price-list">
-                {datePrices.map(d => (
-                  <button
-                    key={d.date}
-                    type="button"
-                    className={`date-price-chip${d.date === pickDate ? ' selected' : ''}`}
-                    onClick={() => setPickDate(d.date)}
-                  >
-                    <span className="dpc-date">{new Date(d.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
-                    <span className="dpc-price">${d.avgPrice}</span>
-                  </button>
-                ))}
-              </div>
-            )}
+            <div className="date-picker-wrap" ref={popupRef}>
+              <input
+                type="date"
+                value={pickDate}
+                onChange={e => setPickDate(e.target.value)}
+                onFocus={() => setShowDatePopup(true)}
+                min={dateInfo?.type === 'available' ? dateInfo.min : undefined}
+                max={dateInfo?.type === 'available' ? dateInfo.max : undefined}
+              />
+              {dateInfo && (
+                <button
+                  type="button"
+                  className="date-picker-badge"
+                  onClick={() => setShowDatePopup(v => !v)}
+                  aria-label="Toggle date availability"
+                >
+                  {dateInfo.type === 'loading' && '\u23F3'}
+                  {dateInfo.type === 'none' && '\u26A0'}
+                  {dateInfo.type === 'available' && `${dateInfo.count}`}
+                </button>
+              )}
+              {showDatePopup && dateInfo?.type === 'available' && (
+                <div className="date-picker-popup">
+                  <div className="dpp-header">
+                    <span className="dpp-title">Available departure dates</span>
+                    <span className="dpp-range">
+                      {new Date(dateInfo.min).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })} – {new Date(dateInfo.max).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+                    </span>
+                  </div>
+                  <div className="date-price-list">
+                    {datePrices.map(d => (
+                      <button
+                        key={d.date}
+                        type="button"
+                        className={`date-price-chip${d.date === pickDate ? ' selected' : ''}`}
+                        onClick={() => { setPickDate(d.date); setShowDatePopup(false); }}
+                      >
+                        <span className="dpc-date">{new Date(d.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
+                        <span className="dpc-price">${d.avgPrice}</span>
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              )}
+              {showDatePopup && dateInfo?.type === 'loading' && (
+                <div className="date-picker-popup">
+                  <div className="dpp-loading">Loading available dates...</div>
+                </div>
+              )}
+              {showDatePopup && dateInfo?.type === 'none' && (
+                <div className="date-picker-popup">
+                  <div className="dpp-none">No price data collected for this route yet.</div>
+                </div>
+              )}
+            </div>
           </div>
         )}
         <div className="search-field">
