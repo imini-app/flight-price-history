@@ -171,7 +171,7 @@ export default function ExplorePage() {
               {recentChecks.map((c, i) => {
                 const [origin, dest] = c.route_key.split('-');
                 return (
-                  <a key={i} className="recent-check-item" href={`/?origin=${origin}&dest=${dest}${c.travel_date ? `&date=${c.travel_date}` : ''}`}>
+                  <a key={i} className="recent-check-item" href={`/explore?origin=${origin}&dest=${dest}`}>
                     <span className="rc-route">{c.route_label}</span>
                     {c.travel_date && <span className="rc-date">{c.travel_date}</span>}
                     <span className="rc-time">{formatRelativeTime(c.created_at)}</span>
