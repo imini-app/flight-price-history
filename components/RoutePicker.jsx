@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useMemo } from 'react';
 import { fetchRoutes, buildOriginIndex } from '@/lib/data-utils';
 import SearchableSelect from './SearchableSelect';
 
@@ -16,6 +16,35 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
   });
   const [loading, setLoading] = useState(true);
   const [routes, setRoutes] = useState([]);
+  const [availableDates, setAvailableDates] = useState([]);
+  const [routeDataLoading, setRouteDataLoading] = useState(false);
+
+  useEffect(() => {
+    if (!selectedOrigin || !selectedDest || !routes.length) {
+      setAvailableDates([]);
+      return;
+    }
+    const route = routes.find(r => r.origin === selectedOrigin && r.dest === selectedDest);
+    if (!route) {
+      setAvailableDates([]);
+      return;
+    }
+    setRouteDataLoading(true);
+    fetch(`/data/${route.key}.json`)
+      .then(res => {
+        if (!res.ok) throw new Error('No data');
+        return res.json();
+      })
+      .then(data => {
+        const dates = [...new Set(data.prices.map(p => p.date))].sort();
+        setAvailableDates(dates);
+        setRouteDataLoading(false);
+      })
+      .catch(() => {
+        setAvailableDates([]);
+        setRouteDataLoading(false);
+      });
+  }, [selectedOrigin, selectedDest, routes]);
 
   useEffect(() => {
     fetchRoutes()
@@ -43,9 +72,22 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
     e.preventDefault();
     if (!selectedOrigin || !selectedDest) return;
     if (showDate && !pickDate) return;
+    if (showDate && availableDates.length && !availableDates.includes(pickDate)) return;
     const route = routes.find(r => r.origin === selectedOrigin && r.dest === selectedDest);
     if (route) onSelect(route.key, showDate ? pickDate : null, route.label);
   };
+
+  const dateInfo = useMemo(() => {
+    if (!showDate || !selectedOrigin || !selectedDest) return null;
+    if (routeDataLoading) return { type: 'loading' };
+    if (!availableDates.length && !routeDataLoading) return { type: 'none' };
+    return {
+      type: 'available',
+      count: availableDates.length,
+      min: availableDates[0],
+      max: availableDates[availableDates.length - 1],
+    };
+  }, [showDate, selectedOrigin, selectedDest, availableDates, routeDataLoading]);
 
   const originOptions = origins.map(o => ({
     value: o.code,
@@ -90,12 +132,29 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
         {showDate && (
           <div className="search-field">
             <label>Travel Date</label>
-            <input type="date" value={pickDate} onChange={e => setPickDate(e.target.value)} />
+            <input
+              type="date"
+              value={pickDate}
+              onChange={e => setPickDate(e.target.value)}
+              min={dateInfo?.type === 'available' ? dateInfo.min : undefined}
+              max={dateInfo?.type === 'available' ? dateInfo.max : undefined}
+            />
+            {dateInfo?.type === 'loading' && (
+              <div className="date-info date-info-loading">Loading available dates...</div>
+            )}
+            {dateInfo?.type === 'none' && (
+              <div className="date-info date-info-none">No price data for this route</div>
+            )}
+            {dateInfo?.type === 'available' && (
+              <div className="date-info date-info-ok">
+                Data available for {dateInfo.count} dates ({new Date(dateInfo.min).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })} – {new Date(dateInfo.max).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })})
+              </div>
+            )}
           </div>
         )}
         <div className="search-field">
           <label>&nbsp;</label>
-          <button type="submit" className="btn btn-primary" disabled={!selectedOrigin || !selectedDest || (showDate && !pickDate)}>
+          <button type="submit" className="btn btn-primary" disabled={!selectedOrigin || !selectedDest || (showDate && !pickDate) || (showDate && availableDates.length > 0 && !availableDates.includes(pickDate))}>
             {showDate ? 'Show Trend' : 'View Prices'}
           </button>
         </div>
