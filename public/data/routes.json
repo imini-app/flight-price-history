@@ -490,26 +490,6 @@
     "label": "Chicago (ORD) → Shanghai (PVG)"
   },
   {
-    "key": "PEK-YYZ",
-    "origin": "PEK",
-    "dest": "YYZ",
-    "originCity": "Beijing",
-    "destCity": "Toronto",
-    "originCountry": "China",
-    "destCountry": "Canada",
-    "label": "Beijing (PEK) → Toronto (YYZ)"
-  },
-  {
-    "key": "PVG-AMS",
-    "origin": "PVG",
-    "dest": "AMS",
-    "originCity": "Shanghai",
-    "destCity": "Amsterdam",
-    "originCountry": "China",
-    "destCountry": "Netherlands",
-    "label": "Shanghai (PVG) → Amsterdam (AMS)"
-  },
-  {
     "key": "PVG-CDG",
     "origin": "PVG",
     "dest": "CDG",
@@ -530,16 +510,6 @@
     "label": "Shanghai (PVG) → Dubai (DXB)"
   },
   {
-    "key": "PVG-FRA",
-    "origin": "PVG",
-    "dest": "FRA",
-    "originCity": "Shanghai",
-    "destCity": "Frankfurt",
-    "originCountry": "China",
-    "destCountry": "Germany",
-    "label": "Shanghai (PVG) → Frankfurt (FRA)"
-  },
-  {
     "key": "PVG-HKG",
     "origin": "PVG",
     "dest": "HKG",
@@ -548,16 +518,6 @@
     "originCountry": "China",
     "destCountry": "Hong Kong",
     "label": "Shanghai (PVG) → Hong Kong (HKG)"
-  },
-  {
-    "key": "PVG-ICN",
-    "origin": "PVG",
-    "dest": "ICN",
-    "originCity": "Shanghai",
-    "destCity": "Seoul",
-    "originCountry": "China",
-    "destCountry": "South Korea",
-    "label": "Shanghai (PVG) → Seoul (ICN)"
   },
   {
     "key": "PVG-JFK",
@@ -578,16 +538,6 @@
     "originCountry": "China",
     "destCountry": "USA",
     "label": "Shanghai (PVG) → Los Angeles (LAX)"
-  },
-  {
-    "key": "PVG-ORD",
-    "origin": "PVG",
-    "dest": "ORD",
-    "originCity": "Shanghai",
-    "destCity": "Chicago",
-    "originCountry": "China",
-    "destCountry": "USA",
-    "label": "Shanghai (PVG) → Chicago (ORD)"
   },
   {
     "key": "PVG-SFO",
@@ -618,16 +568,6 @@
     "originCountry": "China",
     "destCountry": "Australia",
     "label": "Shanghai (PVG) → Sydney (SYD)"
-  },
-  {
-    "key": "PVG-YVR",
-    "origin": "PVG",
-    "dest": "YVR",
-    "originCity": "Shanghai",
-    "destCity": "Vancouver",
-    "originCountry": "China",
-    "destCountry": "Canada",
-    "label": "Shanghai (PVG) → Vancouver (YVR)"
   },
   {
     "key": "PVG-YYZ",
@@ -970,16 +910,6 @@
     "label": "Beijing (PEK) → Singapore (SIN)"
   },
   {
-    "key": "PEK-ICN",
-    "origin": "PEK",
-    "dest": "ICN",
-    "originCity": "Beijing",
-    "destCity": "Seoul",
-    "originCountry": "China",
-    "destCountry": "South Korea",
-    "label": "Beijing (PEK) → Seoul (ICN)"
-  },
-  {
     "key": "PEK-CDG",
     "origin": "PEK",
     "dest": "CDG",
@@ -988,16 +918,6 @@
     "originCountry": "China",
     "destCountry": "France",
     "label": "Beijing (PEK) → Paris (CDG)"
-  },
-  {
-    "key": "PEK-FRA",
-    "origin": "PEK",
-    "dest": "FRA",
-    "originCity": "Beijing",
-    "destCity": "Frankfurt",
-    "originCountry": "China",
-    "destCountry": "Germany",
-    "label": "Beijing (PEK) → Frankfurt (FRA)"
   },
   {
     "key": "PEK-SYD",
@@ -1030,16 +950,6 @@
     "label": "Beijing (PEK) → Los Angeles (LAX)"
   },
   {
-    "key": "PEK-YVR",
-    "origin": "PEK",
-    "dest": "YVR",
-    "originCity": "Beijing",
-    "destCity": "Vancouver",
-    "originCountry": "China",
-    "destCountry": "Canada",
-    "label": "Beijing (PEK) → Vancouver (YVR)"
-  },
-  {
     "key": "PEK-AMS",
     "origin": "PEK",
     "dest": "AMS",
@@ -1048,16 +958,6 @@
     "originCountry": "China",
     "destCountry": "Netherlands",
     "label": "Beijing (PEK) → Amsterdam (AMS)"
-  },
-  {
-    "key": "PEK-DXB",
-    "origin": "PEK",
-    "dest": "DXB",
-    "originCity": "Beijing",
-    "destCity": "Dubai",
-    "originCountry": "China",
-    "destCountry": "UAE",
-    "label": "Beijing (PEK) → Dubai (DXB)"
   },
   {
     "key": "DEL-LHR",
@@ -1328,5 +1228,15 @@
     "originCountry": "India",
     "destCountry": "USA",
     "label": "Delhi (DEL) → New York (JFK)"
+  },
+  {
+    "key": "PVG-NRT",
+    "origin": "PVG",
+    "dest": "NRT",
+    "originCity": "Shanghai",
+    "destCity": "Tokyo",
+    "originCountry": "China",
+    "destCountry": "Japan",
+    "label": "Shanghai (PVG) → Tokyo (NRT)"
   }
 ]
