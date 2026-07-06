@@ -3,6 +3,7 @@
 import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { fetchRoutes, buildOriginIndex } from '@/lib/data-utils';
 import SearchableSelect from './SearchableSelect';
+import CalendarPicker from './CalendarPicker';
 
 export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, showDate = true }) {
   const [origins, setOrigins] = useState([]);
@@ -187,25 +188,11 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
               )}
               {showDatePopup && dateInfo?.type === 'available' && (
                 <div className="date-picker-popup">
-                  <div className="dpp-header">
-                    <span className="dpp-title">Available departure dates</span>
-                    <span className="dpp-range">
-                      {new Date(dateInfo.min).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })} – {new Date(dateInfo.max).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
-                    </span>
-                  </div>
-                  <div className="date-price-list">
-                    {datePrices.map(d => (
-                      <button
-                        key={d.date}
-                        type="button"
-                        className={`date-price-chip${d.date === pickDate ? ' selected' : ''}`}
-                        onClick={() => { setPickDate(d.date); setShowDatePopup(false); }}
-                      >
-                        <span className="dpc-date">{new Date(d.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
-                        <span className="dpc-price">${d.avgPrice}</span>
-                      </button>
-                    ))}
-                  </div>
+                  <CalendarPicker
+                    datePrices={datePrices}
+                    selectedDate={pickDate}
+                    onSelect={d => { setPickDate(d); setShowDatePopup(false); }}
+                  />
                 </div>
               )}
               {showDatePopup && dateInfo?.type === 'loading' && (
