@@ -1,14 +1,26 @@
 'use client';
 
-import { useState, useMemo, useCallback } from 'react';
+import { useState, useMemo, useCallback, useEffect } from 'react';
 import { format, startOfMonth, endOfMonth, startOfWeek, endOfWeek, eachDayOfInterval, isSameMonth, isSameDay } from 'date-fns';
 
+function parseLocalDate(str) {
+  if (!str) return new Date(NaN);
+  const [y, m, d] = str.split('-').map(Number);
+  return new Date(y, m - 1, d);
+}
+
 export default function CalendarPicker({ datePrices, selectedDate, onSelect }) {
-  const defaultMonth = selectedDate || datePrices[0]?.date;
   const [viewMonth, setViewMonth] = useState(() => {
-    const d = new Date(defaultMonth);
+    const d = selectedDate ? parseLocalDate(selectedDate) : parseLocalDate(datePrices[0]?.date);
     return { year: d.getFullYear(), month: d.getMonth() };
   });
+
+  useEffect(() => {
+    if (selectedDate) {
+      const d = parseLocalDate(selectedDate);
+      setViewMonth({ year: d.getFullYear(), month: d.getMonth() });
+    }
+  }, [selectedDate]);
 
   const priceMap = useMemo(() => {
     const map = {};
@@ -37,8 +49,9 @@ export default function CalendarPicker({ datePrices, selectedDate, onSelect }) {
   const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
   const yearOptions = useMemo(() => {
     const years = [];
-    const minYear = new Date(datePrices[0]?.date).getFullYear();
-    const maxYear = new Date(datePrices[datePrices.length - 1]?.date).getFullYear();
+    if (!datePrices.length) return years;
+    const minYear = parseLocalDate(datePrices[0].date).getFullYear();
+    const maxYear = parseLocalDate(datePrices[datePrices.length - 1].date).getFullYear();
     for (let y = minYear; y <= maxYear; y++) years.push(y);
     return years;
   }, [datePrices]);

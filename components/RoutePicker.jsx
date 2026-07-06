@@ -14,7 +14,7 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, defa
   const [pickDate, setPickDate] = useState(() => {
     const d = new Date();
     d.setDate(d.getDate() + 60);
-    return d.toISOString().split('T')[0];
+    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
   });
   const [loading, setLoading] = useState(true);
   const [routes, setRoutes] = useState([]);
@@ -25,6 +25,10 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, defa
   const [dateSearch, setDateSearch] = useState('');
   const dateSearchRef = useRef(null);
   const popupRef = useRef(null);
+
+  const toDateStr = useCallback((date) => {
+    return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
+  }, []);
 
   const handleDateSearch = useCallback((e) => {
     const val = e.target.value;
@@ -246,7 +250,7 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, defa
                 className="date-picker-display"
                 onClick={() => setShowDatePopup(v => !v)}
               >
-                <span className="dpd-label">{new Date(pickDate).toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' })}</span>
+                <span className="dpd-label">{(() => { const [y, m, d] = pickDate.split('-'); return new Date(+y, +m - 1, +d).toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' }); })()}</span>
                 {dateInfo && (
                   <span className={`dpd-badge dpd-badge-${dateInfo.type}`}>
                     {dateInfo.type === 'loading' && '\u23F3'}
@@ -270,7 +274,7 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, defa
                           const val = dateSearch.trim();
                           const parsed = new Date(val);
                           if (!isNaN(parsed.getTime())) {
-                            const key = parsed.toISOString().split('T')[0];
+                            const key = toDateStr(parsed);
                             if (availableDates.includes(key)) {
                               setPickDate(key);
                               setShowDatePopup(false);

@@ -203,8 +203,8 @@ body {
   gap: 4px;
   margin-bottom: 6px;
 }
-.cal-month-select,
-.cal-year-select {
+.calendar-picker .cal-month-select,
+.calendar-picker .cal-year-select {
   padding: 4px 6px;
   border: 1px solid var(--gf-gray-200);
   border-radius: 4px;
@@ -214,9 +214,10 @@ body {
   color: var(--gf-gray-800);
   background: var(--gf-white);
   cursor: pointer;
+  appearance: auto;
 }
-.cal-month-select { flex: 1; }
-.cal-year-select { width: 76px; }
+.calendar-picker .cal-month-select { flex: 1; }
+.calendar-picker .cal-year-select { width: 76px; }
 .cal-nav {
   width: 28px;
   height: 28px;
