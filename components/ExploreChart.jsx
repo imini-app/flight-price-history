@@ -34,9 +34,9 @@ export default function ExploreChart({ grouped, stats, routeLabel }) {
 
   return (
     <div className="card">
-      <div style={{ marginBottom: 8 }}>
-        <h3 style={{ fontSize: '0.95rem', color: '#2d3748' }}>{routeLabel}</h3>
-        <p style={{ fontSize: '0.8rem', color: '#718096' }}>{chartData.length} departure dates with snapshots</p>
+      <div className="route-info" style={{ marginBottom: 16 }}>
+        <strong style={{ fontSize: '0.9rem', fontWeight: 500 }}>{routeLabel}</strong>
+        <span className="route-snapshots">{chartData.length} departure dates</span>
       </div>
       <div className="chart-wrapper">
         <ResponsiveContainer width="100%" height="100%">
@@ -67,19 +67,19 @@ export default function ExploreChart({ grouped, stats, routeLabel }) {
               type="monotone"
               dataKey="price"
               name="Avg Price"
-              stroke="#3182ce"
+              stroke="#1a73e8"
               strokeWidth={2}
               dot={false}
-              activeDot={{ r: 4, fill: '#3182ce' }}
+              activeDot={{ r: 4, fill: '#1a73e8' }}
               connectNulls
             />
             {avgPrice > 0 && (
               <ReferenceLine
                 y={avgPrice}
-                stroke="#38a169"
+                stroke="#1e8e3e"
                 strokeDasharray="6 4"
                 strokeWidth={1.5}
-                label={{ value: `Avg $${Math.round(avgPrice)}`, position: 'right', fill: '#38a169', fontSize: 11 }}
+                label={{ value: `Avg $${Math.round(avgPrice)}`, position: 'right', fill: '#1e8e3e', fontSize: 11 }}
               />
             )}
           </LineChart>

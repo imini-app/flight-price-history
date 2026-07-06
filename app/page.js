@@ -1,52 +1,82 @@
 'use client';
 
-import Link from 'next/link';
+import { useState, useCallback, useEffect } from 'react';
+import RoutePicker from '@/components/RoutePicker';
+import PriceChart from '@/components/PriceChart';
+import StatsCards from '@/components/StatsCards';
+import { fetchRouteData, filterPricesByDepartureDate, computeSnapshotStats } from '@/lib/data-utils';
 
 export default function Home() {
+  const [routeKey, setRouteKey] = useState(null);
+  const [pickDate, setPickDate] = useState(null);
+  const [snapshotPrices, setSnapshotPrices] = useState([]);
+  const [stats, setStats] = useState(null);
+  const [routeLabel, setRouteLabel] = useState('');
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
+
+  const handleSelect = useCallback((key, date) => {
+    setRouteKey(key);
+    setPickDate(date);
+  }, []);
+
+  useEffect(() => {
+    if (!routeKey || !pickDate) return;
+    setLoading(true);
+    setError(null);
+
+    fetchRouteData(routeKey)
+      .then(data => {
+        const snaps = filterPricesByDepartureDate(data.prices, pickDate);
+        const s = computeSnapshotStats(snaps);
+        setSnapshotPrices(snaps);
+        setStats(s);
+        setRouteLabel(data.label);
+        setLoading(false);
+      })
+      .catch(err => {
+        setError(err.message);
+        setLoading(false);
+      });
+  }, [routeKey, pickDate]);
+
   return (
     <main className="container">
       <div className="hero">
         <h1>Flight Price History</h1>
-        <p className="hero-sub">Track and explore historical flight prices from daily snapshots of major international routes.</p>
-        <div className="hero-actions">
-          <Link href="/trend" className="btn btn-primary btn-lg">Check Price Trend</Link>
-          <Link href="/explore" className="btn btn-secondary btn-lg">Explore Routes</Link>
-        </div>
+        <p className="hero-sub">
+          See how flight prices change day by day. Pick a route and a departure date to find the best time to book.
+        </p>
       </div>
 
-      <div className="landing-cards">
-        <div className="card">
-          <h3>📈 Price Trend</h3>
-          <p>Pick a route and a specific departure date to see how the price has changed across daily snapshots. Helps you decide whether to buy now or wait.</p>
-          <Link href="/trend" className="btn btn-primary">Go to Price Trend</Link>
-        </div>
-        <div className="card">
-          <h3>🗺 Explore Routes</h3>
-          <p>Browse average prices across departure dates to find the best time to fly. Each price point is the average of all daily snapshots for that date.</p>
-          <Link href="/explore" className="btn btn-primary">Explore Routes</Link>
-        </div>
-      </div>
+      <RoutePicker onSelect={handleSelect} />
 
-      <div className="card guide">
-        <h3>How it works</h3>
-        <p>A cron job runs daily and records the lowest available price for each route. Over time, this builds a history that reveals pricing trends.</p>
-        <div className="examples">
-          <div className="example">
-            <span className="example-icon">📈</span>
-            <div>
-              <strong>London → New York, Dec 20</strong>
-              <p>If the price was $580 in July but rose to $720 in August, the trend suggests buying earlier was better.</p>
-            </div>
-          </div>
-          <div className="example">
-            <span className="example-icon">📉</span>
-            <div>
-              <strong>Hong Kong → Tokyo, Sep 1</strong>
-              <p>If the price dropped from $305 to $252 over several weeks, waiting may have saved you money.</p>
-            </div>
+      {error && <div className="error-banner">{error}</div>}
+
+      {loading && (
+        <div className="card">
+          <div className="loading">
+            <div className="spinner" />
+            <p>Loading price data...</p>
           </div>
         </div>
-      </div>
+      )}
+
+      {!loading && routeKey && snapshotPrices.length === 0 && !error && (
+        <div className="card">
+          <div className="empty-state">
+            <h3>No data available</h3>
+            <p>We haven't collected price data for {pickDate} yet. Data is gathered once a day — check back tomorrow!</p>
+          </div>
+        </div>
+      )}
+
+      {!loading && stats && (
+        <div>
+          <StatsCards stats={stats} prices={snapshotPrices} routeLabel={routeLabel} pickDate={pickDate} />
+          <PriceChart prices={snapshotPrices} stats={stats} pickDate={pickDate} />
+        </div>
+      )}
     </main>
   );
 }

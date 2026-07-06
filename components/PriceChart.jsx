@@ -35,22 +35,22 @@ export default function PriceChart({ prices, stats, pickDate }) {
       <div className="chart-wrapper">
         <ResponsiveContainer width="100%" height="100%">
           <LineChart data={chartData} margin={{ top: 8, right: 16, left: 8, bottom: 8 }}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#e8eaed" />
             <XAxis
               dataKey="snapshot"
-              tick={{ fontSize: 11, fill: '#718096' }}
+              tick={{ fontSize: 11, fill: '#5f6368' }}
               tickFormatter={d => format(parseISO(d), 'MMM d')}
               interval="preserveStartEnd"
               minTickGap={40}
             />
             <YAxis
-              tick={{ fontSize: 11, fill: '#718096' }}
+              tick={{ fontSize: 11, fill: '#5f6368' }}
               tickFormatter={v => `$${v}`}
               domain={['auto', 'auto']}
             />
             <Tooltip
-              contentStyle={{ borderRadius: 8, border: '1px solid #e2e8f0', fontSize: 13 }}
-              labelFormatter={d => `Snapshot: ${format(parseISO(d), 'MMM d, yyyy')}`}
+              contentStyle={{ borderRadius: 8, border: '1px solid #dadce0', fontSize: 13 }}
+              labelFormatter={d => `Price check: ${format(parseISO(d), 'MMM d, yyyy')}`}
               formatter={(value, name) => [name === 'price' ? `$${value}` : value, name === 'price' ? 'Price' : name]}
             />
             <Legend />
@@ -58,19 +58,19 @@ export default function PriceChart({ prices, stats, pickDate }) {
               type="monotone"
               dataKey="price"
               name="Price"
-              stroke="#3182ce"
+              stroke="#1a73e8"
               strokeWidth={2}
               dot={false}
-              activeDot={{ r: 4, fill: '#3182ce' }}
+              activeDot={{ r: 4, fill: '#1a73e8' }}
               connectNulls
             />
             {avgPrice > 0 && (
               <ReferenceLine
                 y={avgPrice}
-                stroke="#38a169"
+                stroke="#1e8e3e"
                 strokeDasharray="6 4"
                 strokeWidth={1.5}
-                label={{ value: `Avg $${Math.round(avgPrice)}`, position: 'right', fill: '#38a169', fontSize: 11 }}
+                label={{ value: `Avg $${Math.round(avgPrice)}`, position: 'right', fill: '#1e8e3e', fontSize: 11 }}
               />
             )}
           </LineChart>

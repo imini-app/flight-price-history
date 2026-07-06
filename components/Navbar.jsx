@@ -7,9 +7,8 @@ export default function Navbar() {
   const path = usePathname();
 
   const links = [
-    { href: '/', label: 'Home' },
-    { href: '/trend', label: 'Price Trend' },
-    { href: '/explore', label: 'Explore Routes' },
+    { href: '/', label: 'Price Check' },
+    { href: '/explore', label: 'Compare Dates' },
   ];
 
   return (

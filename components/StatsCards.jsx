@@ -7,44 +7,45 @@ export default function StatsCards({ stats, prices, routeLabel, pickDate }) {
 
   const depDisplay = pickDate ? format(parseISO(pickDate), 'MMM d, yyyy') : '';
   const changeLabel = stats.change >= 0 ? `+$${stats.change}` : `-$${Math.abs(stats.change)}`;
-  const changeClass = stats.change > 0 ? 'worst' : stats.change < 0 ? 'best' : '';
+  const changeChip = stats.change > 0 ? 'chip-worst' : stats.change < 0 ? 'chip-best' : '';
 
   return (
     <div>
-      <div className="stats-grid">
-        <div className="stat-card avg">
-          <div className="value">${Math.round(stats.avg)}</div>
-          <div className="label">Avg Price</div>
+      <div className="stats-row">
+        <div className="stat-chip">
+          <span className="chip-value">${Math.round(stats.avg)}</span>
+          <span className="chip-label">Average</span>
         </div>
-        <div className="stat-card best">
-          <div className="value">${stats.min}</div>
-          <div className="label">Lowest Seen</div>
+        <div className="stat-chip chip-best">
+          <span className="chip-value">${stats.min}</span>
+          <span className="chip-label">Lowest price</span>
         </div>
-        <div className="stat-card worst">
-          <div className="value">${stats.max}</div>
-          <div className="label">Highest Seen</div>
+        <div className="stat-chip chip-worst">
+          <span className="chip-value">${stats.max}</span>
+          <span className="chip-label">Highest price</span>
         </div>
-        <div className="stat-card">
-          <div className="value">${stats.first}</div>
-          <div className="label">First Snapshot</div>
+        <div className="stat-chip">
+          <span className="chip-value">${stats.first}</span>
+          <span className="chip-label">First recorded</span>
         </div>
-        <div className="stat-card">
-          <div className="value">${stats.last}</div>
-          <div className="label">Latest Snapshot</div>
+        <div className="stat-chip">
+          <span className="chip-value">${stats.last}</span>
+          <span className="chip-label">Most recent</span>
         </div>
-        <div className={`stat-card ${changeClass}`}>
-          <div className="value">{changeLabel}</div>
-          <div className="label">Change ({stats.changePercent}%)</div>
+        <div className={`stat-chip ${changeChip}`}>
+          <span className="chip-value">{changeLabel}</span>
+          <span className="chip-label">Change ({stats.changePercent}%)</span>
         </div>
       </div>
 
-      <div className="card">
-        <h3 style={{ fontSize: '0.95rem', color: '#4a5568', marginBottom: 4 }}>
-          {routeLabel}
-        </h3>
-        <p style={{ fontSize: '0.85rem', color: '#718096' }}>
-          Departure {depDisplay} · {stats.count} snapshot{stats.count !== 1 ? 's' : ''} collected
-        </p>
+      <div className="route-info">
+        <div className="route-info-left">
+          <strong style={{ fontSize: '0.9rem', fontWeight: 500 }}>{routeLabel}</strong>
+        </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+          <span className="route-dep">Flying on {depDisplay}</span>
+          <span className="route-snapshots">{stats.count} price check{stats.count !== 1 ? 's' : ''}</span>
+        </div>
       </div>
     </div>
   );

@@ -43,10 +43,10 @@ export default function ExplorePage() {
   }, [routeKey, pickDate]);
 
   return (
-    <main className="container" style={{ marginTop: 24 }}>
+    <main className="container">
       <div className="page-header">
         <h2>Explore Route Prices</h2>
-        <p>See average prices across departure dates. Each point shows the average of all daily snapshots for that departure date.</p>
+        <p>Compare average prices across different travel dates to find the cheapest time to fly.</p>
       </div>
 
       <RoutePicker onSelect={handleSelect} />
@@ -66,7 +66,7 @@ export default function ExplorePage() {
         <div className="card">
           <div className="empty-state">
             <h3>No data available</h3>
-            <p>No price data found for this route. Check back after daily snapshots are collected.</p>
+            <p>We haven't collected enough data for this route yet. Data is gathered once a day — check back soon!</p>
           </div>
         </div>
       )}

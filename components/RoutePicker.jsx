@@ -50,9 +50,9 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest }) {
   }
 
   return (
-    <form className="card" onSubmit={handleSubmit}>
-      <div className="controls">
-        <div className="control-group">
+    <form className="search-card" onSubmit={handleSubmit}>
+      <div className="search-row">
+        <div className="search-field">
           <label>Origin</label>
           <select value={selectedOrigin} onChange={handleOriginChange}>
             <option value="">Select origin...</option>
@@ -63,7 +63,7 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest }) {
             ))}
           </select>
         </div>
-        <div className="control-group">
+        <div className="search-field">
           <label>Destination</label>
           <select value={selectedDest} onChange={e => setSelectedDest(e.target.value)} disabled={!selectedOrigin}>
             <option value="">Select destination...</option>
@@ -74,7 +74,7 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest }) {
             ))}
           </select>
         </div>
-        <div className="control-group">
+        <div className="search-field">
           <label>Departure Date</label>
           <input type="date" value={pickDate} onChange={e => setPickDate(e.target.value)} />
         </div>
