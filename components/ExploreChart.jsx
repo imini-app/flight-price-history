@@ -6,6 +6,7 @@ import {
   ReferenceLine, Legend
 } from 'recharts';
 import { format, parseISO } from 'date-fns';
+import { formatPrice } from '@/lib/format';
 
 export default function ExploreChart({ grouped, stats, routeLabel }) {
   const chartData = useMemo(() => {
@@ -51,7 +52,7 @@ export default function ExploreChart({ grouped, stats, routeLabel }) {
             />
             <YAxis
               tick={{ fontSize: 11, fill: '#718096' }}
-              tickFormatter={v => `$${v}`}
+              tickFormatter={v => formatPrice(v)}
               domain={['auto', 'auto']}
             />
             <Tooltip
@@ -59,7 +60,7 @@ export default function ExploreChart({ grouped, stats, routeLabel }) {
               labelFormatter={d => format(parseISO(d), 'MMM d, yyyy')}
               formatter={(value, name) => {
                 const labels = { price: 'Avg Price', minPrice: 'Lowest', maxPrice: 'Highest', snapshots: 'Snapshots' };
-                return [name === 'price' ? `$${value}` : value, labels[name] || name];
+                return [name === 'price' ? formatPrice(value) : value, labels[name] || name];
               }}
             />
             <Legend />
@@ -79,7 +80,7 @@ export default function ExploreChart({ grouped, stats, routeLabel }) {
                 stroke="#1e8e3e"
                 strokeDasharray="6 4"
                 strokeWidth={1.5}
-                label={{ value: `Avg $${Math.round(avgPrice)}`, position: 'right', fill: '#1e8e3e', fontSize: 11 }}
+                label={{ value: `Avg ${formatPrice(Math.round(avgPrice))}`, position: 'right', fill: '#1e8e3e', fontSize: 11 }}
               />
             )}
           </LineChart>

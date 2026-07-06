@@ -2,6 +2,7 @@
 
 import { useState, useMemo, useCallback, useEffect } from 'react';
 import { format, startOfMonth, endOfMonth, startOfWeek, endOfWeek, eachDayOfInterval, isSameMonth, isSameDay } from 'date-fns';
+import { formatPrice } from '@/lib/format';
 
 function parseLocalDate(str) {
   if (!str) return new Date(NaN);
@@ -126,7 +127,7 @@ export default function CalendarPicker({ datePrices, selectedDate, onSelect }) {
             onClick={() => { if (d.price) onSelect(d.date); }}
           >
             <span className="cal-day-num">{d.dayNum}</span>
-            {d.price && <span className="cal-day-price">${d.price}</span>}
+            {d.price && <span className="cal-day-price">{formatPrice(d.price)}</span>}
           </button>
         ))}
       </div>

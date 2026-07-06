@@ -6,6 +6,7 @@ import {
   ReferenceLine, Legend
 } from 'recharts';
 import { format, parseISO } from 'date-fns';
+import { formatPrice } from '@/lib/format';
 
 export default function PriceChart({ prices, stats, pickDate }) {
   const chartData = useMemo(() => {
@@ -45,13 +46,13 @@ export default function PriceChart({ prices, stats, pickDate }) {
             />
             <YAxis
               tick={{ fontSize: 11, fill: '#5f6368' }}
-              tickFormatter={v => `$${v}`}
+              tickFormatter={v => formatPrice(v)}
               domain={['auto', 'auto']}
             />
             <Tooltip
               contentStyle={{ borderRadius: 8, border: '1px solid #dadce0', fontSize: 13 }}
               labelFormatter={d => `Price check: ${format(parseISO(d), 'MMM d, yyyy')}`}
-              formatter={(value, name) => [name === 'price' ? `$${value}` : value, name === 'price' ? 'Price' : name]}
+              formatter={(value, name) => [name === 'price' ? formatPrice(value) : value, name === 'price' ? 'Price' : name]}
             />
             <Legend />
             <Line
@@ -70,7 +71,7 @@ export default function PriceChart({ prices, stats, pickDate }) {
                 stroke="#1e8e3e"
                 strokeDasharray="6 4"
                 strokeWidth={1.5}
-                label={{ value: `Avg $${Math.round(avgPrice)}`, position: 'right', fill: '#1e8e3e', fontSize: 11 }}
+                label={{ value: `Avg ${formatPrice(Math.round(avgPrice))}`, position: 'right', fill: '#1e8e3e', fontSize: 11 }}
               />
             )}
           </LineChart>

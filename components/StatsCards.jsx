@@ -1,35 +1,36 @@
 'use client';
 
 import { format, parseISO } from 'date-fns';
+import { formatPrice } from '@/lib/format';
 
 export default function StatsCards({ stats, prices, routeLabel, pickDate }) {
   if (!stats || !prices || prices.length === 0) return null;
 
   const depDisplay = pickDate ? format(parseISO(pickDate), 'MMM d, yyyy') : '';
-  const changeLabel = stats.change >= 0 ? `+$${stats.change}` : `-$${Math.abs(stats.change)}`;
+  const changeLabel = stats.change >= 0 ? `+${formatPrice(stats.change)}` : `-${formatPrice(Math.abs(stats.change))}`;
   const changeChip = stats.change > 0 ? 'chip-worst' : stats.change < 0 ? 'chip-best' : '';
 
   return (
     <div>
       <div className="stats-row">
         <div className="stat-chip">
-          <span className="chip-value">${Math.round(stats.avg)}</span>
+          <span className="chip-value">{formatPrice(Math.round(stats.avg))}</span>
           <span className="chip-label">Average</span>
         </div>
         <div className="stat-chip chip-best">
-          <span className="chip-value">${stats.min}</span>
+          <span className="chip-value">{formatPrice(stats.min)}</span>
           <span className="chip-label">Lowest price</span>
         </div>
         <div className="stat-chip chip-worst">
-          <span className="chip-value">${stats.max}</span>
+          <span className="chip-value">{formatPrice(stats.max)}</span>
           <span className="chip-label">Highest price</span>
         </div>
         <div className="stat-chip">
-          <span className="chip-value">${stats.first}</span>
+          <span className="chip-value">{formatPrice(stats.first)}</span>
           <span className="chip-label">First recorded</span>
         </div>
         <div className="stat-chip">
-          <span className="chip-value">${stats.last}</span>
+          <span className="chip-value">{formatPrice(stats.last)}</span>
           <span className="chip-label">Most recent</span>
         </div>
         <div className={`stat-chip ${changeChip}`}>
