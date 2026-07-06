@@ -167,6 +167,16 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
     setSelectedDest(e.target.value);
   }, []);
 
+  const handleSwap = useCallback(() => {
+    const newOrigin = selectedDest;
+    const newDest = selectedOrigin;
+    if (!newOrigin && !newDest) return;
+    const dests = newOrigin ? (origins.find(o => o.code === newOrigin)?.destinations || []) : [];
+    setSelectedOrigin(newOrigin);
+    setDestinations(dests);
+    setSelectedDest(dests.find(d => d.code === newDest) ? newDest : '');
+  }, [selectedOrigin, selectedDest, origins]);
+
   const handleSubmit = (e) => {
     e.preventDefault();
     if (!selectedOrigin || !selectedDest) return;
@@ -234,6 +244,9 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
             placeholder="Select origin..."
           />
         </div>
+        <button type="button" className="swap-btn" onClick={handleSwap} disabled={!selectedOrigin && !selectedDest} title="Swap origin and destination">
+          ⇄
+        </button>
         <div className="search-field">
           <label>Destination</label>
           <SearchableSelect
