@@ -55,7 +55,9 @@ export default function Home() {
     setRouteKey(key);
     setPickDate(date);
     if (label) setRouteLabel(label);
+  }, []);
 
+  const handleSubmit = useCallback((key, date, label) => {
     fetch('/api/checks', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -105,7 +107,7 @@ export default function Home() {
         </p>
       </div>
 
-      <RoutePicker onSelect={handleSelect} defaultOrigin={defaultOrigin} defaultDest={defaultDest} defaultDate={defaultDate} />
+      <RoutePicker onSelect={handleSelect} onSubmit={handleSubmit} defaultOrigin={defaultOrigin} defaultDest={defaultDest} defaultDate={defaultDate} />
 
       {!routeKey && !loading && (
         <div className="card guide">

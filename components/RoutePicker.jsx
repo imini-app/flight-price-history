@@ -6,7 +6,7 @@ import SearchableSelect from './SearchableSelect';
 import CalendarPicker from './CalendarPicker';
 import { loadPickerState, savePickerState } from '@/lib/storage';
 
-export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, defaultDate, showDate = true }) {
+export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, defaultDest, defaultDate, showDate = true }) {
   const [origins, setOrigins] = useState([]);
   const [destinations, setDestinations] = useState([]);
   const [selectedOrigin, setSelectedOrigin] = useState(defaultOrigin || '');
@@ -173,7 +173,10 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, defa
     if (showDate && !pickDate) return;
     if (showDate && availableDates.length && !availableDates.includes(pickDate)) return;
     const route = routes.find(r => r.origin === selectedOrigin && r.dest === selectedDest);
-    if (route) onSelect(route.key, showDate ? pickDate : null, route.label);
+    if (route) {
+      onSelect(route.key, showDate ? pickDate : null, route.label);
+      if (onSubmit) onSubmit(route.key, showDate ? pickDate : null, route.label);
+    }
   };
 
   useEffect(() => {
