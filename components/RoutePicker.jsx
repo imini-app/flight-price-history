@@ -195,26 +195,20 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
           <div className="search-field search-field-date">
             <label>Travel Date</label>
             <div className="date-picker-wrap" ref={popupRef}>
-              <input
-                type="date"
-                value={pickDate}
-                onChange={e => setPickDate(e.target.value)}
-                onFocus={() => setShowDatePopup(true)}
-                min={dateInfo?.type === 'available' ? dateInfo.min : undefined}
-                max={dateInfo?.type === 'available' ? dateInfo.max : undefined}
-              />
-              {dateInfo && (
-                <button
-                  type="button"
-                  className="date-picker-badge"
-                  onClick={() => setShowDatePopup(v => !v)}
-                  aria-label="Toggle date availability"
-                >
-                  {dateInfo.type === 'loading' && '\u23F3'}
-                  {dateInfo.type === 'none' && '\u26A0'}
-                  {dateInfo.type === 'available' && `${dateInfo.count}`}
-                </button>
-              )}
+              <button
+                type="button"
+                className="date-picker-display"
+                onClick={() => setShowDatePopup(v => !v)}
+              >
+                <span className="dpd-label">{new Date(pickDate).toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' })}</span>
+                {dateInfo && (
+                  <span className={`dpd-badge dpd-badge-${dateInfo.type}`}>
+                    {dateInfo.type === 'loading' && '\u23F3'}
+                    {dateInfo.type === 'none' && '\u26A0'}
+                    {dateInfo.type === 'available' && `${dateInfo.count}`}
+                  </span>
+                )}
+              </button>
               {showDatePopup && dateInfo?.type === 'available' && (
                 <div className="date-picker-popup">
                   <CalendarPicker

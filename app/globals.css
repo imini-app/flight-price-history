@@ -123,29 +123,42 @@ body {
 /* Date picker wrapper + popup */
 .search-field-date { position: relative; }
 .date-picker-wrap { position: relative; }
-.date-picker-wrap input[type="date"] { padding-right: 40px; }
-.date-picker-badge {
-  position: absolute;
-  right: 6px;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 26px;
+.date-picker-display {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 12px;
+  border: 1px solid var(--gf-gray-300);
+  border-radius: var(--gf-radius);
+  font-size: 0.9rem;
+  font-family: var(--gf-font);
+  color: var(--gf-gray-900);
+  background: var(--gf-white);
+  cursor: pointer;
+  transition: border-color 0.12s, box-shadow 0.12s;
+  text-align: left;
+}
+.date-picker-display:hover { border-color: var(--gf-blue); }
+.date-picker-display:focus,
+.date-picker-display:focus-visible { outline: none; border-color: var(--gf-blue); box-shadow: 0 0 0 2px var(--gf-blue-light); }
+.dpd-label { flex: 1; }
+.dpd-badge {
+  flex-shrink: 0;
+  min-width: 26px;
   height: 22px;
-  border: none;
+  padding: 0 6px;
   border-radius: 4px;
-  background: var(--gf-blue-light);
-  color: var(--gf-blue);
   font-size: 0.7rem;
   font-weight: 600;
-  font-family: var(--gf-font);
-  cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
   line-height: 1;
-  transition: background 0.12s;
 }
-.date-picker-badge:hover { background: var(--gf-blue); color: var(--gf-white); }
+.dpd-badge-loading { background: var(--gf-gray-100); color: var(--gf-gray-500); }
+.dpd-badge-none { background: #fce8e6; color: var(--gf-red); }
+.dpd-badge-available { background: var(--gf-blue-light); color: var(--gf-blue); }
 
 .date-picker-popup {
   position: absolute;
