@@ -34,20 +34,6 @@ export default function CalendarPicker({ datePrices, selectedDate, onSelect }) {
     });
   }, [viewMonth, priceMap, selectedDate]);
 
-  const prevMonth = () => {
-    setViewMonth(v => {
-      if (v.month === 0) return { year: v.year - 1, month: 11 };
-      return { year: v.year, month: v.month - 1 };
-    });
-  };
-
-  const nextMonth = () => {
-    setViewMonth(v => {
-      if (v.month === 11) return { year: v.year + 1, month: 0 };
-      return { year: v.year, month: v.month + 1 };
-    });
-  };
-
   const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
   const yearOptions = useMemo(() => {
     const years = [];
@@ -57,30 +43,54 @@ export default function CalendarPicker({ datePrices, selectedDate, onSelect }) {
     return years;
   }, [datePrices]);
 
+  const goToMonth = useCallback((e) => {
+    setViewMonth(v => ({ year: v.year, month: parseInt(e.target.value, 10) }));
+  }, []);
+
+  const goToYear = useCallback((e) => {
+    setViewMonth(v => ({ year: parseInt(e.target.value, 10), month: v.month }));
+  }, []);
+
+  const prevMonth = useCallback(() => {
+    setViewMonth(v => {
+      if (v.month === 0) return { year: v.year - 1, month: 11 };
+      return { year: v.year, month: v.month - 1 };
+    });
+  }, []);
+
+  const nextMonth = useCallback(() => {
+    setViewMonth(v => {
+      if (v.month === 11) return { year: v.year + 1, month: 0 };
+      return { year: v.year, month: v.month + 1 };
+    });
+  }, []);
+
+  const goToday = useCallback(() => {
+    const d = new Date();
+    const key = format(d, 'yyyy-MM-dd');
+    if (priceMap[key]) onSelect(key);
+    else setViewMonth({ year: d.getFullYear(), month: d.getMonth() });
+  }, [priceMap, onSelect]);
+
   const weekdays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 
   return (
     <div className="calendar-picker">
       <div className="cal-header">
         <button type="button" className="cal-nav" onClick={prevMonth} aria-label="Previous month">{'\u276E'}</button>
-        <select className="cal-month-select" value={viewMonth.month} onChange={e => setViewMonth(v => ({ ...v, month: Number(e.target.value) }))}>
+        <select className="cal-month-select" value={viewMonth.month} onChange={goToMonth}>
           {months.map((m, i) => (
             <option key={m} value={i}>{m}</option>
           ))}
         </select>
-        <select className="cal-year-select" value={viewMonth.year} onChange={e => setViewMonth(v => ({ ...v, year: Number(e.target.value) }))}>
+        <select className="cal-year-select" value={viewMonth.year} onChange={goToYear}>
           {yearOptions.map(y => (
             <option key={y} value={y}>{y}</option>
           ))}
         </select>
         <button type="button" className="cal-nav" onClick={nextMonth} aria-label="Next month">{'\u276F'}</button>
       </div>
-      <button type="button" className="cal-today-btn" onClick={() => {
-        const d = new Date();
-        const key = format(d, 'yyyy-MM-dd');
-        if (priceMap[key]) { onSelect(key); }
-        else { setViewMonth({ year: d.getFullYear(), month: d.getMonth() }); }
-      }}>Today</button>
+      <button type="button" className="cal-today-btn" onClick={goToday}>Today</button>
       <div className="cal-weekdays">
         {weekdays.map(wd => (
           <span key={wd} className="cal-weekday">{wd}</span>
