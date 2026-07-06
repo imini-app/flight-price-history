@@ -8,7 +8,7 @@ export default function Navbar() {
 
   const links = [
     { href: '/', label: 'Price Check' },
-    { href: '/explore', label: 'Route History' },
+    { href: '/explore', label: 'Route Price History' },
   ];
 
   return (
