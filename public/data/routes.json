@@ -1198,5 +1198,305 @@
     "originCountry": "China",
     "destCountry": "Canada",
     "label": "Beijing (PEK) → Vancouver (YVR)"
+  },
+  {
+    "key": "BKK-HKG",
+    "origin": "BKK",
+    "dest": "HKG",
+    "originCity": "Bangkok",
+    "destCity": "Hong Kong",
+    "originCountry": "Thailand",
+    "destCountry": "Hong Kong",
+    "label": "Bangkok (BKK) → Hong Kong (HKG)"
+  },
+  {
+    "key": "HKG-BKK",
+    "origin": "HKG",
+    "dest": "BKK",
+    "originCity": "Hong Kong",
+    "destCity": "Bangkok",
+    "originCountry": "Hong Kong",
+    "destCountry": "Thailand",
+    "label": "Hong Kong (HKG) → Bangkok (BKK)"
+  },
+  {
+    "key": "BKK-SIN",
+    "origin": "BKK",
+    "dest": "SIN",
+    "originCity": "Bangkok",
+    "destCity": "Singapore",
+    "originCountry": "Thailand",
+    "destCountry": "Singapore",
+    "label": "Bangkok (BKK) → Singapore (SIN)"
+  },
+  {
+    "key": "SIN-BKK",
+    "origin": "SIN",
+    "dest": "BKK",
+    "originCity": "Singapore",
+    "destCity": "Bangkok",
+    "originCountry": "Singapore",
+    "destCountry": "Thailand",
+    "label": "Singapore (SIN) → Bangkok (BKK)"
+  },
+  {
+    "key": "BKK-NRT",
+    "origin": "BKK",
+    "dest": "NRT",
+    "originCity": "Bangkok",
+    "destCity": "Tokyo",
+    "originCountry": "Thailand",
+    "destCountry": "Japan",
+    "label": "Bangkok (BKK) → Tokyo (NRT)"
+  },
+  {
+    "key": "NRT-BKK",
+    "origin": "NRT",
+    "dest": "BKK",
+    "originCity": "Tokyo",
+    "destCity": "Bangkok",
+    "originCountry": "Japan",
+    "destCountry": "Thailand",
+    "label": "Tokyo (NRT) → Bangkok (BKK)"
+  },
+  {
+    "key": "BKK-PVG",
+    "origin": "BKK",
+    "dest": "PVG",
+    "originCity": "Bangkok",
+    "destCity": "Shanghai",
+    "originCountry": "Thailand",
+    "destCountry": "China",
+    "label": "Bangkok (BKK) → Shanghai (PVG)"
+  },
+  {
+    "key": "PVG-BKK",
+    "origin": "PVG",
+    "dest": "BKK",
+    "originCity": "Shanghai",
+    "destCity": "Bangkok",
+    "originCountry": "China",
+    "destCountry": "Thailand",
+    "label": "Shanghai (PVG) → Bangkok (BKK)"
+  },
+  {
+    "key": "BKK-LHR",
+    "origin": "BKK",
+    "dest": "LHR",
+    "originCity": "Bangkok",
+    "destCity": "London",
+    "originCountry": "Thailand",
+    "destCountry": "UK",
+    "label": "Bangkok (BKK) → London (LHR)"
+  },
+  {
+    "key": "LHR-BKK",
+    "origin": "LHR",
+    "dest": "BKK",
+    "originCity": "London",
+    "destCity": "Bangkok",
+    "originCountry": "UK",
+    "destCountry": "Thailand",
+    "label": "London (LHR) → Bangkok (BKK)"
+  },
+  {
+    "key": "BKK-CDG",
+    "origin": "BKK",
+    "dest": "CDG",
+    "originCity": "Bangkok",
+    "destCity": "Paris",
+    "originCountry": "Thailand",
+    "destCountry": "France",
+    "label": "Bangkok (BKK) → Paris (CDG)"
+  },
+  {
+    "key": "CDG-BKK",
+    "origin": "CDG",
+    "dest": "BKK",
+    "originCity": "Paris",
+    "destCity": "Bangkok",
+    "originCountry": "France",
+    "destCountry": "Thailand",
+    "label": "Paris (CDG) → Bangkok (BKK)"
+  },
+  {
+    "key": "BKK-SYD",
+    "origin": "BKK",
+    "dest": "SYD",
+    "originCity": "Bangkok",
+    "destCity": "Sydney",
+    "originCountry": "Thailand",
+    "destCountry": "Australia",
+    "label": "Bangkok (BKK) → Sydney (SYD)"
+  },
+  {
+    "key": "SYD-BKK",
+    "origin": "SYD",
+    "dest": "BKK",
+    "originCity": "Sydney",
+    "destCity": "Bangkok",
+    "originCountry": "Australia",
+    "destCountry": "Thailand",
+    "label": "Sydney (SYD) → Bangkok (BKK)"
+  },
+  {
+    "key": "BKK-PEK",
+    "origin": "BKK",
+    "dest": "PEK",
+    "originCity": "Bangkok",
+    "destCity": "Beijing",
+    "originCountry": "Thailand",
+    "destCountry": "China",
+    "label": "Bangkok (BKK) → Beijing (PEK)"
+  },
+  {
+    "key": "PEK-BKK",
+    "origin": "PEK",
+    "dest": "BKK",
+    "originCity": "Beijing",
+    "destCity": "Bangkok",
+    "originCountry": "China",
+    "destCountry": "Thailand",
+    "label": "Beijing (PEK) → Bangkok (BKK)"
+  },
+  {
+    "key": "BKK-DEL",
+    "origin": "BKK",
+    "dest": "DEL",
+    "originCity": "Bangkok",
+    "destCity": "Delhi",
+    "originCountry": "Thailand",
+    "destCountry": "India",
+    "label": "Bangkok (BKK) → Delhi (DEL)"
+  },
+  {
+    "key": "DEL-BKK",
+    "origin": "DEL",
+    "dest": "BKK",
+    "originCity": "Delhi",
+    "destCity": "Bangkok",
+    "originCountry": "India",
+    "destCountry": "Thailand",
+    "label": "Delhi (DEL) → Bangkok (BKK)"
+  },
+  {
+    "key": "BKK-JFK",
+    "origin": "BKK",
+    "dest": "JFK",
+    "originCity": "Bangkok",
+    "destCity": "New York",
+    "originCountry": "Thailand",
+    "destCountry": "USA",
+    "label": "Bangkok (BKK) → New York (JFK)"
+  },
+  {
+    "key": "JFK-BKK",
+    "origin": "JFK",
+    "dest": "BKK",
+    "originCity": "New York",
+    "destCity": "Bangkok",
+    "originCountry": "USA",
+    "destCountry": "Thailand",
+    "label": "New York (JFK) → Bangkok (BKK)"
+  },
+  {
+    "key": "BKK-LAX",
+    "origin": "BKK",
+    "dest": "LAX",
+    "originCity": "Bangkok",
+    "destCity": "Los Angeles",
+    "originCountry": "Thailand",
+    "destCountry": "USA",
+    "label": "Bangkok (BKK) → Los Angeles (LAX)"
+  },
+  {
+    "key": "LAX-BKK",
+    "origin": "LAX",
+    "dest": "BKK",
+    "originCity": "Los Angeles",
+    "destCity": "Bangkok",
+    "originCountry": "USA",
+    "destCountry": "Thailand",
+    "label": "Los Angeles (LAX) → Bangkok (BKK)"
+  },
+  {
+    "key": "LHR-NRT",
+    "origin": "LHR",
+    "dest": "NRT",
+    "originCity": "London",
+    "destCity": "Tokyo",
+    "originCountry": "UK",
+    "destCountry": "Japan",
+    "label": "London (LHR) → Tokyo (NRT)"
+  },
+  {
+    "key": "NRT-LHR",
+    "origin": "NRT",
+    "dest": "LHR",
+    "originCity": "Tokyo",
+    "destCity": "London",
+    "originCountry": "Japan",
+    "destCountry": "UK",
+    "label": "Tokyo (NRT) → London (LHR)"
+  },
+  {
+    "key": "LHR-PVG",
+    "origin": "LHR",
+    "dest": "PVG",
+    "originCity": "London",
+    "destCity": "Shanghai",
+    "originCountry": "UK",
+    "destCountry": "China",
+    "label": "London (LHR) → Shanghai (PVG)"
+  },
+  {
+    "key": "PVG-LHR",
+    "origin": "PVG",
+    "dest": "LHR",
+    "originCity": "Shanghai",
+    "destCity": "London",
+    "originCountry": "China",
+    "destCountry": "UK",
+    "label": "Shanghai (PVG) → London (LHR)"
+  },
+  {
+    "key": "JFK-LAX",
+    "origin": "JFK",
+    "dest": "LAX",
+    "originCity": "New York",
+    "destCity": "Los Angeles",
+    "originCountry": "USA",
+    "destCountry": "USA",
+    "label": "New York (JFK) → Los Angeles (LAX)"
+  },
+  {
+    "key": "LAX-JFK",
+    "origin": "LAX",
+    "dest": "JFK",
+    "originCity": "Los Angeles",
+    "destCity": "New York",
+    "originCountry": "USA",
+    "destCountry": "USA",
+    "label": "Los Angeles (LAX) → New York (JFK)"
+  },
+  {
+    "key": "LHR-DEL",
+    "origin": "LHR",
+    "dest": "DEL",
+    "originCity": "London",
+    "destCity": "Delhi",
+    "originCountry": "UK",
+    "destCountry": "India",
+    "label": "London (LHR) → Delhi (DEL)"
+  },
+  {
+    "key": "DEL-LHR",
+    "origin": "DEL",
+    "dest": "LHR",
+    "originCity": "Delhi",
+    "destCity": "London",
+    "originCountry": "India",
+    "destCountry": "UK",
+    "label": "Delhi (DEL) → London (LHR)"
   }
 ]
