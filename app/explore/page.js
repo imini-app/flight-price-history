@@ -101,8 +101,8 @@ export default function ExplorePage() {
   return (
     <main className="container">
       <div className="page-header">
-        <h2>Explore Route Prices</h2>
-        <p>Compare average prices across different travel dates to find the cheapest time to fly.</p>
+        <h2>Explore route price history</h2>
+        <p>Compare price history across different travel dates to find the cheapest time to fly.</p>
       </div>
 
       <RoutePicker onSelect={handleSelect} onSubmit={handleSubmit} showDate={false} defaultOrigin={defaultOrigin} defaultDest={defaultDest} />
@@ -110,7 +110,7 @@ export default function ExplorePage() {
       {!routeKey && !loading && (
         <div className="card guide">
           <h3>How to Use Route History</h3>
-          <p>Compare average prices across every departure date we have data for. Spot the cheapest seasons, months, and days for your route at a glance.</p>
+          <p>Browse average prices across every departure date we have data for. Spot the cheapest seasons, months, and days for your route at a glance.</p>
           <div className="examples">
             <div className="example">
               <div className="example-icon">{'\u2601'}</div>
@@ -165,7 +165,7 @@ export default function ExplorePage() {
 
       {!recentChecksLoading && (
         <div className="card recent-checks">
-          <h3 className="recent-checks-title">Recent Price Checks</h3>
+          <h3 className="recent-checks-title">Recent Route History Checks</h3>
           {recentChecks.length > 0 ? (
             <div className="recent-checks-list">
               {recentChecks.map((c, i) => {
