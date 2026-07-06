@@ -1298,5 +1298,45 @@
     "originCountry": "Singapore",
     "destCountry": "USA",
     "label": "Singapore (SIN) → Los Angeles (LAX)"
+  },
+  {
+    "key": "YVR-PVG",
+    "origin": "YVR",
+    "dest": "PVG",
+    "originCity": "Vancouver",
+    "destCity": "Shanghai",
+    "originCountry": "Canada",
+    "destCountry": "China",
+    "label": "Vancouver (YVR) → Shanghai (PVG)"
+  },
+  {
+    "key": "PVG-YVR",
+    "origin": "PVG",
+    "dest": "YVR",
+    "originCity": "Shanghai",
+    "destCity": "Vancouver",
+    "originCountry": "China",
+    "destCountry": "Canada",
+    "label": "Shanghai (PVG) → Vancouver (YVR)"
+  },
+  {
+    "key": "YVR-PEK",
+    "origin": "YVR",
+    "dest": "PEK",
+    "originCity": "Vancouver",
+    "destCity": "Beijing",
+    "originCountry": "Canada",
+    "destCountry": "China",
+    "label": "Vancouver (YVR) → Beijing (PEK)"
+  },
+  {
+    "key": "PEK-YVR",
+    "origin": "PEK",
+    "dest": "YVR",
+    "originCity": "Beijing",
+    "destCity": "Vancouver",
+    "originCountry": "China",
+    "destCountry": "Canada",
+    "label": "Beijing (PEK) → Vancouver (YVR)"
   }
 ]
