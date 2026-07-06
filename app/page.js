@@ -6,6 +6,18 @@ import PriceChart from '@/components/PriceChart';
 import StatsCards from '@/components/StatsCards';
 import { fetchRouteData, filterPricesByDepartureDate, computeSnapshotStats } from '@/lib/data-utils';
 
+function formatRelativeTime(dateStr) {
+  const diff = Date.now() - new Date(dateStr).getTime();
+  const mins = Math.floor(diff / 60000);
+  if (mins < 1) return 'just now';
+  if (mins < 60) return `${mins}m ago`;
+  const hours = Math.floor(mins / 60);
+  if (hours < 24) return `${hours}h ago`;
+  const days = Math.floor(hours / 24);
+  if (days < 30) return `${days}d ago`;
+  return new Date(dateStr).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
 export default function Home() {
   const [routeKey, setRouteKey] = useState(null);
   const [pickDate, setPickDate] = useState(null);
@@ -19,17 +31,38 @@ export default function Home() {
   const [defaultDest, setDefaultDest] = useState('');
   const [defaultDate, setDefaultDate] = useState('');
 
+  const [recentChecks, setRecentChecks] = useState([]);
+  const [recentChecksLoading, setRecentChecksLoading] = useState(true);
+
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     setDefaultOrigin(params.get('origin') || '');
     setDefaultDest(params.get('dest') || '');
     setDefaultDate(params.get('date') || '');
+    fetchRecentChecks();
   }, []);
+
+  async function fetchRecentChecks() {
+    try {
+      const res = await fetch('/api/checks');
+      if (res.ok) setRecentChecks(await res.json());
+    } catch {} finally {
+      setRecentChecksLoading(false);
+    }
+  }
 
   const handleSelect = useCallback((key, date, label) => {
     setRouteKey(key);
     setPickDate(date);
     if (label) setRouteLabel(label);
+
+    fetch('/api/checks', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ routeKey: key, routeLabel: label, travelDate: date }),
+    }).then(res => {
+      if (res.ok) fetchRecentChecks();
+    }).catch(() => {});
   }, []);
 
   useEffect(() => {
@@ -100,6 +133,21 @@ export default function Home() {
                 <p>Try different departure dates to see how shifting your trip by a day or two affects the price history and current fare.</p>
               </div>
             </div>
+          </div>
+        </div>
+      )}
+
+      {!recentChecksLoading && recentChecks.length > 0 && (
+        <div className="card recent-checks">
+          <h3 className="recent-checks-title">Recent Price Checks</h3>
+          <div className="recent-checks-list">
+            {recentChecks.map((c, i) => (
+              <div key={i} className="recent-check-item">
+                <span className="rc-route">{c.route_label}</span>
+                <span className="rc-date">{c.travel_date}</span>
+                <span className="rc-time">{formatRelativeTime(c.created_at)}</span>
+              </div>
+            ))}
           </div>
         </div>
       )}
