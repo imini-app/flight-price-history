@@ -46,7 +46,10 @@ export default function Home() {
     try {
       const res = await fetch('/api/checks');
       if (res.ok) setRecentChecks(await res.json());
-    } catch {} finally {
+      else console.error('Failed to fetch recent checks:', res.status, await res.text().catch(() => ''));
+    } catch (err) {
+      console.error('Failed to fetch recent checks:', err);
+    } finally {
       setRecentChecksLoading(false);
     }
   }
@@ -64,7 +67,10 @@ export default function Home() {
       body: JSON.stringify({ routeKey: key, routeLabel: label, travelDate: date }),
     }).then(res => {
       if (res.ok) fetchRecentChecks();
-    }).catch(() => {});
+      else console.error('Failed to save check:', res.status);
+    }).catch(err => {
+      console.error('Failed to save check:', err);
+    });
   }, []);
 
   useEffect(() => {
@@ -139,18 +145,22 @@ export default function Home() {
         </div>
       )}
 
-      {!recentChecksLoading && recentChecks.length > 0 && (
+      {!recentChecksLoading && (
         <div className="card recent-checks">
           <h3 className="recent-checks-title">Recent Price Checks</h3>
-          <div className="recent-checks-list">
-            {recentChecks.map((c, i) => (
-              <div key={i} className="recent-check-item">
-                <span className="rc-route">{c.route_label}</span>
-                <span className="rc-date">{c.travel_date}</span>
-                <span className="rc-time">{formatRelativeTime(c.created_at)}</span>
-              </div>
-            ))}
-          </div>
+          {recentChecks.length > 0 ? (
+            <div className="recent-checks-list">
+              {recentChecks.map((c, i) => (
+                <div key={i} className="recent-check-item">
+                  <span className="rc-route">{c.route_label}</span>
+                  <span className="rc-date">{c.travel_date}</span>
+                  <span className="rc-time">{formatRelativeTime(c.created_at)}</span>
+                </div>
+              ))}
+            </div>
+          ) : (
+            <div className="recent-checks-empty">No checks yet — select a route and click Show Trend.</div>
+          )}
         </div>
       )}
 

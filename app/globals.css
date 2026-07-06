@@ -466,6 +466,11 @@ body {
   transition: background 0.12s;
 }
 .recent-check-item:hover { background: var(--gf-gray-50); }
+.recent-checks-empty {
+  font-size: 0.82rem;
+  color: var(--gf-gray-500);
+  padding: 6px 8px;
+}
 .rc-route { flex: 1; font-weight: 500; color: var(--gf-gray-800); }
 .rc-date { color: var(--gf-gray-600); font-size: 0.78rem; }
 .rc-time { color: var(--gf-gray-500); font-size: 0.78rem; white-space: nowrap; }
