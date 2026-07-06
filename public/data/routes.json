@@ -90,16 +90,6 @@
     "label": "Paris (CDG) → Toronto (YYZ)"
   },
   {
-    "key": "DEL-JFK",
-    "origin": "DEL",
-    "dest": "JFK",
-    "originCity": "Delhi",
-    "destCity": "New York",
-    "originCountry": "India",
-    "destCountry": "USA",
-    "label": "Delhi (DEL) → New York (JFK)"
-  },
-  {
     "key": "DXB-CDG",
     "origin": "DXB",
     "dest": "CDG",
@@ -370,16 +360,6 @@
     "label": "London (LHR) → Hong Kong (HKG)"
   },
   {
-    "key": "LHR-ICN",
-    "origin": "LHR",
-    "dest": "ICN",
-    "originCity": "London",
-    "destCity": "Seoul",
-    "originCountry": "UK",
-    "destCountry": "South Korea",
-    "label": "London (LHR) → Seoul (ICN)"
-  },
-  {
     "key": "LHR-JFK",
     "origin": "LHR",
     "dest": "JFK",
@@ -400,26 +380,6 @@
     "label": "London (LHR) → Los Angeles (LAX)"
   },
   {
-    "key": "LHR-ORD",
-    "origin": "LHR",
-    "dest": "ORD",
-    "originCity": "London",
-    "destCity": "Chicago",
-    "originCountry": "UK",
-    "destCountry": "USA",
-    "label": "London (LHR) → Chicago (ORD)"
-  },
-  {
-    "key": "LHR-SFO",
-    "origin": "LHR",
-    "dest": "SFO",
-    "originCity": "London",
-    "destCity": "San Francisco",
-    "originCountry": "UK",
-    "destCountry": "USA",
-    "label": "London (LHR) → San Francisco (SFO)"
-  },
-  {
     "key": "LHR-SIN",
     "origin": "LHR",
     "dest": "SIN",
@@ -428,26 +388,6 @@
     "originCountry": "UK",
     "destCountry": "Singapore",
     "label": "London (LHR) → Singapore (SIN)"
-  },
-  {
-    "key": "LHR-YUL",
-    "origin": "LHR",
-    "dest": "YUL",
-    "originCity": "London",
-    "destCity": "Montreal",
-    "originCountry": "UK",
-    "destCountry": "Canada",
-    "label": "London (LHR) → Montreal (YUL)"
-  },
-  {
-    "key": "LHR-YVR",
-    "origin": "LHR",
-    "dest": "YVR",
-    "originCity": "London",
-    "destCity": "Vancouver",
-    "originCountry": "UK",
-    "destCountry": "Canada",
-    "label": "London (LHR) → Vancouver (YVR)"
   },
   {
     "key": "LHR-YYZ",
@@ -460,46 +400,6 @@
     "label": "London (LHR) → Toronto (YYZ)"
   },
   {
-    "key": "NRT-AMS",
-    "origin": "NRT",
-    "dest": "AMS",
-    "originCity": "Tokyo",
-    "destCity": "Amsterdam",
-    "originCountry": "Japan",
-    "destCountry": "Netherlands",
-    "label": "Tokyo (NRT) → Amsterdam (AMS)"
-  },
-  {
-    "key": "NRT-CDG",
-    "origin": "NRT",
-    "dest": "CDG",
-    "originCity": "Tokyo",
-    "destCity": "Paris",
-    "originCountry": "Japan",
-    "destCountry": "France",
-    "label": "Tokyo (NRT) → Paris (CDG)"
-  },
-  {
-    "key": "NRT-DXB",
-    "origin": "NRT",
-    "dest": "DXB",
-    "originCity": "Tokyo",
-    "destCity": "Dubai",
-    "originCountry": "Japan",
-    "destCountry": "UAE",
-    "label": "Tokyo (NRT) → Dubai (DXB)"
-  },
-  {
-    "key": "NRT-FRA",
-    "origin": "NRT",
-    "dest": "FRA",
-    "originCity": "Tokyo",
-    "destCity": "Frankfurt",
-    "originCountry": "Japan",
-    "destCountry": "Germany",
-    "label": "Tokyo (NRT) → Frankfurt (FRA)"
-  },
-  {
     "key": "NRT-HKG",
     "origin": "NRT",
     "dest": "HKG",
@@ -508,16 +408,6 @@
     "originCountry": "Japan",
     "destCountry": "Hong Kong",
     "label": "Tokyo (NRT) → Hong Kong (HKG)"
-  },
-  {
-    "key": "NRT-ICN",
-    "origin": "NRT",
-    "dest": "ICN",
-    "originCity": "Tokyo",
-    "destCity": "Seoul",
-    "originCountry": "Japan",
-    "destCountry": "South Korea",
-    "label": "Tokyo (NRT) → Seoul (ICN)"
   },
   {
     "key": "NRT-JFK",
@@ -538,16 +428,6 @@
     "originCountry": "Japan",
     "destCountry": "USA",
     "label": "Tokyo (NRT) → Los Angeles (LAX)"
-  },
-  {
-    "key": "NRT-ORD",
-    "origin": "NRT",
-    "dest": "ORD",
-    "originCity": "Tokyo",
-    "destCity": "Chicago",
-    "originCountry": "Japan",
-    "destCountry": "USA",
-    "label": "Tokyo (NRT) → Chicago (ORD)"
   },
   {
     "key": "NRT-SFO",
@@ -578,26 +458,6 @@
     "originCountry": "Japan",
     "destCountry": "Australia",
     "label": "Tokyo (NRT) → Sydney (SYD)"
-  },
-  {
-    "key": "NRT-YVR",
-    "origin": "NRT",
-    "dest": "YVR",
-    "originCity": "Tokyo",
-    "destCity": "Vancouver",
-    "originCountry": "Japan",
-    "destCountry": "Canada",
-    "label": "Tokyo (NRT) → Vancouver (YVR)"
-  },
-  {
-    "key": "NRT-YYZ",
-    "origin": "NRT",
-    "dest": "YYZ",
-    "originCity": "Tokyo",
-    "destCity": "Toronto",
-    "originCountry": "Japan",
-    "destCountry": "Canada",
-    "label": "Tokyo (NRT) → Toronto (YYZ)"
   },
   {
     "key": "ORD-LHR",
@@ -1240,26 +1100,6 @@
     "label": "Delhi (DEL) → Tokyo (NRT)"
   },
   {
-    "key": "DEL-HKG",
-    "origin": "DEL",
-    "dest": "HKG",
-    "originCity": "Delhi",
-    "destCity": "Hong Kong",
-    "originCountry": "India",
-    "destCountry": "Hong Kong",
-    "label": "Delhi (DEL) → Hong Kong (HKG)"
-  },
-  {
-    "key": "DEL-PVG",
-    "origin": "DEL",
-    "dest": "PVG",
-    "originCity": "Delhi",
-    "destCity": "Shanghai",
-    "originCountry": "India",
-    "destCountry": "China",
-    "label": "Delhi (DEL) → Shanghai (PVG)"
-  },
-  {
     "key": "DEL-CDG",
     "origin": "DEL",
     "dest": "CDG",
@@ -1268,96 +1108,6 @@
     "originCountry": "India",
     "destCountry": "France",
     "label": "Delhi (DEL) → Paris (CDG)"
-  },
-  {
-    "key": "DEL-FRA",
-    "origin": "DEL",
-    "dest": "FRA",
-    "originCity": "Delhi",
-    "destCity": "Frankfurt",
-    "originCountry": "India",
-    "destCountry": "Germany",
-    "label": "Delhi (DEL) → Frankfurt (FRA)"
-  },
-  {
-    "key": "DEL-SYD",
-    "origin": "DEL",
-    "dest": "SYD",
-    "originCity": "Delhi",
-    "destCity": "Sydney",
-    "originCountry": "India",
-    "destCountry": "Australia",
-    "label": "Delhi (DEL) → Sydney (SYD)"
-  },
-  {
-    "key": "DEL-ICN",
-    "origin": "DEL",
-    "dest": "ICN",
-    "originCity": "Delhi",
-    "destCity": "Seoul",
-    "originCountry": "India",
-    "destCountry": "South Korea",
-    "label": "Delhi (DEL) → Seoul (ICN)"
-  },
-  {
-    "key": "DEL-AMS",
-    "origin": "DEL",
-    "dest": "AMS",
-    "originCity": "Delhi",
-    "destCity": "Amsterdam",
-    "originCountry": "India",
-    "destCountry": "Netherlands",
-    "label": "Delhi (DEL) → Amsterdam (AMS)"
-  },
-  {
-    "key": "DEL-YYZ",
-    "origin": "DEL",
-    "dest": "YYZ",
-    "originCity": "Delhi",
-    "destCity": "Toronto",
-    "originCountry": "India",
-    "destCountry": "Canada",
-    "label": "Delhi (DEL) → Toronto (YYZ)"
-  },
-  {
-    "key": "DEL-YVR",
-    "origin": "DEL",
-    "dest": "YVR",
-    "originCity": "Delhi",
-    "destCity": "Vancouver",
-    "originCountry": "India",
-    "destCountry": "Canada",
-    "label": "Delhi (DEL) → Vancouver (YVR)"
-  },
-  {
-    "key": "DEL-LAX",
-    "origin": "DEL",
-    "dest": "LAX",
-    "originCity": "Delhi",
-    "destCity": "Los Angeles",
-    "originCountry": "India",
-    "destCountry": "USA",
-    "label": "Delhi (DEL) → Los Angeles (LAX)"
-  },
-  {
-    "key": "DEL-SFO",
-    "origin": "DEL",
-    "dest": "SFO",
-    "originCity": "Delhi",
-    "destCity": "San Francisco",
-    "originCountry": "India",
-    "destCountry": "USA",
-    "label": "Delhi (DEL) → San Francisco (SFO)"
-  },
-  {
-    "key": "DEL-ORD",
-    "origin": "DEL",
-    "dest": "ORD",
-    "originCity": "Delhi",
-    "destCity": "Chicago",
-    "originCountry": "India",
-    "destCountry": "USA",
-    "label": "Delhi (DEL) → Chicago (ORD)"
   },
   {
     "key": "YYZ-AMS",
@@ -1568,5 +1318,15 @@
     "originCountry": "USA",
     "destCountry": "Canada",
     "label": "Los Angeles (LAX) → Vancouver (YVR)"
+  },
+  {
+    "key": "DEL-JFK",
+    "origin": "DEL",
+    "dest": "JFK",
+    "originCity": "Delhi",
+    "destCity": "New York",
+    "originCountry": "India",
+    "destCountry": "USA",
+    "label": "Delhi (DEL) → New York (JFK)"
   }
 ]
