@@ -1358,5 +1358,215 @@
     "originCountry": "India",
     "destCountry": "USA",
     "label": "Delhi (DEL) → Chicago (ORD)"
+  },
+  {
+    "key": "YYZ-AMS",
+    "origin": "YYZ",
+    "dest": "AMS",
+    "originCity": "Toronto",
+    "destCity": "Amsterdam",
+    "originCountry": "Canada",
+    "destCountry": "Netherlands",
+    "label": "Toronto (YYZ) → Amsterdam (AMS)"
+  },
+  {
+    "key": "YYZ-DXB",
+    "origin": "YYZ",
+    "dest": "DXB",
+    "originCity": "Toronto",
+    "destCity": "Dubai",
+    "originCountry": "Canada",
+    "destCountry": "UAE",
+    "label": "Toronto (YYZ) → Dubai (DXB)"
+  },
+  {
+    "key": "YYZ-FRA",
+    "origin": "YYZ",
+    "dest": "FRA",
+    "originCity": "Toronto",
+    "destCity": "Frankfurt",
+    "originCountry": "Canada",
+    "destCountry": "Germany",
+    "label": "Toronto (YYZ) → Frankfurt (FRA)"
+  },
+  {
+    "key": "YYZ-HKG",
+    "origin": "YYZ",
+    "dest": "HKG",
+    "originCity": "Toronto",
+    "destCity": "Hong Kong",
+    "originCountry": "Canada",
+    "destCountry": "Hong Kong",
+    "label": "Toronto (YYZ) → Hong Kong (HKG)"
+  },
+  {
+    "key": "YYZ-ICN",
+    "origin": "YYZ",
+    "dest": "ICN",
+    "originCity": "Toronto",
+    "destCity": "Seoul",
+    "originCountry": "Canada",
+    "destCountry": "South Korea",
+    "label": "Toronto (YYZ) → Seoul (ICN)"
+  },
+  {
+    "key": "YYZ-SFO",
+    "origin": "YYZ",
+    "dest": "SFO",
+    "originCity": "Toronto",
+    "destCity": "San Francisco",
+    "originCountry": "Canada",
+    "destCountry": "USA",
+    "label": "Toronto (YYZ) → San Francisco (SFO)"
+  },
+  {
+    "key": "YYZ-SIN",
+    "origin": "YYZ",
+    "dest": "SIN",
+    "originCity": "Toronto",
+    "destCity": "Singapore",
+    "originCountry": "Canada",
+    "destCountry": "Singapore",
+    "label": "Toronto (YYZ) → Singapore (SIN)"
+  },
+  {
+    "key": "JFK-AMS",
+    "origin": "JFK",
+    "dest": "AMS",
+    "originCity": "New York",
+    "destCity": "Amsterdam",
+    "originCountry": "USA",
+    "destCountry": "Netherlands",
+    "label": "New York (JFK) → Amsterdam (AMS)"
+  },
+  {
+    "key": "JFK-DXB",
+    "origin": "JFK",
+    "dest": "DXB",
+    "originCity": "New York",
+    "destCity": "Dubai",
+    "originCountry": "USA",
+    "destCountry": "UAE",
+    "label": "New York (JFK) → Dubai (DXB)"
+  },
+  {
+    "key": "JFK-FRA",
+    "origin": "JFK",
+    "dest": "FRA",
+    "originCity": "New York",
+    "destCity": "Frankfurt",
+    "originCountry": "USA",
+    "destCountry": "Germany",
+    "label": "New York (JFK) → Frankfurt (FRA)"
+  },
+  {
+    "key": "JFK-HKG",
+    "origin": "JFK",
+    "dest": "HKG",
+    "originCity": "New York",
+    "destCity": "Hong Kong",
+    "originCountry": "USA",
+    "destCountry": "Hong Kong",
+    "label": "New York (JFK) → Hong Kong (HKG)"
+  },
+  {
+    "key": "JFK-ICN",
+    "origin": "JFK",
+    "dest": "ICN",
+    "originCity": "New York",
+    "destCity": "Seoul",
+    "originCountry": "USA",
+    "destCountry": "South Korea",
+    "label": "New York (JFK) → Seoul (ICN)"
+  },
+  {
+    "key": "JFK-SIN",
+    "origin": "JFK",
+    "dest": "SIN",
+    "originCity": "New York",
+    "destCity": "Singapore",
+    "originCountry": "USA",
+    "destCountry": "Singapore",
+    "label": "New York (JFK) → Singapore (SIN)"
+  },
+  {
+    "key": "JFK-SYD",
+    "origin": "JFK",
+    "dest": "SYD",
+    "originCity": "New York",
+    "destCity": "Sydney",
+    "originCountry": "USA",
+    "destCountry": "Australia",
+    "label": "New York (JFK) → Sydney (SYD)"
+  },
+  {
+    "key": "LAX-AMS",
+    "origin": "LAX",
+    "dest": "AMS",
+    "originCity": "Los Angeles",
+    "destCity": "Amsterdam",
+    "originCountry": "USA",
+    "destCountry": "Netherlands",
+    "label": "Los Angeles (LAX) → Amsterdam (AMS)"
+  },
+  {
+    "key": "LAX-CDG",
+    "origin": "LAX",
+    "dest": "CDG",
+    "originCity": "Los Angeles",
+    "destCity": "Paris",
+    "originCountry": "USA",
+    "destCountry": "France",
+    "label": "Los Angeles (LAX) → Paris (CDG)"
+  },
+  {
+    "key": "LAX-FRA",
+    "origin": "LAX",
+    "dest": "FRA",
+    "originCity": "Los Angeles",
+    "destCity": "Frankfurt",
+    "originCountry": "USA",
+    "destCountry": "Germany",
+    "label": "Los Angeles (LAX) → Frankfurt (FRA)"
+  },
+  {
+    "key": "LAX-HKG",
+    "origin": "LAX",
+    "dest": "HKG",
+    "originCity": "Los Angeles",
+    "destCity": "Hong Kong",
+    "originCountry": "USA",
+    "destCountry": "Hong Kong",
+    "label": "Los Angeles (LAX) → Hong Kong (HKG)"
+  },
+  {
+    "key": "LAX-ICN",
+    "origin": "LAX",
+    "dest": "ICN",
+    "originCity": "Los Angeles",
+    "destCity": "Seoul",
+    "originCountry": "USA",
+    "destCountry": "South Korea",
+    "label": "Los Angeles (LAX) → Seoul (ICN)"
+  },
+  {
+    "key": "LAX-SIN",
+    "origin": "LAX",
+    "dest": "SIN",
+    "originCity": "Los Angeles",
+    "destCity": "Singapore",
+    "originCountry": "USA",
+    "destCountry": "Singapore",
+    "label": "Los Angeles (LAX) → Singapore (SIN)"
+  },
+  {
+    "key": "LAX-YVR",
+    "origin": "LAX",
+    "dest": "YVR",
+    "originCity": "Los Angeles",
+    "destCity": "Vancouver",
+    "originCountry": "USA",
+    "destCountry": "Canada",
+    "label": "Los Angeles (LAX) → Vancouver (YVR)"
   }
 ]
