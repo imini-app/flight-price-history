@@ -1,35 +1,56 @@
 'use client';
 
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useCallback, useEffect, useMemo } from 'react';
 import RoutePicker from '@/components/RoutePicker';
-import PriceChart from '@/components/PriceChart';
+import PriceHistoryChart from '@/components/PriceHistoryChart';
 import StatsCards from '@/components/StatsCards';
-import { fetchRouteData, filterPricesByDepartureDate, computeSnapshotStats } from '@/lib/data-utils';
+import { fetchRouteData } from '@/lib/data-utils';
+
+function getLatestPricePerDate(prices) {
+  const byDate = {};
+  for (const p of prices) {
+    if (!p.snapshot) continue;
+    const key = p.date;
+    if (!byDate[key] || p.snapshot > byDate[key].snapshot) {
+      byDate[key] = p;
+    }
+  }
+  return Object.values(byDate).sort((a, b) => a.date.localeCompare(b.date));
+}
+
+function computeHistoryStats(prices) {
+  if (!prices || prices.length === 0) return null;
+  const vals = prices.map(p => p.price);
+  return {
+    min: Math.min(...vals),
+    max: Math.max(...vals),
+    avg: Math.round(vals.reduce((a, b) => a + b, 0) / vals.length * 10) / 10,
+    count: vals.length,
+  };
+}
 
 export default function Home() {
   const [routeKey, setRouteKey] = useState(null);
-  const [pickDate, setPickDate] = useState(null);
-  const [snapshotPrices, setSnapshotPrices] = useState([]);
+  const [latestPrices, setLatestPrices] = useState([]);
   const [stats, setStats] = useState(null);
   const [routeLabel, setRouteLabel] = useState('');
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
-  const handleSelect = useCallback((key, date) => {
+  const handleSelect = useCallback((key) => {
     setRouteKey(key);
-    setPickDate(date);
   }, []);
 
   useEffect(() => {
-    if (!routeKey || !pickDate) return;
+    if (!routeKey) return;
     setLoading(true);
     setError(null);
 
     fetchRouteData(routeKey)
       .then(data => {
-        const snaps = filterPricesByDepartureDate(data.prices, pickDate);
-        const s = computeSnapshotStats(snaps);
-        setSnapshotPrices(snaps);
+        const byDate = getLatestPricePerDate(data.prices);
+        const s = computeHistoryStats(byDate);
+        setLatestPrices(byDate);
         setStats(s);
         setRouteLabel(data.label);
         setLoading(false);
@@ -38,18 +59,18 @@ export default function Home() {
         setError(err.message);
         setLoading(false);
       });
-  }, [routeKey, pickDate]);
+  }, [routeKey]);
 
   return (
     <main className="container">
       <div className="hero">
         <h1>Flight Price History</h1>
         <p className="hero-sub">
-          See how flight prices change day by day. Pick a route and a departure date to find the best time to book.
+          See the latest prices across all travel dates for any route. Pick a route to find the best time to fly.
         </p>
       </div>
 
-      <RoutePicker onSelect={handleSelect} />
+      <RoutePicker onSelect={handleSelect} showDate={false} />
 
       {error && <div className="error-banner">{error}</div>}
 
@@ -62,19 +83,18 @@ export default function Home() {
         </div>
       )}
 
-      {!loading && routeKey && snapshotPrices.length === 0 && !error && (
+      {!loading && routeKey && latestPrices.length === 0 && !error && (
         <div className="card">
           <div className="empty-state">
             <h3>No data available</h3>
-            <p>We haven't collected price data for {pickDate} yet. Data is gathered once a day — check back tomorrow!</p>
+            <p>We haven't collected price data for this route yet. Data is gathered once a day — check back soon!</p>
           </div>
         </div>
       )}
 
       {!loading && stats && (
         <div>
-          <StatsCards stats={stats} prices={snapshotPrices} routeLabel={routeLabel} pickDate={pickDate} />
-          <PriceChart prices={snapshotPrices} stats={stats} pickDate={pickDate} />
+          <PriceHistoryChart prices={latestPrices} stats={stats} routeLabel={routeLabel} />
         </div>
       )}
     </main>

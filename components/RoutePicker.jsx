@@ -3,7 +3,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import { fetchRoutes, buildOriginIndex } from '@/lib/data-utils';
 
-export default function RoutePicker({ onSelect, defaultOrigin, defaultDest }) {
+export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, showDate = true }) {
   const [origins, setOrigins] = useState([]);
   const [destinations, setDestinations] = useState([]);
   const [selectedOrigin, setSelectedOrigin] = useState(defaultOrigin || '');
@@ -36,9 +36,10 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest }) {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (!selectedOrigin || !selectedDest || !pickDate) return;
+    if (!selectedOrigin || !selectedDest) return;
+    if (showDate && !pickDate) return;
     const route = routes.find(r => r.origin === selectedOrigin && r.dest === selectedDest);
-    if (route) onSelect(route.key, pickDate);
+    if (route) onSelect(route.key, showDate ? pickDate : null);
   };
 
   if (loading) {
@@ -74,12 +75,14 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest }) {
             ))}
           </select>
         </div>
-        <div className="search-field">
-          <label>Departure Date</label>
-          <input type="date" value={pickDate} onChange={e => setPickDate(e.target.value)} />
-        </div>
-        <button type="submit" className="btn btn-primary" disabled={!selectedOrigin || !selectedDest || !pickDate}>
-          Show Trend
+        {showDate && (
+          <div className="search-field">
+            <label>Travel Date</label>
+            <input type="date" value={pickDate} onChange={e => setPickDate(e.target.value)} />
+          </div>
+        )}
+        <button type="submit" className="btn btn-primary" disabled={!selectedOrigin || !selectedDest || (showDate && !pickDate)}>
+          {showDate ? 'Show Trend' : 'View Prices'}
         </button>
       </div>
     </form>
