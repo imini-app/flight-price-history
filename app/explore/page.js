@@ -1,37 +1,32 @@
 'use client';
 
-import { useState, useCallback, useEffect, useMemo } from 'react';
+import { useState, useCallback, useEffect } from 'react';
 import RoutePicker from '@/components/RoutePicker';
 import ExploreChart from '@/components/ExploreChart';
-import { fetchRouteData, filterPricesByDateRange, groupPricesByDeparture, computeStats } from '@/lib/data-utils';
+import { fetchRouteData, groupPricesByDeparture, computeStats } from '@/lib/data-utils';
 
 export default function ExplorePage() {
   const [routeKey, setRouteKey] = useState(null);
-  const [pickDate, setPickDate] = useState(null);
   const [grouped, setGrouped] = useState([]);
   const [stats, setStats] = useState(null);
   const [routeLabel, setRouteLabel] = useState('');
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
-  const handleSelect = useCallback((key, date, label) => {
+  const handleSelect = useCallback((key, _date, label) => {
     setRouteKey(key);
-    setPickDate(date);
     if (label) setRouteLabel(label);
   }, []);
 
-  const monthsBack = 6;
-
   useEffect(() => {
-    if (!routeKey || !pickDate) return;
+    if (!routeKey) return;
     setLoading(true);
     setError(null);
 
     fetchRouteData(routeKey)
       .then(data => {
-        const filtered = filterPricesByDateRange(data.prices, pickDate, monthsBack);
-        const g = groupPricesByDeparture(filtered);
-        const s = computeStats(filtered);
+        const g = groupPricesByDeparture(data.prices);
+        const s = computeStats(data.prices);
         setGrouped(g);
         setStats(s);
         setLoading(false);
@@ -40,7 +35,7 @@ export default function ExplorePage() {
         setError(err.message);
         setLoading(false);
       });
-  }, [routeKey, pickDate]);
+  }, [routeKey]);
 
   return (
     <main className="container">
@@ -49,7 +44,7 @@ export default function ExplorePage() {
         <p>Compare average prices across different travel dates to find the cheapest time to fly.</p>
       </div>
 
-      <RoutePicker onSelect={handleSelect} />
+      <RoutePicker onSelect={handleSelect} showDate={false} />
 
       {error && <div className="error-banner">{error}</div>}
 
