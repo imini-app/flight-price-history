@@ -17,16 +17,19 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
   const [loading, setLoading] = useState(true);
   const [routes, setRoutes] = useState([]);
   const [availableDates, setAvailableDates] = useState([]);
+  const [datePrices, setDatePrices] = useState([]);
   const [routeDataLoading, setRouteDataLoading] = useState(false);
 
   useEffect(() => {
     if (!selectedOrigin || !selectedDest || !routes.length) {
       setAvailableDates([]);
+      setDatePrices([]);
       return;
     }
     const route = routes.find(r => r.origin === selectedOrigin && r.dest === selectedDest);
     if (!route) {
       setAvailableDates([]);
+      setDatePrices([]);
       return;
     }
     setRouteDataLoading(true);
@@ -36,12 +39,28 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
         return res.json();
       })
       .then(data => {
-        const dates = [...new Set(data.prices.map(p => p.date))].sort();
-        setAvailableDates(dates);
+        const groups = {};
+        for (const p of data.prices) {
+          if (!p.snapshot) continue;
+          if (!groups[p.date]) groups[p.date] = [];
+          groups[p.date].push(p.price);
+        }
+        const entries = Object.entries(groups)
+          .map(([date, vals]) => ({
+            date,
+            avgPrice: Math.round(vals.reduce((a, b) => a + b, 0) / vals.length),
+          }))
+          .sort((a, b) => a.date.localeCompare(b.date));
+        setAvailableDates(entries.map(e => e.date));
+        setDatePrices(entries);
         setRouteDataLoading(false);
+        if (!entries.find(e => e.date === pickDate)) {
+          setPickDate(entries[0]?.date || pickDate);
+        }
       })
       .catch(() => {
         setAvailableDates([]);
+        setDatePrices([]);
         setRouteDataLoading(false);
       });
   }, [selectedOrigin, selectedDest, routes]);
@@ -148,6 +167,21 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
             {dateInfo?.type === 'available' && (
               <div className="date-info date-info-ok">
                 Data available for {dateInfo.count} dates ({new Date(dateInfo.min).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })} – {new Date(dateInfo.max).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })})
+              </div>
+            )}
+            {dateInfo?.type === 'available' && (
+              <div className="date-price-list">
+                {datePrices.map(d => (
+                  <button
+                    key={d.date}
+                    type="button"
+                    className={`date-price-chip${d.date === pickDate ? ' selected' : ''}`}
+                    onClick={() => setPickDate(d.date)}
+                  >
+                    <span className="dpc-date">{new Date(d.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
+                    <span className="dpc-price">${d.avgPrice}</span>
+                  </button>
+                ))}
               </div>
             )}
           </div>
