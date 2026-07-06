@@ -4,6 +4,7 @@ import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { fetchRoutes, buildOriginIndex } from '@/lib/data-utils';
 import SearchableSelect from './SearchableSelect';
 import CalendarPicker from './CalendarPicker';
+import { loadPickerState, savePickerState } from '@/lib/storage';
 
 export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, showDate = true }) {
   const [origins, setOrigins] = useState([]);
@@ -78,6 +79,34 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
       })
       .catch(() => setLoading(false));
   }, []);
+
+  useEffect(() => {
+    if (loading) return;
+    const saved = loadPickerState();
+    if (saved.origin) {
+      setSelectedOrigin(saved.origin);
+      const found = origins.find(o => o.code === saved.origin);
+      if (found) {
+        setDestinations(found.destinations || []);
+        if (saved.dest) setSelectedDest(saved.dest);
+      }
+      if (saved.date && showDate) {
+        const d = new Date(saved.date);
+        if (!isNaN(d.getTime())) setPickDate(saved.date);
+      }
+    }
+  }, [loading]);
+
+  useEffect(() => {
+    if (!loading && selectedOrigin && selectedDest) {
+      const route = routes.find(r => r.origin === selectedOrigin && r.dest === selectedDest);
+      if (route) {
+        const state = { origin: selectedOrigin, dest: selectedDest, routeLabel: route.label };
+        if (showDate) state.date = pickDate;
+        savePickerState(state);
+      }
+    }
+  }, [selectedOrigin, selectedDest, pickDate]);
 
   const handleOriginChange = useCallback((e) => {
     const code = e.target.value;
