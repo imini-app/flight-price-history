@@ -93,9 +93,12 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
             <input type="date" value={pickDate} onChange={e => setPickDate(e.target.value)} />
           </div>
         )}
-        <button type="submit" className="btn btn-primary" disabled={!selectedOrigin || !selectedDest || (showDate && !pickDate)}>
-          {showDate ? 'Show Trend' : 'View Prices'}
-        </button>
+        <div className="search-field">
+          <label>&nbsp;</label>
+          <button type="submit" className="btn btn-primary" disabled={!selectedOrigin || !selectedDest || (showDate && !pickDate)}>
+            {showDate ? 'Show Trend' : 'View Prices'}
+          </button>
+        </div>
       </div>
     </form>
   );
