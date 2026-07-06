@@ -44,7 +44,7 @@ export default function Home() {
 
   async function fetchRecentChecks() {
     try {
-      const res = await fetch('/api/checks');
+      const res = await fetch('/api/checks?type=price_check');
       if (res.ok) setRecentChecks(await res.json());
       else console.error('Failed to fetch recent checks:', res.status, await res.text().catch(() => ''));
     } catch (err) {
@@ -64,7 +64,7 @@ export default function Home() {
     fetch('/api/checks', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ routeKey: key, routeLabel: label, travelDate: date }),
+      body: JSON.stringify({ routeKey: key, routeLabel: label, travelDate: date, checkType: 'price_check' }),
     }).then(res => {
       if (res.ok) fetchRecentChecks();
       else console.error('Failed to save check:', res.status);

@@ -10,9 +10,9 @@ function getIp(request) {
 export async function POST(request) {
   try {
     await initDb();
-    const { routeKey, routeLabel, travelDate } = await request.json();
+    const { routeKey, routeLabel, travelDate, checkType } = await request.json();
     const ip = getIp(request);
-    await saveCheck({ ip, routeKey, routeLabel, travelDate });
+    await saveCheck({ ip, routeKey, routeLabel, travelDate, checkType });
     return Response.json({ ok: true });
   } catch (err) {
     console.error('Failed to save check:', err);
@@ -20,10 +20,11 @@ export async function POST(request) {
   }
 }
 
-export async function GET() {
+export async function GET(request) {
   try {
     await initDb();
-    const rows = await getRecentChecks();
+    const type = new URL(request.url).searchParams.get('type') || undefined;
+    const rows = await getRecentChecks({ type });
     return Response.json(rows);
   } catch (err) {
     console.error('Failed to fetch checks:', err);
