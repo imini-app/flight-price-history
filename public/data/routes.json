@@ -140,16 +140,6 @@
     "label": "Hong Kong (HKG) → Sydney (SYD)"
   },
   {
-    "key": "ICN-LHR",
-    "origin": "ICN",
-    "dest": "LHR",
-    "originCity": "Seoul",
-    "destCity": "London",
-    "originCountry": "South Korea",
-    "destCountry": "UK",
-    "label": "Seoul (ICN) → London (LHR)"
-  },
-  {
     "key": "JFK-CDG",
     "origin": "JFK",
     "dest": "CDG",
@@ -610,16 +600,6 @@
     "label": "Sydney (SYD) → Vancouver (YVR)"
   },
   {
-    "key": "YVR-LHR",
-    "origin": "YVR",
-    "dest": "LHR",
-    "originCity": "Vancouver",
-    "destCity": "London",
-    "originCountry": "Canada",
-    "destCountry": "UK",
-    "label": "Vancouver (YVR) → London (LHR)"
-  },
-  {
     "key": "YVR-NRT",
     "origin": "YVR",
     "dest": "NRT",
@@ -688,16 +668,6 @@
     "originCountry": "China",
     "destCountry": "UK",
     "label": "Beijing (PEK) → London (LHR)"
-  },
-  {
-    "key": "PEK-JFK",
-    "origin": "PEK",
-    "dest": "JFK",
-    "originCity": "Beijing",
-    "destCity": "New York",
-    "originCountry": "China",
-    "destCountry": "USA",
-    "label": "Beijing (PEK) → New York (JFK)"
   },
   {
     "key": "PEK-HKG",
@@ -770,16 +740,6 @@
     "label": "Beijing (PEK) → Amsterdam (AMS)"
   },
   {
-    "key": "DEL-LHR",
-    "origin": "DEL",
-    "dest": "LHR",
-    "originCity": "Delhi",
-    "destCity": "London",
-    "originCountry": "India",
-    "destCountry": "UK",
-    "label": "Delhi (DEL) → London (LHR)"
-  },
-  {
     "key": "DEL-SIN",
     "origin": "DEL",
     "dest": "SIN",
@@ -840,26 +800,6 @@
     "label": "Toronto (YYZ) → Singapore (SIN)"
   },
   {
-    "key": "JFK-AMS",
-    "origin": "JFK",
-    "dest": "AMS",
-    "originCity": "New York",
-    "destCity": "Amsterdam",
-    "originCountry": "USA",
-    "destCountry": "Netherlands",
-    "label": "New York (JFK) → Amsterdam (AMS)"
-  },
-  {
-    "key": "JFK-DXB",
-    "origin": "JFK",
-    "dest": "DXB",
-    "originCity": "New York",
-    "destCity": "Dubai",
-    "originCountry": "USA",
-    "destCountry": "UAE",
-    "label": "New York (JFK) → Dubai (DXB)"
-  },
-  {
     "key": "JFK-HKG",
     "origin": "JFK",
     "dest": "HKG",
@@ -868,16 +808,6 @@
     "originCountry": "USA",
     "destCountry": "Hong Kong",
     "label": "New York (JFK) → Hong Kong (HKG)"
-  },
-  {
-    "key": "JFK-ICN",
-    "origin": "JFK",
-    "dest": "ICN",
-    "originCity": "New York",
-    "destCity": "Seoul",
-    "originCountry": "USA",
-    "destCountry": "South Korea",
-    "label": "New York (JFK) → Seoul (ICN)"
   },
   {
     "key": "JFK-SIN",
@@ -980,16 +910,6 @@
     "label": "Tokyo (NRT) → Paris (CDG)"
   },
   {
-    "key": "LHR-ICN",
-    "origin": "LHR",
-    "dest": "ICN",
-    "originCity": "London",
-    "destCity": "Seoul",
-    "originCountry": "UK",
-    "destCountry": "South Korea",
-    "label": "London (LHR) → Seoul (ICN)"
-  },
-  {
     "key": "LHR-SFO",
     "origin": "LHR",
     "dest": "SFO",
@@ -998,16 +918,6 @@
     "originCountry": "UK",
     "destCountry": "USA",
     "label": "London (LHR) → San Francisco (SFO)"
-  },
-  {
-    "key": "LHR-YVR",
-    "origin": "LHR",
-    "dest": "YVR",
-    "originCity": "London",
-    "destCity": "Vancouver",
-    "originCountry": "UK",
-    "destCountry": "Canada",
-    "label": "London (LHR) → Vancouver (YVR)"
   },
   {
     "key": "NRT-YVR",
@@ -1038,16 +948,6 @@
     "originCountry": "UK",
     "destCountry": "China",
     "label": "London (LHR) → Beijing (PEK)"
-  },
-  {
-    "key": "JFK-PEK",
-    "origin": "JFK",
-    "dest": "PEK",
-    "originCity": "New York",
-    "destCity": "Beijing",
-    "originCountry": "USA",
-    "destCountry": "China",
-    "label": "New York (JFK) → Beijing (PEK)"
   },
   {
     "key": "HKG-PEK",
@@ -1120,16 +1020,6 @@
     "label": "Amsterdam (AMS) → Beijing (PEK)"
   },
   {
-    "key": "LHR-DEL",
-    "origin": "LHR",
-    "dest": "DEL",
-    "originCity": "London",
-    "destCity": "Delhi",
-    "originCountry": "UK",
-    "destCountry": "India",
-    "label": "London (LHR) → Delhi (DEL)"
-  },
-  {
     "key": "SIN-DEL",
     "origin": "SIN",
     "dest": "DEL",
@@ -1190,26 +1080,6 @@
     "label": "Singapore (SIN) → Toronto (YYZ)"
   },
   {
-    "key": "AMS-JFK",
-    "origin": "AMS",
-    "dest": "JFK",
-    "originCity": "Amsterdam",
-    "destCity": "New York",
-    "originCountry": "Netherlands",
-    "destCountry": "USA",
-    "label": "Amsterdam (AMS) → New York (JFK)"
-  },
-  {
-    "key": "DXB-JFK",
-    "origin": "DXB",
-    "dest": "JFK",
-    "originCity": "Dubai",
-    "destCity": "New York",
-    "originCountry": "UAE",
-    "destCountry": "USA",
-    "label": "Dubai (DXB) → New York (JFK)"
-  },
-  {
     "key": "HKG-JFK",
     "origin": "HKG",
     "dest": "JFK",
@@ -1218,16 +1088,6 @@
     "originCountry": "Hong Kong",
     "destCountry": "USA",
     "label": "Hong Kong (HKG) → New York (JFK)"
-  },
-  {
-    "key": "ICN-JFK",
-    "origin": "ICN",
-    "dest": "JFK",
-    "originCity": "Seoul",
-    "destCity": "New York",
-    "originCountry": "South Korea",
-    "destCountry": "USA",
-    "label": "Seoul (ICN) → New York (JFK)"
   },
   {
     "key": "SIN-JFK",
