@@ -7,7 +7,7 @@
     "destCity": "Tokyo",
     "originCountry": "Netherlands",
     "destCountry": "Japan",
-    "label": "Amsterdam (AMS) \u2192 Tokyo (NRT)"
+    "label": "Amsterdam (AMS) → Tokyo (NRT)"
   },
   {
     "key": "AMS-PVG",
@@ -17,7 +17,7 @@
     "destCity": "Shanghai",
     "originCountry": "Netherlands",
     "destCountry": "China",
-    "label": "Amsterdam (AMS) \u2192 Shanghai (PVG)"
+    "label": "Amsterdam (AMS) → Shanghai (PVG)"
   },
   {
     "key": "AMS-SIN",
@@ -27,7 +27,7 @@
     "destCity": "Singapore",
     "originCountry": "Netherlands",
     "destCountry": "Singapore",
-    "label": "Amsterdam (AMS) \u2192 Singapore (SIN)"
+    "label": "Amsterdam (AMS) → Singapore (SIN)"
   },
   {
     "key": "CDG-DXB",
@@ -37,7 +37,7 @@
     "destCity": "Dubai",
     "originCountry": "France",
     "destCountry": "UAE",
-    "label": "Paris (CDG) \u2192 Dubai (DXB)"
+    "label": "Paris (CDG) → Dubai (DXB)"
   },
   {
     "key": "CDG-JFK",
@@ -47,7 +47,7 @@
     "destCity": "New York",
     "originCountry": "France",
     "destCountry": "USA",
-    "label": "Paris (CDG) \u2192 New York (JFK)"
+    "label": "Paris (CDG) → New York (JFK)"
   },
   {
     "key": "CDG-NRT",
@@ -57,7 +57,7 @@
     "destCity": "Tokyo",
     "originCountry": "France",
     "destCountry": "Japan",
-    "label": "Paris (CDG) \u2192 Tokyo (NRT)"
+    "label": "Paris (CDG) → Tokyo (NRT)"
   },
   {
     "key": "CDG-PVG",
@@ -67,7 +67,7 @@
     "destCity": "Shanghai",
     "originCountry": "France",
     "destCountry": "China",
-    "label": "Paris (CDG) \u2192 Shanghai (PVG)"
+    "label": "Paris (CDG) → Shanghai (PVG)"
   },
   {
     "key": "CDG-YUL",
@@ -77,7 +77,7 @@
     "destCity": "Montreal",
     "originCountry": "France",
     "destCountry": "Canada",
-    "label": "Paris (CDG) \u2192 Montreal (YUL)"
+    "label": "Paris (CDG) → Montreal (YUL)"
   },
   {
     "key": "CDG-YYZ",
@@ -87,7 +87,7 @@
     "destCity": "Toronto",
     "originCountry": "France",
     "destCountry": "Canada",
-    "label": "Paris (CDG) \u2192 Toronto (YYZ)"
+    "label": "Paris (CDG) → Toronto (YYZ)"
   },
   {
     "key": "DEL-JFK",
@@ -97,7 +97,7 @@
     "destCity": "New York",
     "originCountry": "India",
     "destCountry": "USA",
-    "label": "Delhi (DEL) \u2192 New York (JFK)"
+    "label": "Delhi (DEL) → New York (JFK)"
   },
   {
     "key": "DXB-CDG",
@@ -107,7 +107,7 @@
     "destCity": "Paris",
     "originCountry": "UAE",
     "destCountry": "France",
-    "label": "Dubai (DXB) \u2192 Paris (CDG)"
+    "label": "Dubai (DXB) → Paris (CDG)"
   },
   {
     "key": "DXB-LHR",
@@ -117,7 +117,7 @@
     "destCity": "London",
     "originCountry": "UAE",
     "destCountry": "UK",
-    "label": "Dubai (DXB) \u2192 London (LHR)"
+    "label": "Dubai (DXB) → London (LHR)"
   },
   {
     "key": "DXB-NRT",
@@ -127,7 +127,7 @@
     "destCity": "Tokyo",
     "originCountry": "UAE",
     "destCountry": "Japan",
-    "label": "Dubai (DXB) \u2192 Tokyo (NRT)"
+    "label": "Dubai (DXB) → Tokyo (NRT)"
   },
   {
     "key": "DXB-PVG",
@@ -137,7 +137,7 @@
     "destCity": "Shanghai",
     "originCountry": "UAE",
     "destCountry": "China",
-    "label": "Dubai (DXB) \u2192 Shanghai (PVG)"
+    "label": "Dubai (DXB) → Shanghai (PVG)"
   },
   {
     "key": "FRA-NRT",
@@ -147,7 +147,7 @@
     "destCity": "Tokyo",
     "originCountry": "Germany",
     "destCountry": "Japan",
-    "label": "Frankfurt (FRA) \u2192 Tokyo (NRT)"
+    "label": "Frankfurt (FRA) → Tokyo (NRT)"
   },
   {
     "key": "FRA-PVG",
@@ -157,7 +157,7 @@
     "destCity": "Shanghai",
     "originCountry": "Germany",
     "destCountry": "China",
-    "label": "Frankfurt (FRA) \u2192 Shanghai (PVG)"
+    "label": "Frankfurt (FRA) → Shanghai (PVG)"
   },
   {
     "key": "FRA-SIN",
@@ -167,7 +167,7 @@
     "destCity": "Singapore",
     "originCountry": "Germany",
     "destCountry": "Singapore",
-    "label": "Frankfurt (FRA) \u2192 Singapore (SIN)"
+    "label": "Frankfurt (FRA) → Singapore (SIN)"
   },
   {
     "key": "HKG-LHR",
@@ -177,7 +177,7 @@
     "destCity": "London",
     "originCountry": "Hong Kong",
     "destCountry": "UK",
-    "label": "Hong Kong (HKG) \u2192 London (LHR)"
+    "label": "Hong Kong (HKG) → London (LHR)"
   },
   {
     "key": "HKG-NRT",
@@ -187,7 +187,7 @@
     "destCity": "Tokyo",
     "originCountry": "Hong Kong",
     "destCountry": "Japan",
-    "label": "Hong Kong (HKG) \u2192 Tokyo (NRT)"
+    "label": "Hong Kong (HKG) → Tokyo (NRT)"
   },
   {
     "key": "HKG-PVG",
@@ -197,7 +197,7 @@
     "destCity": "Shanghai",
     "originCountry": "Hong Kong",
     "destCountry": "China",
-    "label": "Hong Kong (HKG) \u2192 Shanghai (PVG)"
+    "label": "Hong Kong (HKG) → Shanghai (PVG)"
   },
   {
     "key": "HKG-SFO",
@@ -207,7 +207,7 @@
     "destCity": "San Francisco",
     "originCountry": "Hong Kong",
     "destCountry": "USA",
-    "label": "Hong Kong (HKG) \u2192 San Francisco (SFO)"
+    "label": "Hong Kong (HKG) → San Francisco (SFO)"
   },
   {
     "key": "HKG-SIN",
@@ -217,7 +217,7 @@
     "destCity": "Singapore",
     "originCountry": "Hong Kong",
     "destCountry": "Singapore",
-    "label": "Hong Kong (HKG) \u2192 Singapore (SIN)"
+    "label": "Hong Kong (HKG) → Singapore (SIN)"
   },
   {
     "key": "HKG-SYD",
@@ -227,7 +227,7 @@
     "destCity": "Sydney",
     "originCountry": "Hong Kong",
     "destCountry": "Australia",
-    "label": "Hong Kong (HKG) \u2192 Sydney (SYD)"
+    "label": "Hong Kong (HKG) → Sydney (SYD)"
   },
   {
     "key": "ICN-LHR",
@@ -237,7 +237,7 @@
     "destCity": "London",
     "originCountry": "South Korea",
     "destCountry": "UK",
-    "label": "Seoul (ICN) \u2192 London (LHR)"
+    "label": "Seoul (ICN) → London (LHR)"
   },
   {
     "key": "ICN-NRT",
@@ -247,7 +247,7 @@
     "destCity": "Tokyo",
     "originCountry": "South Korea",
     "destCountry": "Japan",
-    "label": "Seoul (ICN) \u2192 Tokyo (NRT)"
+    "label": "Seoul (ICN) → Tokyo (NRT)"
   },
   {
     "key": "ICN-PVG",
@@ -257,7 +257,7 @@
     "destCity": "Shanghai",
     "originCountry": "South Korea",
     "destCountry": "China",
-    "label": "Seoul (ICN) \u2192 Shanghai (PVG)"
+    "label": "Seoul (ICN) → Shanghai (PVG)"
   },
   {
     "key": "JFK-CDG",
@@ -267,7 +267,7 @@
     "destCity": "Paris",
     "originCountry": "USA",
     "destCountry": "France",
-    "label": "New York (JFK) \u2192 Paris (CDG)"
+    "label": "New York (JFK) → Paris (CDG)"
   },
   {
     "key": "JFK-DEL",
@@ -277,7 +277,7 @@
     "destCity": "Delhi",
     "originCountry": "USA",
     "destCountry": "India",
-    "label": "New York (JFK) \u2192 Delhi (DEL)"
+    "label": "New York (JFK) → Delhi (DEL)"
   },
   {
     "key": "JFK-LHR",
@@ -287,7 +287,7 @@
     "destCity": "London",
     "originCountry": "USA",
     "destCountry": "UK",
-    "label": "New York (JFK) \u2192 London (LHR)"
+    "label": "New York (JFK) → London (LHR)"
   },
   {
     "key": "JFK-NRT",
@@ -297,7 +297,7 @@
     "destCity": "Tokyo",
     "originCountry": "USA",
     "destCountry": "Japan",
-    "label": "New York (JFK) \u2192 Tokyo (NRT)"
+    "label": "New York (JFK) → Tokyo (NRT)"
   },
   {
     "key": "JFK-PVG",
@@ -307,7 +307,7 @@
     "destCity": "Shanghai",
     "originCountry": "USA",
     "destCountry": "China",
-    "label": "New York (JFK) \u2192 Shanghai (PVG)"
+    "label": "New York (JFK) → Shanghai (PVG)"
   },
   {
     "key": "LAX-LHR",
@@ -317,7 +317,7 @@
     "destCity": "London",
     "originCountry": "USA",
     "destCountry": "UK",
-    "label": "Los Angeles (LAX) \u2192 London (LHR)"
+    "label": "Los Angeles (LAX) → London (LHR)"
   },
   {
     "key": "LAX-NRT",
@@ -327,7 +327,7 @@
     "destCity": "Tokyo",
     "originCountry": "USA",
     "destCountry": "Japan",
-    "label": "Los Angeles (LAX) \u2192 Tokyo (NRT)"
+    "label": "Los Angeles (LAX) → Tokyo (NRT)"
   },
   {
     "key": "LAX-PVG",
@@ -337,7 +337,7 @@
     "destCity": "Shanghai",
     "originCountry": "USA",
     "destCountry": "China",
-    "label": "Los Angeles (LAX) \u2192 Shanghai (PVG)"
+    "label": "Los Angeles (LAX) → Shanghai (PVG)"
   },
   {
     "key": "LAX-SYD",
@@ -347,7 +347,7 @@
     "destCity": "Sydney",
     "originCountry": "USA",
     "destCountry": "Australia",
-    "label": "Los Angeles (LAX) \u2192 Sydney (SYD)"
+    "label": "Los Angeles (LAX) → Sydney (SYD)"
   },
   {
     "key": "LHR-DXB",
@@ -357,7 +357,7 @@
     "destCity": "Dubai",
     "originCountry": "UK",
     "destCountry": "UAE",
-    "label": "London (LHR) \u2192 Dubai (DXB)"
+    "label": "London (LHR) → Dubai (DXB)"
   },
   {
     "key": "LHR-HKG",
@@ -367,7 +367,7 @@
     "destCity": "Hong Kong",
     "originCountry": "UK",
     "destCountry": "Hong Kong",
-    "label": "London (LHR) \u2192 Hong Kong (HKG)"
+    "label": "London (LHR) → Hong Kong (HKG)"
   },
   {
     "key": "LHR-ICN",
@@ -377,7 +377,7 @@
     "destCity": "Seoul",
     "originCountry": "UK",
     "destCountry": "South Korea",
-    "label": "London (LHR) \u2192 Seoul (ICN)"
+    "label": "London (LHR) → Seoul (ICN)"
   },
   {
     "key": "LHR-JFK",
@@ -387,7 +387,7 @@
     "destCity": "New York",
     "originCountry": "UK",
     "destCountry": "USA",
-    "label": "London (LHR) \u2192 New York (JFK)"
+    "label": "London (LHR) → New York (JFK)"
   },
   {
     "key": "LHR-LAX",
@@ -397,7 +397,7 @@
     "destCity": "Los Angeles",
     "originCountry": "UK",
     "destCountry": "USA",
-    "label": "London (LHR) \u2192 Los Angeles (LAX)"
+    "label": "London (LHR) → Los Angeles (LAX)"
   },
   {
     "key": "LHR-ORD",
@@ -407,7 +407,7 @@
     "destCity": "Chicago",
     "originCountry": "UK",
     "destCountry": "USA",
-    "label": "London (LHR) \u2192 Chicago (ORD)"
+    "label": "London (LHR) → Chicago (ORD)"
   },
   {
     "key": "LHR-SFO",
@@ -417,7 +417,7 @@
     "destCity": "San Francisco",
     "originCountry": "UK",
     "destCountry": "USA",
-    "label": "London (LHR) \u2192 San Francisco (SFO)"
+    "label": "London (LHR) → San Francisco (SFO)"
   },
   {
     "key": "LHR-SIN",
@@ -427,7 +427,7 @@
     "destCity": "Singapore",
     "originCountry": "UK",
     "destCountry": "Singapore",
-    "label": "London (LHR) \u2192 Singapore (SIN)"
+    "label": "London (LHR) → Singapore (SIN)"
   },
   {
     "key": "LHR-YUL",
@@ -437,7 +437,7 @@
     "destCity": "Montreal",
     "originCountry": "UK",
     "destCountry": "Canada",
-    "label": "London (LHR) \u2192 Montreal (YUL)"
+    "label": "London (LHR) → Montreal (YUL)"
   },
   {
     "key": "LHR-YVR",
@@ -447,7 +447,7 @@
     "destCity": "Vancouver",
     "originCountry": "UK",
     "destCountry": "Canada",
-    "label": "London (LHR) \u2192 Vancouver (YVR)"
+    "label": "London (LHR) → Vancouver (YVR)"
   },
   {
     "key": "LHR-YYZ",
@@ -457,7 +457,7 @@
     "destCity": "Toronto",
     "originCountry": "UK",
     "destCountry": "Canada",
-    "label": "London (LHR) \u2192 Toronto (YYZ)"
+    "label": "London (LHR) → Toronto (YYZ)"
   },
   {
     "key": "NRT-AMS",
@@ -467,7 +467,7 @@
     "destCity": "Amsterdam",
     "originCountry": "Japan",
     "destCountry": "Netherlands",
-    "label": "Tokyo (NRT) \u2192 Amsterdam (AMS)"
+    "label": "Tokyo (NRT) → Amsterdam (AMS)"
   },
   {
     "key": "NRT-CDG",
@@ -477,7 +477,7 @@
     "destCity": "Paris",
     "originCountry": "Japan",
     "destCountry": "France",
-    "label": "Tokyo (NRT) \u2192 Paris (CDG)"
+    "label": "Tokyo (NRT) → Paris (CDG)"
   },
   {
     "key": "NRT-DXB",
@@ -487,7 +487,7 @@
     "destCity": "Dubai",
     "originCountry": "Japan",
     "destCountry": "UAE",
-    "label": "Tokyo (NRT) \u2192 Dubai (DXB)"
+    "label": "Tokyo (NRT) → Dubai (DXB)"
   },
   {
     "key": "NRT-FRA",
@@ -497,7 +497,7 @@
     "destCity": "Frankfurt",
     "originCountry": "Japan",
     "destCountry": "Germany",
-    "label": "Tokyo (NRT) \u2192 Frankfurt (FRA)"
+    "label": "Tokyo (NRT) → Frankfurt (FRA)"
   },
   {
     "key": "NRT-HKG",
@@ -507,7 +507,7 @@
     "destCity": "Hong Kong",
     "originCountry": "Japan",
     "destCountry": "Hong Kong",
-    "label": "Tokyo (NRT) \u2192 Hong Kong (HKG)"
+    "label": "Tokyo (NRT) → Hong Kong (HKG)"
   },
   {
     "key": "NRT-ICN",
@@ -517,7 +517,7 @@
     "destCity": "Seoul",
     "originCountry": "Japan",
     "destCountry": "South Korea",
-    "label": "Tokyo (NRT) \u2192 Seoul (ICN)"
+    "label": "Tokyo (NRT) → Seoul (ICN)"
   },
   {
     "key": "NRT-JFK",
@@ -527,7 +527,7 @@
     "destCity": "New York",
     "originCountry": "Japan",
     "destCountry": "USA",
-    "label": "Tokyo (NRT) \u2192 New York (JFK)"
+    "label": "Tokyo (NRT) → New York (JFK)"
   },
   {
     "key": "NRT-LAX",
@@ -537,7 +537,7 @@
     "destCity": "Los Angeles",
     "originCountry": "Japan",
     "destCountry": "USA",
-    "label": "Tokyo (NRT) \u2192 Los Angeles (LAX)"
+    "label": "Tokyo (NRT) → Los Angeles (LAX)"
   },
   {
     "key": "NRT-ORD",
@@ -547,7 +547,7 @@
     "destCity": "Chicago",
     "originCountry": "Japan",
     "destCountry": "USA",
-    "label": "Tokyo (NRT) \u2192 Chicago (ORD)"
+    "label": "Tokyo (NRT) → Chicago (ORD)"
   },
   {
     "key": "NRT-SFO",
@@ -557,7 +557,7 @@
     "destCity": "San Francisco",
     "originCountry": "Japan",
     "destCountry": "USA",
-    "label": "Tokyo (NRT) \u2192 San Francisco (SFO)"
+    "label": "Tokyo (NRT) → San Francisco (SFO)"
   },
   {
     "key": "NRT-SIN",
@@ -567,7 +567,7 @@
     "destCity": "Singapore",
     "originCountry": "Japan",
     "destCountry": "Singapore",
-    "label": "Tokyo (NRT) \u2192 Singapore (SIN)"
+    "label": "Tokyo (NRT) → Singapore (SIN)"
   },
   {
     "key": "NRT-SYD",
@@ -577,7 +577,7 @@
     "destCity": "Sydney",
     "originCountry": "Japan",
     "destCountry": "Australia",
-    "label": "Tokyo (NRT) \u2192 Sydney (SYD)"
+    "label": "Tokyo (NRT) → Sydney (SYD)"
   },
   {
     "key": "NRT-YVR",
@@ -587,7 +587,7 @@
     "destCity": "Vancouver",
     "originCountry": "Japan",
     "destCountry": "Canada",
-    "label": "Tokyo (NRT) \u2192 Vancouver (YVR)"
+    "label": "Tokyo (NRT) → Vancouver (YVR)"
   },
   {
     "key": "NRT-YYZ",
@@ -597,7 +597,7 @@
     "destCity": "Toronto",
     "originCountry": "Japan",
     "destCountry": "Canada",
-    "label": "Tokyo (NRT) \u2192 Toronto (YYZ)"
+    "label": "Tokyo (NRT) → Toronto (YYZ)"
   },
   {
     "key": "ORD-LHR",
@@ -607,7 +607,7 @@
     "destCity": "London",
     "originCountry": "USA",
     "destCountry": "UK",
-    "label": "Chicago (ORD) \u2192 London (LHR)"
+    "label": "Chicago (ORD) → London (LHR)"
   },
   {
     "key": "ORD-NRT",
@@ -617,7 +617,7 @@
     "destCity": "Tokyo",
     "originCountry": "USA",
     "destCountry": "Japan",
-    "label": "Chicago (ORD) \u2192 Tokyo (NRT)"
+    "label": "Chicago (ORD) → Tokyo (NRT)"
   },
   {
     "key": "ORD-PVG",
@@ -627,7 +627,7 @@
     "destCity": "Shanghai",
     "originCountry": "USA",
     "destCountry": "China",
-    "label": "Chicago (ORD) \u2192 Shanghai (PVG)"
+    "label": "Chicago (ORD) → Shanghai (PVG)"
   },
   {
     "key": "PEK-YYZ",
@@ -637,7 +637,7 @@
     "destCity": "Toronto",
     "originCountry": "China",
     "destCountry": "Canada",
-    "label": "Beijing (PEK) \u2192 Toronto (YYZ)"
+    "label": "Beijing (PEK) → Toronto (YYZ)"
   },
   {
     "key": "PVG-AMS",
@@ -647,7 +647,7 @@
     "destCity": "Amsterdam",
     "originCountry": "China",
     "destCountry": "Netherlands",
-    "label": "Shanghai (PVG) \u2192 Amsterdam (AMS)"
+    "label": "Shanghai (PVG) → Amsterdam (AMS)"
   },
   {
     "key": "PVG-CDG",
@@ -657,7 +657,7 @@
     "destCity": "Paris",
     "originCountry": "China",
     "destCountry": "France",
-    "label": "Shanghai (PVG) \u2192 Paris (CDG)"
+    "label": "Shanghai (PVG) → Paris (CDG)"
   },
   {
     "key": "PVG-DXB",
@@ -667,7 +667,7 @@
     "destCity": "Dubai",
     "originCountry": "China",
     "destCountry": "UAE",
-    "label": "Shanghai (PVG) \u2192 Dubai (DXB)"
+    "label": "Shanghai (PVG) → Dubai (DXB)"
   },
   {
     "key": "PVG-FRA",
@@ -677,7 +677,7 @@
     "destCity": "Frankfurt",
     "originCountry": "China",
     "destCountry": "Germany",
-    "label": "Shanghai (PVG) \u2192 Frankfurt (FRA)"
+    "label": "Shanghai (PVG) → Frankfurt (FRA)"
   },
   {
     "key": "PVG-HKG",
@@ -687,7 +687,7 @@
     "destCity": "Hong Kong",
     "originCountry": "China",
     "destCountry": "Hong Kong",
-    "label": "Shanghai (PVG) \u2192 Hong Kong (HKG)"
+    "label": "Shanghai (PVG) → Hong Kong (HKG)"
   },
   {
     "key": "PVG-ICN",
@@ -697,7 +697,7 @@
     "destCity": "Seoul",
     "originCountry": "China",
     "destCountry": "South Korea",
-    "label": "Shanghai (PVG) \u2192 Seoul (ICN)"
+    "label": "Shanghai (PVG) → Seoul (ICN)"
   },
   {
     "key": "PVG-JFK",
@@ -707,7 +707,7 @@
     "destCity": "New York",
     "originCountry": "China",
     "destCountry": "USA",
-    "label": "Shanghai (PVG) \u2192 New York (JFK)"
+    "label": "Shanghai (PVG) → New York (JFK)"
   },
   {
     "key": "PVG-LAX",
@@ -717,7 +717,7 @@
     "destCity": "Los Angeles",
     "originCountry": "China",
     "destCountry": "USA",
-    "label": "Shanghai (PVG) \u2192 Los Angeles (LAX)"
+    "label": "Shanghai (PVG) → Los Angeles (LAX)"
   },
   {
     "key": "PVG-ORD",
@@ -727,7 +727,7 @@
     "destCity": "Chicago",
     "originCountry": "China",
     "destCountry": "USA",
-    "label": "Shanghai (PVG) \u2192 Chicago (ORD)"
+    "label": "Shanghai (PVG) → Chicago (ORD)"
   },
   {
     "key": "PVG-SFO",
@@ -737,7 +737,7 @@
     "destCity": "San Francisco",
     "originCountry": "China",
     "destCountry": "USA",
-    "label": "Shanghai (PVG) \u2192 San Francisco (SFO)"
+    "label": "Shanghai (PVG) → San Francisco (SFO)"
   },
   {
     "key": "PVG-SIN",
@@ -747,7 +747,7 @@
     "destCity": "Singapore",
     "originCountry": "China",
     "destCountry": "Singapore",
-    "label": "Shanghai (PVG) \u2192 Singapore (SIN)"
+    "label": "Shanghai (PVG) → Singapore (SIN)"
   },
   {
     "key": "PVG-SYD",
@@ -757,7 +757,7 @@
     "destCity": "Sydney",
     "originCountry": "China",
     "destCountry": "Australia",
-    "label": "Shanghai (PVG) \u2192 Sydney (SYD)"
+    "label": "Shanghai (PVG) → Sydney (SYD)"
   },
   {
     "key": "PVG-YVR",
@@ -767,7 +767,7 @@
     "destCity": "Vancouver",
     "originCountry": "China",
     "destCountry": "Canada",
-    "label": "Shanghai (PVG) \u2192 Vancouver (YVR)"
+    "label": "Shanghai (PVG) → Vancouver (YVR)"
   },
   {
     "key": "PVG-YYZ",
@@ -777,7 +777,7 @@
     "destCity": "Toronto",
     "originCountry": "China",
     "destCountry": "Canada",
-    "label": "Shanghai (PVG) \u2192 Toronto (YYZ)"
+    "label": "Shanghai (PVG) → Toronto (YYZ)"
   },
   {
     "key": "SFO-HKG",
@@ -787,7 +787,7 @@
     "destCity": "Hong Kong",
     "originCountry": "USA",
     "destCountry": "Hong Kong",
-    "label": "San Francisco (SFO) \u2192 Hong Kong (HKG)"
+    "label": "San Francisco (SFO) → Hong Kong (HKG)"
   },
   {
     "key": "SFO-LHR",
@@ -797,7 +797,7 @@
     "destCity": "London",
     "originCountry": "USA",
     "destCountry": "UK",
-    "label": "San Francisco (SFO) \u2192 London (LHR)"
+    "label": "San Francisco (SFO) → London (LHR)"
   },
   {
     "key": "SFO-NRT",
@@ -807,7 +807,7 @@
     "destCity": "Tokyo",
     "originCountry": "USA",
     "destCountry": "Japan",
-    "label": "San Francisco (SFO) \u2192 Tokyo (NRT)"
+    "label": "San Francisco (SFO) → Tokyo (NRT)"
   },
   {
     "key": "SFO-PVG",
@@ -817,7 +817,7 @@
     "destCity": "Shanghai",
     "originCountry": "USA",
     "destCountry": "China",
-    "label": "San Francisco (SFO) \u2192 Shanghai (PVG)"
+    "label": "San Francisco (SFO) → Shanghai (PVG)"
   },
   {
     "key": "SFO-SYD",
@@ -827,7 +827,7 @@
     "destCity": "Sydney",
     "originCountry": "USA",
     "destCountry": "Australia",
-    "label": "San Francisco (SFO) \u2192 Sydney (SYD)"
+    "label": "San Francisco (SFO) → Sydney (SYD)"
   },
   {
     "key": "SIN-AMS",
@@ -837,7 +837,7 @@
     "destCity": "Amsterdam",
     "originCountry": "Singapore",
     "destCountry": "Netherlands",
-    "label": "Singapore (SIN) \u2192 Amsterdam (AMS)"
+    "label": "Singapore (SIN) → Amsterdam (AMS)"
   },
   {
     "key": "SIN-FRA",
@@ -847,7 +847,7 @@
     "destCity": "Frankfurt",
     "originCountry": "Singapore",
     "destCountry": "Germany",
-    "label": "Singapore (SIN) \u2192 Frankfurt (FRA)"
+    "label": "Singapore (SIN) → Frankfurt (FRA)"
   },
   {
     "key": "SIN-HKG",
@@ -857,7 +857,7 @@
     "destCity": "Hong Kong",
     "originCountry": "Singapore",
     "destCountry": "Hong Kong",
-    "label": "Singapore (SIN) \u2192 Hong Kong (HKG)"
+    "label": "Singapore (SIN) → Hong Kong (HKG)"
   },
   {
     "key": "SIN-LHR",
@@ -867,7 +867,7 @@
     "destCity": "London",
     "originCountry": "Singapore",
     "destCountry": "UK",
-    "label": "Singapore (SIN) \u2192 London (LHR)"
+    "label": "Singapore (SIN) → London (LHR)"
   },
   {
     "key": "SIN-NRT",
@@ -877,7 +877,7 @@
     "destCity": "Tokyo",
     "originCountry": "Singapore",
     "destCountry": "Japan",
-    "label": "Singapore (SIN) \u2192 Tokyo (NRT)"
+    "label": "Singapore (SIN) → Tokyo (NRT)"
   },
   {
     "key": "SIN-PVG",
@@ -887,7 +887,7 @@
     "destCity": "Shanghai",
     "originCountry": "Singapore",
     "destCountry": "China",
-    "label": "Singapore (SIN) \u2192 Shanghai (PVG)"
+    "label": "Singapore (SIN) → Shanghai (PVG)"
   },
   {
     "key": "SYD-HKG",
@@ -897,7 +897,7 @@
     "destCity": "Hong Kong",
     "originCountry": "Australia",
     "destCountry": "Hong Kong",
-    "label": "Sydney (SYD) \u2192 Hong Kong (HKG)"
+    "label": "Sydney (SYD) → Hong Kong (HKG)"
   },
   {
     "key": "SYD-LAX",
@@ -907,7 +907,7 @@
     "destCity": "Los Angeles",
     "originCountry": "Australia",
     "destCountry": "USA",
-    "label": "Sydney (SYD) \u2192 Los Angeles (LAX)"
+    "label": "Sydney (SYD) → Los Angeles (LAX)"
   },
   {
     "key": "SYD-NRT",
@@ -917,7 +917,7 @@
     "destCity": "Tokyo",
     "originCountry": "Australia",
     "destCountry": "Japan",
-    "label": "Sydney (SYD) \u2192 Tokyo (NRT)"
+    "label": "Sydney (SYD) → Tokyo (NRT)"
   },
   {
     "key": "SYD-PVG",
@@ -927,7 +927,7 @@
     "destCity": "Shanghai",
     "originCountry": "Australia",
     "destCountry": "China",
-    "label": "Sydney (SYD) \u2192 Shanghai (PVG)"
+    "label": "Sydney (SYD) → Shanghai (PVG)"
   },
   {
     "key": "SYD-SFO",
@@ -937,7 +937,7 @@
     "destCity": "San Francisco",
     "originCountry": "Australia",
     "destCountry": "USA",
-    "label": "Sydney (SYD) \u2192 San Francisco (SFO)"
+    "label": "Sydney (SYD) → San Francisco (SFO)"
   },
   {
     "key": "SYD-YVR",
@@ -947,7 +947,7 @@
     "destCity": "Vancouver",
     "originCountry": "Australia",
     "destCountry": "Canada",
-    "label": "Sydney (SYD) \u2192 Vancouver (YVR)"
+    "label": "Sydney (SYD) → Vancouver (YVR)"
   },
   {
     "key": "YUL-CDG",
@@ -957,7 +957,7 @@
     "destCity": "Paris",
     "originCountry": "Canada",
     "destCountry": "France",
-    "label": "Montreal (YUL) \u2192 Paris (CDG)"
+    "label": "Montreal (YUL) → Paris (CDG)"
   },
   {
     "key": "YUL-LHR",
@@ -967,7 +967,7 @@
     "destCity": "London",
     "originCountry": "Canada",
     "destCountry": "UK",
-    "label": "Montreal (YUL) \u2192 London (LHR)"
+    "label": "Montreal (YUL) → London (LHR)"
   },
   {
     "key": "YVR-LHR",
@@ -977,7 +977,7 @@
     "destCity": "London",
     "originCountry": "Canada",
     "destCountry": "UK",
-    "label": "Vancouver (YVR) \u2192 London (LHR)"
+    "label": "Vancouver (YVR) → London (LHR)"
   },
   {
     "key": "YVR-NRT",
@@ -987,7 +987,7 @@
     "destCity": "Tokyo",
     "originCountry": "Canada",
     "destCountry": "Japan",
-    "label": "Vancouver (YVR) \u2192 Tokyo (NRT)"
+    "label": "Vancouver (YVR) → Tokyo (NRT)"
   },
   {
     "key": "YVR-PVG",
@@ -997,7 +997,7 @@
     "destCity": "Shanghai",
     "originCountry": "Canada",
     "destCountry": "China",
-    "label": "Vancouver (YVR) \u2192 Shanghai (PVG)"
+    "label": "Vancouver (YVR) → Shanghai (PVG)"
   },
   {
     "key": "YVR-SYD",
@@ -1007,7 +1007,7 @@
     "destCity": "Sydney",
     "originCountry": "Canada",
     "destCountry": "Australia",
-    "label": "Vancouver (YVR) \u2192 Sydney (SYD)"
+    "label": "Vancouver (YVR) → Sydney (SYD)"
   },
   {
     "key": "YYZ-CDG",
@@ -1017,7 +1017,7 @@
     "destCity": "Paris",
     "originCountry": "Canada",
     "destCountry": "France",
-    "label": "Toronto (YYZ) \u2192 Paris (CDG)"
+    "label": "Toronto (YYZ) → Paris (CDG)"
   },
   {
     "key": "YYZ-LHR",
@@ -1027,7 +1027,7 @@
     "destCity": "London",
     "originCountry": "Canada",
     "destCountry": "UK",
-    "label": "Toronto (YYZ) \u2192 London (LHR)"
+    "label": "Toronto (YYZ) → London (LHR)"
   },
   {
     "key": "YYZ-NRT",
@@ -1037,7 +1037,7 @@
     "destCity": "Tokyo",
     "originCountry": "Canada",
     "destCountry": "Japan",
-    "label": "Toronto (YYZ) \u2192 Tokyo (NRT)"
+    "label": "Toronto (YYZ) → Tokyo (NRT)"
   },
   {
     "key": "YYZ-PEK",
@@ -1047,7 +1047,7 @@
     "destCity": "Beijing",
     "originCountry": "Canada",
     "destCountry": "China",
-    "label": "Toronto (YYZ) \u2192 Beijing (PEK)"
+    "label": "Toronto (YYZ) → Beijing (PEK)"
   },
   {
     "key": "YYZ-PVG",
@@ -1057,6 +1057,306 @@
     "destCity": "Shanghai",
     "originCountry": "Canada",
     "destCountry": "China",
-    "label": "Toronto (YYZ) \u2192 Shanghai (PVG)"
+    "label": "Toronto (YYZ) → Shanghai (PVG)"
+  },
+  {
+    "key": "PEK-LHR",
+    "origin": "PEK",
+    "dest": "LHR",
+    "originCity": "Beijing",
+    "destCity": "London",
+    "originCountry": "China",
+    "destCountry": "UK",
+    "label": "Beijing (PEK) → London (LHR)"
+  },
+  {
+    "key": "PEK-NRT",
+    "origin": "PEK",
+    "dest": "NRT",
+    "originCity": "Beijing",
+    "destCity": "Tokyo",
+    "originCountry": "China",
+    "destCountry": "Japan",
+    "label": "Beijing (PEK) → Tokyo (NRT)"
+  },
+  {
+    "key": "PEK-JFK",
+    "origin": "PEK",
+    "dest": "JFK",
+    "originCity": "Beijing",
+    "destCity": "New York",
+    "originCountry": "China",
+    "destCountry": "USA",
+    "label": "Beijing (PEK) → New York (JFK)"
+  },
+  {
+    "key": "PEK-HKG",
+    "origin": "PEK",
+    "dest": "HKG",
+    "originCity": "Beijing",
+    "destCity": "Hong Kong",
+    "originCountry": "China",
+    "destCountry": "Hong Kong",
+    "label": "Beijing (PEK) → Hong Kong (HKG)"
+  },
+  {
+    "key": "PEK-SIN",
+    "origin": "PEK",
+    "dest": "SIN",
+    "originCity": "Beijing",
+    "destCity": "Singapore",
+    "originCountry": "China",
+    "destCountry": "Singapore",
+    "label": "Beijing (PEK) → Singapore (SIN)"
+  },
+  {
+    "key": "PEK-ICN",
+    "origin": "PEK",
+    "dest": "ICN",
+    "originCity": "Beijing",
+    "destCity": "Seoul",
+    "originCountry": "China",
+    "destCountry": "South Korea",
+    "label": "Beijing (PEK) → Seoul (ICN)"
+  },
+  {
+    "key": "PEK-CDG",
+    "origin": "PEK",
+    "dest": "CDG",
+    "originCity": "Beijing",
+    "destCity": "Paris",
+    "originCountry": "China",
+    "destCountry": "France",
+    "label": "Beijing (PEK) → Paris (CDG)"
+  },
+  {
+    "key": "PEK-FRA",
+    "origin": "PEK",
+    "dest": "FRA",
+    "originCity": "Beijing",
+    "destCity": "Frankfurt",
+    "originCountry": "China",
+    "destCountry": "Germany",
+    "label": "Beijing (PEK) → Frankfurt (FRA)"
+  },
+  {
+    "key": "PEK-SYD",
+    "origin": "PEK",
+    "dest": "SYD",
+    "originCity": "Beijing",
+    "destCity": "Sydney",
+    "originCountry": "China",
+    "destCountry": "Australia",
+    "label": "Beijing (PEK) → Sydney (SYD)"
+  },
+  {
+    "key": "PEK-SFO",
+    "origin": "PEK",
+    "dest": "SFO",
+    "originCity": "Beijing",
+    "destCity": "San Francisco",
+    "originCountry": "China",
+    "destCountry": "USA",
+    "label": "Beijing (PEK) → San Francisco (SFO)"
+  },
+  {
+    "key": "PEK-LAX",
+    "origin": "PEK",
+    "dest": "LAX",
+    "originCity": "Beijing",
+    "destCity": "Los Angeles",
+    "originCountry": "China",
+    "destCountry": "USA",
+    "label": "Beijing (PEK) → Los Angeles (LAX)"
+  },
+  {
+    "key": "PEK-YVR",
+    "origin": "PEK",
+    "dest": "YVR",
+    "originCity": "Beijing",
+    "destCity": "Vancouver",
+    "originCountry": "China",
+    "destCountry": "Canada",
+    "label": "Beijing (PEK) → Vancouver (YVR)"
+  },
+  {
+    "key": "PEK-AMS",
+    "origin": "PEK",
+    "dest": "AMS",
+    "originCity": "Beijing",
+    "destCity": "Amsterdam",
+    "originCountry": "China",
+    "destCountry": "Netherlands",
+    "label": "Beijing (PEK) → Amsterdam (AMS)"
+  },
+  {
+    "key": "PEK-DXB",
+    "origin": "PEK",
+    "dest": "DXB",
+    "originCity": "Beijing",
+    "destCity": "Dubai",
+    "originCountry": "China",
+    "destCountry": "UAE",
+    "label": "Beijing (PEK) → Dubai (DXB)"
+  },
+  {
+    "key": "DEL-LHR",
+    "origin": "DEL",
+    "dest": "LHR",
+    "originCity": "Delhi",
+    "destCity": "London",
+    "originCountry": "India",
+    "destCountry": "UK",
+    "label": "Delhi (DEL) → London (LHR)"
+  },
+  {
+    "key": "DEL-DXB",
+    "origin": "DEL",
+    "dest": "DXB",
+    "originCity": "Delhi",
+    "destCity": "Dubai",
+    "originCountry": "India",
+    "destCountry": "UAE",
+    "label": "Delhi (DEL) → Dubai (DXB)"
+  },
+  {
+    "key": "DEL-SIN",
+    "origin": "DEL",
+    "dest": "SIN",
+    "originCity": "Delhi",
+    "destCity": "Singapore",
+    "originCountry": "India",
+    "destCountry": "Singapore",
+    "label": "Delhi (DEL) → Singapore (SIN)"
+  },
+  {
+    "key": "DEL-NRT",
+    "origin": "DEL",
+    "dest": "NRT",
+    "originCity": "Delhi",
+    "destCity": "Tokyo",
+    "originCountry": "India",
+    "destCountry": "Japan",
+    "label": "Delhi (DEL) → Tokyo (NRT)"
+  },
+  {
+    "key": "DEL-HKG",
+    "origin": "DEL",
+    "dest": "HKG",
+    "originCity": "Delhi",
+    "destCity": "Hong Kong",
+    "originCountry": "India",
+    "destCountry": "Hong Kong",
+    "label": "Delhi (DEL) → Hong Kong (HKG)"
+  },
+  {
+    "key": "DEL-PVG",
+    "origin": "DEL",
+    "dest": "PVG",
+    "originCity": "Delhi",
+    "destCity": "Shanghai",
+    "originCountry": "India",
+    "destCountry": "China",
+    "label": "Delhi (DEL) → Shanghai (PVG)"
+  },
+  {
+    "key": "DEL-CDG",
+    "origin": "DEL",
+    "dest": "CDG",
+    "originCity": "Delhi",
+    "destCity": "Paris",
+    "originCountry": "India",
+    "destCountry": "France",
+    "label": "Delhi (DEL) → Paris (CDG)"
+  },
+  {
+    "key": "DEL-FRA",
+    "origin": "DEL",
+    "dest": "FRA",
+    "originCity": "Delhi",
+    "destCity": "Frankfurt",
+    "originCountry": "India",
+    "destCountry": "Germany",
+    "label": "Delhi (DEL) → Frankfurt (FRA)"
+  },
+  {
+    "key": "DEL-SYD",
+    "origin": "DEL",
+    "dest": "SYD",
+    "originCity": "Delhi",
+    "destCity": "Sydney",
+    "originCountry": "India",
+    "destCountry": "Australia",
+    "label": "Delhi (DEL) → Sydney (SYD)"
+  },
+  {
+    "key": "DEL-ICN",
+    "origin": "DEL",
+    "dest": "ICN",
+    "originCity": "Delhi",
+    "destCity": "Seoul",
+    "originCountry": "India",
+    "destCountry": "South Korea",
+    "label": "Delhi (DEL) → Seoul (ICN)"
+  },
+  {
+    "key": "DEL-AMS",
+    "origin": "DEL",
+    "dest": "AMS",
+    "originCity": "Delhi",
+    "destCity": "Amsterdam",
+    "originCountry": "India",
+    "destCountry": "Netherlands",
+    "label": "Delhi (DEL) → Amsterdam (AMS)"
+  },
+  {
+    "key": "DEL-YYZ",
+    "origin": "DEL",
+    "dest": "YYZ",
+    "originCity": "Delhi",
+    "destCity": "Toronto",
+    "originCountry": "India",
+    "destCountry": "Canada",
+    "label": "Delhi (DEL) → Toronto (YYZ)"
+  },
+  {
+    "key": "DEL-YVR",
+    "origin": "DEL",
+    "dest": "YVR",
+    "originCity": "Delhi",
+    "destCity": "Vancouver",
+    "originCountry": "India",
+    "destCountry": "Canada",
+    "label": "Delhi (DEL) → Vancouver (YVR)"
+  },
+  {
+    "key": "DEL-LAX",
+    "origin": "DEL",
+    "dest": "LAX",
+    "originCity": "Delhi",
+    "destCity": "Los Angeles",
+    "originCountry": "India",
+    "destCountry": "USA",
+    "label": "Delhi (DEL) → Los Angeles (LAX)"
+  },
+  {
+    "key": "DEL-SFO",
+    "origin": "DEL",
+    "dest": "SFO",
+    "originCity": "Delhi",
+    "destCity": "San Francisco",
+    "originCountry": "India",
+    "destCountry": "USA",
+    "label": "Delhi (DEL) → San Francisco (SFO)"
+  },
+  {
+    "key": "DEL-ORD",
+    "origin": "DEL",
+    "dest": "ORD",
+    "originCity": "Delhi",
+    "destCity": "Chicago",
+    "originCountry": "India",
+    "destCountry": "USA",
+    "label": "Delhi (DEL) → Chicago (ORD)"
   }
 ]
