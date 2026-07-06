@@ -51,6 +51,36 @@ export default function Home() {
 
       <RoutePicker onSelect={handleSelect} />
 
+      {!routeKey && !loading && (
+        <div className="card guide">
+          <h3>How to Use Price Check</h3>
+          <p>Track how flight prices for a specific departure date have changed over time. This helps you decide whether to book now or wait for a better deal.</p>
+          <div className="examples">
+            <div className="example">
+              <div className="example-icon">{'\u2708'}</div>
+              <div>
+                <strong>Find the Best Time to Book</strong>
+                <p>Select your route and travel date, then view the price trend. If prices are trending down, you may want to wait. If they&apos;re rising, consider booking soon.</p>
+              </div>
+            </div>
+            <div className="example">
+              <div className="example-icon">{'\u2193'}</div>
+              <div>
+                <strong>Monitor Price Drops</strong>
+                <p>Check back daily — each new snapshot adds a point to the chart. You&apos;ll see exactly when prices dropped and by how much.</p>
+              </div>
+            </div>
+            <div className="example">
+              <div className="example-icon">{'\u2194'}</div>
+              <div>
+                <strong>Compare Nearby Dates</strong>
+                <p>Try different departure dates to see how shifting your trip by a day or two affects the price history and current fare.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
       {error && <div className="error-banner">{error}</div>}
 
       {loading && (

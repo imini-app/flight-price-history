@@ -46,6 +46,36 @@ export default function ExplorePage() {
 
       <RoutePicker onSelect={handleSelect} showDate={false} />
 
+      {!routeKey && !loading && (
+        <div className="card guide">
+          <h3>How to Use Route History</h3>
+          <p>Compare average prices across every departure date we have data for. Spot the cheapest seasons, months, and days for your route at a glance.</p>
+          <div className="examples">
+            <div className="example">
+              <div className="example-icon">{'\u2601'}</div>
+              <div>
+                <strong>Find the Cheapest Season</strong>
+                <p>Scan the chart for the lowest points on the line — those are the departure dates with the lowest average prices. Plan your trip around those periods.</p>
+              </div>
+            </div>
+            <div className="example">
+              <div className="example-icon">{'\u2605'}</div>
+              <div>
+                <strong>Spot Holiday Spikes</strong>
+                <p>Notice price bumps around holidays like Christmas or summer. The chart makes it obvious when demand (and prices) peak so you can avoid those windows.</p>
+              </div>
+            </div>
+            <div className="example">
+              <div className="example-icon">{'\u2261'}</div>
+              <div>
+                <strong>Check Multiple Snapshot Averages</strong>
+                <p>Each departure date point is the average of all snapshots collected for that date. More snapshots mean a more reliable price signal.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
       {error && <div className="error-banner">{error}</div>}
 
       {loading && (
