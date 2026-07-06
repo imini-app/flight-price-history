@@ -2,7 +2,7 @@
 /**
  * scrape_google_flights.mjs
  *
- * Scrapes Google Flights for nonstop (direct) economy round-trip flights.
+ * Scrapes Google Flights for nonstop (direct) economy one-way flights.
  * Supports parallel scraping for speed.
  *
  * Usage:
@@ -14,7 +14,6 @@
  *   --days N           Number of consecutive departure dates to scrape (default: 1)
  *   --start-offset N   First departure is N days from today (default: 1 = tomorrow)
  *   --concurrency N    Number of parallel browser tabs (default: 4)
- *   --trip-length N    Return trip N days after departure (default: 14)
  *   --stops N          Max stops: 0 = nonstop only, 1 = 1 stop or fewer (default: 0)
  *   --parallel-routes N Process N routes in parallel (default: 1)
  *   --dry-run          Don't write files, just print results
@@ -53,10 +52,6 @@ const concurrency =
   args.indexOf("--concurrency") !== -1
     ? parseInt(args[args.indexOf("--concurrency") + 1], 10)
     : 4;
-const tripLength =
-  args.indexOf("--trip-length") !== -1
-    ? parseInt(args[args.indexOf("--trip-length") + 1], 10)
-    : 14;
 const maxStops =
   args.indexOf("--stops") !== -1
     ? parseInt(args[args.indexOf("--stops") + 1], 10)
@@ -112,11 +107,11 @@ function addDays(d, n) {
   return r;
 }
 
-function buildGoogleFlightsUrl(origin, dest, depDate, retDate) {
+function buildGoogleFlightsUrl(origin, dest, depDate) {
   return (
     `https://www.google.com/travel/flights` +
     `?q=Flights+from+${origin}+to+${dest}` +
-    `+on+${depDate}+return+${retDate}` +
+    `+on+${depDate}` +
     `&curr=USD&hl=en`
   );
 }
@@ -188,8 +183,8 @@ function parseFlightsFromText(text) {
   return flights;
 }
 
-async function scrapeOneDate(page, origin, dest, depDate, retDate) {
-  const url = buildGoogleFlightsUrl(origin, dest, depDate, retDate);
+async function scrapeOneDate(page, origin, dest, depDate) {
+  const url = buildGoogleFlightsUrl(origin, dest, depDate);
 
   for (let attempt = 0; attempt < 3; attempt++) {
     try {
@@ -259,7 +254,7 @@ async function scrapeParallel(browser, dates, origin, dest) {
   async function worker(workerPage, workerIdx) {
     while (nextIdx < dates.length) {
       const idx = nextIdx++;
-      const { depStr, retStr } = dates[idx];
+      const { depStr } = dates[idx];
 
       if (idx % MEM_CHECK_EVERY === 0) {
         const mem = checkMemory(`Worker ${workerIdx}, date ${idx + 1}/${dates.length}`);
@@ -274,8 +269,8 @@ async function scrapeParallel(browser, dates, origin, dest) {
       let retries = 0;
       while (retries < 3) {
         try {
-          const result = await scrapeOneDate(workerPage, origin, dest, depStr, retStr);
-          results[idx] = { depStr, retStr, ...result };
+          const result = await scrapeOneDate(workerPage, origin, dest, depStr);
+          results[idx] = { depStr, ...result };
           break;
         } catch (err) {
           const msg = err?.message || "";
@@ -289,7 +284,7 @@ async function scrapeParallel(browser, dates, origin, dest) {
           if (msg.includes("Connection closed") || msg.includes("Target closed")) {
             throw err;
           }
-          results[idx] = { depStr, retStr, error: msg, cheapest: null };
+          results[idx] = { depStr, error: msg, cheapest: null };
           break;
         }
       }
@@ -339,7 +334,6 @@ async function main() {
   console.log(
     `Departure range: ${formatDate(addDays(today, startOffset))} → ${formatDate(addDays(today, startOffset + numDays - 1))}`
   );
-  console.log(`Trip length: ${tripLength} days`);
   if (dryRun) console.log("MODE: DRY RUN\n");
   else console.log("");
 
@@ -347,8 +341,7 @@ async function main() {
   const dates = [];
   for (let d = 0; d < numDays; d++) {
     const depDate = addDays(today, startOffset + d);
-    const retDate = addDays(depDate, tripLength);
-    dates.push({ depStr: formatDate(depDate), retStr: formatDate(retDate) });
+    dates.push({ depStr: formatDate(depDate) });
   }
 
   const snapDate = formatDate(today);
@@ -385,7 +378,6 @@ async function main() {
         snapshot: snapDate,
         price: r.price,
         airline: r.airline,
-        returnDate: r.returnDate,
         nonstop: r.isNonstop,
         stops: r.stops,
         duration: r.duration,
@@ -441,7 +433,6 @@ async function main() {
         routeResults.push({
           date: snapDate,
           departDate: r.depStr,
-          returnDate: depInfo.retStr,
           price: f.price,
           airline: f.airline,
           isNonstop: f.isNonstop,
@@ -451,7 +442,7 @@ async function main() {
       } else {
         const note = r.error || (r.eligibleCount > 0 ? "prices unavailable" : (r.nonstopCount > 0 ? "nonstop exists, no price" : "no nonstop flights"));
         console.log(`  ${r.depStr} ... - (${note})`);
-        routeResults.push({ date: snapDate, departDate: r.depStr, returnDate: depInfo.retStr, price: null, airline: null, note });
+        routeResults.push({ date: snapDate, departDate: r.depStr, price: null, airline: null, note });
       }
     }
 
