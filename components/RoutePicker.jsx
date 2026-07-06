@@ -6,7 +6,7 @@ import SearchableSelect from './SearchableSelect';
 import CalendarPicker from './CalendarPicker';
 import { loadPickerState, savePickerState } from '@/lib/storage';
 
-export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, showDate = true }) {
+export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, defaultDate, showDate = true }) {
   const [origins, setOrigins] = useState([]);
   const [destinations, setDestinations] = useState([]);
   const [selectedOrigin, setSelectedOrigin] = useState(defaultOrigin || '');
@@ -98,20 +98,28 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
 
   useEffect(() => {
     if (loading) return;
-    const saved = loadPickerState();
-    if (saved.origin) {
-      setSelectedOrigin(saved.origin);
-      const found = origins.find(o => o.code === saved.origin);
+    let origin = defaultOrigin;
+    let dest = defaultDest;
+    let date = defaultDate;
+    if (!origin) {
+      const saved = loadPickerState();
+      origin = saved.origin || '';
+      dest = saved.dest || '';
+      date = saved.date || '';
+    }
+    if (origin) {
+      setSelectedOrigin(origin);
+      const found = origins.find(o => o.code === origin);
       if (found) {
         setDestinations(found.destinations || []);
-        if (saved.dest) setSelectedDest(saved.dest);
+        if (dest) setSelectedDest(dest);
       }
-      if (saved.date && showDate) {
-        const d = new Date(saved.date);
-        if (!isNaN(d.getTime())) setPickDate(saved.date);
+      if (date && showDate) {
+        const d = new Date(date);
+        if (!isNaN(d.getTime())) setPickDate(date);
       }
     }
-  }, [loading]);
+  }, [loading, defaultOrigin, defaultDest, defaultDate]);
 
   useEffect(() => {
     if (!loading && selectedOrigin && selectedDest) {
@@ -123,6 +131,26 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
       }
     }
   }, [selectedOrigin, selectedDest, pickDate]);
+
+  const autoTriggered = useRef(false);
+
+  useEffect(() => {
+    if (loading) return;
+    if (autoTriggered.current) return;
+    if (!defaultOrigin && !defaultDest) return;
+
+    const route = routes.find(r => r.origin === selectedOrigin && r.dest === selectedDest);
+    if (!route) return;
+
+    if (showDate) {
+      if (!pickDate) return;
+      if (routeDataLoading) return;
+      if (availableDates.length > 0 && !availableDates.includes(pickDate)) return;
+    }
+
+    autoTriggered.current = true;
+    onSelect(route.key, showDate ? pickDate : null, route.label);
+  }, [loading, selectedOrigin, selectedDest, pickDate, routeDataLoading, availableDates, routes, showDate, defaultOrigin, defaultDest, onSelect]);
 
   const handleOriginChange = useCallback((e) => {
     const code = e.target.value;

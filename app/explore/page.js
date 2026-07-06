@@ -13,10 +13,30 @@ export default function ExplorePage() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
+  const [defaultOrigin, setDefaultOrigin] = useState('');
+  const [defaultDest, setDefaultDest] = useState('');
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    setDefaultOrigin(params.get('origin') || '');
+    setDefaultDest(params.get('dest') || '');
+  }, []);
+
   const handleSelect = useCallback((key, _date, label) => {
     setRouteKey(key);
     if (label) setRouteLabel(label);
   }, []);
+
+  useEffect(() => {
+    if (!routeKey) return;
+    const parts = routeKey.split('-');
+    const origin = parts[0];
+    const dest = parts[1];
+    const params = new URLSearchParams();
+    params.set('origin', origin);
+    params.set('dest', dest);
+    window.history.replaceState(null, '', `${window.location.pathname}?${params.toString()}`);
+  }, [routeKey]);
 
   useEffect(() => {
     if (!routeKey) return;
@@ -44,7 +64,7 @@ export default function ExplorePage() {
         <p>Compare average prices across different travel dates to find the cheapest time to fly.</p>
       </div>
 
-      <RoutePicker onSelect={handleSelect} showDate={false} />
+      <RoutePicker onSelect={handleSelect} showDate={false} defaultOrigin={defaultOrigin} defaultDest={defaultDest} />
 
       {!routeKey && !loading && (
         <div className="card guide">

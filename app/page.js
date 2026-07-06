@@ -15,11 +15,34 @@ export default function Home() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
+  const [defaultOrigin, setDefaultOrigin] = useState('');
+  const [defaultDest, setDefaultDest] = useState('');
+  const [defaultDate, setDefaultDate] = useState('');
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    setDefaultOrigin(params.get('origin') || '');
+    setDefaultDest(params.get('dest') || '');
+    setDefaultDate(params.get('date') || '');
+  }, []);
+
   const handleSelect = useCallback((key, date, label) => {
     setRouteKey(key);
     setPickDate(date);
     if (label) setRouteLabel(label);
   }, []);
+
+  useEffect(() => {
+    if (!routeKey) return;
+    const parts = routeKey.split('-');
+    const origin = parts[0];
+    const dest = parts[1];
+    const params = new URLSearchParams();
+    params.set('origin', origin);
+    params.set('dest', dest);
+    if (pickDate) params.set('date', pickDate);
+    window.history.replaceState(null, '', `${window.location.pathname}?${params.toString()}`);
+  }, [routeKey, pickDate]);
 
   useEffect(() => {
     if (!routeKey || !pickDate) return;
@@ -49,7 +72,7 @@ export default function Home() {
         </p>
       </div>
 
-      <RoutePicker onSelect={handleSelect} />
+      <RoutePicker onSelect={handleSelect} defaultOrigin={defaultOrigin} defaultDest={defaultDest} defaultDate={defaultDate} />
 
       {!routeKey && !loading && (
         <div className="card guide">
