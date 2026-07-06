@@ -193,8 +193,8 @@ async function scrapeOneDate(page, origin, dest, depDate, retDate) {
 
   for (let attempt = 0; attempt < 3; attempt++) {
     try {
-      await page.goto(url, { waitUntil: "networkidle2", timeout: 90000 });
-      await sleep(3000 + Math.random() * 2000);
+      await page.goto(url, { waitUntil: "networkidle2", timeout: 60000 });
+      await sleep(2000 + Math.random() * 2000);
 
       const pageText = await page.evaluate(() => document.body.innerText);
       const allFlights = parseFlightsFromText(pageText);
@@ -351,7 +351,6 @@ async function main() {
     dates.push({ depStr: formatDate(depDate), retStr: formatDate(retDate) });
   }
 
-  const allRouteResults = [];
   const snapDate = formatDate(today);
 
   function loadExistingDates(routeKey) {
@@ -465,11 +464,26 @@ async function main() {
     return { route, results: routeResults };
   }
 
-  // Process routes sequentially — one browser per route prevents CDP connection loss
-  for (let ri = 0; ri < filteredRoutes.length; ri++) {
-    const result = await scrapeOneRoute(ri, filteredRoutes[ri]);
-    allRouteResults.push(result);
+  // Process routes in parallel — each route gets its own browser
+  async function processRoutePool(routes, concurrency) {
+    const results = new Array(routes.length);
+    let idx = 0;
+
+    async function worker() {
+      while (idx < routes.length) {
+        const i = idx++;
+        results[i] = await scrapeOneRoute(i, routes[i]);
+      }
+    }
+
+    const poolSize = Math.min(concurrency, routes.length);
+    const workers = Array.from({ length: poolSize }, () => worker());
+    await Promise.all(workers);
+    return results;
   }
+
+  const effectiveParallel = parallelRoutes > 0 ? parallelRoutes : 1;
+  const allRouteResults = await processRoutePool(filteredRoutes, effectiveParallel);
 
   if (!dryRun) {
     console.log(`\nAll routes processed.`);
