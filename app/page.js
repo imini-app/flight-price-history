@@ -177,13 +177,16 @@ export default function Home() {
           <h3 className="recent-checks-title">Recent Price Checks</h3>
           {recentChecks.length > 0 ? (
             <div className="recent-checks-list">
-              {recentChecks.map((c, i) => (
-                <div key={i} className="recent-check-item">
-                  <span className="rc-route">{c.route_label}</span>
-                  <span className="rc-date">{c.travel_date}</span>
-                  <span className="rc-time">{formatRelativeTime(c.created_at)}</span>
-                </div>
-              ))}
+              {recentChecks.map((c, i) => {
+                const [origin, dest] = c.route_key.split('-');
+                return (
+                  <a key={i} className="recent-check-item" href={`/?origin=${origin}&dest=${dest}&date=${c.travel_date}`}>
+                    <span className="rc-route">{c.route_label}</span>
+                    <span className="rc-date">{c.travel_date}</span>
+                    <span className="rc-time">{formatRelativeTime(c.created_at)}</span>
+                  </a>
+                );
+              })}
             </div>
           ) : (
             <div className="recent-checks-empty">No checks yet — select a route and click Show Trend.</div>

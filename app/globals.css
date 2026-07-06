@@ -464,6 +464,8 @@ body {
   border-radius: 6px;
   font-size: 0.82rem;
   transition: background 0.12s;
+  cursor: pointer;
+  text-decoration: none;
 }
 .recent-check-item:hover { background: var(--gf-gray-50); }
 .recent-checks-empty {
