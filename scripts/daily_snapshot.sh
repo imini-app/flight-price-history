@@ -45,7 +45,7 @@ echo "Node: $NODE" | tee -a "$LOG_FILE"
 # Allow Node to use more heap — Chrome tabs are the main pressure
 export NODE_OPTIONS="--max-old-space-size=4096"
 
-# Scrape all routes (both directions), 180 days into the future (6 months)
+# Scrape all routes (both directions), 180 days into the future (6 months), 2 routes in parallel
 "$NODE" "$SCRAPER" \
   --days 180 \
   --start-offset 1 \
