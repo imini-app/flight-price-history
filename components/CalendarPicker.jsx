@@ -48,15 +48,39 @@ export default function CalendarPicker({ datePrices, selectedDate, onSelect }) {
     });
   };
 
+  const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+  const yearOptions = useMemo(() => {
+    const years = [];
+    const minYear = new Date(datePrices[0]?.date).getFullYear();
+    const maxYear = new Date(datePrices[datePrices.length - 1]?.date).getFullYear();
+    for (let y = minYear; y <= maxYear; y++) years.push(y);
+    return years;
+  }, [datePrices]);
+
   const weekdays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 
   return (
     <div className="calendar-picker">
       <div className="cal-header">
         <button type="button" className="cal-nav" onClick={prevMonth} aria-label="Previous month">{'\u276E'}</button>
-        <span className="cal-header-label">{format(new Date(viewMonth.year, viewMonth.month), 'MMMM yyyy')}</span>
+        <select className="cal-month-select" value={viewMonth.month} onChange={e => setViewMonth(v => ({ ...v, month: Number(e.target.value) }))}>
+          {months.map((m, i) => (
+            <option key={m} value={i}>{m}</option>
+          ))}
+        </select>
+        <select className="cal-year-select" value={viewMonth.year} onChange={e => setViewMonth(v => ({ ...v, year: Number(e.target.value) }))}>
+          {yearOptions.map(y => (
+            <option key={y} value={y}>{y}</option>
+          ))}
+        </select>
         <button type="button" className="cal-nav" onClick={nextMonth} aria-label="Next month">{'\u276F'}</button>
       </div>
+      <button type="button" className="cal-today-btn" onClick={() => {
+        const d = new Date();
+        const key = format(d, 'yyyy-MM-dd');
+        if (priceMap[key]) { onSelect(key); }
+        else { setViewMonth({ year: d.getFullYear(), month: d.getMonth() }); }
+      }}>Today</button>
       <div className="cal-weekdays">
         {weekdays.map(wd => (
           <span key={wd} className="cal-weekday">{wd}</span>

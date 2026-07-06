@@ -22,7 +22,23 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
   const [datePrices, setDatePrices] = useState([]);
   const [routeDataLoading, setRouteDataLoading] = useState(false);
   const [showDatePopup, setShowDatePopup] = useState(false);
+  const [dateSearch, setDateSearch] = useState('');
+  const dateSearchRef = useRef(null);
   const popupRef = useRef(null);
+
+  const handleDateSearch = useCallback((e) => {
+    const val = e.target.value;
+    setDateSearch(val);
+    if (!val) return;
+    const trimmed = val.trim();
+    if (/^\d{4}-\d{2}-\d{2}$/.test(trimmed)) {
+      if (availableDates.includes(trimmed)) {
+        setPickDate(trimmed);
+        setShowDatePopup(false);
+        setDateSearch('');
+      }
+    }
+  }, [availableDates]);
 
   useEffect(() => {
     if (!selectedOrigin || !selectedDest || !routes.length) {
@@ -130,9 +146,11 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
 
   useEffect(() => {
     if (!showDatePopup) return;
+    dateSearchRef.current?.focus();
     const handler = (e) => {
       if (popupRef.current && !popupRef.current.contains(e.target)) {
         setShowDatePopup(false);
+        setDateSearch('');
       }
     };
     document.addEventListener('mousedown', handler);
@@ -211,10 +229,35 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
               </button>
               {showDatePopup && dateInfo?.type === 'available' && (
                 <div className="date-picker-popup">
+                  <div className="dpp-search">
+                    <input
+                      ref={dateSearchRef}
+                      type="text"
+                      className="dpp-search-input"
+                      placeholder="Search date (e.g. 2026-12-25 or Dec 25, 2026)"
+                      value={dateSearch}
+                      onChange={handleDateSearch}
+                      onKeyDown={e => {
+                        if (e.key === 'Enter' && dateSearch.trim()) {
+                          const val = dateSearch.trim();
+                          const parsed = new Date(val);
+                          if (!isNaN(parsed.getTime())) {
+                            const key = parsed.toISOString().split('T')[0];
+                            if (availableDates.includes(key)) {
+                              setPickDate(key);
+                              setShowDatePopup(false);
+                              setDateSearch('');
+                            }
+                          }
+                        }
+                        if (e.key === 'Escape') { setShowDatePopup(false); setDateSearch(''); }
+                      }}
+                    />
+                  </div>
                   <CalendarPicker
                     datePrices={datePrices}
                     selectedDate={pickDate}
-                    onSelect={d => { setPickDate(d); setShowDatePopup(false); }}
+                    onSelect={d => { setPickDate(d); setShowDatePopup(false); setDateSearch(''); }}
                   />
                 </div>
               )}

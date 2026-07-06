@@ -179,15 +179,44 @@ body {
 .dpp-loading { font-size: 0.8rem; color: var(--gf-gray-500); padding: 12px 0; text-align: center; }
 .dpp-none { font-size: 0.8rem; color: var(--gf-gray-600); padding: 12px 0; text-align: center; }
 
+/* Date popup search */
+.dpp-search { margin-bottom: 8px; }
+.dpp-search-input {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid var(--gf-gray-300);
+  border-radius: 6px;
+  font-size: 0.78rem;
+  font-family: var(--gf-font);
+  color: var(--gf-gray-900);
+  background: var(--gf-white);
+  transition: border-color 0.12s, box-shadow 0.12s;
+}
+.dpp-search-input:focus { outline: none; border-color: var(--gf-blue); box-shadow: 0 0 0 2px var(--gf-blue-light); }
+.dpp-search-input::placeholder { color: var(--gf-gray-500); }
+
 /* Calendar picker */
 .calendar-picker { user-select: none; }
 .cal-header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  margin-bottom: 8px;
+  gap: 4px;
+  margin-bottom: 6px;
 }
-.cal-header-label { font-size: 0.85rem; font-weight: 600; color: var(--gf-gray-800); }
+.cal-month-select,
+.cal-year-select {
+  padding: 4px 6px;
+  border: 1px solid var(--gf-gray-200);
+  border-radius: 4px;
+  font-size: 0.78rem;
+  font-family: var(--gf-font);
+  font-weight: 600;
+  color: var(--gf-gray-800);
+  background: var(--gf-white);
+  cursor: pointer;
+}
+.cal-month-select { flex: 1; }
+.cal-year-select { width: 76px; }
 .cal-nav {
   width: 28px;
   height: 28px;
@@ -201,8 +230,25 @@ body {
   justify-content: center;
   color: var(--gf-gray-600);
   transition: background 0.12s;
+  flex-shrink: 0;
 }
 .cal-nav:hover { background: var(--gf-gray-100); }
+.cal-today-btn {
+  display: block;
+  width: 100%;
+  padding: 4px 0;
+  margin-bottom: 6px;
+  border: 1px solid var(--gf-gray-200);
+  border-radius: 4px;
+  background: var(--gf-white);
+  cursor: pointer;
+  font-size: 0.72rem;
+  font-family: var(--gf-font);
+  font-weight: 500;
+  color: var(--gf-blue);
+  transition: background 0.12s;
+}
+.cal-today-btn:hover { background: var(--gf-blue-light); }
 
 .cal-weekdays {
   display: grid;
