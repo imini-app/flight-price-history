@@ -15,9 +15,10 @@ export default function Home() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
-  const handleSelect = useCallback((key, date) => {
+  const handleSelect = useCallback((key, date, label) => {
     setRouteKey(key);
     setPickDate(date);
+    if (label) setRouteLabel(label);
   }, []);
 
   useEffect(() => {
@@ -31,7 +32,6 @@ export default function Home() {
         const s = computeSnapshotStats(snaps);
         setSnapshotPrices(snaps);
         setStats(s);
-        setRouteLabel(data.label);
         setLoading(false);
       })
       .catch(err => {

@@ -14,9 +14,10 @@ export default function ExplorePage() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
-  const handleSelect = useCallback((key, date) => {
+  const handleSelect = useCallback((key, date, label) => {
     setRouteKey(key);
     setPickDate(date);
+    if (label) setRouteLabel(label);
   }, []);
 
   const monthsBack = 6;
@@ -33,7 +34,6 @@ export default function ExplorePage() {
         const s = computeStats(filtered);
         setGrouped(g);
         setStats(s);
-        setRouteLabel(data.label);
         setLoading(false);
       })
       .catch(err => {

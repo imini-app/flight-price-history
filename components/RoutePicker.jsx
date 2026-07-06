@@ -39,7 +39,7 @@ export default function RoutePicker({ onSelect, defaultOrigin, defaultDest, show
     if (!selectedOrigin || !selectedDest) return;
     if (showDate && !pickDate) return;
     const route = routes.find(r => r.origin === selectedOrigin && r.dest === selectedDest);
-    if (route) onSelect(route.key, showDate ? pickDate : null);
+    if (route) onSelect(route.key, showDate ? pickDate : null, route.label);
   };
 
   if (loading) {
