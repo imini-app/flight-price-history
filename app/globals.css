@@ -420,6 +420,10 @@ body {
   padding: 4px 10px;
   border-radius: var(--gf-radius-xl);
 }
+.route-currency {
+  font-size: 0.7rem;
+  color: var(--gf-gray-400);
+}
 
 /* Chart */
 .chart-wrapper { width: 100%; height: 400px; }

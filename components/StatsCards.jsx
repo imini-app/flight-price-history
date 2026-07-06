@@ -46,6 +46,7 @@ export default function StatsCards({ stats, prices, routeLabel, pickDate }) {
         <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
           <span className="route-dep">Flying on {depDisplay}</span>
           <span className="route-snapshots">{stats.count} price check{stats.count !== 1 ? 's' : ''}</span>
+          <span className="route-currency">All prices in USD</span>
         </div>
       </div>
     </div>
