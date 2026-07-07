@@ -5,6 +5,7 @@ import { format, parseISO } from 'date-fns';
 import RoutePicker from '@/components/RoutePicker';
 import PriceChart from '@/components/PriceChart';
 import StatsCards from '@/components/StatsCards';
+import HelpPopup from '@/components/HelpPopup';
 import { fetchRouteData, filterPricesByDepartureDate, computeSnapshotStats } from '@/lib/data-utils';
 import { useTranslation } from '@/lib/i18n/context';
 import { dateFnsLocales } from '@/lib/i18n/date-locales';
@@ -111,43 +112,41 @@ export default function Home() {
   return (
     <main className="container">
       <div className="hero">
-        <h1>{t('home.title')}</h1>
+        <h1>
+          {t('home.title')}
+          <HelpPopup>
+            <div className="guide">
+              <h3>{t('home.guideTitle')}</h3>
+              <p>{t('home.guideDesc')}</p>
+              <div className="examples">
+                <div className="example">
+                  <div>
+                    <strong>{t('home.findBestTime')}</strong>
+                    <p>{t('home.findBestTimeDesc')}</p>
+                  </div>
+                </div>
+                <div className="example">
+                  <div>
+                    <strong>{t('home.monitorDrops')}</strong>
+                    <p>{t('home.monitorDropsDesc')}</p>
+                  </div>
+                </div>
+                <div className="example">
+                  <div>
+                    <strong>{t('home.compareDates')}</strong>
+                    <p>{t('home.compareDatesDesc')}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </HelpPopup>
+        </h1>
         <p className="hero-sub">
           {t('home.subtitle')}
         </p>
       </div>
 
       <RoutePicker onSelect={handleSelect} onSubmit={handleSubmit} defaultOrigin={defaultOrigin} defaultDest={defaultDest} defaultDate={defaultDate} />
-
-      {!routeKey && !loading && (
-        <div className="card guide">
-          <h3>{t('home.guideTitle')}</h3>
-          <p>{t('home.guideDesc')}</p>
-          <div className="examples">
-            <div className="example">
-              <div className="example-icon">{'\u2708'}</div>
-              <div>
-                <strong>{t('home.findBestTime')}</strong>
-                <p>{t('home.findBestTimeDesc')}</p>
-              </div>
-            </div>
-            <div className="example">
-              <div className="example-icon">{'\u2193'}</div>
-              <div>
-                <strong>{t('home.monitorDrops')}</strong>
-                <p>{t('home.monitorDropsDesc')}</p>
-              </div>
-            </div>
-            <div className="example">
-              <div className="example-icon">{'\u2194'}</div>
-              <div>
-                <strong>{t('home.compareDates')}</strong>
-                <p>{t('home.compareDatesDesc')}</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      )}
 
       {error && <div className="error-banner">{error}</div>}
 
