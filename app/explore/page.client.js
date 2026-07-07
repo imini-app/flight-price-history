@@ -3,6 +3,7 @@
 import { useState, useCallback, useEffect } from 'react';
 import RoutePicker from '@/components/RoutePicker';
 import ExploreChart from '@/components/ExploreChart';
+import ExplorePriceTable from '@/components/ExplorePriceTable';
 import { fetchRouteData, groupPricesByDeparture, computeStats } from '@/lib/data-utils';
 import { useTranslation } from '@/lib/i18n/context';
 import { formatRelativeTime } from '@/lib/format';
@@ -151,8 +152,13 @@ export default function ExplorePage() {
       )}
 
       {!loading && stats && (
-        <div>
-          <ExploreChart grouped={grouped} stats={stats} routeLabel={routeLabel} />
+        <div className="chart-table-row">
+          <div className="chart-table-col chart-table-col-chart">
+            <ExploreChart grouped={grouped} stats={stats} routeLabel={routeLabel} />
+          </div>
+          <div className="chart-table-col chart-table-col-table">
+            <ExplorePriceTable grouped={grouped} />
+          </div>
         </div>
       )}
 

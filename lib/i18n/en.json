@@ -90,6 +90,13 @@
     "snapshots": "Snapshots",
     "avg": "Avg"
   },
+  "exploreTable": {
+    "date": "Departure",
+    "avg": "Avg",
+    "low": "Low",
+    "high": "High",
+    "snapshots": "Snapshots"
+  },
   "calendar": {
     "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
     "weekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
