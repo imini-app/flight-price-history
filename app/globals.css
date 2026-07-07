@@ -473,6 +473,17 @@ body {
 .chart-table-col-chart .card { margin-bottom: 0; }
 .chart-table-col-table .card { margin-bottom: 0; }
 
+.price-table-best {
+  padding: 10px 14px;
+  font-size: .82rem;
+  font-weight: 600;
+  color: var(--gf-green);
+  background: #e6f4ea;
+  border-bottom: 1px solid var(--gf-gray-200);
+}
+.pt-best-row { background: #f1f9f3; }
+.pt-best-row td { font-weight: 600; }
+
 /* Chart */
 .chart-wrapper { width: 100%; height: 400px; }
 

@@ -18,22 +18,29 @@ export default function ExplorePriceTable({ grouped }) {
 
   const dateFmt = locale === 'zh' ? 'M月d日' : 'MMM d';
 
+  const cheapest = rows.reduce((best, g) =>
+    g.avgPrice < best.avgPrice ? g : best, rows[0]);
+
   return (
     <div className="price-table-wrap">
+      <div className="price-table-best">
+        {t('exploreTable.cheapest', {
+          date: format(parseISO(cheapest.date), dateFmt, { locale: dateFnsLocales[locale] }),
+          price: formatPrice(cheapest.avgPrice, locale),
+        })}
+      </div>
       <table className="price-table">
         <thead>
           <tr>
             <th>{t('exploreTable.date')}</th>
-            <th>{t('exploreTable.low')}</th>
             <th>{t('exploreTable.avg')}</th>
           </tr>
         </thead>
         <tbody>
           {rows.map(g => (
-            <tr key={g.date}>
+            <tr key={g.date} className={g.date === cheapest.date ? 'pt-best-row' : ''}>
               <td className="pt-date">{format(parseISO(g.date), dateFmt, { locale: dateFnsLocales[locale] })}</td>
-              <td className="pt-price">{formatPrice(g.minPrice, locale)}</td>
-              <td>{formatPrice(g.avgPrice, locale)}</td>
+              <td className="pt-price">{formatPrice(g.avgPrice, locale)}</td>
             </tr>
           ))}
         </tbody>

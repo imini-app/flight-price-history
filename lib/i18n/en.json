@@ -96,7 +96,8 @@
     "avg": "Avg",
     "low": "Low",
     "high": "High",
-    "snapshots": "Snapshots"
+    "snapshots": "Snapshots",
+    "cheapest": "Cheapest: {date} — {price}"
   },
   "calendar": {
     "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
