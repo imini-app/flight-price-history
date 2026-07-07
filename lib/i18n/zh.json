@@ -98,6 +98,12 @@
     "nextMonth": "下个月",
     "allPricesUSD": "所有价格以美元显示"
   },
+  "priceTable": {
+    "when": "预订时间",
+    "daysPrior": "提前{days}天",
+    "dayOfDeparture": "出发当天",
+    "airline": "航空公司"
+  },
   "searchableSelect": {
     "noResults": "无结果"
   },

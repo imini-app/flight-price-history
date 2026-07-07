@@ -1,22 +1,26 @@
 'use client';
 
 import { useMemo } from 'react';
-import { format, parseISO } from 'date-fns';
+import { differenceInDays, parseISO } from 'date-fns';
 import { formatPrice } from '@/lib/format';
 import { useTranslation } from '@/lib/i18n/context';
-import { dateFnsLocales } from '@/lib/i18n/date-locales';
 
-export default function PriceTable({ prices }) {
+export default function PriceTable({ prices, pickDate }) {
   const { t, locale } = useTranslation();
 
   const rows = useMemo(() => {
     if (!prices || prices.length === 0) return [];
-    return [...prices].reverse().map(p => ({
-      snapshot: format(parseISO(p.snapshot), 'MMM d, yyyy', { locale: dateFnsLocales[locale] }),
-      price: p.price,
-      airline: p.airline || '',
-    }));
-  }, [prices, locale]);
+    const departure = parseISO(pickDate);
+    return [...prices].reverse().map(p => {
+      const daysBefore = differenceInDays(departure, parseISO(p.snapshot));
+      return {
+        daysLabel: daysBefore === 0 ? t('priceTable.dayOfDeparture') : t('priceTable.daysPrior', { days: daysBefore }),
+        daysNum: daysBefore,
+        price: p.price,
+        airline: p.airline || '',
+      };
+    });
+  }, [prices, pickDate, t, locale]);
 
   if (!rows.length) return null;
 
@@ -25,15 +29,15 @@ export default function PriceTable({ prices }) {
       <table className="price-table">
         <thead>
           <tr>
-            <th>Date</th>
+            <th>{t('priceTable.when')}</th>
             <th>{t('priceChart.price')}</th>
-            <th>Airline</th>
+            <th>{t('priceTable.airline')}</th>
           </tr>
         </thead>
         <tbody>
           {rows.map((r, i) => (
             <tr key={i}>
-              <td className="pt-date">{r.snapshot}</td>
+              <td className="pt-date">{r.daysLabel}</td>
               <td className="pt-price">{formatPrice(r.price, locale)}</td>
               <td className="pt-airline">{r.airline || '—'}</td>
             </tr>

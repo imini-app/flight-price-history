@@ -98,6 +98,12 @@
     "nextMonth": "Next month",
     "allPricesUSD": "All prices in USD"
   },
+  "priceTable": {
+    "when": "When",
+    "daysPrior": "{days} days prior",
+    "dayOfDeparture": "Day of departure",
+    "airline": "Airline"
+  },
   "searchableSelect": {
     "noResults": "No results"
   },

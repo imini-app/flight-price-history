@@ -165,7 +165,7 @@ export default function Home() {
               <PriceChart prices={snapshotPrices} stats={stats} pickDate={pickDate} />
             </div>
             <div className="chart-table-col chart-table-col-table">
-              <PriceTable prices={snapshotPrices} />
+              <PriceTable prices={snapshotPrices} pickDate={pickDate} />
             </div>
           </div>
         </div>
