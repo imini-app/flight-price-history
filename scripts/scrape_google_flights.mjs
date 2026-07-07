@@ -121,17 +121,50 @@ function parseFlightsFromText(text) {
   const lines = text.split("\n").map((l) => l.trim()).filter(Boolean);
 
   const airlineNames = [
+    // Chinese carriers
     "Air China", "China Southern", "China Eastern", "Hainan Airlines", "Hainan",
-    "Juneyao Airlines", "Juneyao",
+    "Shenzhen Airlines", "Xiamen Airlines", "Sichuan Airlines", "Shanghai Airlines",
+    "Beijing Capital Airlines", "Spring Airlines", "Juneyao Airlines", "Juneyao",
+    "Tibet Airlines", "China Express",
+    // Hong Kong / Macau
+    "Cathay Pacific", "HK Express", "Greater Bay Airlines", "Air Macau",
+    // Taiwan
+    "EVA Air", "China Airlines", "Starlux Airlines",
+    // Japan
+    "ANA", "All Nippon Airways", "Japan Airlines", "Peach", "Jetstar Japan",
+    "Zipair Tokyo", "Skymark Airlines", "StarFlyer", "Air Do", "Solaseed Air",
+    // Korea
+    "Korean Air", "Asiana", "Jin Air", "Air Seoul", "T'way Air", "Jeju Air", "Air Busan",
+    // Southeast Asia
+    "Singapore Airlines", "Scoot", "THAI", "Batik Air", "Malaysia Airlines",
+    "AirAsia", "Philippine Airlines", "Vietnam Airlines", "Garuda Indonesia",
+    "Lion Air", "Myanmar Airways", "Cambodia Angkor Air", "Royal Brunei",
+    // South Asia
+    "Air India", "Vistara", "IndiGo", "SpiceJet", "Akasa Air",
+    "SriLankan Airlines", "Nepal Airlines", "Bhutan Airlines",
+    // Middle East
+    "Emirates", "Qatar Airways", "Etihad", "Saudia", "flydubai",
+    "Oman Air", "Gulf Air", "Air Arabia", "Middle East Airlines",
+    "Royal Jordanian", "flynas",
+    // Africa
+    "Ethiopian Airlines", "Kenya Airways", "South African Airways",
+    "Royal Air Maroc", "EgyptAir", "Air Mauritius", "RwandAir",
+    // Europe
+    "British Airways", "Virgin Atlantic", "Lufthansa", "KLM", "Air France",
+    "Swiss", "Austrian", "Turkish Airlines", "Finnair", "Iberia", "Aer Lingus",
+    "Alitalia", "ITA Airways", "SAS", "Norwegian", "TAP Air Portugal",
+    "Brussels Airlines", "LOT Polish Airlines", "Ryanair", "Wizz Air", "easyJet",
+    "Vueling", "Eurowings", "Air Serbia", "Air Baltic", "Icelandair",
+    "Aegean Airlines", "Luxair", "Croatia Airlines",
+    // North America
     "Air Canada", "WestJet", "United", "Delta", "American",
-    "British Airways", "Virgin Atlantic", "Lufthansa", "KLM",
-    "Air France", "Emirates", "Qatar Airways", "Singapore Airlines",
-    "Cathay Pacific", "ANA", "All Nippon Airways", "Japan Airlines", "Korean Air", "Asiana",
-    "Qantas", "Etihad", "Southwest", "JetBlue",
-    "THAI", "Batik Air", "Malaysia Airlines", "Philippine Airlines",
-    "Vietnam Airlines", "Turkish Airlines", "Swiss", "Austrian",
-    "Finnair", "Iberia", "Alitalia", "Aer Lingus",
-    "China EasternQantas",
+    "Southwest", "JetBlue", "Alaska Airlines", "Hawaiian Airlines",
+    "Frontier Airlines", "Spirit Airlines", "Allegiant Air", "Sun Country Airlines",
+    "Porter Airlines", "Flair Airlines", "Air Transat",
+    // Latin America
+    "LATAM", "Avianca", "Copa Airlines", "Aeromexico", "Azul", "GOL", "Caribbean Airlines",
+    // Oceania
+    "Qantas", "Virgin Australia", "Jetstar", "Air New Zealand", "Fiji Airways",
   ];
 
   const timeRegex = /^\d{1,2}:\d{2}\s*(AM|PM)$/i;
@@ -212,7 +245,7 @@ async function scrapeOneDate(page, origin, dest, depDate) {
 /**
  * Scrape a batch of dates using a pool of browser pages.
  */
-async function scrapeParallel(browser, dates, origin, dest) {
+async function scrapeParallel(browser, dates, origin, dest, onDateComplete) {
   // Check system memory and reduce concurrency if needed
   const mem = checkMemory(`Before ${origin}-${dest} (${dates.length} dates)`);
   let effectiveConcurrency = concurrency;
@@ -283,6 +316,10 @@ async function scrapeParallel(browser, dates, origin, dest) {
           results[idx] = { depStr, error: msg, cheapest: null };
           break;
         }
+      }
+
+      if (onDateComplete) {
+        onDateComplete(results[idx]);
       }
 
       await sleep(2000 + Math.random() * 3000);
@@ -401,10 +438,13 @@ async function main() {
 
     let browser;
     let results;
+    const routeResults = [];
+    let saveCounter = 0;
+
     for (let attempt = 0; attempt < 2; attempt++) {
       try {
         browser = await launchBrowser();
-        results = await scrapeParallel(browser, pendingDates, route.origin, route.dest);
+        results = await scrapeParallel(browser, pendingDates, route.origin, route.dest, onDateComplete);
         break;
       } catch (err) {
         console.warn(`  Browser error (attempt ${attempt + 1}/2): ${err.message}`);
@@ -416,19 +456,15 @@ async function main() {
       }
     }
 
-    const routeResults = [];
-
-    for (let di = 0; di < results.length; di++) {
-      const r = results[di];
-      const depInfo = pendingDates[di];
-      if (r.cheapest) {
-        const f = r.cheapest;
+    function onDateComplete(result) {
+      if (result.cheapest) {
+        const f = result.cheapest;
         console.log(
-          `  ${r.depStr} ... $${f.price} (${f.airline}, ${f.isNonstop ? "nonstop" : f.stops + "stop"}, ${f.duration})`
+          `  ${result.depStr} ... $${f.price} (${f.airline}, nonstop, ${f.duration})`
         );
         routeResults.push({
           date: snapDate,
-          departDate: r.depStr,
+          departDate: result.depStr,
           price: f.price,
           airline: f.airline,
           isNonstop: f.isNonstop,
@@ -436,9 +472,14 @@ async function main() {
           duration: f.duration,
         });
       } else {
-        const note = r.error || (r.eligibleCount > 0 ? "prices unavailable" : (r.nonstopCount > 0 ? "nonstop exists, no price" : "no nonstop flights"));
-        console.log(`  ${r.depStr} ... - (${note})`);
-        routeResults.push({ date: snapDate, departDate: r.depStr, price: null, airline: null, note });
+        const note = result.error || (result.eligibleCount > 0 ? "prices unavailable" : (result.nonstopCount > 0 ? "nonstop exists, no price" : "no nonstop flights"));
+        console.log(`  ${result.depStr} ... - (${note})`);
+        routeResults.push({ date: snapDate, departDate: result.depStr, price: null, airline: null, note });
+      }
+
+      saveCounter++;
+      if (saveCounter % 5 === 0 && !dryRun) {
+        saveRouteData(route, routeResults);
       }
     }
 
@@ -446,8 +487,10 @@ async function main() {
     const withPrice = routeResults.filter((r) => r.price);
     console.log(`  Finished in ${elapsed}s — ${withPrice.length}/${routeResults.length} days with prices`);
 
-    // Save immediately after each route (crash-safe)
-    if (!dryRun) saveRouteData(route, routeResults);
+    // Save remaining results that weren't saved by incremental batches
+    if (!dryRun && saveCounter % 5 !== 0) {
+      saveRouteData(route, routeResults);
+    }
 
     await browser?.close().catch(() => {});
 
