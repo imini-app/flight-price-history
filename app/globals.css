@@ -461,6 +461,11 @@ body {
   color: var(--gf-gray-400);
 }
 
+.route-nonstop {
+  font-size: 0.7rem;
+  color: var(--gf-green);
+}
+
 /* Chart + table side by side */
 .chart-table-row {
   display: flex;

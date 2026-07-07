@@ -37,6 +37,7 @@ export default function PriceChart({ prices, stats, pickDate }) {
   return (
     <div className="card">
       <div className="route-currency" style={{ padding: '0 0 4px 0' }}>{t('priceChart.allPricesUSD')}</div>
+      <div className="route-nonstop" style={{ padding: '0 0 4px 0' }}>{t('priceChart.nonstop')}</div>
       <div className="chart-wrapper">
         <ResponsiveContainer width="100%" height="100%">
           <LineChart data={chartData} margin={{ top: 8, right: 16, left: 8, bottom: 8 }}>

@@ -2,7 +2,7 @@
   "lang": "zh",
   "meta": {
     "title": "提前多久订票便宜 — 航班价格历史",
-    "description": "查看历史航班价格，决定何时订票最划算。追踪任意航线的价格趋势，找到最便宜的出发日期。",
+    "description": "查看历史航班价格，决定何时订票最划算。追踪任意航线的价格趋势，找到最便宜的出发日期。所有价格均为直飞（无经停）航班。",
     "exploreTitle": "未来哪天出发最便宜 — 航线价格历史"
   },
   "navbar": {
@@ -76,6 +76,7 @@
     "noData": "暂无数据显示",
     "noDataDesc": "选择航线和出发日期以查看价格趋势。",
     "allPricesUSD": "所有价格以美元显示",
+    "nonstop": "所有航班均为直飞（无经停）",
     "priceCheck": "记录：{date}",
     "price": "价格",
     "avg": "平均"
@@ -85,6 +86,7 @@
     "noDataDesc": "选择航线和日期以探索价格。",
     "departureDates": "{count} 个出发日期",
     "allPricesUSD": "所有价格以美元显示",
+    "nonstop": "所有航班均为直飞（无经停）",
     "avgPrice": "平均价格",
     "lowest": "最低",
     "highest": "最高",

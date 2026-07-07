@@ -2,7 +2,7 @@
   "lang": "en",
   "meta": {
     "title": "Best Time to Fly and Book",
-    "description": "See historical flight prices to decide when to book. Track price trends for any route and find the cheapest day to fly.",
+    "description": "See historical flight prices to decide when to book. Track price trends for any route and find the cheapest day to fly. All prices are for non-stop direct flights.",
     "exploreTitle": "Cheapest Day to Fly — Route Price History"
   },
   "navbar": {
@@ -76,6 +76,7 @@
     "noData": "No data to display",
     "noDataDesc": "Select a route and departure date to view price trend.",
     "allPricesUSD": "All prices in USD",
+    "nonstop": "All flights are non-stop (direct)",
     "priceCheck": "Snapshot: {date}",
     "price": "Price",
     "avg": "Avg"
@@ -85,6 +86,7 @@
     "noDataDesc": "Select a route and date to explore prices.",
     "departureDates": "{count} departure dates",
     "allPricesUSD": "All prices in USD",
+    "nonstop": "All flights are non-stop (direct)",
     "avgPrice": "Avg Price",
     "lowest": "Lowest",
     "highest": "Highest",

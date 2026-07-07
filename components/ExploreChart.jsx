@@ -43,6 +43,7 @@ export default function ExploreChart({ grouped, stats, routeLabel }) {
         <span className="route-snapshots">{t('exploreChart.departureDates', { count: chartData.length })}</span>
       </div>
       <div className="route-currency" style={{ marginBottom: 12 }}>{t('exploreChart.allPricesUSD')}</div>
+      <div className="route-nonstop" style={{ marginBottom: 12 }}>{t('exploreChart.nonstop')}</div>
       <div className="chart-wrapper">
         <ResponsiveContainer width="100%" height="100%">
           <LineChart data={chartData} margin={{ top: 8, right: 16, left: 8, bottom: 8 }}>
