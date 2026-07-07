@@ -169,8 +169,17 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
   }, [origins]);
 
   const handleDestChange = useCallback((e) => {
-    setSelectedDest(e.target.value);
-  }, []);
+    const code = e.target.value;
+    setSelectedDest(code);
+    if (selectedOrigin && code && routes.length) {
+      const route = routes.find(r => r.origin === selectedOrigin && r.dest === code);
+      if (route) {
+        const date = showDate ? pickDate : null;
+        onSelect(route.key, date, route.label);
+        if (onSubmit) onSubmit(route.key, date, route.label);
+      }
+    }
+  }, [selectedOrigin, routes, showDate, pickDate, onSelect, onSubmit]);
 
   const handleSwap = useCallback(() => {
     const newOrigin = selectedDest;
@@ -179,8 +188,17 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
     const dests = newOrigin ? (origins.find(o => o.code === newOrigin)?.destinations || []) : [];
     setSelectedOrigin(newOrigin);
     setDestinations(dests);
-    setSelectedDest(dests.find(d => d.code === newDest) ? newDest : '');
-  }, [selectedOrigin, selectedDest, origins]);
+    const validDest = dests.find(d => d.code === newDest) ? newDest : '';
+    setSelectedDest(validDest);
+    if (newOrigin && validDest && routes.length) {
+      const route = routes.find(r => r.origin === newOrigin && r.dest === validDest);
+      if (route) {
+        const date = showDate ? pickDate : null;
+        onSelect(route.key, date, route.label);
+        if (onSubmit) onSubmit(route.key, date, route.label);
+      }
+    }
+  }, [selectedOrigin, selectedDest, origins, routes, showDate, pickDate, onSelect, onSubmit]);
 
   const triggerSearch = useCallback((date) => {
     if (!selectedOrigin || !selectedDest) return;
