@@ -1,71 +1,71 @@
 {
-  "route": "SIN-AMS",
-  "origin": "SIN",
-  "dest": "AMS",
-  "label": "Singapore (SIN) → Amsterdam (AMS)",
+  "route": "SYD-SIN",
+  "origin": "SYD",
+  "dest": "SIN",
+  "label": "Sydney (SYD) → Singapore (SIN)",
   "prices": [
     {
       "date": "2026-07-08",
       "snapshot": "2026-07-07",
-      "price": 789,
-      "airline": "KLM",
+      "price": 401,
+      "airline": "Unknown",
       "nonstop": true,
       "stops": 0,
-      "duration": "13 hr 20 min"
+      "duration": "8 hr 30 min"
     },
     {
       "date": "2026-07-09",
       "snapshot": "2026-07-07",
-      "price": 789,
-      "airline": "KLM",
+      "price": 348,
+      "airline": "Unknown",
       "nonstop": true,
       "stops": 0,
-      "duration": "13 hr 20 min"
+      "duration": "8 hr 30 min"
     },
     {
       "date": "2026-07-10",
       "snapshot": "2026-07-07",
-      "price": 789,
-      "airline": "KLM",
+      "price": 270,
+      "airline": "Unknown",
       "nonstop": true,
       "stops": 0,
-      "duration": "13 hr 20 min"
+      "duration": "8 hr 30 min"
     },
     {
       "date": "2026-07-11",
       "snapshot": "2026-07-07",
-      "price": 789,
-      "airline": "KLM",
+      "price": 270,
+      "airline": "Unknown",
       "nonstop": true,
       "stops": 0,
-      "duration": "13 hr 20 min"
+      "duration": "8 hr 30 min"
     },
     {
       "date": "2026-07-12",
       "snapshot": "2026-07-07",
-      "price": 1418,
-      "airline": "Singapore Airlines",
+      "price": 270,
+      "airline": "Unknown",
       "nonstop": true,
       "stops": 0,
-      "duration": "13 hr 20 min"
+      "duration": "8 hr 30 min"
     },
     {
       "date": "2026-07-13",
       "snapshot": "2026-07-07",
-      "price": 789,
-      "airline": "KLM",
+      "price": 270,
+      "airline": "Unknown",
       "nonstop": true,
       "stops": 0,
-      "duration": "13 hr 20 min"
+      "duration": "8 hr 30 min"
     },
     {
       "date": "2026-07-14",
       "snapshot": "2026-07-07",
-      "price": 789,
-      "airline": "KLM",
+      "price": 270,
+      "airline": "Unknown",
       "nonstop": true,
       "stops": 0,
-      "duration": "13 hr 20 min"
+      "duration": "8 hr 30 min"
     }
   ]
 }
