@@ -1,0 +1,233 @@
+{
+  "route": "BKK-PEK",
+  "origin": "BKK",
+  "dest": "PEK",
+  "label": "Bangkok (BKK) → Beijing (PEK)",
+  "prices": [
+    {
+      "date": "2026-07-08",
+      "snapshot": "2026-07-07",
+      "price": 164,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-09",
+      "snapshot": "2026-07-07",
+      "price": 164,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-10",
+      "snapshot": "2026-07-07",
+      "price": 164,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-07",
+      "price": 226,
+      "airline": "THAIBangkok Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 45 min"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-07",
+      "price": 164,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-07",
+      "price": 164,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-07",
+      "price": 164,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 5 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-07",
+      "price": 164,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-07",
+      "price": 164,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-07",
+      "price": 164,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-07",
+      "price": 164,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-07",
+      "price": 164,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-07",
+      "price": 186,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-07",
+      "price": 164,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-07",
+      "price": 186,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-07",
+      "price": 186,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-07",
+      "price": 226,
+      "airline": "THAIBangkok Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 45 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-07",
+      "price": 226,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 40 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-07",
+      "price": 209,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-07",
+      "price": 209,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-07",
+      "price": 209,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 5 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-07",
+      "price": 187,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-07",
+      "price": 209,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 5 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-07",
+      "price": 209,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-07",
+      "price": 226,
+      "airline": "THAIBangkok Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 45 min"
+    }
+  ]
+}

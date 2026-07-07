@@ -1524,6 +1524,42 @@
       "nonstop": true,
       "stops": 0,
       "duration": "6 hr 45 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-07",
+      "price": 276,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 20 min"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-07",
+      "price": 211,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 45 min"
+    },
+    {
+      "date": "2026-12-07",
+      "snapshot": "2026-07-07",
+      "price": 211,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 45 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-07",
+      "price": 520,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 35 min"
     }
   ]
 }

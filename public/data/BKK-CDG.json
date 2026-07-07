@@ -1497,6 +1497,96 @@
       "nonstop": true,
       "stops": 0,
       "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-07",
+      "price": 530,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-12-26",
+      "snapshot": "2026-07-07",
+      "price": 530,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-07",
+      "price": 530,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-07",
+      "price": 530,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-12-29",
+      "snapshot": "2026-07-07",
+      "price": 530,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-07",
+      "price": 530,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-07",
+      "price": 530,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-07",
+      "price": 712,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-07",
+      "price": 781,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 15 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-07",
+      "price": 951,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
     }
   ]
 }

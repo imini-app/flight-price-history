@@ -1335,6 +1335,276 @@
       "nonstop": true,
       "stops": 0,
       "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-07",
+      "price": 569,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 35 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-07",
+      "snapshot": "2026-07-07",
+      "price": 569,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 35 min"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-07",
+      "price": 569,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 35 min"
+    },
+    {
+      "date": "2026-12-10",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-13",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-15",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-16",
+      "snapshot": "2026-07-07",
+      "price": 828,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-17",
+      "snapshot": "2026-07-07",
+      "price": 924,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-07",
+      "price": 1068,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-19",
+      "snapshot": "2026-07-07",
+      "price": 1219,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-07",
+      "price": 1068,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-21",
+      "snapshot": "2026-07-07",
+      "price": 886,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 35 min"
+    },
+    {
+      "date": "2026-12-22",
+      "snapshot": "2026-07-07",
+      "price": 828,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-07",
+      "price": 705,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-26",
+      "snapshot": "2026-07-07",
+      "price": 759,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-29",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-07",
+      "price": 663,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-07",
+      "price": 705,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-07",
+      "price": 828,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-07",
+      "price": 759,
+      "airline": "THAI",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 10 min"
     }
   ]
 }
