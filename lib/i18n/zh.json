@@ -67,15 +67,15 @@
     "mostRecent": "最近记录",
     "change": "变化 ({percent}%)",
     "flyingOn": "出发日期 {date}",
-    "priceCheck": "{count} 个快照",
-    "priceChecks": "{count} 个快照",
+    "priceCheck": "{count} 条记录",
+    "priceChecks": "{count} 条记录",
     "allPricesUSD": "所有价格以美元显示"
   },
   "priceChart": {
     "noData": "暂无数据显示",
     "noDataDesc": "选择航线和出发日期以查看价格趋势。",
     "allPricesUSD": "所有价格以美元显示",
-    "priceCheck": "快照：{date}",
+    "priceCheck": "记录：{date}",
     "price": "价格",
     "avg": "平均"
   },
