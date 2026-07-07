@@ -67,15 +67,15 @@
     "mostRecent": "Most recent",
     "change": "Change ({percent}%)",
     "flyingOn": "Flying on {date}",
-    "priceCheck": "{count} record",
-    "priceChecks": "{count} records",
+    "priceCheck": "{count} snapshot",
+    "priceChecks": "{count} snapshots",
     "allPricesUSD": "All prices in USD"
   },
   "priceChart": {
     "noData": "No data to display",
     "noDataDesc": "Select a route and departure date to view price trend.",
     "allPricesUSD": "All prices in USD",
-    "priceCheck": "Recorded: {date}",
+    "priceCheck": "Snapshot: {date}",
     "price": "Price",
     "avg": "Avg"
   },
