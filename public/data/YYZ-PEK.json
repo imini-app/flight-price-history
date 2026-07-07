@@ -1,0 +1,125 @@
+{
+  "route": "YYZ-PEK",
+  "origin": "YYZ",
+  "dest": "PEK",
+  "label": "Toronto (YYZ) → Beijing (PEK)",
+  "prices": [
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-07",
+      "price": 1337,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-07",
+      "price": 716,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-07",
+      "price": 716,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-07",
+      "price": 866,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-07",
+      "price": 866,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-07",
+      "price": 716,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-07",
+      "price": 982,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-07",
+      "price": 770,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-07",
+      "price": 853,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-09-13",
+      "snapshot": "2026-07-07",
+      "price": 696,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-07",
+      "price": 696,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-09-27",
+      "snapshot": "2026-07-07",
+      "price": 1268,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-10-04",
+      "snapshot": "2026-07-07",
+      "price": 1535,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    }
+  ]
+}

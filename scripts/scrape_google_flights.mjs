@@ -111,8 +111,8 @@ function buildGoogleFlightsUrl(origin, dest, depDate) {
   return (
     `https://www.google.com/travel/flights` +
     `?q=Flights+from+${origin}+to+${dest}` +
-    `+on+${depDate}` +
-    `&curr=USD&hl=en`
+    `+on+${depDate}+one+way+nonstop` +
+    `&curr=USD&hl=en&gl=US`
   );
 }
 
@@ -121,28 +121,29 @@ function parseFlightsFromText(text) {
   const lines = text.split("\n").map((l) => l.trim()).filter(Boolean);
 
   const airlineNames = [
-    "Air China", "China Southern", "China Eastern", "Hainan Airlines",
+    "Air China", "China Southern", "China Eastern", "Hainan Airlines", "Hainan",
+    "Juneyao Airlines", "Juneyao",
     "Air Canada", "WestJet", "United", "Delta", "American",
     "British Airways", "Virgin Atlantic", "Lufthansa", "KLM",
     "Air France", "Emirates", "Qatar Airways", "Singapore Airlines",
-    "Cathay Pacific", "ANA", "Japan Airlines", "Korean Air", "Asiana",
+    "Cathay Pacific", "ANA", "All Nippon Airways", "Japan Airlines", "Korean Air", "Asiana",
     "Qantas", "Etihad", "Southwest", "JetBlue",
+    "THAI", "Batik Air", "Malaysia Airlines", "Philippine Airlines",
+    "Vietnam Airlines", "Turkish Airlines", "Swiss", "Austrian",
+    "Finnair", "Iberia", "Alitalia", "Aer Lingus",
+    "China EasternQantas",
   ];
 
   const timeRegex = /^\d{1,2}:\d{2}\s*(AM|PM)$/i;
   const priceRegex = /^\$[\d,]+$/;
   const durationRegex = /^\d+\s*hr(\s*\d+\s*min)?$/i;
-  const stopsRegex = /^(\d+)\s+stops?$/i;
-  const nonstopRegex = /^nonstop$/i;
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     if (timeRegex.test(line) && i + 5 < lines.length) {
       let airline = null;
       let duration = null;
-      let stops = null;
       let price = null;
-      let isNonstop = false;
       let priceAvailable = true;
 
       for (let j = i + 1; j < Math.min(i + 12, lines.length); j++) {
@@ -156,10 +157,6 @@ function parseFlightsFromText(text) {
           }
         }
         if (!duration && durationRegex.test(l)) duration = l;
-        if (!stops) {
-          if (nonstopRegex.test(l)) { stops = 0; isNonstop = true; }
-          else { const m = l.match(stopsRegex); if (m) stops = parseInt(m[1], 10); }
-        }
         if (!price && priceRegex.test(l)) {
           price = parseInt(l.replace(/[$,]/g, ""), 10);
         }
@@ -172,8 +169,8 @@ function parseFlightsFromText(text) {
           departureTime: line,
           airline: airline || "Unknown",
           duration,
-          stops,
-          isNonstop,
+          stops: 0,
+          isNonstop: true,
           price: price && price >= 50 && price <= 50000 ? price : null,
           priceAvailable,
         });
@@ -193,14 +190,13 @@ async function scrapeOneDate(page, origin, dest, depDate) {
 
       const pageText = await page.evaluate(() => document.body.innerText);
       const allFlights = parseFlightsFromText(pageText);
-      const eligible = allFlights.filter((f) => f.stops !== null && f.stops <= maxStops);
-      const withPrice = eligible.filter((f) => f.price !== null).sort((a, b) => a.price - b.price);
+      const withPrice = allFlights.filter((f) => f.price !== null).sort((a, b) => a.price - b.price);
 
       return {
         cheapest: withPrice.length > 0 ? withPrice[0] : null,
-        nonstopCount: allFlights.filter((f) => f.isNonstop).length,
+        nonstopCount: allFlights.length,
         totalCount: allFlights.length,
-        eligibleCount: eligible.length,
+        eligibleCount: allFlights.length,
       };
     } catch (err) {
       const msg = err?.message || "";
@@ -451,7 +447,7 @@ async function main() {
     console.log(`  Finished in ${elapsed}s — ${withPrice.length}/${routeResults.length} days with prices`);
 
     // Save immediately after each route (crash-safe)
-    saveRouteData(route, routeResults);
+    if (!dryRun) saveRouteData(route, routeResults);
 
     await browser?.close().catch(() => {});
 
