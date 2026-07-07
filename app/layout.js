@@ -3,46 +3,29 @@ import Script from 'next/script';
 import Navbar from '@/components/Navbar';
 import HtmlLangUpdater from '@/components/HtmlLangUpdater';
 import { I18nProvider } from '@/lib/i18n/context';
+import { buildMetadata, getLocaleFromSearchParams, SITE_URL } from '@/lib/seo';
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://besttimetobook.com';
+export const metadataBase = new URL(SITE_URL);
 
-export const metadata = {
-  metadataBase: new URL(SITE_URL),
-  title: {
-    default: 'Best Time to Fly and Book',
-    template: '%s — Flight Price History',
-  },
-  description: 'Track flight prices for 100+ international routes. Find the cheapest day to fly and the best time to book.',
-  keywords: ['flight prices', 'flight deals', 'cheap flights', 'flight history', 'best time to book', 'price tracker', 'airfare trends', 'flight price history'],
-  authors: [{ name: 'Flight Price History' }],
-  robots: {
-    index: true,
-    follow: true,
-    googleBot: {
+export function generateMetadata({ searchParams }) {
+  const locale = getLocaleFromSearchParams(searchParams);
+  return {
+    ...buildMetadata({ locale }),
+    keywords: ['flight prices', 'flight deals', 'cheap flights', 'flight history', 'best time to book', 'price tracker', 'airfare trends', 'flight price history', '机票价格', '特价机票', '最佳订票时间', '机票历史'],
+    authors: [{ name: 'Flight Price History' }],
+    robots: {
       index: true,
       follow: true,
-      'max-video-preview': -1,
-      'max-image-preview': 'large',
-      'max-snippet': -1,
+      googleBot: {
+        index: true,
+        follow: true,
+        'max-video-preview': -1,
+        'max-image-preview': 'large',
+        'max-snippet': -1,
+      },
     },
-  },
-  openGraph: {
-    type: 'website',
-    locale: 'en_US',
-    url: SITE_URL,
-    siteName: 'Best Time to Fly and Book',
-    title: 'Best Time to Fly and Book',
-    description: 'Track flight prices for 100+ international routes. Find the cheapest day to fly.',
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'Best Time to Fly and Book',
-    description: 'Track flight prices for 100+ international routes.',
-  },
-  alternates: {
-    canonical: '/',
-  },
-};
+  };
+}
 
 export default function RootLayout({ children }) {
   return (
