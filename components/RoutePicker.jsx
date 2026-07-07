@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { format } from 'date-fns';
-import { fetchRoutes, buildOriginIndex } from '@/lib/data-utils';
+import { fetchRoutes, buildOriginIndex, groupPricesByDeparture } from '@/lib/data-utils';
 import SearchableSelect from './SearchableSelect';
 import CalendarPicker from './CalendarPicker';
 import HelpPopup from './HelpPopup';
@@ -68,18 +68,7 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
         return res.json();
       })
       .then(data => {
-        const groups = {};
-        for (const p of data.prices) {
-          if (!p.snapshot) continue;
-          if (!groups[p.date]) groups[p.date] = [];
-          groups[p.date].push(p.price);
-        }
-        const entries = Object.entries(groups)
-          .map(([date, vals]) => ({
-            date,
-            avgPrice: Math.round(vals.reduce((a, b) => a + b, 0) / vals.length),
-          }))
-          .sort((a, b) => a.date.localeCompare(b.date));
+        const entries = groupPricesByDeparture(data.prices);
         setAvailableDates(entries.map(e => e.date));
         setDatePrices(entries);
         setRouteDataLoading(false);
