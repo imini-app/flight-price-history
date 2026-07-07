@@ -3,6 +3,7 @@
 import { useState, useCallback, useEffect } from 'react';
 import RoutePicker from '@/components/RoutePicker';
 import PriceChart from '@/components/PriceChart';
+import PriceTable from '@/components/PriceTable';
 import StatsCards from '@/components/StatsCards';
 import { fetchRouteData, filterPricesByDepartureDate, computeSnapshotStats } from '@/lib/data-utils';
 import { useTranslation } from '@/lib/i18n/context';
@@ -159,7 +160,14 @@ export default function Home() {
       {!loading && stats && (
         <div>
           <StatsCards stats={stats} prices={snapshotPrices} routeLabel={routeLabel} pickDate={pickDate} />
-          <PriceChart prices={snapshotPrices} stats={stats} pickDate={pickDate} />
+          <div className="chart-table-row">
+            <div className="chart-table-col chart-table-col-chart">
+              <PriceChart prices={snapshotPrices} stats={stats} pickDate={pickDate} />
+            </div>
+            <div className="chart-table-col chart-table-col-table">
+              <PriceTable prices={snapshotPrices} />
+            </div>
+          </div>
         </div>
       )}
 

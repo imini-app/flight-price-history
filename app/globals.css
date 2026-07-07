@@ -461,8 +461,57 @@ body {
   color: var(--gf-gray-400);
 }
 
+/* Chart + table side by side */
+.chart-table-row {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+.chart-table-col { min-width: 0; }
+.chart-table-col-chart { flex: 2; }
+.chart-table-col-table { flex: 1; }
+.chart-table-col-chart .card { margin-bottom: 0; }
+.chart-table-col-table .card { margin-bottom: 0; }
+
 /* Chart */
 .chart-wrapper { width: 100%; height: 400px; }
+
+/* Price table */
+.price-table-wrap {
+  background: var(--gf-white);
+  border: 1px solid var(--gf-gray-200);
+  border-radius: var(--gf-radius-lg);
+  padding: 4px 0;
+  max-height: 440px;
+  overflow-y: auto;
+}
+.price-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+}
+.price-table th {
+  text-align: left;
+  padding: 10px 14px;
+  font-weight: 600;
+  color: var(--gf-gray-600);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom: 1px solid var(--gf-gray-200);
+  position: sticky;
+  top: 0;
+  background: var(--gf-white);
+}
+.price-table td {
+  padding: 8px 14px;
+  border-bottom: 1px solid var(--gf-gray-100);
+  color: var(--gf-gray-800);
+}
+.price-table tr:last-child td { border-bottom: none; }
+.price-table .pt-date { white-space: nowrap; color: var(--gf-gray-600); }
+.price-table .pt-price { font-weight: 600; color: var(--gf-gray-900); }
+.price-table .pt-airline { color: var(--gf-gray-500); font-size: 0.78rem; }
 
 /* Loading */
 .loading { text-align: center; padding: 60px 20px; color: var(--gf-gray-500); }
@@ -645,6 +694,8 @@ body {
   .chart-wrapper { height: 280px; }
   .landing-cards { grid-template-columns: 1fr; }
   .hero h1 { font-size: 1.8rem; }
+  .chart-table-row { flex-direction: column; }
+  .chart-table-col-table .price-table-wrap { max-height: none; }
   .date-picker-popup {
     left: 50%;
     transform: translateX(-50%);
