@@ -182,16 +182,21 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
     setSelectedDest(dests.find(d => d.code === newDest) ? newDest : '');
   }, [selectedOrigin, selectedDest, origins]);
 
+  const triggerSearch = useCallback((date) => {
+    if (!selectedOrigin || !selectedDest) return;
+    const route = routes.find(r => r.origin === selectedOrigin && r.dest === selectedDest);
+    if (route) {
+      onSelect(route.key, showDate ? date : null, route.label);
+      if (onSubmit) onSubmit(route.key, showDate ? date : null, route.label);
+    }
+  }, [selectedOrigin, selectedDest, routes, showDate, onSelect, onSubmit]);
+
   const handleSubmit = (e) => {
     e.preventDefault();
     if (!selectedOrigin || !selectedDest) return;
     if (showDate && !pickDate) return;
     if (showDate && availableDates.length && !availableDates.includes(pickDate)) return;
-    const route = routes.find(r => r.origin === selectedOrigin && r.dest === selectedDest);
-    if (route) {
-      onSelect(route.key, showDate ? pickDate : null, route.label);
-      if (onSubmit) onSubmit(route.key, showDate ? pickDate : null, route.label);
-    }
+    triggerSearch(pickDate);
   };
 
   useEffect(() => {
@@ -309,6 +314,7 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
                               setPickDate(key);
                               setShowDatePopup(false);
                               setDateSearch('');
+                              triggerSearch(key);
                             }
                           }
                         }
@@ -319,7 +325,7 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
                   <CalendarPicker
                     datePrices={datePrices}
                     selectedDate={pickDate}
-                    onSelect={d => { setPickDate(d); setShowDatePopup(false); setDateSearch(''); }}
+                    onSelect={d => { setPickDate(d); setShowDatePopup(false); setDateSearch(''); triggerSearch(d); }}
                   />
                 </div>
               )}
