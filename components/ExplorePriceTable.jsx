@@ -25,9 +25,6 @@ export default function ExplorePriceTable({ grouped }) {
           <tr>
             <th>{t('exploreTable.date')}</th>
             <th>{t('exploreTable.avg')}</th>
-            <th>{t('exploreTable.low')}</th>
-            <th>{t('exploreTable.high')}</th>
-            <th>{t('exploreTable.snapshots')}</th>
           </tr>
         </thead>
         <tbody>
@@ -35,9 +32,6 @@ export default function ExplorePriceTable({ grouped }) {
             <tr key={g.date}>
               <td className="pt-date">{format(parseISO(g.date), dateFmt, { locale: dateFnsLocales[locale] })}</td>
               <td className="pt-price">{formatPrice(g.avgPrice, locale)}</td>
-              <td>{formatPrice(g.minPrice, locale)}</td>
-              <td>{formatPrice(g.maxPrice, locale)}</td>
-              <td className="pt-airline">{g.snapshots}</td>
             </tr>
           ))}
         </tbody>
