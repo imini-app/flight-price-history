@@ -87,6 +87,7 @@
     "departureDates": "{count} departure dates",
     "allPricesUSD": "All prices in USD",
     "nonstop": "All flights are non-stop (direct)",
+    "cheapestPoint": "Cheapest departure: {price}",
     "avgPrice": "Avg Price",
     "lowest": "Lowest",
     "highest": "Highest",

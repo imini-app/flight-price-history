@@ -461,6 +461,23 @@ body {
   color: var(--gf-gray-400);
 }
 
+.chart-cheapest-note {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--gf-green);
+  margin-bottom: 8px;
+}
+.chart-cheapest-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--gf-green);
+  box-shadow: 0 0 0 3px rgba(30, 142, 62, 0.2);
+}
+
 /* Chart + table side by side */
 .chart-table-row {
   display: flex;

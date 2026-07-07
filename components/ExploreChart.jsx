@@ -25,6 +25,11 @@ export default function ExploreChart({ grouped, stats, routeLabel }) {
 
   const avgPrice = stats?.avg || 0;
 
+  const cheapest = useMemo(() => {
+    if (!chartData.length) return null;
+    return chartData.reduce((m, d) => (d.price < m.price ? d : m), chartData[0]);
+  }, [chartData]);
+
   if (!chartData.length) {
     return (
       <div className="card">
@@ -43,6 +48,12 @@ export default function ExploreChart({ grouped, stats, routeLabel }) {
         <span className="route-snapshots">{t('exploreChart.departureDates', { count: chartData.length })}</span>
       </div>
       <div className="route-currency" style={{ marginBottom: 12 }}>{t('exploreChart.allPricesUSD')} · {t('exploreChart.nonstop')}</div>
+      {cheapest && (
+        <div className="chart-cheapest-note">
+          <span className="chart-cheapest-dot" />
+          {t('exploreChart.cheapestPoint', { price: formatPrice(cheapest.price, locale) })}
+        </div>
+      )}
       <div className="chart-wrapper">
         <ResponsiveContainer width="100%" height="100%">
           <LineChart data={chartData} margin={{ top: 8, right: 16, left: 8, bottom: 8 }}>
@@ -74,7 +85,18 @@ export default function ExploreChart({ grouped, stats, routeLabel }) {
               name={t('exploreChart.avgPrice')}
               stroke="#1a73e8"
               strokeWidth={2}
-              dot={false}
+              dot={(props) => {
+                const { cx, cy, payload } = props;
+                if (cx == null || cy == null) return null;
+                const isCheapest = payload && cheapest && payload.date === cheapest.date;
+                if (!isCheapest) return null;
+                return (
+                  <g>
+                    <circle cx={cx} cy={cy} r={7} fill="#1e8e3e" fillOpacity={0.18} />
+                    <circle cx={cx} cy={cy} r={4.5} fill="#1e8e3e" stroke="#fff" strokeWidth={2} />
+                  </g>
+                );
+              }}
               activeDot={{ r: 4, fill: '#1a73e8' }}
               connectNulls
             />
