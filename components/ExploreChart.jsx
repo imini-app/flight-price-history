@@ -35,10 +35,11 @@ export default function ExploreChart({ grouped, stats, routeLabel }) {
 
   return (
     <div className="card">
-      <div className="route-info" style={{ marginBottom: 16 }}>
+      <div className="route-info" style={{ marginBottom: 4 }}>
         <strong style={{ fontSize: '0.9rem', fontWeight: 500 }}>{routeLabel}</strong>
         <span className="route-snapshots">{chartData.length} departure dates</span>
       </div>
+      <div className="route-currency" style={{ marginBottom: 12 }}>All prices in USD</div>
       <div className="chart-wrapper">
         <ResponsiveContainer width="100%" height="100%">
           <LineChart data={chartData} margin={{ top: 8, right: 16, left: 8, bottom: 8 }}>

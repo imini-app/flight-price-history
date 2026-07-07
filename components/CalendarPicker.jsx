@@ -131,6 +131,7 @@ export default function CalendarPicker({ datePrices, selectedDate, onSelect }) {
           </button>
         ))}
       </div>
+      <div className="route-currency" style={{ textAlign: 'center', marginTop: 6 }}>All prices in USD</div>
     </div>
   );
 }
