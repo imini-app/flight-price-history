@@ -6,8 +6,8 @@
   },
   "navbar": {
     "brand": "✈ 航班价格历史",
-    "priceCheck": "价格查询",
-    "routeHistory": "航线价格历史"
+    "priceCheck": "提前多久订票便宜",
+    "routeHistory": "未来哪天出发最便宜"
   },
   "home": {
     "title": "什么时候是预订航班的最佳时间？",

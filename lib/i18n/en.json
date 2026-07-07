@@ -6,8 +6,8 @@
   },
   "navbar": {
     "brand": "✈ Flight Price History",
-    "priceCheck": "Price Check",
-    "routeHistory": "Route Price History"
+    "priceCheck": "Best Time to Book",
+    "routeHistory": "Cheapest Day to Fly"
   },
   "home": {
     "title": "When is the best time to book your flight?",
