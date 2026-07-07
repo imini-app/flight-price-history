@@ -16,7 +16,7 @@ export default function PriceTable({ prices, pickDate }) {
       const snapDate = parseISO(p.snapshot);
       const daysBefore = differenceInDays(departure, snapDate);
       const prefix = daysBefore === 0 ? t('priceTable.dayOfDeparture') : t('priceTable.daysPrior', { days: daysBefore });
-      const dateStr = format(snapDate, 'MMM d, yyyy', { locale: dateFnsLocales[locale] });
+      const dateStr = format(snapDate, locale === 'zh' ? 'yyyy年M月d日' : 'MMM d, yyyy', { locale: dateFnsLocales[locale] });
       return {
         daysLabel: `${prefix} (${dateStr})`,
         daysNum: daysBefore,

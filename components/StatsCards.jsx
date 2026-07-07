@@ -9,7 +9,7 @@ export default function StatsCards({ stats, prices, routeLabel, pickDate }) {
   const { t, locale } = useTranslation();
   if (!stats || !prices || prices.length === 0) return null;
 
-  const depDisplay = pickDate ? format(parseISO(pickDate), 'MMM d, yyyy', { locale: dateFnsLocales[locale] }) : '';
+  const depDisplay = pickDate ? format(parseISO(pickDate), locale === 'zh' ? 'yyyy年M月d日' : 'MMM d, yyyy', { locale: dateFnsLocales[locale] }) : '';
   const changeLabel = stats.change >= 0 ? `+${formatPrice(stats.change, locale)}` : `-${formatPrice(Math.abs(stats.change), locale)}`;
   const changeChip = stats.change > 0 ? 'chip-worst' : stats.change < 0 ? 'chip-best' : '';
 

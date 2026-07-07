@@ -44,7 +44,7 @@ export default function PriceChart({ prices, stats, pickDate }) {
             <XAxis
               dataKey="snapshot"
               tick={{ fontSize: 11, fill: '#5f6368' }}
-              tickFormatter={d => format(parseISO(d), 'MMM d', { locale: dateFnsLocales[locale] })}
+              tickFormatter={d => format(parseISO(d), locale === 'zh' ? 'M月d日' : 'MMM d', { locale: dateFnsLocales[locale] })}
               interval="preserveStartEnd"
               minTickGap={40}
             />
@@ -55,7 +55,7 @@ export default function PriceChart({ prices, stats, pickDate }) {
             />
             <Tooltip
               contentStyle={{ borderRadius: 8, border: '1px solid #dadce0', fontSize: 13 }}
-              labelFormatter={d => t('priceChart.priceCheck', { date: format(parseISO(d), 'MMM d, yyyy', { locale: dateFnsLocales[locale] }) })}
+              labelFormatter={d => t('priceChart.priceCheck', { date: format(parseISO(d), locale === 'zh' ? 'yyyy年M月d日' : 'MMM d, yyyy', { locale: dateFnsLocales[locale] }) })}
               formatter={(value, name) => [name === 'price' ? formatPrice(value, locale) : value, name === 'price' ? t('priceChart.price') : name]}
             />
             <Legend />

@@ -292,7 +292,7 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
                 className="date-picker-display"
                 onClick={() => setShowDatePopup(v => !v)}
               >
-                <span className="dpd-label">{(() => { const [y, m, d] = pickDate.split('-'); return format(new Date(+y, +m - 1, +d), 'EEE, MMM d, yyyy', { locale: dateFnsLocales[locale] }); })()}</span>
+                <span className="dpd-label">{(() => { const [y, m, d] = pickDate.split('-'); return format(new Date(+y, +m - 1, +d), locale === 'zh' ? 'yyyy年M月d日' : 'EEE, MMM d, yyyy', { locale: dateFnsLocales[locale] }); })()}</span>
                 {dateInfo && (
                   <span className={`dpd-badge dpd-badge-${dateInfo.type}`}>
                     {dateInfo.type === 'loading' && '\u23F3'}

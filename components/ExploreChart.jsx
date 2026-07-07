@@ -50,7 +50,7 @@ export default function ExploreChart({ grouped, stats, routeLabel }) {
             <XAxis
               dataKey="date"
               tick={{ fontSize: 11, fill: '#718096' }}
-              tickFormatter={d => format(parseISO(d), 'MMM d', { locale: dateFnsLocales[locale] })}
+              tickFormatter={d => format(parseISO(d), locale === 'zh' ? 'M月d日' : 'MMM d', { locale: dateFnsLocales[locale] })}
               interval="preserveStartEnd"
               minTickGap={40}
             />
@@ -61,7 +61,7 @@ export default function ExploreChart({ grouped, stats, routeLabel }) {
             />
             <Tooltip
               contentStyle={{ borderRadius: 8, border: '1px solid #e2e8f0', fontSize: 13 }}
-              labelFormatter={d => format(parseISO(d), 'MMM d, yyyy', { locale: dateFnsLocales[locale] })}
+              labelFormatter={d => format(parseISO(d), locale === 'zh' ? 'yyyy年M月d日' : 'MMM d, yyyy', { locale: dateFnsLocales[locale] })}
               formatter={(value, name) => {
                 const labels = { price: t('exploreChart.avgPrice'), minPrice: t('exploreChart.lowest'), maxPrice: t('exploreChart.highest'), snapshots: t('exploreChart.snapshots') };
                 return [name === 'price' ? formatPrice(value, locale) : value, labels[name] || name];
