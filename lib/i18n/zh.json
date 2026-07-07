@@ -18,7 +18,7 @@
     "findBestTime": "找到最佳预订时间",
     "findBestTimeDesc": "选择您的航线和旅行日期，查看价格趋势。如果价格正在下降，可以再等等；如果正在上涨，建议尽早预订。",
     "monitorDrops": "监控价格下跌",
-    "monitorDropsDesc": "每天回来看——每次新的快照都会在图表的点上增加。您将清楚地看到价格何时下跌以及下跌了多少。",
+    "monitorDropsDesc": "每天回来看——每次新的记录都会在图表的点上增加。您将清楚地看到价格何时下跌以及下跌了多少。",
     "compareDates": "比较邻近日期",
     "compareDatesDesc": "尝试不同的出发日期，看看将行程调整一两天如何影响价格历史和当前票价。",
     "loading": "正在加载价格数据...",
@@ -36,8 +36,8 @@
     "cheapestSeasonDesc": "扫描图表上的最低点——这些是平均价格最低的出发日期。围绕这些时间段规划您的行程。",
     "holidaySpikes": "发现节假日价格高峰",
     "holidaySpikesDesc": "注意圣诞节或夏季等节假日周围的价格上涨。图表清楚地显示了需求（和价格）何时达到峰值，帮助您避开这些时段。",
-    "multipleSnapshots": "查看多重快照平均值",
-    "multipleSnapshotsDesc": "每个出发日期点都是该日期所有快照的平均值。快照越多，价格信号越可靠。",
+    "multipleSnapshots": "查看多重记录平均值",
+    "multipleSnapshotsDesc": "每个出发日期点都是该日期所有记录的平均值。记录越多，价格信号越可靠。",
     "loading": "正在加载价格数据...",
     "noData": "暂无数据",
     "noDataDesc": "我们尚未收集到足够的这条航线数据。数据每天采集一次——请稍后再来查看！",
@@ -88,7 +88,7 @@
     "avgPrice": "平均价格",
     "lowest": "最低",
     "highest": "最高",
-    "snapshots": "快照数",
+    "snapshots": "记录数",
     "avg": "平均"
   },
   "exploreTable": {
@@ -96,7 +96,7 @@
     "avg": "平均",
     "low": "最低",
     "high": "最高",
-    "snapshots": "快照数",
+    "snapshots": "记录数",
     "cheapest": "最便宜：{date} — {price}"
   },
   "calendar": {
