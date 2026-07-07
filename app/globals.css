@@ -472,7 +472,7 @@ body {
   gap: 20px;
   margin-bottom: 20px;
 }
-.chart-table-col { min-width: 0; }
+.chart-table-col { min-width: 0; display: flex; flex-direction: column; }
 .chart-table-col-chart { flex: 2; }
 .chart-table-col-table { flex: 1; }
 .chart-table-col-chart .card { margin-bottom: 0; }
@@ -498,7 +498,8 @@ body {
   border: 1px solid var(--gf-gray-200);
   border-radius: var(--gf-radius-lg);
   padding: 4px 0;
-  height: 400px;
+  flex: 1 1 auto;
+  min-height: 0;
   overflow-y: auto;
 }
 .price-table {
@@ -711,7 +712,7 @@ body {
   .landing-cards { grid-template-columns: 1fr; }
   .hero h1 { font-size: 1.8rem; }
   .chart-table-row { flex-direction: column; }
-  .chart-table-col-table .price-table-wrap { max-height: none; }
+  .chart-table-col-table .price-table-wrap { height: 400px; flex: none; }
   .date-picker-popup {
     left: 50%;
     transform: translateX(-50%);
