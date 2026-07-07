@@ -1,0 +1,323 @@
+{
+  "route": "HKG-PEK",
+  "origin": "HKG",
+  "dest": "PEK",
+  "label": "Hong Kong (HKG) → Beijing (PEK)",
+  "prices": [
+    {
+      "date": "2026-07-10",
+      "snapshot": "2026-07-07",
+      "price": 202,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 30 min"
+    },
+    {
+      "date": "2026-07-08",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 20 min"
+    },
+    {
+      "date": "2026-07-09",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 20 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 20 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 20 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 20 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 20 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 20 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 20 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 20 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 20 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-08-07",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 30 min"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 30 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-07",
+      "price": 215,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 25 min"
+    }
+  ]
+}

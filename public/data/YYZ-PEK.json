@@ -120,6 +120,123 @@
       "nonstop": true,
       "stops": 0,
       "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-10-11",
+      "snapshot": "2026-07-07",
+      "price": 1179,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-10-18",
+      "snapshot": "2026-07-07",
+      "price": 852,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-10-25",
+      "snapshot": "2026-07-07",
+      "price": 770,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-07",
+      "price": 770,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-07",
+      "price": 852,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-07",
+      "price": 770,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-22",
+      "snapshot": "2026-07-07",
+      "price": 770,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-07",
+      "price": 770,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-07",
+      "price": 880,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-13",
+      "snapshot": "2026-07-07",
+      "price": 880,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-07",
+      "price": 1159,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-07",
+      "price": 866,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-07",
+      "price": 770,
+      "airline": "Hainan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
     }
   ]
 }

@@ -97,6 +97,21 @@ function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
+async function killBrowser(browser) {
+  if (!browser) return;
+  try {
+    const proc = browser.process();
+    await browser.close().catch(() => {});
+    if (proc) {
+      proc.kill("SIGKILL");
+      // Also try to reap the zombie via Puppeteer internals
+      try { proc.kill("SIGKILL"); } catch {}
+    }
+  } catch {
+    // ignore
+  }
+}
+
 function formatDate(d) {
   return d.toISOString().split("T")[0];
 }
@@ -436,6 +451,21 @@ async function main() {
       console.log(`  ${dates.length - pendingDates.length}/${dates.length} dates already scraped, scraping remaining ${pendingDates.length}`);
     }
 
+    // Force GC if available between routes
+    if (typeof global.gc === "function") {
+      global.gc();
+    }
+
+    // Check memory and wait before launching a new browser
+    const preMem = checkMemory(`Pre-browser for ${route.key}`);
+    if (preMem.free < MEM_CRITICAL) {
+      console.warn(`  Memory critical — waiting 30s before launching browser`);
+      await sleep(30000);
+    } else if (preMem.free < MEM_MIN_FREE) {
+      console.warn(`  Memory low — waiting 10s before launching browser`);
+      await sleep(10000);
+    }
+
     let browser;
     let results;
     const routeResults = [];
@@ -448,7 +478,7 @@ async function main() {
         break;
       } catch (err) {
         console.warn(`  Browser error (attempt ${attempt + 1}/2): ${err.message}`);
-        await browser?.close().catch(() => {});
+        await killBrowser(browser);
         browser = null;
         if (attempt === 1) throw err;
         console.warn(`  Retrying ${route.key} after 10s delay...`);
@@ -492,7 +522,7 @@ async function main() {
       saveRouteData(route, routeResults);
     }
 
-    await browser?.close().catch(() => {});
+    await killBrowser(browser);
 
     return { route, results: routeResults };
   }
