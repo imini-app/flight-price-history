@@ -1,0 +1,111 @@
+{
+  "lang": "en",
+  "meta": {
+    "title": "Flight Price History",
+    "description": "Track and explore historic flight prices for major international routes"
+  },
+  "navbar": {
+    "brand": "✈ Flight Price History",
+    "priceCheck": "Price Check",
+    "routeHistory": "Route Price History"
+  },
+  "home": {
+    "title": "Flight Price History",
+    "subtitle": "See how flight prices change day by day. Pick a route and a departure date to find the best time to book.",
+    "guideTitle": "How to Use Price Check",
+    "guideDesc": "Track how flight prices for a specific departure date have changed over time. This helps you decide whether to book now or wait for a better deal.",
+    "findBestTime": "Find the Best Time to Book",
+    "findBestTimeDesc": "Select your route and travel date, then view the price trend. If prices are trending down, you may want to wait. If they're rising, consider booking soon.",
+    "monitorDrops": "Monitor Price Drops",
+    "monitorDropsDesc": "Check back daily — each new snapshot adds a point to the chart. You'll see exactly when prices dropped and by how much.",
+    "compareDates": "Compare Nearby Dates",
+    "compareDatesDesc": "Try different departure dates to see how shifting your trip by a day or two affects the price history and current fare.",
+    "loading": "Loading price data...",
+    "noData": "No data available",
+    "noDataDesc": "We haven't collected price data for {date} yet. Data is gathered once a day — check back tomorrow!",
+    "recentChecks": "Recent Price Checks",
+    "noChecks": "No checks yet — select a route and click Show Trend."
+  },
+  "explore": {
+    "title": "Explore route price history",
+    "subtitle": "Compare price history across different travel dates to find the cheapest time to fly.",
+    "guideTitle": "How to Use Route History",
+    "guideDesc": "Browse average prices across every departure date we have data for. Spot the cheapest seasons, months, and days for your route at a glance.",
+    "cheapestSeason": "Find the Cheapest Season",
+    "cheapestSeasonDesc": "Scan the chart for the lowest points on the line — those are the departure dates with the lowest average prices. Plan your trip around those periods.",
+    "holidaySpikes": "Spot Holiday Spikes",
+    "holidaySpikesDesc": "Notice price bumps around holidays like Christmas or summer. The chart makes it obvious when demand (and prices) peak so you can avoid those windows.",
+    "multipleSnapshots": "Check Multiple Snapshot Averages",
+    "multipleSnapshotsDesc": "Each departure date point is the average of all snapshots collected for that date. More snapshots mean a more reliable price signal.",
+    "loading": "Loading price data...",
+    "noData": "No data available",
+    "noDataDesc": "We haven't collected enough data for this route yet. Data is gathered once a day — check back soon!",
+    "recentChecks": "Recent Route History Checks",
+    "noChecks": "No checks yet — select a route and click View Prices."
+  },
+  "routePicker": {
+    "origin": "Origin",
+    "destination": "Destination",
+    "travelDate": "Travel Date",
+    "selectOrigin": "Select origin...",
+    "selectDestination": "Select destination...",
+    "searchDate": "Search date (e.g. 2026-12-25 or Dec 25, 2026)",
+    "swapTitle": "Swap origin and destination",
+    "showTrend": "Show Trend",
+    "viewPrices": "View Prices",
+    "loadingDates": "Loading available dates...",
+    "noDataCollected": "No price data collected for this route yet."
+  },
+  "statsCards": {
+    "average": "Average",
+    "lowest": "Lowest price",
+    "highest": "Highest price",
+    "firstRecorded": "First recorded",
+    "mostRecent": "Most recent",
+    "change": "Change ({percent}%)",
+    "flyingOn": "Flying on {date}",
+    "priceCheck": "{count} price check",
+    "priceChecks": "{count} price checks",
+    "allPricesUSD": "All prices in USD"
+  },
+  "priceChart": {
+    "noData": "No data to display",
+    "noDataDesc": "Select a route and departure date to view price trend.",
+    "allPricesUSD": "All prices in USD",
+    "priceCheck": "Price check: {date}",
+    "price": "Price",
+    "avg": "Avg"
+  },
+  "exploreChart": {
+    "noData": "No data to display",
+    "noDataDesc": "Select a route and date to explore prices.",
+    "departureDates": "{count} departure dates",
+    "allPricesUSD": "All prices in USD",
+    "avgPrice": "Avg Price",
+    "lowest": "Lowest",
+    "highest": "Highest",
+    "snapshots": "Snapshots",
+    "avg": "Avg"
+  },
+  "calendar": {
+    "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+    "weekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    "today": "Today",
+    "prevMonth": "Previous month",
+    "nextMonth": "Next month",
+    "allPricesUSD": "All prices in USD"
+  },
+  "searchableSelect": {
+    "noResults": "No results"
+  },
+  "time": {
+    "justNow": "just now",
+    "minutesAgo": "{m}m ago",
+    "hoursAgo": "{h}h ago",
+    "daysAgo": "{d}d ago"
+  },
+  "languageSwitcher": {
+    "en": "English",
+    "zh": "中文"
+  }
+}

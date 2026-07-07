@@ -3,6 +3,7 @@
 import { useState, useMemo, useCallback, useEffect } from 'react';
 import { format, startOfMonth, endOfMonth, startOfWeek, endOfWeek, eachDayOfInterval, isSameMonth, isSameDay } from 'date-fns';
 import { formatPrice } from '@/lib/format';
+import { useTranslation } from '@/lib/i18n/context';
 
 function parseLocalDate(str) {
   if (!str) return new Date(NaN);
@@ -11,6 +12,7 @@ function parseLocalDate(str) {
 }
 
 export default function CalendarPicker({ datePrices, selectedDate, onSelect }) {
+  const { t, locale } = useTranslation();
   const [viewMonth, setViewMonth] = useState(() => {
     const d = selectedDate ? parseLocalDate(selectedDate) : parseLocalDate(datePrices[0]?.date);
     return { year: d.getFullYear(), month: d.getMonth() };
@@ -47,7 +49,7 @@ export default function CalendarPicker({ datePrices, selectedDate, onSelect }) {
     });
   }, [viewMonth, priceMap, selectedDate]);
 
-  const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+  const months = t('calendar.months');
   const yearOptions = useMemo(() => {
     const years = [];
     if (!datePrices.length) return years;
@@ -86,12 +88,12 @@ export default function CalendarPicker({ datePrices, selectedDate, onSelect }) {
     else setViewMonth({ year: d.getFullYear(), month: d.getMonth() });
   }, [priceMap, onSelect]);
 
-  const weekdays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+  const weekdays = t('calendar.weekdays');
 
   return (
     <div className="calendar-picker">
       <div className="cal-header">
-        <button type="button" className="cal-nav" onClick={prevMonth} aria-label="Previous month">{'\u276E'}</button>
+        <button type="button" className="cal-nav" onClick={prevMonth} aria-label={t('calendar.prevMonth')}>{'\u276E'}</button>
         <select className="cal-month-select" value={viewMonth.month} onChange={goToMonth}>
           {months.map((m, i) => (
             <option key={m} value={i}>{m}</option>
@@ -102,9 +104,9 @@ export default function CalendarPicker({ datePrices, selectedDate, onSelect }) {
             <option key={y} value={y}>{y}</option>
           ))}
         </select>
-        <button type="button" className="cal-nav" onClick={nextMonth} aria-label="Next month">{'\u276F'}</button>
+        <button type="button" className="cal-nav" onClick={nextMonth} aria-label={t('calendar.nextMonth')}>{'\u276F'}</button>
       </div>
-      <button type="button" className="cal-today-btn" onClick={goToday}>Today</button>
+      <button type="button" className="cal-today-btn" onClick={goToday}>{t('calendar.today')}</button>
       <div className="cal-weekdays">
         {weekdays.map(wd => (
           <span key={wd} className="cal-weekday">{wd}</span>
@@ -127,11 +129,11 @@ export default function CalendarPicker({ datePrices, selectedDate, onSelect }) {
             onClick={() => { if (d.price) onSelect(d.date); }}
           >
             <span className="cal-day-num">{d.dayNum}</span>
-            {d.price && <span className="cal-day-price">{formatPrice(d.price)}</span>}
+            {d.price && <span className="cal-day-price">{formatPrice(d.price, locale)}</span>}
           </button>
         ))}
       </div>
-      <div className="route-currency" style={{ textAlign: 'center', marginTop: 6 }}>All prices in USD</div>
+      <div className="route-currency" style={{ textAlign: 'center', marginTop: 6 }}>{t('calendar.allPricesUSD')}</div>
     </div>
   );
 }

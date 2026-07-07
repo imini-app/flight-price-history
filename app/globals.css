@@ -551,6 +551,32 @@ body {
 .page-header h2 { font-size: 1.3rem; font-weight: 500; color: var(--gf-gray-900); margin-bottom: 4px; }
 .page-header p { font-size: 0.88rem; color: var(--gf-gray-600); }
 
+/* Language Switcher */
+.language-switcher {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  margin-left: 12px;
+  padding-left: 12px;
+  border-left: 1px solid var(--gf-gray-200);
+}
+.lang-btn {
+  background: none;
+  border: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  font-family: var(--gf-font);
+  color: var(--gf-gray-500);
+  cursor: pointer;
+  padding: 4px 6px;
+  border-radius: 4px;
+  transition: color 0.12s, background 0.12s;
+}
+.lang-btn:hover { color: var(--gf-gray-800); background: var(--gf-gray-100); }
+.lang-btn.active { color: var(--gf-blue); cursor: default; }
+.lang-btn:disabled { cursor: default; }
+.lang-divider { color: var(--gf-gray-300); font-size: 0.75rem; }
+
 @media (max-width: 640px) {
   .container { padding: 12px; }
   .search-row { flex-direction: column; }

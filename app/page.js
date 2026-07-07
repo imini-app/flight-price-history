@@ -1,24 +1,28 @@
 'use client';
 
 import { useState, useCallback, useEffect } from 'react';
+import { format, parseISO } from 'date-fns';
 import RoutePicker from '@/components/RoutePicker';
 import PriceChart from '@/components/PriceChart';
 import StatsCards from '@/components/StatsCards';
 import { fetchRouteData, filterPricesByDepartureDate, computeSnapshotStats } from '@/lib/data-utils';
+import { useTranslation } from '@/lib/i18n/context';
+import { dateFnsLocales } from '@/lib/i18n/date-locales';
 
-function formatRelativeTime(dateStr) {
+function formatRelativeTime(dateStr, t, locale) {
   const diff = Date.now() - new Date(dateStr).getTime();
   const mins = Math.floor(diff / 60000);
-  if (mins < 1) return 'just now';
-  if (mins < 60) return `${mins}m ago`;
+  if (mins < 1) return t('time.justNow');
+  if (mins < 60) return t('time.minutesAgo', { m: mins });
   const hours = Math.floor(mins / 60);
-  if (hours < 24) return `${hours}h ago`;
+  if (hours < 24) return t('time.hoursAgo', { h: hours });
   const days = Math.floor(hours / 24);
-  if (days < 30) return `${days}d ago`;
-  return new Date(dateStr).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  if (days < 30) return t('time.daysAgo', { d: days });
+  return format(parseISO(dateStr), 'MMM d', { locale: dateFnsLocales[locale] });
 }
 
 export default function Home() {
+  const { t, locale } = useTranslation();
   const [routeKey, setRouteKey] = useState(null);
   const [pickDate, setPickDate] = useState(null);
   const [snapshotPrices, setSnapshotPrices] = useState([]);
@@ -107,9 +111,9 @@ export default function Home() {
   return (
     <main className="container">
       <div className="hero">
-        <h1>Flight Price History</h1>
+        <h1>{t('home.title')}</h1>
         <p className="hero-sub">
-          See how flight prices change day by day. Pick a route and a departure date to find the best time to book.
+          {t('home.subtitle')}
         </p>
       </div>
 
@@ -117,28 +121,28 @@ export default function Home() {
 
       {!routeKey && !loading && (
         <div className="card guide">
-          <h3>How to Use Price Check</h3>
-          <p>Track how flight prices for a specific departure date have changed over time. This helps you decide whether to book now or wait for a better deal.</p>
+          <h3>{t('home.guideTitle')}</h3>
+          <p>{t('home.guideDesc')}</p>
           <div className="examples">
             <div className="example">
               <div className="example-icon">{'\u2708'}</div>
               <div>
-                <strong>Find the Best Time to Book</strong>
-                <p>Select your route and travel date, then view the price trend. If prices are trending down, you may want to wait. If they&apos;re rising, consider booking soon.</p>
+                <strong>{t('home.findBestTime')}</strong>
+                <p>{t('home.findBestTimeDesc')}</p>
               </div>
             </div>
             <div className="example">
               <div className="example-icon">{'\u2193'}</div>
               <div>
-                <strong>Monitor Price Drops</strong>
-                <p>Check back daily — each new snapshot adds a point to the chart. You&apos;ll see exactly when prices dropped and by how much.</p>
+                <strong>{t('home.monitorDrops')}</strong>
+                <p>{t('home.monitorDropsDesc')}</p>
               </div>
             </div>
             <div className="example">
               <div className="example-icon">{'\u2194'}</div>
               <div>
-                <strong>Compare Nearby Dates</strong>
-                <p>Try different departure dates to see how shifting your trip by a day or two affects the price history and current fare.</p>
+                <strong>{t('home.compareDates')}</strong>
+                <p>{t('home.compareDatesDesc')}</p>
               </div>
             </div>
           </div>
@@ -151,7 +155,7 @@ export default function Home() {
         <div className="card">
           <div className="loading">
             <div className="spinner" />
-            <p>Loading price data...</p>
+            <p>{t('home.loading')}</p>
           </div>
         </div>
       )}
@@ -159,8 +163,8 @@ export default function Home() {
       {!loading && routeKey && snapshotPrices.length === 0 && !error && (
         <div className="card">
           <div className="empty-state">
-            <h3>No data available</h3>
-            <p>We haven't collected price data for {pickDate} yet. Data is gathered once a day — check back tomorrow!</p>
+            <h3>{t('home.noData')}</h3>
+            <p>{t('home.noDataDesc', { date: pickDate })}</p>
           </div>
         </div>
       )}
@@ -174,7 +178,7 @@ export default function Home() {
 
       {!recentChecksLoading && (
         <div className="card recent-checks">
-          <h3 className="recent-checks-title">Recent Price Checks</h3>
+          <h3 className="recent-checks-title">{t('home.recentChecks')}</h3>
           {recentChecks.length > 0 ? (
             <div className="recent-checks-list">
               {recentChecks.map((c, i) => {
@@ -183,13 +187,13 @@ export default function Home() {
                   <a key={i} className="recent-check-item" href={`/?origin=${origin}&dest=${dest}&date=${c.travel_date}`}>
                     <span className="rc-route">{c.route_label}</span>
                     <span className="rc-date">{c.travel_date}</span>
-                    <span className="rc-time">{formatRelativeTime(c.created_at)}</span>
+                    <span className="rc-time">{formatRelativeTime(c.created_at, t, locale)}</span>
                   </a>
                 );
               })}
             </div>
           ) : (
-            <div className="recent-checks-empty">No checks yet — select a route and click Show Trend.</div>
+            <div className="recent-checks-empty">{t('home.noChecks')}</div>
           )}
         </div>
       )}

@@ -1,6 +1,8 @@
 import './globals.css';
 import Script from 'next/script';
 import Navbar from '@/components/Navbar';
+import HtmlLangUpdater from '@/components/HtmlLangUpdater';
+import { I18nProvider } from '@/lib/i18n/context';
 
 export const metadata = {
   title: 'Flight Price History',
@@ -35,8 +37,11 @@ export default function RootLayout({ children }) {
           crossOrigin="anonymous"
           strategy="afterInteractive"
         />
-        <Navbar />
-        {children}
+        <I18nProvider>
+          <HtmlLangUpdater />
+          <Navbar />
+          {children}
+        </I18nProvider>
       </body>
     </html>
   );

@@ -1,23 +1,27 @@
 'use client';
 
 import { useState, useCallback, useEffect } from 'react';
+import { format, parseISO } from 'date-fns';
 import RoutePicker from '@/components/RoutePicker';
 import ExploreChart from '@/components/ExploreChart';
 import { fetchRouteData, groupPricesByDeparture, computeStats } from '@/lib/data-utils';
+import { useTranslation } from '@/lib/i18n/context';
+import { dateFnsLocales } from '@/lib/i18n/date-locales';
 
-function formatRelativeTime(dateStr) {
+function formatRelativeTime(dateStr, t, locale) {
   const diff = Date.now() - new Date(dateStr).getTime();
   const mins = Math.floor(diff / 60000);
-  if (mins < 1) return 'just now';
-  if (mins < 60) return `${mins}m ago`;
+  if (mins < 1) return t('time.justNow');
+  if (mins < 60) return t('time.minutesAgo', { m: mins });
   const hours = Math.floor(mins / 60);
-  if (hours < 24) return `${hours}h ago`;
+  if (hours < 24) return t('time.hoursAgo', { h: hours });
   const days = Math.floor(hours / 24);
-  if (days < 30) return `${days}d ago`;
-  return new Date(dateStr).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  if (days < 30) return t('time.daysAgo', { d: days });
+  return format(parseISO(dateStr), 'MMM d', { locale: dateFnsLocales[locale] });
 }
 
 export default function ExplorePage() {
+  const { t, locale } = useTranslation();
   const [routeKey, setRouteKey] = useState(null);
   const [grouped, setGrouped] = useState([]);
   const [stats, setStats] = useState(null);
@@ -101,36 +105,36 @@ export default function ExplorePage() {
   return (
     <main className="container">
       <div className="page-header">
-        <h2>Explore route price history</h2>
-        <p>Compare price history across different travel dates to find the cheapest time to fly.</p>
+        <h2>{t('explore.title')}</h2>
+        <p>{t('explore.subtitle')}</p>
       </div>
 
       <RoutePicker onSelect={handleSelect} onSubmit={handleSubmit} showDate={false} defaultOrigin={defaultOrigin} defaultDest={defaultDest} />
 
       {!routeKey && !loading && (
         <div className="card guide">
-          <h3>How to Use Route History</h3>
-          <p>Browse average prices across every departure date we have data for. Spot the cheapest seasons, months, and days for your route at a glance.</p>
+          <h3>{t('explore.guideTitle')}</h3>
+          <p>{t('explore.guideDesc')}</p>
           <div className="examples">
             <div className="example">
               <div className="example-icon">{'\u2601'}</div>
               <div>
-                <strong>Find the Cheapest Season</strong>
-                <p>Scan the chart for the lowest points on the line — those are the departure dates with the lowest average prices. Plan your trip around those periods.</p>
+                <strong>{t('explore.cheapestSeason')}</strong>
+                <p>{t('explore.cheapestSeasonDesc')}</p>
               </div>
             </div>
             <div className="example">
               <div className="example-icon">{'\u2605'}</div>
               <div>
-                <strong>Spot Holiday Spikes</strong>
-                <p>Notice price bumps around holidays like Christmas or summer. The chart makes it obvious when demand (and prices) peak so you can avoid those windows.</p>
+                <strong>{t('explore.holidaySpikes')}</strong>
+                <p>{t('explore.holidaySpikesDesc')}</p>
               </div>
             </div>
             <div className="example">
               <div className="example-icon">{'\u2261'}</div>
               <div>
-                <strong>Check Multiple Snapshot Averages</strong>
-                <p>Each departure date point is the average of all snapshots collected for that date. More snapshots mean a more reliable price signal.</p>
+                <strong>{t('explore.multipleSnapshots')}</strong>
+                <p>{t('explore.multipleSnapshotsDesc')}</p>
               </div>
             </div>
           </div>
@@ -143,7 +147,7 @@ export default function ExplorePage() {
         <div className="card">
           <div className="loading">
             <div className="spinner" />
-            <p>Loading price data...</p>
+            <p>{t('explore.loading')}</p>
           </div>
         </div>
       )}
@@ -151,8 +155,8 @@ export default function ExplorePage() {
       {!loading && routeKey && grouped.length === 0 && !error && (
         <div className="card">
           <div className="empty-state">
-            <h3>No data available</h3>
-            <p>We haven't collected enough data for this route yet. Data is gathered once a day — check back soon!</p>
+            <h3>{t('explore.noData')}</h3>
+            <p>{t('explore.noDataDesc')}</p>
           </div>
         </div>
       )}
@@ -165,7 +169,7 @@ export default function ExplorePage() {
 
       {!recentChecksLoading && (
         <div className="card recent-checks">
-          <h3 className="recent-checks-title">Recent Route History Checks</h3>
+          <h3 className="recent-checks-title">{t('explore.recentChecks')}</h3>
           {recentChecks.length > 0 ? (
             <div className="recent-checks-list">
               {recentChecks.map((c, i) => {
@@ -174,13 +178,13 @@ export default function ExplorePage() {
                   <a key={i} className="recent-check-item" href={`/explore?origin=${origin}&dest=${dest}`}>
                     <span className="rc-route">{c.route_label}</span>
                     {c.travel_date && <span className="rc-date">{c.travel_date}</span>}
-                    <span className="rc-time">{formatRelativeTime(c.created_at)}</span>
+                    <span className="rc-time">{formatRelativeTime(c.created_at, t, locale)}</span>
                   </a>
                 );
               })}
             </div>
           ) : (
-            <div className="recent-checks-empty">No checks yet — select a route and click View Prices.</div>
+            <div className="recent-checks-empty">{t('explore.noChecks')}</div>
           )}
         </div>
       )}

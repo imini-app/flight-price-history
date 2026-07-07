@@ -1,12 +1,16 @@
 'use client';
 
 import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
+import { format } from 'date-fns';
 import { fetchRoutes, buildOriginIndex } from '@/lib/data-utils';
 import SearchableSelect from './SearchableSelect';
 import CalendarPicker from './CalendarPicker';
 import { loadPickerState, savePickerState } from '@/lib/storage';
+import { useTranslation } from '@/lib/i18n/context';
+import { dateFnsLocales } from '@/lib/i18n/date-locales';
 
 export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, defaultDest, defaultDate, showDate = true }) {
+  const { t, locale } = useTranslation();
   const [origins, setOrigins] = useState([]);
   const [destinations, setDestinations] = useState([]);
   const [selectedOrigin, setSelectedOrigin] = useState(defaultOrigin || '');
@@ -235,38 +239,38 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
   return (
     <form className="search-card" onSubmit={handleSubmit}>
       <div className="search-row">
-        <div className="search-field">
-          <label>Origin</label>
+         <div className="search-field">
+          <label>{t('routePicker.origin')}</label>
           <SearchableSelect
             options={originOptions}
             value={selectedOrigin}
             onChange={handleOriginChange}
-            placeholder="Select origin..."
+            placeholder={t('routePicker.selectOrigin')}
           />
         </div>
-        <button type="button" className="swap-btn" onClick={handleSwap} disabled={!selectedOrigin && !selectedDest} title="Swap origin and destination">
+        <button type="button" className="swap-btn" onClick={handleSwap} disabled={!selectedOrigin && !selectedDest} title={t('routePicker.swapTitle')}>
           ⇄
         </button>
         <div className="search-field">
-          <label>Destination</label>
+          <label>{t('routePicker.destination')}</label>
           <SearchableSelect
             options={destOptions}
             value={selectedDest}
             onChange={handleDestChange}
-            placeholder="Select destination..."
+            placeholder={t('routePicker.selectDestination')}
             disabled={!selectedOrigin}
           />
         </div>
         {showDate && (
           <div className="search-field search-field-date">
-            <label>Travel Date</label>
+            <label>{t('routePicker.travelDate')}</label>
             <div className="date-picker-wrap" ref={popupRef}>
               <button
                 type="button"
                 className="date-picker-display"
                 onClick={() => setShowDatePopup(v => !v)}
               >
-                <span className="dpd-label">{(() => { const [y, m, d] = pickDate.split('-'); return new Date(+y, +m - 1, +d).toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' }); })()}</span>
+                <span className="dpd-label">{(() => { const [y, m, d] = pickDate.split('-'); return format(new Date(+y, +m - 1, +d), 'EEE, MMM d, yyyy', { locale: dateFnsLocales[locale] }); })()}</span>
                 {dateInfo && (
                   <span className={`dpd-badge dpd-badge-${dateInfo.type}`}>
                     {dateInfo.type === 'loading' && '\u23F3'}
@@ -282,7 +286,7 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
                       ref={dateSearchRef}
                       type="text"
                       className="dpp-search-input"
-                      placeholder="Search date (e.g. 2026-12-25 or Dec 25, 2026)"
+                      placeholder={t('routePicker.searchDate')}
                       value={dateSearch}
                       onChange={handleDateSearch}
                       onKeyDown={e => {
@@ -311,12 +315,12 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
               )}
               {showDatePopup && dateInfo?.type === 'loading' && (
                 <div className="date-picker-popup">
-                  <div className="dpp-loading">Loading available dates...</div>
+                  <div className="dpp-loading">{t('routePicker.loadingDates')}</div>
                 </div>
               )}
               {showDatePopup && dateInfo?.type === 'none' && (
                 <div className="date-picker-popup">
-                  <div className="dpp-none">No price data collected for this route yet.</div>
+                  <div className="dpp-none">{t('routePicker.noDataCollected')}</div>
                 </div>
               )}
             </div>
@@ -325,7 +329,7 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
         <div className="search-field">
           <label>&nbsp;</label>
           <button type="submit" className="btn btn-primary" disabled={!selectedOrigin || !selectedDest || (showDate && !pickDate) || (showDate && availableDates.length > 0 && !availableDates.includes(pickDate))}>
-            {showDate ? 'Show Trend' : 'View Prices'}
+            {showDate ? t('routePicker.showTrend') : t('routePicker.viewPrices')}
           </button>
         </div>
       </div>

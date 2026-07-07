@@ -1,0 +1,111 @@
+{
+  "lang": "zh",
+  "meta": {
+    "title": "航班价格历史",
+    "description": "追踪和探索主要国际航线的历史航班价格"
+  },
+  "navbar": {
+    "brand": "✈ 航班价格历史",
+    "priceCheck": "价格查询",
+    "routeHistory": "航线价格历史"
+  },
+  "home": {
+    "title": "航班价格历史",
+    "subtitle": "查看航班价格每日变化。选择航线和出发日期，找到最佳预订时机。",
+    "guideTitle": "如何使用价格查询",
+    "guideDesc": "追踪特定出发日期的航班价格随时间的变化。帮助您决定是立即预订还是等待更优惠的价格。",
+    "findBestTime": "找到最佳预订时间",
+    "findBestTimeDesc": "选择您的航线和旅行日期，查看价格趋势。如果价格正在下降，可以再等等；如果正在上涨，建议尽早预订。",
+    "monitorDrops": "监控价格下跌",
+    "monitorDropsDesc": "每天回来看——每次新的快照都会在图表的点上增加。您将清楚地看到价格何时下跌以及下跌了多少。",
+    "compareDates": "比较邻近日期",
+    "compareDatesDesc": "尝试不同的出发日期，看看将行程调整一两天如何影响价格历史和当前票价。",
+    "loading": "正在加载价格数据...",
+    "noData": "暂无数据",
+    "noDataDesc": "我们尚未收集 {date} 的价格数据。数据每天采集一次——明天再来看看吧！",
+    "recentChecks": "最近的价格查询",
+    "noChecks": "还没有查询记录——选择航线并点击「显示趋势」。"
+  },
+  "explore": {
+    "title": "探索航线价格历史",
+    "subtitle": "比较不同旅行日期的价格历史，找到最便宜的飞行时间。",
+    "guideTitle": "如何使用航线历史",
+    "guideDesc": "浏览我们有数据的每个出发日期的平均价格。快速找到您航线上最便宜的季节、月份和日期。",
+    "cheapestSeason": "找到最便宜的季节",
+    "cheapestSeasonDesc": "扫描图表上的最低点——这些是平均价格最低的出发日期。围绕这些时间段规划您的行程。",
+    "holidaySpikes": "发现节假日价格高峰",
+    "holidaySpikesDesc": "注意圣诞节或夏季等节假日周围的价格上涨。图表清楚地显示了需求（和价格）何时达到峰值，帮助您避开这些时段。",
+    "multipleSnapshots": "查看多重快照平均值",
+    "multipleSnapshotsDesc": "每个出发日期点都是该日期所有快照的平均值。快照越多，价格信号越可靠。",
+    "loading": "正在加载价格数据...",
+    "noData": "暂无数据",
+    "noDataDesc": "我们尚未收集到足够的这条航线数据。数据每天采集一次——请稍后再来查看！",
+    "recentChecks": "最近的航线历史查询",
+    "noChecks": "还没有查询记录——选择航线并点击「查看价格」。"
+  },
+  "routePicker": {
+    "origin": "出发地",
+    "destination": "目的地",
+    "travelDate": "旅行日期",
+    "selectOrigin": "选择出发地...",
+    "selectDestination": "选择目的地...",
+    "searchDate": "搜索日期（例如 2026-12-25）",
+    "swapTitle": "交换出发地和目的地",
+    "showTrend": "显示趋势",
+    "viewPrices": "查看价格",
+    "loadingDates": "正在加载可用日期...",
+    "noDataCollected": "尚未收集到该航线的价格数据。"
+  },
+  "statsCards": {
+    "average": "平均价格",
+    "lowest": "最低价格",
+    "highest": "最高价格",
+    "firstRecorded": "首次记录",
+    "mostRecent": "最近记录",
+    "change": "变化 ({percent}%)",
+    "flyingOn": "出发日期 {date}",
+    "priceCheck": "{count} 次价格查询",
+    "priceChecks": "{count} 次价格查询",
+    "allPricesUSD": "所有价格以美元显示"
+  },
+  "priceChart": {
+    "noData": "暂无数据显示",
+    "noDataDesc": "选择航线和出发日期以查看价格趋势。",
+    "allPricesUSD": "所有价格以美元显示",
+    "priceCheck": "价格查询：{date}",
+    "price": "价格",
+    "avg": "平均"
+  },
+  "exploreChart": {
+    "noData": "暂无数据显示",
+    "noDataDesc": "选择航线和日期以探索价格。",
+    "departureDates": "{count} 个出发日期",
+    "allPricesUSD": "所有价格以美元显示",
+    "avgPrice": "平均价格",
+    "lowest": "最低",
+    "highest": "最高",
+    "snapshots": "快照数",
+    "avg": "平均"
+  },
+  "calendar": {
+    "months": ["一月", "二月", "三月", "四月", "五月", "六月", "七月", "八月", "九月", "十月", "十一月", "十二月"],
+    "weekdays": ["日", "一", "二", "三", "四", "五", "六"],
+    "today": "今天",
+    "prevMonth": "上个月",
+    "nextMonth": "下个月",
+    "allPricesUSD": "所有价格以美元显示"
+  },
+  "searchableSelect": {
+    "noResults": "无结果"
+  },
+  "time": {
+    "justNow": "刚刚",
+    "minutesAgo": "{m}分钟前",
+    "hoursAgo": "{h}小时前",
+    "daysAgo": "{d}天前"
+  },
+  "languageSwitcher": {
+    "en": "English",
+    "zh": "中文"
+  }
+}

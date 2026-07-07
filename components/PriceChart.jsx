@@ -7,8 +7,11 @@ import {
 } from 'recharts';
 import { format, parseISO } from 'date-fns';
 import { formatPrice } from '@/lib/format';
+import { useTranslation } from '@/lib/i18n/context';
+import { dateFnsLocales } from '@/lib/i18n/date-locales';
 
 export default function PriceChart({ prices, stats, pickDate }) {
+  const { t, locale } = useTranslation();
   const chartData = useMemo(() => {
     if (!prices || prices.length === 0) return [];
     return prices.map(p => ({
@@ -24,8 +27,8 @@ export default function PriceChart({ prices, stats, pickDate }) {
     return (
       <div className="card">
         <div className="empty-state">
-          <h3>No data to display</h3>
-          <p>Select a route and departure date to view price trend.</p>
+          <h3>{t('priceChart.noData')}</h3>
+          <p>{t('priceChart.noDataDesc')}</p>
         </div>
       </div>
     );
@@ -33,7 +36,7 @@ export default function PriceChart({ prices, stats, pickDate }) {
 
   return (
     <div className="card">
-      <div className="route-currency" style={{ padding: '0 0 4px 0' }}>All prices in USD</div>
+      <div className="route-currency" style={{ padding: '0 0 4px 0' }}>{t('priceChart.allPricesUSD')}</div>
       <div className="chart-wrapper">
         <ResponsiveContainer width="100%" height="100%">
           <LineChart data={chartData} margin={{ top: 8, right: 16, left: 8, bottom: 8 }}>
@@ -41,25 +44,25 @@ export default function PriceChart({ prices, stats, pickDate }) {
             <XAxis
               dataKey="snapshot"
               tick={{ fontSize: 11, fill: '#5f6368' }}
-              tickFormatter={d => format(parseISO(d), 'MMM d')}
+              tickFormatter={d => format(parseISO(d), 'MMM d', { locale: dateFnsLocales[locale] })}
               interval="preserveStartEnd"
               minTickGap={40}
             />
             <YAxis
               tick={{ fontSize: 11, fill: '#5f6368' }}
-              tickFormatter={v => formatPrice(v)}
+              tickFormatter={v => formatPrice(v, locale)}
               domain={['auto', 'auto']}
             />
             <Tooltip
               contentStyle={{ borderRadius: 8, border: '1px solid #dadce0', fontSize: 13 }}
-              labelFormatter={d => `Price check: ${format(parseISO(d), 'MMM d, yyyy')}`}
-              formatter={(value, name) => [name === 'price' ? formatPrice(value) : value, name === 'price' ? 'Price' : name]}
+              labelFormatter={d => t('priceChart.priceCheck', { date: format(parseISO(d), 'MMM d, yyyy', { locale: dateFnsLocales[locale] }) })}
+              formatter={(value, name) => [name === 'price' ? formatPrice(value, locale) : value, name === 'price' ? t('priceChart.price') : name]}
             />
             <Legend />
             <Line
               type="monotone"
               dataKey="price"
-              name="Price"
+              name={t('priceChart.price')}
               stroke="#1a73e8"
               strokeWidth={2}
               dot={false}
@@ -72,7 +75,7 @@ export default function PriceChart({ prices, stats, pickDate }) {
                 stroke="#1e8e3e"
                 strokeDasharray="6 4"
                 strokeWidth={1.5}
-                label={{ value: `Avg ${formatPrice(Math.round(avgPrice))}`, position: 'right', fill: '#1e8e3e', fontSize: 11 }}
+                label={{ value: `${t('priceChart.avg')} ${formatPrice(Math.round(avgPrice), locale)}`, position: 'right', fill: '#1e8e3e', fontSize: 11 }}
               />
             )}
           </LineChart>

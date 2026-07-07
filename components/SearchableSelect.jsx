@@ -1,8 +1,10 @@
 'use client';
 
 import { useState, useRef, useEffect, useMemo, useCallback } from 'react';
+import { useTranslation } from '@/lib/i18n/context';
 
 export default function SearchableSelect({ options, value, onChange, placeholder, disabled }) {
+  const { t } = useTranslation();
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState('');
   const [highlighted, setHighlighted] = useState(0);
@@ -75,7 +77,7 @@ export default function SearchableSelect({ options, value, onChange, placeholder
       {open && !disabled && (
         <ul className="searchable-dropdown">
           {filtered.length === 0 && (
-            <li className="searchable-empty">No results</li>
+            <li className="searchable-empty">{t('searchableSelect.noResults')}</li>
           )}
           {filtered.map((opt, i) => (
             <li
