@@ -67,8 +67,8 @@
     "mostRecent": "最近记录",
     "change": "变化 ({percent}%)",
     "flyingOn": "出发日期 {date}",
-    "priceCheck": "{count} 个快照",
-    "priceChecks": "{count} 个快照",
+    "priceCheck": "{count} 次记录",
+    "priceChecks": "{count} 次记录",
     "allPricesUSD": "所有价格以美元显示"
   },
   "priceChart": {

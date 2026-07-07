@@ -67,8 +67,8 @@
     "mostRecent": "Most recent",
     "change": "Change ({percent}%)",
     "flyingOn": "Flying on {date}",
-    "priceCheck": "{count} snapshot",
-    "priceChecks": "{count} snapshots",
+    "priceCheck": "{count} record",
+    "priceChecks": "{count} records",
     "allPricesUSD": "All prices in USD"
   },
   "priceChart": {
