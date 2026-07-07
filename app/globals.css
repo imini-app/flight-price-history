@@ -80,6 +80,23 @@ body {
   margin-bottom: 20px;
   box-shadow: var(--gf-shadow);
 }
+.trip-indicators {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+.trip-chip {
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--gf-gray-700);
+  background: var(--gf-gray-100);
+  padding: 4px 10px;
+  border-radius: var(--gf-radius-xl);
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
 .search-row {
   display: flex;
   gap: 12px;

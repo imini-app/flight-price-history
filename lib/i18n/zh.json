@@ -10,7 +10,7 @@
     "routeHistory": "航线价格历史"
   },
   "home": {
-    "title": "航班价格历史",
+    "title": "想知道什么时候是预订航班的最佳时间吗？",
     "subtitle": "查看航班价格每日变化。选择航线和出发日期，找到最佳预订时机。",
     "guideTitle": "如何使用价格查询",
     "guideDesc": "追踪特定出发日期的航班价格随时间的变化。帮助您决定是立即预订还是等待更优惠的价格。",
@@ -54,7 +54,10 @@
     "showTrend": "显示趋势",
     "viewPrices": "查看价格",
     "loadingDates": "正在加载可用日期...",
-    "noDataCollected": "尚未收集到该航线的价格数据。"
+    "noDataCollected": "尚未收集到该航线的价格数据。",
+    "oneWay": "单程",
+    "oneAdult": "1位成人",
+    "economy": "经济舱"
   },
   "statsCards": {
     "average": "平均价格",

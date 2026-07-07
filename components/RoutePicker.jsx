@@ -238,6 +238,11 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
 
   return (
     <form className="search-card" onSubmit={handleSubmit}>
+      <div className="trip-indicators">
+        <span className="trip-chip">{'\u2708'} {t('routePicker.oneWay')}</span>
+        <span className="trip-chip">{'\uD83D\uDC64'} {t('routePicker.oneAdult')}</span>
+        <span className="trip-chip">{'\uD83D\uDCBA'} {t('routePicker.economy')}</span>
+      </div>
       <div className="search-row">
          <div className="search-field">
           <label>{t('routePicker.origin')}</label>

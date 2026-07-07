@@ -10,7 +10,7 @@
     "routeHistory": "Route Price History"
   },
   "home": {
-    "title": "Flight Price History",
+    "title": "Do you want to know when is the best time to book your flight?",
     "subtitle": "See how flight prices change day by day. Pick a route and a departure date to find the best time to book.",
     "guideTitle": "How to Use Price Check",
     "guideDesc": "Track how flight prices for a specific departure date have changed over time. This helps you decide whether to book now or wait for a better deal.",
@@ -54,7 +54,10 @@
     "showTrend": "Show Trend",
     "viewPrices": "View Prices",
     "loadingDates": "Loading available dates...",
-    "noDataCollected": "No price data collected for this route yet."
+    "noDataCollected": "No price data collected for this route yet.",
+    "oneWay": "One way",
+    "oneAdult": "1 Adult",
+    "economy": "Economy"
   },
   "statsCards": {
     "average": "Average",
