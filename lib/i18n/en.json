@@ -5,7 +5,7 @@
     "description": "See historical flight prices to decide when to book. Track price trends for any route and find the cheapest day to fly."
   },
   "navbar": {
-    "brand": "✈ Flight Price History",
+    "brand": "✈ Best Time to Fly",
     "priceCheck": "Best Time to Book",
     "routeHistory": "Cheapest Day to Fly"
   },
