@@ -75,7 +75,7 @@
     "noData": "No data to display",
     "noDataDesc": "Select a route and departure date to view price trend.",
     "allPricesUSD": "All prices in USD",
-    "priceCheck": "Price check: {date}",
+    "priceCheck": "Recorded: {date}",
     "price": "Price",
     "avg": "Avg"
   },
