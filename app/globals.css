@@ -482,7 +482,7 @@ body {
   border: 1px solid var(--gf-gray-200);
   border-radius: var(--gf-radius-lg);
   padding: 4px 0;
-  max-height: 440px;
+  height: 400px;
   overflow-y: auto;
 }
 .price-table {
