@@ -3,5 +3,15 @@
   "origin": "PEK",
   "dest": "LHR",
   "label": "Beijing (PEK) → London (LHR)",
-  "prices": []
+  "prices": [
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-07",
+      "price": 1060,
+      "airline": "Air China",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 5 min"
+    }
+  ]
 }

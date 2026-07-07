@@ -4,7 +4,6 @@ import { useState, useCallback, useEffect } from 'react';
 import { format, parseISO } from 'date-fns';
 import RoutePicker from '@/components/RoutePicker';
 import ExploreChart from '@/components/ExploreChart';
-import HelpPopup from '@/components/HelpPopup';
 import { fetchRouteData, groupPricesByDeparture, computeStats } from '@/lib/data-utils';
 import { useTranslation } from '@/lib/i18n/context';
 import { dateFnsLocales } from '@/lib/i18n/date-locales';
@@ -106,39 +105,43 @@ export default function ExplorePage() {
   return (
     <main className="container">
       <div className="page-header">
-        <h2>
-          {t('explore.title')}
-          <HelpPopup>
-            <div className="guide">
-              <h3>{t('explore.guideTitle')}</h3>
-              <p>{t('explore.guideDesc')}</p>
-              <div className="examples">
-                <div className="example">
-                  <div>
-                    <strong>{t('explore.cheapestSeason')}</strong>
-                    <p>{t('explore.cheapestSeasonDesc')}</p>
-                  </div>
-                </div>
-                <div className="example">
-                  <div>
-                    <strong>{t('explore.holidaySpikes')}</strong>
-                    <p>{t('explore.holidaySpikesDesc')}</p>
-                  </div>
-                </div>
-                <div className="example">
-                  <div>
-                    <strong>{t('explore.multipleSnapshots')}</strong>
-                    <p>{t('explore.multipleSnapshotsDesc')}</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </HelpPopup>
-        </h2>
+        <h2>{t('explore.title')}</h2>
         <p>{t('explore.subtitle')}</p>
       </div>
 
-      <RoutePicker onSelect={handleSelect} onSubmit={handleSubmit} showDate={false} defaultOrigin={defaultOrigin} defaultDest={defaultDest} />
+      <RoutePicker
+        onSelect={handleSelect}
+        onSubmit={handleSubmit}
+        showDate={false}
+        defaultOrigin={defaultOrigin}
+        defaultDest={defaultDest}
+        helpContent={
+          <div className="guide">
+            <h3>{t('explore.guideTitle')}</h3>
+            <p>{t('explore.guideDesc')}</p>
+            <div className="examples">
+              <div className="example">
+                <div>
+                  <strong>{t('explore.cheapestSeason')}</strong>
+                  <p>{t('explore.cheapestSeasonDesc')}</p>
+                </div>
+              </div>
+              <div className="example">
+                <div>
+                  <strong>{t('explore.holidaySpikes')}</strong>
+                  <p>{t('explore.holidaySpikesDesc')}</p>
+                </div>
+              </div>
+              <div className="example">
+                <div>
+                  <strong>{t('explore.multipleSnapshots')}</strong>
+                  <p>{t('explore.multipleSnapshotsDesc')}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        }
+      />
 
       {error && <div className="error-banner">{error}</div>}
 

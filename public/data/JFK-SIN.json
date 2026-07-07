@@ -3,5 +3,33 @@
   "origin": "JFK",
   "dest": "SIN",
   "label": "New York (JFK) → Singapore (SIN)",
-  "prices": []
+  "prices": [
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-07",
+      "price": 1518,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "19 hr 15 min"
+    },
+    {
+      "date": "2026-08-25",
+      "snapshot": "2026-07-07",
+      "price": 574,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "19 hr 15 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-07",
+      "price": 1108,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "19 hr 15 min"
+    }
+  ]
 }

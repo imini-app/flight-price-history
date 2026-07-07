@@ -1614,6 +1614,15 @@
       "nonstop": true,
       "stops": 0,
       "duration": "17 hr 40 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-07",
+      "price": 2178,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "16 hr 35 min"
     }
   ]
 }

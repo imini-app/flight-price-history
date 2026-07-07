@@ -5,11 +5,12 @@ import { format } from 'date-fns';
 import { fetchRoutes, buildOriginIndex } from '@/lib/data-utils';
 import SearchableSelect from './SearchableSelect';
 import CalendarPicker from './CalendarPicker';
+import HelpPopup from './HelpPopup';
 import { loadPickerState, savePickerState } from '@/lib/storage';
 import { useTranslation } from '@/lib/i18n/context';
 import { dateFnsLocales } from '@/lib/i18n/date-locales';
 
-export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, defaultDest, defaultDate, showDate = true }) {
+export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, defaultDest, defaultDate, showDate = true, helpContent }) {
   const { t, locale } = useTranslation();
   const [origins, setOrigins] = useState([]);
   const [destinations, setDestinations] = useState([]);
@@ -195,7 +196,6 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
 
   useEffect(() => {
     if (!showDatePopup) return;
-    dateSearchRef.current?.focus();
     const handler = (e) => {
       if (popupRef.current && !popupRef.current.contains(e.target)) {
         setShowDatePopup(false);
@@ -239,9 +239,14 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
   return (
     <form className="search-card" onSubmit={handleSubmit}>
       <div className="trip-indicators">
-        <span className="trip-chip">{'\u2708'} {t('routePicker.oneWay')}</span>
-        <span className="trip-chip">{'\uD83D\uDC64'} {t('routePicker.oneAdult')}</span>
-        <span className="trip-chip">{'\uD83D\uDCBA'} {t('routePicker.economy')}</span>
+        <span className="trip-chip">{t('routePicker.oneWay')}</span>
+        <span className="trip-chip">{t('routePicker.oneAdult')}</span>
+        <span className="trip-chip">{t('routePicker.economy')}</span>
+        {helpContent && (
+          <span className="trip-help-wrap">
+            <HelpPopup>{helpContent}</HelpPopup>
+          </span>
+        )}
       </div>
       <div className="search-row">
          <div className="search-field">

@@ -1,0 +1,89 @@
+{
+  "route": "CDG-DEL",
+  "origin": "CDG",
+  "dest": "DEL",
+  "label": "Paris (CDG) → Delhi (DEL)",
+  "prices": [
+    {
+      "date": "2026-07-09",
+      "snapshot": "2026-07-07",
+      "price": 1353,
+      "airline": "Air India",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 25 min"
+    },
+    {
+      "date": "2026-07-10",
+      "snapshot": "2026-07-07",
+      "price": 1190,
+      "airline": "Air India",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 25 min"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-07",
+      "price": 1190,
+      "airline": "Air India",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 25 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-07",
+      "price": 1190,
+      "airline": "Air India",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 25 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-07",
+      "price": 1190,
+      "airline": "Air India",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 25 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-07",
+      "price": 1190,
+      "airline": "Air India",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 25 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-07",
+      "price": 1044,
+      "airline": "Air India",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 25 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-07",
+      "price": 1044,
+      "airline": "Air India",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 25 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-07",
+      "price": 1044,
+      "airline": "Air India",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 25 min"
+    }
+  ]
+}
