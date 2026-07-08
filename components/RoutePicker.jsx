@@ -261,27 +261,29 @@ export default function RoutePicker({ onSelect, onSubmit, defaultOrigin, default
         )}
       </div>
       <div className="search-row">
-         <div className="search-field">
-          <label>{t('routePicker.origin')}</label>
-          <SearchableSelect
-            options={originOptions}
-            value={selectedOrigin}
-            onChange={handleOriginChange}
-            placeholder={t('routePicker.selectOrigin')}
-          />
-        </div>
-        <button type="button" className="swap-btn" onClick={handleSwap} disabled={!selectedOrigin && !selectedDest} title={t('routePicker.swapTitle')}>
-          ⇄
-        </button>
-        <div className="search-field">
-          <label>{t('routePicker.destination')}</label>
-          <SearchableSelect
-            options={destOptions}
-            value={selectedDest}
-            onChange={handleDestChange}
-            placeholder={t('routePicker.selectDestination')}
-            disabled={!selectedOrigin}
-          />
+        <div className="search-route">
+          <div className="search-field">
+            <label>{t('routePicker.origin')}</label>
+            <SearchableSelect
+              options={originOptions}
+              value={selectedOrigin}
+              onChange={handleOriginChange}
+              placeholder={t('routePicker.selectOrigin')}
+            />
+          </div>
+          <button type="button" className="swap-btn" onClick={handleSwap} disabled={!selectedOrigin && !selectedDest} title={t('routePicker.swapTitle')}>
+            ⇄
+          </button>
+          <div className="search-field">
+            <label>{t('routePicker.destination')}</label>
+            <SearchableSelect
+              options={destOptions}
+              value={selectedDest}
+              onChange={handleDestChange}
+              placeholder={t('routePicker.selectDestination')}
+              disabled={!selectedOrigin}
+            />
+          </div>
         </div>
         {showDate && (
           <div className="search-field search-field-date">
