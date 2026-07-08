@@ -2226,6 +2226,339 @@
       "nonstop": true,
       "stops": 0,
       "duration": "4 hr 20 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-08",
+      "price": 148,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 20 min"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-08",
+      "price": 277,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-10-04",
+      "snapshot": "2026-07-08",
+      "price": 257,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-08",
+      "price": 257,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr"
+    },
+    {
+      "date": "2026-10-06",
+      "snapshot": "2026-07-08",
+      "price": 277,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 10 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-08",
+      "price": 277,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 15 min"
+    },
+    {
+      "date": "2026-10-08",
+      "snapshot": "2026-07-08",
+      "price": 257,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-10-09",
+      "snapshot": "2026-07-08",
+      "price": 165,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 20 min"
+    },
+    {
+      "date": "2026-10-10",
+      "snapshot": "2026-07-08",
+      "price": 257,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 55 min"
+    },
+    {
+      "date": "2026-10-11",
+      "snapshot": "2026-07-08",
+      "price": 165,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 20 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-08",
+      "price": 197,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 20 min"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-08",
+      "price": 277,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 10 min"
+    },
+    {
+      "date": "2026-10-14",
+      "snapshot": "2026-07-08",
+      "price": 257,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-10-16",
+      "snapshot": "2026-07-08",
+      "price": 137,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 20 min"
+    },
+    {
+      "date": "2026-10-15",
+      "snapshot": "2026-07-08",
+      "price": 148,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 20 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-08",
+      "price": 277,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-10-18",
+      "snapshot": "2026-07-08",
+      "price": 148,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 20 min"
+    },
+    {
+      "date": "2026-10-19",
+      "snapshot": "2026-07-08",
+      "price": 148,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 20 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-08",
+      "price": 277,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 10 min"
+    },
+    {
+      "date": "2026-10-21",
+      "snapshot": "2026-07-08",
+      "price": 277,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 10 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-08",
+      "price": 148,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 20 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-08",
+      "price": 137,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 20 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-08",
+      "price": 257,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 55 min"
+    },
+    {
+      "date": "2026-10-25",
+      "snapshot": "2026-07-08",
+      "price": 165,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-10-26",
+      "snapshot": "2026-07-08",
+      "price": 148,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-10-27",
+      "snapshot": "2026-07-08",
+      "price": 165,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-08",
+      "price": 165,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-08",
+      "price": 148,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-08",
+      "price": 148,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-08",
+      "price": 137,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-08",
+      "price": 223,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-11-02",
+      "snapshot": "2026-07-08",
+      "price": 137,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-11-03",
+      "snapshot": "2026-07-08",
+      "price": 148,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-08",
+      "price": 197,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-11-07",
+      "snapshot": "2026-07-08",
+      "price": 257,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "3 hr 50 min"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-08",
+      "price": 197,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-08",
+      "price": 165,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "4 hr 5 min"
     }
   ]
 }

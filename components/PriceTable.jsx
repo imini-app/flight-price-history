@@ -18,6 +18,7 @@ export default function PriceTable({ prices, pickDate }) {
       const prefix = daysBefore === 0 ? t('priceTable.dayOfDeparture') : t('priceTable.daysPrior', { days: daysBefore });
       const dateStr = format(snapDate, locale === 'zh' ? 'yyyy年M月d日' : 'MMM d, yyyy', { locale: dateFnsLocales[locale] });
       return {
+        snapshot: p.snapshot,
         daysLabel: `${prefix} (${dateStr})`,
         daysNum: daysBefore,
         price: p.price,
@@ -36,7 +37,7 @@ export default function PriceTable({ prices, pickDate }) {
     <div className="price-table-wrap">
       <div className="price-table-best">
         {t('priceTable.cheapest', {
-          date: format(parseISO(pickDate), dateFmt, { locale: dateFnsLocales[locale] }),
+          date: format(parseISO(cheapestRow.snapshot), dateFmt, { locale: dateFnsLocales[locale] }),
           price: formatPrice(cheapestRow.price, locale),
         })}
       </div>
