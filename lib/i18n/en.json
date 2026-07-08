@@ -80,7 +80,7 @@
     "priceCheck": "Snapshot: {date}",
     "price": "Price",
     "avg": "Avg",
-    "cheapest": "Cheapest: {date} — {price}"
+    "cheapest": "Cheapest: {label} — {price}"
   },
   "exploreChart": {
     "noData": "No data to display",

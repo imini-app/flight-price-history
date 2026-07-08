@@ -5,7 +5,7 @@ import {
   LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
   ReferenceLine, Legend
 } from 'recharts';
-import { format, parseISO } from 'date-fns';
+import { differenceInDays, format, parseISO } from 'date-fns';
 import { formatPrice } from '@/lib/format';
 import { useTranslation } from '@/lib/i18n/context';
 import { dateFnsLocales } from '@/lib/i18n/date-locales';
@@ -42,15 +42,20 @@ export default function PriceChart({ prices, stats, pickDate }) {
   return (
     <div className="card">
       <div className="route-currency" style={{ padding: '0 0 4px 0' }}>{t('priceChart.allPricesUSD')} · {t('priceChart.nonstop')}</div>
-      {cheapest && (
-        <div className="chart-cheapest-note">
-          <span className="chart-cheapest-dot" />
-          {t('priceChart.cheapest', {
-            date: format(parseISO(cheapest.snapshot), locale === 'zh' ? 'M月d日' : 'MMM d', { locale: dateFnsLocales[locale] }),
-            price: formatPrice(cheapest.price, locale),
-          })}
-        </div>
-      )}
+      {cheapest && (() => {
+        const snapDate = parseISO(cheapest.snapshot);
+        const departure = parseISO(pickDate);
+        const daysBefore = differenceInDays(departure, snapDate);
+        const prefix = daysBefore === 0 ? t('priceTable.dayOfDeparture') : t('priceTable.daysPrior', { days: daysBefore });
+        const dateStr = format(snapDate, locale === 'zh' ? 'M月d日' : 'MMM d', { locale: dateFnsLocales[locale] });
+        const label = `${prefix} (${dateStr})`;
+        return (
+          <div className="chart-cheapest-note">
+            <span className="chart-cheapest-dot" />
+            {t('priceChart.cheapest', { label, price: formatPrice(cheapest.price, locale) })}
+          </div>
+        );
+      })()}
       <div className="chart-wrapper">
         <ResponsiveContainer width="100%" height="100%">
           <LineChart data={chartData} margin={{ top: 8, right: 16, left: 8, bottom: 8 }}>

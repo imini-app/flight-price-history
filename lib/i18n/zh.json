@@ -80,7 +80,7 @@
     "priceCheck": "记录：{date}",
     "price": "价格",
     "avg": "平均",
-    "cheapest": "最便宜：{date} — {price}"
+    "cheapest": "最便宜：{label} — {price}"
   },
   "exploreChart": {
     "noData": "暂无数据显示",

@@ -1938,6 +1938,141 @@
       "nonstop": true,
       "stops": 0,
       "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-08",
+      "price": 477,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-08",
+      "price": 528,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-08",
+      "price": 630,
+      "airline": "ANASingapore AirlinesOperated by Air Japan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-08",
+      "price": 388,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-17",
+      "snapshot": "2026-07-08",
+      "price": 431,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-08",
+      "price": 345,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-08",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-08",
+      "price": 345,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-08",
+      "price": 345,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-08",
+      "price": 388,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-22",
+      "snapshot": "2026-07-08",
+      "price": 630,
+      "airline": "ANASingapore AirlinesOperated by Air Japan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-08",
+      "price": 345,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-25",
+      "snapshot": "2026-07-08",
+      "price": 630,
+      "airline": "ANASingapore AirlinesOperated by Air Japan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-08-26",
+      "snapshot": "2026-07-08",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-27",
+      "snapshot": "2026-07-08",
+      "price": 345,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
     }
   ]
 }
