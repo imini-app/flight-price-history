@@ -79,7 +79,8 @@
     "nonstop": "All flights are non-stop (direct)",
     "priceCheck": "Snapshot: {date}",
     "price": "Price",
-    "avg": "Avg"
+    "avg": "Avg",
+    "cheapest": "Cheapest: {date} — {price}"
   },
   "exploreChart": {
     "noData": "No data to display",

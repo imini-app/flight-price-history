@@ -79,7 +79,8 @@
     "nonstop": "所有航班均为直飞（无经停）",
     "priceCheck": "记录：{date}",
     "price": "价格",
-    "avg": "平均"
+    "avg": "平均",
+    "cheapest": "最便宜：{date} — {price}"
   },
   "exploreChart": {
     "noData": "暂无数据显示",
