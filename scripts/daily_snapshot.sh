@@ -59,4 +59,18 @@ EXIT_CODE=${PIPESTATUS[0]}
 echo "" | tee -a "$LOG_FILE"
 echo "=== Daily snapshot finished $(date) (exit: $EXIT_CODE) ===" | tee -a "$LOG_FILE"
 
+# Commit and push scraped data
+echo "" | tee -a "$LOG_FILE"
+echo "--- Pushing changes to remote ---" | tee -a "$LOG_FILE"
+git -C "$PROJECT_DIR" config user.name "flight-price-bot" 2>&1 | tee -a "$LOG_FILE"
+git -C "$PROJECT_DIR" config user.email "bot@flightpricehistory.com" 2>&1 | tee -a "$LOG_FILE"
+git -C "$PROJECT_DIR" add public/data/ 2>&1 | tee -a "$LOG_FILE"
+if git -C "$PROJECT_DIR" diff --cached --quiet; then
+  echo "No data changes to commit." | tee -a "$LOG_FILE"
+else
+  git -C "$PROJECT_DIR" commit -m "Daily price snapshot $(date +%Y-%m-%d)" 2>&1 | tee -a "$LOG_FILE"
+  git -C "$PROJECT_DIR" push 2>&1 | tee -a "$LOG_FILE"
+  echo "Push complete." | tee -a "$LOG_FILE"
+fi
+
 exit $EXIT_CODE
