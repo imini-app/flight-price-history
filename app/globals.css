@@ -750,7 +750,7 @@ body {
   .container { padding: 12px; }
   .search-row { flex-direction: column; }
   .search-field { min-width: 100%; }
-  .search-route { display: flex; flex-direction: column; position: relative; }
+  .search-route { display: flex; flex-direction: column; position: relative; width: 100%; gap: 12px; }
   .swap-btn {
     position: absolute;
     left: 50%;
