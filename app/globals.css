@@ -746,15 +746,12 @@ body {
 
 @media (max-width: 640px) {
   .container { padding: 12px; }
-  .search-row { flex-direction: column; position: relative; }
+  .search-row { flex-direction: column; }
   .search-field { min-width: 100%; }
   .swap-btn {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
+    align-self: center;
     z-index: 1;
-    margin-top: 0;
+    margin: -10px 0;
     border: 2px solid var(--gf-white);
     box-shadow: var(--gf-shadow);
   }
