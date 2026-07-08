@@ -28,8 +28,18 @@ export default function PriceTable({ prices, pickDate }) {
 
   if (!rows.length) return null;
 
+  const cheapestRow = rows.reduce((best, r) => (r.price < best.price ? r : best), rows[0]);
+
+  const dateFmt = locale === 'zh' ? 'M月d日' : 'MMM d';
+
   return (
     <div className="price-table-wrap">
+      <div className="price-table-best">
+        {t('priceTable.cheapest', {
+          date: format(parseISO(pickDate), dateFmt, { locale: dateFnsLocales[locale] }),
+          price: formatPrice(cheapestRow.price, locale),
+        })}
+      </div>
       <table className="price-table">
         <thead>
           <tr>
@@ -40,7 +50,7 @@ export default function PriceTable({ prices, pickDate }) {
         </thead>
         <tbody>
           {rows.map((r, i) => (
-            <tr key={i}>
+            <tr key={i} className={r === cheapestRow ? 'pt-best-row' : ''}>
               <td className="pt-date">{r.daysLabel}</td>
               <td className="pt-price">{formatPrice(r.price, locale)}</td>
               <td className="pt-airline">{r.airline || '—'}</td>

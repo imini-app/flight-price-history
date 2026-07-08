@@ -114,7 +114,8 @@
     "when": "When",
     "daysPrior": "{days} days prior",
     "dayOfDeparture": "Day of departure",
-    "airline": "Airline"
+    "airline": "Airline",
+    "cheapest": "Cheapest: {date} — {price}"
   },
   "searchableSelect": {
     "noResults": "No results"

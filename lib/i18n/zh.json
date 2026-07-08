@@ -114,7 +114,8 @@
     "when": "预订时间",
     "daysPrior": "提前{days}天",
     "dayOfDeparture": "出发当天",
-    "airline": "航空公司"
+    "airline": "航空公司",
+    "cheapest": "最便宜：{date} — {price}"
   },
   "searchableSelect": {
     "noResults": "无结果"

@@ -723,6 +723,132 @@
       "nonstop": true,
       "stops": 0,
       "duration": "10 hr 20 min"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-08",
+      "price": 2044,
+      "airline": "China EasternQantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 20 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-08",
+      "price": 7126,
+      "airline": "China EasternQantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 20 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-08",
+      "price": 4873,
+      "airline": "China EasternQantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 20 min"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-08",
+      "price": 4873,
+      "airline": "China EasternQantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 20 min"
+    },
+    {
+      "date": "2026-09-03",
+      "snapshot": "2026-07-08",
+      "price": 7126,
+      "airline": "China EasternQantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 20 min"
+    },
+    {
+      "date": "2026-09-09",
+      "snapshot": "2026-07-08",
+      "price": 7126,
+      "airline": "China EasternQantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 20 min"
+    },
+    {
+      "date": "2026-09-11",
+      "snapshot": "2026-07-08",
+      "price": 7126,
+      "airline": "China EasternQantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 20 min"
+    },
+    {
+      "date": "2026-09-13",
+      "snapshot": "2026-07-08",
+      "price": 4873,
+      "airline": "China EasternQantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 20 min"
+    },
+    {
+      "date": "2026-09-16",
+      "snapshot": "2026-07-08",
+      "price": 4873,
+      "airline": "China EasternQantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 20 min"
+    },
+    {
+      "date": "2026-09-28",
+      "snapshot": "2026-07-08",
+      "price": 4873,
+      "airline": "China EasternQantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 20 min"
+    },
+    {
+      "date": "2026-10-10",
+      "snapshot": "2026-07-08",
+      "price": 7126,
+      "airline": "China EasternQantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 20 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-08",
+      "price": 4873,
+      "airline": "China EasternQantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 20 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-08",
+      "price": 4873,
+      "airline": "China EasternQantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 20 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-08",
+      "price": 7126,
+      "airline": "China EasternQantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "10 hr 20 min"
     }
   ]
 }

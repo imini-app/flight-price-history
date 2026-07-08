@@ -1623,6 +1623,366 @@
       "nonstop": true,
       "stops": 0,
       "duration": "6 hr 10 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-08",
+      "price": 199,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 40 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-08",
+      "price": 155,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 40 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-08",
+      "price": 155,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-08",
+      "price": 140,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-08",
+      "price": 133,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-08",
+      "price": 155,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 40 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-08",
+      "price": 126,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-08",
+      "price": 126,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-08",
+      "price": 140,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-08",
+      "price": 126,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-08",
+      "price": 111,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-08-27",
+      "snapshot": "2026-07-08",
+      "price": 111,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-08-28",
+      "snapshot": "2026-07-08",
+      "price": 111,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-08",
+      "price": 111,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-08",
+      "price": 140,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 40 min"
+    },
+    {
+      "date": "2026-09-01",
+      "snapshot": "2026-07-08",
+      "price": 126,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-08",
+      "price": 140,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 40 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-08",
+      "price": 126,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-08",
+      "price": 140,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 40 min"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-08",
+      "price": 214,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 40 min"
+    },
+    {
+      "date": "2026-09-28",
+      "snapshot": "2026-07-08",
+      "price": 258,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-09-30",
+      "snapshot": "2026-07-08",
+      "price": 435,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 40 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-08",
+      "price": 361,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 40 min"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-08",
+      "price": 126,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-10-09",
+      "snapshot": "2026-07-08",
+      "price": 126,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 40 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-08",
+      "price": 126,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 40 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-08",
+      "price": 184,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 45 min"
+    },
+    {
+      "date": "2026-10-19",
+      "snapshot": "2026-07-08",
+      "price": 140,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "5 hr 40 min"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-08",
+      "price": 140,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 10 min"
+    },
+    {
+      "date": "2026-11-16",
+      "snapshot": "2026-07-08",
+      "price": 155,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 10 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-08",
+      "price": 140,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 10 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-08",
+      "price": 140,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 10 min"
+    },
+    {
+      "date": "2026-12-01",
+      "snapshot": "2026-07-08",
+      "price": 140,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 10 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-08",
+      "price": 140,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 10 min"
+    },
+    {
+      "date": "2026-12-03",
+      "snapshot": "2026-07-08",
+      "price": 155,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 10 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-08",
+      "price": 140,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 10 min"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-08",
+      "price": 140,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 10 min"
+    },
+    {
+      "date": "2026-12-15",
+      "snapshot": "2026-07-08",
+      "price": 155,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 10 min"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-08",
+      "price": 288,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 10 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-08",
+      "price": 288,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 10 min"
     }
   ]
 }
