@@ -87,7 +87,7 @@
     "departureDates": "{count} 个出发日期",
     "allPricesUSD": "所有价格以美元显示",
     "nonstop": "所有航班均为直飞（无经停）",
-    "cheapestPoint": "最便宜出发日：{price}",
+    "cheapestPoint": "最便宜：{date} — {price}",
     "avgPrice": "平均价格",
     "lowest": "最低",
     "highest": "最高",

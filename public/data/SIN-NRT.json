@@ -1623,6 +1623,186 @@
       "nonstop": true,
       "stops": 0,
       "duration": "6 hr 45 min"
+    },
+    {
+      "date": "2026-07-09",
+      "snapshot": "2026-07-08",
+      "price": 141,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-07-10",
+      "snapshot": "2026-07-08",
+      "price": 249,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-08",
+      "price": 244,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-08",
+      "price": 227,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-08",
+      "price": 141,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-08",
+      "price": 208,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-08",
+      "price": 141,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-08",
+      "price": 141,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-08",
+      "price": 141,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-08",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-08",
+      "price": 141,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-08",
+      "price": 141,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-08",
+      "price": 345,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-08",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-08",
+      "price": 580,
+      "airline": "Singapore AirlinesANA",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-08",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-08",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-08",
+      "price": 249,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-08",
+      "price": 580,
+      "airline": "Singapore AirlinesANA",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-08",
+      "price": 249,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
     }
   ]
 }

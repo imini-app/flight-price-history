@@ -51,7 +51,10 @@ export default function ExploreChart({ grouped, stats, routeLabel }) {
       {cheapest && (
         <div className="chart-cheapest-note">
           <span className="chart-cheapest-dot" />
-          {t('exploreChart.cheapestPoint', { price: formatPrice(cheapest.price, locale) })}
+          {t('exploreChart.cheapestPoint', {
+            date: format(parseISO(cheapest.date), locale === 'zh' ? 'M月d日' : 'MMM d', { locale: dateFnsLocales[locale] }),
+            price: formatPrice(cheapest.price, locale),
+          })}
         </div>
       )}
       <div className="chart-wrapper">
