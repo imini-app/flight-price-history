@@ -755,7 +755,7 @@ body {
   .landing-cards { grid-template-columns: 1fr; }
   .hero h1 { font-size: 1.8rem; }
   .chart-table-row { flex-direction: column; }
-  .chart-table-col-chart .card { height: auto; }
+  .chart-table-col-chart .card { height: 340px; }
   .chart-table-col-table .price-table-wrap { height: 400px; flex: none; }
   .date-picker-popup {
     left: 50%;
