@@ -746,9 +746,18 @@ body {
 
 @media (max-width: 640px) {
   .container { padding: 12px; }
-  .search-row { flex-direction: column; }
+  .search-row { flex-direction: column; position: relative; }
   .search-field { min-width: 100%; }
-  .swap-btn { align-self: center; margin-top: 0; }
+  .swap-btn {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    margin-top: 0;
+    border: 2px solid var(--gf-white);
+    box-shadow: var(--gf-shadow);
+  }
   .stats-row { gap: 6px; }
   .stat-chip { padding: 8px 14px; font-size: 0.8rem; }
   .chart-wrapper { min-height: 280px; }
