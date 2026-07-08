@@ -2946,6 +2946,42 @@
       "nonstop": true,
       "stops": 0,
       "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-08",
+      "price": 820,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-08",
+      "price": 1582,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-08",
+      "price": 1582,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2027-01-04",
+      "snapshot": "2026-07-08",
+      "price": 1582,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
     }
   ]
 }

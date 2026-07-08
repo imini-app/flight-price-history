@@ -31,13 +31,11 @@ export default function PriceTable({ prices, pickDate }) {
 
   const cheapestRow = rows.reduce((best, r) => (r.price < best.price ? r : best), rows[0]);
 
-  const dateFmt = locale === 'zh' ? 'M月d日' : 'MMM d';
-
   return (
     <div className="price-table-wrap">
       <div className="price-table-best">
         {t('priceTable.cheapest', {
-          date: format(parseISO(cheapestRow.snapshot), dateFmt, { locale: dateFnsLocales[locale] }),
+          label: cheapestRow.daysLabel,
           price: formatPrice(cheapestRow.price, locale),
         })}
       </div>
