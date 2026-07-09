@@ -3243,6 +3243,348 @@
       "nonstop": true,
       "stops": 0,
       "duration": "8 hr 30 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-09",
+      "price": 2016,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-09",
+      "price": 1665,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-09",
+      "price": 1712,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-09",
+      "price": 1661,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-09",
+      "price": 1584,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 55 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-09",
+      "price": 1696,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-09",
+      "price": 1705,
+      "airline": "British AirwaysAmerican, Finnair",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 5 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-09",
+      "price": 1705,
+      "airline": "British AirwaysAmerican, Finnair",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-09",
+      "price": 664,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-08-12",
+      "snapshot": "2026-07-09",
+      "price": 664,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-09",
+      "price": 664,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-09",
+      "price": 494,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 55 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-09-15",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-09-19",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-09-24",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-09-25",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-09",
+      "price": 441,
+      "airline": "British AirwaysAmerican, Finnair",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-09",
+      "price": 441,
+      "airline": "British AirwaysAmerican, Finnair",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 5 min"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-09",
+      "price": 441,
+      "airline": "British AirwaysAmerican, Finnair",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 5 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-09",
+      "price": 441,
+      "airline": "British AirwaysAmerican, Finnair",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 5 min"
+    },
+    {
+      "date": "2026-11-12",
+      "snapshot": "2026-07-09",
+      "price": 441,
+      "airline": "British AirwaysAmerican, Finnair",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 5 min"
+    },
+    {
+      "date": "2026-11-14",
+      "snapshot": "2026-07-09",
+      "price": 441,
+      "airline": "British AirwaysAmerican, Finnair",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 5 min"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-09",
+      "price": 441,
+      "airline": "British AirwaysAmerican, Finnair",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 5 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-09",
+      "price": 441,
+      "airline": "British AirwaysAmerican, Finnair",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 5 min"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 55 min"
+    },
+    {
+      "date": "2026-12-21",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 55 min"
+    },
+    {
+      "date": "2026-12-22",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 55 min"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-09",
+      "price": 445,
+      "airline": "Air CanadaLufthansa",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 55 min"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-09",
+      "price": 441,
+      "airline": "British AirwaysAmerican, Finnair",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 5 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-09",
+      "price": 897,
+      "airline": "British AirwaysAmerican, Finnair",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 5 min"
     }
   ]
 }
