@@ -2487,6 +2487,654 @@
       "nonstop": true,
       "stops": 0,
       "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-08",
+      "price": 457,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-10-19",
+      "snapshot": "2026-07-08",
+      "price": 457,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-10-18",
+      "snapshot": "2026-07-08",
+      "price": 457,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-08",
+      "price": 457,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-10-21",
+      "snapshot": "2026-07-08",
+      "price": 457,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-08",
+      "price": 457,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-08",
+      "price": 457,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-10-25",
+      "snapshot": "2026-07-08",
+      "price": 457,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-08",
+      "price": 457,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-10-26",
+      "snapshot": "2026-07-08",
+      "price": 457,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-10-27",
+      "snapshot": "2026-07-08",
+      "price": 457,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-08",
+      "price": 457,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-08",
+      "price": 457,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-08",
+      "price": 695,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 40 min"
+    },
+    {
+      "date": "2026-11-03",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-07",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-09",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-11-11",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-11-12",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-13",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-16",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-11-17",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-20",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-21",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-22",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-23",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-24",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-26",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-27",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-28",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-11-30",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-01",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-03",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-12-07",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-12-10",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-16",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-19",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-21",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-22",
+      "snapshot": "2026-07-08",
+      "price": 745,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-26",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-08",
+      "price": 809,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-29",
+      "snapshot": "2026-07-08",
+      "price": 695,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-08",
+      "price": 695,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-08",
+      "price": 850,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 40 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-08",
+      "price": 856,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-08",
+      "price": 1172,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 40 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-08",
+      "price": 856,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
+    },
+    {
+      "date": "2027-01-04",
+      "snapshot": "2026-07-08",
+      "price": 910,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 30 min"
     }
   ]
 }

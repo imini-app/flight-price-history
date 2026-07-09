@@ -1,0 +1,7 @@
+{
+  "route": "LHR-NRT",
+  "origin": "LHR",
+  "dest": "NRT",
+  "label": "London (LHR) → Tokyo (NRT)",
+  "prices": []
+}
