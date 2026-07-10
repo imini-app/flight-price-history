@@ -3243,6 +3243,1257 @@
       "nonstop": true,
       "stops": 0,
       "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-10",
+      "snapshot": "2026-07-09",
+      "price": 822,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-12",
+      "snapshot": "2026-07-09",
+      "price": 375,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-11",
+      "snapshot": "2026-07-09",
+      "price": 302,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-09",
+      "price": 302,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-09",
+      "price": 302,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-09",
+      "price": 853,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-09",
+      "price": 533,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-09",
+      "price": 674,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-09",
+      "price": 331,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-09",
+      "price": 302,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-09",
+      "price": 331,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-09",
+      "price": 302,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-09",
+      "price": 375,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-09",
+      "price": 302,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-09",
+      "price": 302,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-09",
+      "price": 302,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-09",
+      "price": 375,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-09",
+      "price": 632,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-09",
+      "price": 674,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-09",
+      "price": 522,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-09",
+      "price": 547,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-09",
+      "price": 512,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-09",
+      "price": 480,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-09",
+      "price": 480,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-07",
+      "snapshot": "2026-07-09",
+      "price": 522,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-09",
+      "price": 522,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-09",
+      "price": 480,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-09",
+      "price": 512,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-12",
+      "snapshot": "2026-07-09",
+      "price": 512,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-09",
+      "price": 515,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-09",
+      "price": 558,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-09",
+      "price": 674,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-09",
+      "price": 926,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-09",
+      "price": 515,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-09",
+      "price": 586,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-09",
+      "price": 724,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-09",
+      "price": 738,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-22",
+      "snapshot": "2026-07-09",
+      "price": 717,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-09",
+      "price": 926,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-25",
+      "snapshot": "2026-07-09",
+      "price": 533,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-26",
+      "snapshot": "2026-07-09",
+      "price": 586,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-09",
+      "price": 575,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-09",
+      "price": 480,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-09",
+      "price": 926,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-09-03",
+      "snapshot": "2026-07-09",
+      "price": 309,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-09",
+      "price": 309,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-09",
+      "price": 547,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-09-08",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-09-09",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-09-13",
+      "snapshot": "2026-07-09",
+      "price": 561,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-09-14",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-09-17",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-09",
+      "price": 561,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-09-21",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-09",
+      "price": 508,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-09-27",
+      "snapshot": "2026-07-09",
+      "price": 561,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-09-30",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-01",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-06",
+      "snapshot": "2026-07-09",
+      "price": 315,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-08",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-09",
+      "snapshot": "2026-07-09",
+      "price": 397,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-10-10",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-14",
+      "snapshot": "2026-07-09",
+      "price": 315,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-09",
+      "price": 315,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-10-15",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-16",
+      "snapshot": "2026-07-09",
+      "price": 315,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-10-18",
+      "snapshot": "2026-07-09",
+      "price": 315,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-10-19",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-09",
+      "price": 315,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-09",
+      "price": 315,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-10-25",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-09",
+      "price": 315,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-09",
+      "price": 315,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-09",
+      "price": 550,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-11-02",
+      "snapshot": "2026-07-09",
+      "price": 491,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-11-03",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-09",
+      "price": 491,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-11-07",
+      "snapshot": "2026-07-09",
+      "price": 544,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-11-12",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-11-11",
+      "snapshot": "2026-07-09",
+      "price": 491,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-11-14",
+      "snapshot": "2026-07-09",
+      "price": 544,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-11-16",
+      "snapshot": "2026-07-09",
+      "price": 491,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-11-17",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-09",
+      "price": 491,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-11-22",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-11-23",
+      "snapshot": "2026-07-09",
+      "price": 491,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-11-24",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-09",
+      "price": 491,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-11-26",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-11-27",
+      "snapshot": "2026-07-09",
+      "price": 544,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-09",
+      "price": 280,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-11-28",
+      "snapshot": "2026-07-09",
+      "price": 544,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-11-30",
+      "snapshot": "2026-07-09",
+      "price": 491,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-12-01",
+      "snapshot": "2026-07-09",
+      "price": 480,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-09",
+      "price": 491,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-12-03",
+      "snapshot": "2026-07-09",
+      "price": 480,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-09",
+      "price": 544,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-09",
+      "price": 544,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-09",
+      "price": 522,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-09",
+      "price": 480,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-09",
+      "price": 491,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-12-10",
+      "snapshot": "2026-07-09",
+      "price": 480,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-09",
+      "price": 561,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-09",
+      "price": 561,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-12-13",
+      "snapshot": "2026-07-09",
+      "price": 522,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-09",
+      "price": 480,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-15",
+      "snapshot": "2026-07-09",
+      "price": 480,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-16",
+      "snapshot": "2026-07-09",
+      "price": 512,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-12-17",
+      "snapshot": "2026-07-09",
+      "price": 480,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-09",
+      "price": 979,
+      "airline": "Air FranceDelta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-09",
+      "price": 695,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-19",
+      "snapshot": "2026-07-09",
+      "price": 979,
+      "airline": "Air FranceDelta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-21",
+      "snapshot": "2026-07-09",
+      "price": 653,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-22",
+      "snapshot": "2026-07-09",
+      "price": 653,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-09",
+      "price": 853,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-09",
+      "price": 480,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-09",
+      "price": 810,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-12-26",
+      "snapshot": "2026-07-09",
+      "price": 810,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-09",
+      "price": 522,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-09",
+      "price": 480,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-09",
+      "price": 810,
+      "airline": "Air CanadaLufthansa, Brussels Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2027-01-05",
+      "snapshot": "2026-07-09",
+      "price": 480,
+      "airline": "Air TransatPorter Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 25 min"
     }
   ]
 }
