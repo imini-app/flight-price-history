@@ -3,5 +3,15 @@
   "origin": "JFK",
   "dest": "PVG",
   "label": "New York (JFK) → Shanghai (PVG)",
-  "prices": []
+  "prices": [
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-11",
+      "price": 1196,
+      "airline": "China Eastern",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "15 hr"
+    }
+  ]
 }

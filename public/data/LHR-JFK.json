@@ -7158,6 +7158,420 @@
       "nonstop": true,
       "stops": 0,
       "duration": "8 hr 25 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-12",
+      "price": 1176,
+      "airline": "JetBlue",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 18 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-12",
+      "price": 1158,
+      "airline": "JetBlueTap Air Portugal",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 18 min"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-12",
+      "price": 1176,
+      "airline": "JetBlue",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-12",
+      "price": 1610,
+      "airline": "Virgin AtlanticAir France, Delta, KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 45 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-12",
+      "price": 869,
+      "airline": "JetBlue",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-12",
+      "price": 963,
+      "airline": "JetBlue",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-12",
+      "price": 1056,
+      "airline": "JetBlue",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-12",
+      "price": 1056,
+      "airline": "JetBlue",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-12",
+      "price": 936,
+      "airline": "JetBlue",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-12",
+      "price": 842,
+      "airline": "JetBlue",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-12",
+      "price": 775,
+      "airline": "JetBlue",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-12",
+      "price": 775,
+      "airline": "JetBlue",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-08-28",
+      "snapshot": "2026-07-12",
+      "price": 601,
+      "airline": "JetBlue",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-12",
+      "price": 601,
+      "airline": "JetBlue",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-12",
+      "price": 728,
+      "airline": "JetBlue",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-12",
+      "price": 540,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-09-01",
+      "snapshot": "2026-07-12",
+      "price": 479,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-12",
+      "price": 479,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-09-03",
+      "snapshot": "2026-07-12",
+      "price": 535,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-12",
+      "price": 535,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-12",
+      "price": 535,
+      "airline": "AmericanBritish Airways, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-12",
+      "price": 535,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-09-16",
+      "snapshot": "2026-07-12",
+      "price": 479,
+      "airline": "AmericanBritish Airways, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-12",
+      "price": 535,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-10-06",
+      "snapshot": "2026-07-12",
+      "price": 479,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-12",
+      "price": 540,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-10-16",
+      "snapshot": "2026-07-12",
+      "price": 597,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 55 min"
+    },
+    {
+      "date": "2026-10-18",
+      "snapshot": "2026-07-12",
+      "price": 597,
+      "airline": "AmericanBritish Airways, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-12",
+      "price": 540,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-10-21",
+      "snapshot": "2026-07-12",
+      "price": 540,
+      "airline": "AmericanBritish Airways, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-12",
+      "price": 597,
+      "airline": "AmericanBritish Airways, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 50 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-12",
+      "price": 1056,
+      "airline": "JetBlueTap Air Portugal",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-10-26",
+      "snapshot": "2026-07-12",
+      "price": 540,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 5 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-12",
+      "price": 535,
+      "airline": "British AirwaysFinnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-12",
+      "price": 535,
+      "airline": "AmericanBritish Airways, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 10 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-12",
+      "price": 535,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-12",
+      "price": 479,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr"
+    },
+    {
+      "date": "2026-11-11",
+      "snapshot": "2026-07-12",
+      "price": 479,
+      "airline": "AmericanBritish Airways, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 10 min"
+    },
+    {
+      "date": "2026-11-21",
+      "snapshot": "2026-07-12",
+      "price": 535,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-12",
+      "price": 535,
+      "airline": "AmericanBritish Airways, Finnair",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 10 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-12",
+      "price": 535,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-12",
+      "price": 479,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr"
+    },
+    {
+      "date": "2026-12-19",
+      "snapshot": "2026-07-12",
+      "price": 873,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 10 min"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-12",
+      "price": 800,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-12",
+      "price": 597,
+      "airline": "British AirwaysAmerican, Finnair, Iberia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr"
+    },
+    {
+      "date": "2027-01-05",
+      "snapshot": "2026-07-12",
+      "price": 928,
+      "airline": "JetBlue",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 25 min"
     }
   ]
 }
