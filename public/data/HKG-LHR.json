@@ -10767,6 +10767,24 @@
       "nonstop": true,
       "stops": 0,
       "duration": "14 hr 50 min"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-13",
+      "price": 708,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-13",
+      "price": 708,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
     }
   ]
 }

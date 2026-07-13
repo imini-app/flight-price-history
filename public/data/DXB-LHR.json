@@ -10767,6 +10767,24 @@
       "nonstop": true,
       "stops": 0,
       "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-13",
+      "price": 639,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 40 min"
+    },
+    {
+      "date": "2026-10-14",
+      "snapshot": "2026-07-13",
+      "price": 639,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 40 min"
     }
   ]
 }

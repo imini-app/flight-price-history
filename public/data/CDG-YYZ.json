@@ -11136,6 +11136,33 @@
       "nonstop": true,
       "stops": 0,
       "duration": "8 hr 20 min"
+    },
+    {
+      "date": "2026-10-21",
+      "snapshot": "2026-07-13",
+      "price": 1478,
+      "airline": "Air FranceDelta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-13",
+      "price": 1478,
+      "airline": "Air FranceDelta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 15 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-13",
+      "price": 567,
+      "airline": "Air Transat",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "8 hr 25 min"
     }
   ]
 }
