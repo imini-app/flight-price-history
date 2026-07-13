@@ -7194,6 +7194,321 @@
       "nonstop": true,
       "stops": 0,
       "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-12",
+      "price": 1319,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-07-13",
+      "snapshot": "2026-07-12",
+      "price": 1319,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-12",
+      "price": 1319,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-12",
+      "price": 860,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-12",
+      "price": 860,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-12",
+      "price": 819,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-09",
+      "snapshot": "2026-07-12",
+      "price": 819,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-11",
+      "snapshot": "2026-07-12",
+      "price": 860,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-12",
+      "price": 860,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-14",
+      "snapshot": "2026-07-12",
+      "price": 819,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-15",
+      "snapshot": "2026-07-12",
+      "price": 819,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-16",
+      "snapshot": "2026-07-12",
+      "price": 819,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-12",
+      "price": 984,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-12",
+      "price": 984,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-21",
+      "snapshot": "2026-07-12",
+      "price": 943,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-12",
+      "price": 943,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-12",
+      "price": 943,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-24",
+      "snapshot": "2026-07-12",
+      "price": 943,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-25",
+      "snapshot": "2026-07-12",
+      "price": 1218,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-26",
+      "snapshot": "2026-07-12",
+      "price": 984,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-27",
+      "snapshot": "2026-07-12",
+      "price": 984,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-28",
+      "snapshot": "2026-07-12",
+      "price": 1319,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-29",
+      "snapshot": "2026-07-12",
+      "price": 943,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-09-30",
+      "snapshot": "2026-07-12",
+      "price": 943,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-10-01",
+      "snapshot": "2026-07-12",
+      "price": 943,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-12",
+      "price": 860,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-10-04",
+      "snapshot": "2026-07-12",
+      "price": 860,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-12",
+      "price": 860,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-12",
+      "price": 819,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-10-06",
+      "snapshot": "2026-07-12",
+      "price": 819,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-12",
+      "price": 819,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-10-08",
+      "snapshot": "2026-07-12",
+      "price": 819,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-10-09",
+      "snapshot": "2026-07-12",
+      "price": 860,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 55 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-12",
+      "price": 1327,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-12",
+      "price": 781,
+      "airline": "KLM",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 20 min"
     }
   ]
 }
