@@ -3720,6 +3720,132 @@
       "nonstop": true,
       "stops": 0,
       "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-07-14",
+      "snapshot": "2026-07-13",
+      "price": 120,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 25 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-13",
+      "price": 106,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-08-22",
+      "snapshot": "2026-07-13",
+      "price": 64,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-09-26",
+      "snapshot": "2026-07-13",
+      "price": 78,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-10-04",
+      "snapshot": "2026-07-13",
+      "price": 95,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 25 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-13",
+      "price": 126,
+      "airline": "Virgin Australia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 25 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-13",
+      "price": 85,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-11-07",
+      "snapshot": "2026-07-13",
+      "price": 78,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-13",
+      "price": 85,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-13",
+      "price": 64,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 25 min"
+    },
+    {
+      "date": "2026-11-14",
+      "snapshot": "2026-07-13",
+      "price": 78,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-11-13",
+      "snapshot": "2026-07-13",
+      "price": 85,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-11-16",
+      "snapshot": "2026-07-13",
+      "price": 78,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-13",
+      "price": 91,
+      "airline": "Virgin Australia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 25 min"
     }
   ]
 }
