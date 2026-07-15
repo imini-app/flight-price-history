@@ -3846,6 +3846,105 @@
       "nonstop": true,
       "stops": 0,
       "duration": "1 hr 25 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-14",
+      "price": 121,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 25 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-14",
+      "price": 121,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-14",
+      "price": 71,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-09-19",
+      "snapshot": "2026-07-14",
+      "price": 78,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 25 min"
+    },
+    {
+      "date": "2026-10-22",
+      "snapshot": "2026-07-14",
+      "price": 71,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-11-14",
+      "snapshot": "2026-07-14",
+      "price": 78,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-14",
+      "price": 78,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2026-12-16",
+      "snapshot": "2026-07-14",
+      "price": 64,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 25 min"
+    },
+    {
+      "date": "2026-12-22",
+      "snapshot": "2026-07-14",
+      "price": 85,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 30 min"
+    },
+    {
+      "date": "2027-01-05",
+      "snapshot": "2026-07-14",
+      "price": 64,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 35 min"
+    },
+    {
+      "date": "2027-01-09",
+      "snapshot": "2026-07-14",
+      "price": 78,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 25 min"
     }
   ]
 }

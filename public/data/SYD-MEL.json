@@ -4017,6 +4017,87 @@
       "nonstop": true,
       "stops": 0,
       "duration": "1 hr 35 min"
+    },
+    {
+      "date": "2026-07-15",
+      "snapshot": "2026-07-14",
+      "price": 224,
+      "airline": "Virgin Australia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 35 min"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-14",
+      "price": 64,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 40 min"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-14",
+      "price": 78,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 35 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-14",
+      "price": 71,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 35 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-14",
+      "price": 64,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 35 min"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-14",
+      "price": 171,
+      "airline": "Jetstar",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 35 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-14",
+      "price": 119,
+      "airline": "Virgin AustraliaOperated by Virgin Aust Intl for Virgin Aust",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 35 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-14",
+      "price": 92,
+      "airline": "Virgin Australia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 35 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-14",
+      "price": 119,
+      "airline": "Virgin Australia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "1 hr 35 min"
     }
   ]
 }

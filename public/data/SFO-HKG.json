@@ -12360,6 +12360,186 @@
       "nonstop": true,
       "stops": 0,
       "duration": "15 hr 35 min"
+    },
+    {
+      "date": "2026-07-16",
+      "snapshot": "2026-07-15",
+      "price": 765,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-15",
+      "price": 835,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-15",
+      "price": 835,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-15",
+      "price": 835,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-15",
+      "price": 765,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-15",
+      "price": 765,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-15",
+      "price": 765,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-15",
+      "price": 765,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-15",
+      "price": 835,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-15",
+      "price": 835,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-15",
+      "price": 765,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-15",
+      "price": 835,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-15",
+      "price": 765,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-15",
+      "price": 765,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-15",
+      "price": 835,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-15",
+      "price": 765,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-15",
+      "price": 765,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-15",
+      "price": 765,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-15",
+      "price": 695,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-15",
+      "price": 695,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "14 hr 10 min"
     }
   ]
 }
