@@ -7536,6 +7536,411 @@
       "nonstop": true,
       "stops": 0,
       "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-15",
+      "price": 1224,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 50 min"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-15",
+      "price": 1254,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-15",
+      "price": 778,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-15",
+      "price": 1040,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-15",
+      "price": 1051,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-15",
+      "price": 884,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-15",
+      "price": 778,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-15",
+      "price": 1041,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-15",
+      "price": 1041,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-11",
+      "snapshot": "2026-07-15",
+      "price": 1019,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-12",
+      "snapshot": "2026-07-15",
+      "price": 778,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-13",
+      "snapshot": "2026-07-15",
+      "price": 899,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-15",
+      "price": 1199,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-15",
+      "price": 967,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-15",
+      "price": 1107,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-20",
+      "snapshot": "2026-07-15",
+      "price": 948,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-22",
+      "snapshot": "2026-07-15",
+      "price": 1050,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-26",
+      "snapshot": "2026-07-15",
+      "price": 778,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-15",
+      "price": 918,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-27",
+      "snapshot": "2026-07-15",
+      "price": 935,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-15",
+      "price": 1203,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-15",
+      "price": 902,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-03",
+      "snapshot": "2026-07-15",
+      "price": 778,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-15",
+      "price": 911,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-15",
+      "price": 976,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-15",
+      "price": 778,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-10",
+      "snapshot": "2026-07-15",
+      "price": 778,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-15",
+      "price": 862,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-13",
+      "snapshot": "2026-07-15",
+      "price": 874,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-16",
+      "snapshot": "2026-07-15",
+      "price": 871,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-15",
+      "price": 800,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-17",
+      "snapshot": "2026-07-15",
+      "price": 874,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-15",
+      "price": 876,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-15",
+      "price": 778,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-15",
+      "price": 862,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-15",
+      "price": 874,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-15",
+      "price": 1016,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-15",
+      "price": 1403,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-15",
+      "price": 1493,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-15",
+      "price": 1571,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-15",
+      "price": 2104,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2027-01-06",
+      "snapshot": "2026-07-15",
+      "price": 1716,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2027-01-08",
+      "snapshot": "2026-07-15",
+      "price": 1716,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2027-01-07",
+      "snapshot": "2026-07-15",
+      "price": 1716,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2027-01-10",
+      "snapshot": "2026-07-15",
+      "price": 1716,
+      "airline": "Air Canada",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
     }
   ]
 }

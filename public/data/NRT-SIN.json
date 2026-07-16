@@ -13539,6 +13539,114 @@
       "nonstop": true,
       "stops": 0,
       "duration": "7 hr 40 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-16",
+      "price": 522,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-16",
+      "price": 479,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-16",
+      "price": 522,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-16",
+      "price": 327,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-16",
+      "price": 234,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-16",
+      "price": 295,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-16",
+      "price": 264,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-16",
+      "price": 428,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-16",
+      "price": 295,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-16",
+      "price": 428,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-16",
+      "price": 264,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-16",
+      "price": 359,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
     }
   ]
 }

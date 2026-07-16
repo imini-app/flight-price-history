@@ -12783,6 +12783,888 @@
       "nonstop": true,
       "stops": 0,
       "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-16",
+      "price": 1542,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-16",
+      "price": 1739,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-07-17",
+      "snapshot": "2026-07-16",
+      "price": 2002,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 10 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-16",
+      "price": 1246,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-16",
+      "price": 1354,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-16",
+      "price": 1569,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-16",
+      "price": 1354,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-16",
+      "price": 1259,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-16",
+      "price": 1628,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-16",
+      "price": 1313,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-16",
+      "price": 1313,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-16",
+      "price": 1313,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-16",
+      "price": 1313,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-16",
+      "price": 1197,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-16",
+      "price": 988,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-16",
+      "price": 1031,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-16",
+      "price": 1031,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-16",
+      "price": 950,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-16",
+      "price": 873,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 10 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-16",
+      "price": 894,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 10 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-16",
+      "price": 894,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 10 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-16",
+      "price": 854,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-16",
+      "price": 894,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 10 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-16",
+      "price": 911,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 25 min"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-16",
+      "price": 854,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 10 min"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-16",
+      "price": 911,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 10 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-16",
+      "price": 894,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-16",
+      "price": 1031,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-09-25",
+      "snapshot": "2026-07-16",
+      "price": 1031,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-09-30",
+      "snapshot": "2026-07-16",
+      "price": 1031,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-10-03",
+      "snapshot": "2026-07-16",
+      "price": 1031,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-10-10",
+      "snapshot": "2026-07-16",
+      "price": 1031,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-16",
+      "price": 950,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-16",
+      "price": 950,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-10-19",
+      "snapshot": "2026-07-16",
+      "price": 950,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 40 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-16",
+      "price": 1031,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 45 min"
+    },
+    {
+      "date": "2026-10-26",
+      "snapshot": "2026-07-16",
+      "price": 786,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr"
+    },
+    {
+      "date": "2026-10-27",
+      "snapshot": "2026-07-16",
+      "price": 786,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-16",
+      "price": 786,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-16",
+      "price": 824,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-16",
+      "price": 824,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-13",
+      "snapshot": "2026-07-16",
+      "price": 824,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-11-16",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-17",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-21",
+      "snapshot": "2026-07-16",
+      "price": 878,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-22",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-24",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-23",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-26",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-30",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-03",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-01",
+      "snapshot": "2026-07-16",
+      "price": 851,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-16",
+      "price": 878,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-16",
+      "price": 894,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-16",
+      "price": 894,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr"
+    },
+    {
+      "date": "2026-12-07",
+      "snapshot": "2026-07-16",
+      "price": 854,
+      "airline": "Singapore Airlines",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-16",
+      "price": 786,
+      "airline": "Singapore AirlinesGaruda Indonesia",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 5 min"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-16",
+      "price": 1031,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-16",
+      "price": 1192,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 25 min"
+    },
+    {
+      "date": "2026-12-10",
+      "snapshot": "2026-07-16",
+      "price": 948,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 25 min"
+    },
+    {
+      "date": "2026-12-15",
+      "snapshot": "2026-07-16",
+      "price": 1313,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-16",
+      "price": 1204,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 25 min"
+    },
+    {
+      "date": "2026-12-16",
+      "snapshot": "2026-07-16",
+      "price": 1313,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-12-17",
+      "snapshot": "2026-07-16",
+      "price": 1549,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-12-18",
+      "snapshot": "2026-07-16",
+      "price": 1548,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-12-19",
+      "snapshot": "2026-07-16",
+      "price": 1421,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-20",
+      "snapshot": "2026-07-16",
+      "price": 1246,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-21",
+      "snapshot": "2026-07-16",
+      "price": 1246,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-22",
+      "snapshot": "2026-07-16",
+      "price": 1192,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-16",
+      "price": 1147,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-16",
+      "price": 950,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-16",
+      "price": 977,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-16",
+      "price": 1197,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-26",
+      "snapshot": "2026-07-16",
+      "price": 1075,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-16",
+      "price": 1197,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-30",
+      "snapshot": "2026-07-16",
+      "price": 1048,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-16",
+      "price": 1048,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-16",
+      "price": 1075,
+      "airline": "Qantas",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 30 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-16",
+      "price": 958,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 25 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-16",
+      "price": 1040,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2027-01-04",
+      "snapshot": "2026-07-16",
+      "price": 1040,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2027-01-05",
+      "snapshot": "2026-07-16",
+      "price": 1040,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2027-01-06",
+      "snapshot": "2026-07-16",
+      "price": 1040,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2027-01-07",
+      "snapshot": "2026-07-16",
+      "price": 1040,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2027-01-08",
+      "snapshot": "2026-07-16",
+      "price": 1040,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2027-01-09",
+      "snapshot": "2026-07-16",
+      "price": 1040,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2027-01-10",
+      "snapshot": "2026-07-16",
+      "price": 958,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 25 min"
+    },
+    {
+      "date": "2027-01-11",
+      "snapshot": "2026-07-16",
+      "price": 1040,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
+    },
+    {
+      "date": "2027-01-12",
+      "snapshot": "2026-07-16",
+      "price": 1040,
+      "airline": "British Airways",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "13 hr 20 min"
     }
   ]
 }
