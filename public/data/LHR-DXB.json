@@ -14457,6 +14457,474 @@
       "nonstop": true,
       "stops": 0,
       "duration": "7 hr"
+    },
+    {
+      "date": "2026-07-18",
+      "snapshot": "2026-07-17",
+      "price": 926,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-17",
+      "price": 816,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-17",
+      "price": 734,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-17",
+      "price": 816,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-17",
+      "price": 734,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-17",
+      "price": 734,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-17",
+      "price": 761,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-17",
+      "price": 761,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-17",
+      "price": 734,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-17",
+      "price": 816,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-17",
+      "price": 899,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-29",
+      "snapshot": "2026-07-17",
+      "price": 734,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-17",
+      "price": 734,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-17",
+      "price": 842,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 10 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-17",
+      "price": 1049,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-17",
+      "price": 899,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-17",
+      "price": 899,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-17",
+      "price": 1023,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-17",
+      "price": 816,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-17",
+      "price": 816,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 5 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-12",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-17",
+      "price": 748,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-17",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-17",
+      "price": 748,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-22",
+      "snapshot": "2026-07-17",
+      "price": 748,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-25",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-26",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-27",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-28",
+      "snapshot": "2026-07-17",
+      "price": 748,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-17",
+      "price": 748,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-01",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-03",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-17",
+      "price": 748,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-17",
+      "price": 748,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-08",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-09",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-17",
+      "price": 722,
+      "airline": "Emirates",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 55 min"
     }
   ]
 }
