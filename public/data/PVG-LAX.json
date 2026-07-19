@@ -16770,6 +16770,1041 @@
       "nonstop": true,
       "stops": 0,
       "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2026-07-22",
+      "snapshot": "2026-07-18",
+      "price": 819,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-07-20",
+      "snapshot": "2026-07-18",
+      "price": 1119,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-07-21",
+      "snapshot": "2026-07-18",
+      "price": 903,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-07-19",
+      "snapshot": "2026-07-18",
+      "price": 1119,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-18",
+      "price": 837,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-07-23",
+      "snapshot": "2026-07-18",
+      "price": 819,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-18",
+      "price": 1414,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-07-26",
+      "snapshot": "2026-07-18",
+      "price": 1526,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-18",
+      "price": 1358,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-18",
+      "price": 903,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-18",
+      "price": 1489,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-18",
+      "price": 943,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-18",
+      "price": 1228,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-18",
+      "price": 1440,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-18",
+      "price": 1525,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-18",
+      "price": 1172,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-18",
+      "price": 1318,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-12",
+      "snapshot": "2026-07-18",
+      "price": 943,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-18",
+      "price": 1172,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-18",
+      "price": 1378,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-18",
+      "price": 1618,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-18",
+      "price": 1618,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-17",
+      "snapshot": "2026-07-18",
+      "price": 943,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-18",
+      "price": 943,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-20",
+      "snapshot": "2026-07-18",
+      "price": 810,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-08-19",
+      "snapshot": "2026-07-18",
+      "price": 1223,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-18",
+      "price": 1502,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-18",
+      "price": 946,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-18",
+      "price": 810,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-08-25",
+      "snapshot": "2026-07-18",
+      "price": 906,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-27",
+      "snapshot": "2026-07-18",
+      "price": 723,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-28",
+      "snapshot": "2026-07-18",
+      "price": 723,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-26",
+      "snapshot": "2026-07-18",
+      "price": 723,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-30",
+      "snapshot": "2026-07-18",
+      "price": 887,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-08-31",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 35 min"
+    },
+    {
+      "date": "2026-09-01",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-09-02",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-09-03",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 10 min"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-09-08",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-09-11",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-09-13",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-09-14",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-09-16",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-09-18",
+      "snapshot": "2026-07-18",
+      "price": 658,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-09-19",
+      "snapshot": "2026-07-18",
+      "price": 658,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-18",
+      "price": 658,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-09-21",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-18",
+      "price": 751,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-09-24",
+      "snapshot": "2026-07-18",
+      "price": 961,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-09-25",
+      "snapshot": "2026-07-18",
+      "price": 1145,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-09-28",
+      "snapshot": "2026-07-18",
+      "price": 658,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-09-26",
+      "snapshot": "2026-07-18",
+      "price": 723,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-09-29",
+      "snapshot": "2026-07-18",
+      "price": 658,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-10-01",
+      "snapshot": "2026-07-18",
+      "price": 658,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 59 min"
+    },
+    {
+      "date": "2026-09-30",
+      "snapshot": "2026-07-18",
+      "price": 766,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-10-02",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 59 min"
+    },
+    {
+      "date": "2026-10-10",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 59 min"
+    },
+    {
+      "date": "2026-10-11",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 59 min"
+    },
+    {
+      "date": "2026-10-12",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 59 min"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 59 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 59 min"
+    },
+    {
+      "date": "2026-10-25",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-10-26",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-10-27",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2026-10-28",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2026-10-29",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-11-02",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-11-03",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2026-11-04",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2026-11-05",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-11-06",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-11-08",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-11-09",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2026-11-14",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-11-16",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-11-18",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-11-21",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2026-11-27",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 50 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 30 min"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2026-12-11",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 30 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 30 min"
+    },
+    {
+      "date": "2026-12-15",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2026-12-23",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2026-12-26",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 30 min"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 30 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 30 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 30 min"
+    },
+    {
+      "date": "2026-12-29",
+      "snapshot": "2026-07-18",
+      "price": 634,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2027-01-01",
+      "snapshot": "2026-07-18",
+      "price": 1172,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 30 min"
+    },
+    {
+      "date": "2027-01-05",
+      "snapshot": "2026-07-18",
+      "price": 1302,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2027-01-04",
+      "snapshot": "2026-07-18",
+      "price": 1172,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 30 min"
+    },
+    {
+      "date": "2027-01-06",
+      "snapshot": "2026-07-18",
+      "price": 998,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2027-01-07",
+      "snapshot": "2026-07-18",
+      "price": 961,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 30 min"
+    },
+    {
+      "date": "2027-01-09",
+      "snapshot": "2026-07-18",
+      "price": 1328,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2027-01-10",
+      "snapshot": "2026-07-18",
+      "price": 837,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 30 min"
+    },
+    {
+      "date": "2027-01-11",
+      "snapshot": "2026-07-18",
+      "price": 810,
+      "airline": "Delta",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 30 min"
+    },
+    {
+      "date": "2027-01-12",
+      "snapshot": "2026-07-18",
+      "price": 723,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
+    },
+    {
+      "date": "2027-01-13",
+      "snapshot": "2026-07-18",
+      "price": 614,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "11 hr 40 min"
     }
   ]
 }

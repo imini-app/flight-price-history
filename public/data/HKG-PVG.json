@@ -18156,6 +18156,51 @@
       "nonstop": true,
       "stops": 0,
       "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-10",
+      "snapshot": "2026-07-18",
+      "price": 370,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-11",
+      "snapshot": "2026-07-18",
+      "price": 236,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 40 min"
+    },
+    {
+      "date": "2027-01-12",
+      "snapshot": "2026-07-18",
+      "price": 101,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
+    },
+    {
+      "date": "2027-01-13",
+      "snapshot": "2026-07-18",
+      "price": 236,
+      "airline": "Cathay Pacific",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 45 min"
+    },
+    {
+      "date": "2027-01-14",
+      "snapshot": "2026-07-18",
+      "price": 101,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "2 hr 30 min"
     }
   ]
 }
