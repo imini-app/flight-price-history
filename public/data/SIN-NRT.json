@@ -18228,6 +18228,429 @@
       "nonstop": true,
       "stops": 0,
       "duration": "6 hr 45 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-19",
+      "price": 632,
+      "airline": "ANASingapore AirlinesOperated by Air Japan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-19",
+      "price": 632,
+      "airline": "ANASingapore AirlinesOperated by Air Japan",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 15 min"
+    },
+    {
+      "date": "2026-08-07",
+      "snapshot": "2026-07-19",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-08",
+      "snapshot": "2026-07-19",
+      "price": 228,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-09",
+      "snapshot": "2026-07-19",
+      "price": 249,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-11",
+      "snapshot": "2026-07-19",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-12",
+      "snapshot": "2026-07-19",
+      "price": 346,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-19",
+      "price": 529,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-19",
+      "price": 529,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-19",
+      "price": 619,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-19",
+      "price": 249,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-08-23",
+      "snapshot": "2026-07-19",
+      "price": 432,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-09-06",
+      "snapshot": "2026-07-19",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-19",
+      "price": 249,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-09-08",
+      "snapshot": "2026-07-19",
+      "price": 249,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-09-10",
+      "snapshot": "2026-07-19",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-09-11",
+      "snapshot": "2026-07-19",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-19",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-19",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-19",
+      "price": 330,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-19",
+      "price": 283,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-10-11",
+      "snapshot": "2026-07-19",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-10-13",
+      "snapshot": "2026-07-19",
+      "price": 290,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-19",
+      "price": 330,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "7 hr 20 min"
+    },
+    {
+      "date": "2026-11-01",
+      "snapshot": "2026-07-19",
+      "price": 288,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-07",
+      "snapshot": "2026-07-19",
+      "price": 450,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 40 min"
+    },
+    {
+      "date": "2026-11-09",
+      "snapshot": "2026-07-19",
+      "price": 288,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-19",
+      "price": 330,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 50 min"
+    },
+    {
+      "date": "2026-11-21",
+      "snapshot": "2026-07-19",
+      "price": 403,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 40 min"
+    },
+    {
+      "date": "2026-11-24",
+      "snapshot": "2026-07-19",
+      "price": 355,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 40 min"
+    },
+    {
+      "date": "2026-11-30",
+      "snapshot": "2026-07-19",
+      "price": 355,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 40 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-19",
+      "price": 450,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 40 min"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-19",
+      "price": 450,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 40 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-19",
+      "price": 513,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 40 min"
+    },
+    {
+      "date": "2026-12-13",
+      "snapshot": "2026-07-19",
+      "price": 450,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 40 min"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-19",
+      "price": 403,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 40 min"
+    },
+    {
+      "date": "2026-12-19",
+      "snapshot": "2026-07-19",
+      "price": 585,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 40 min"
+    },
+    {
+      "date": "2026-12-25",
+      "snapshot": "2026-07-19",
+      "price": 403,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 40 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-19",
+      "price": 288,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 45 min"
+    },
+    {
+      "date": "2026-12-28",
+      "snapshot": "2026-07-19",
+      "price": 262,
+      "airline": "Scoot",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 40 min"
+    },
+    {
+      "date": "2026-12-31",
+      "snapshot": "2026-07-19",
+      "price": 268,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 45 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-19",
+      "price": 368,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 45 min"
+    },
+    {
+      "date": "2027-01-07",
+      "snapshot": "2026-07-19",
+      "price": 206,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 45 min"
+    },
+    {
+      "date": "2027-01-10",
+      "snapshot": "2026-07-19",
+      "price": 206,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 45 min"
+    },
+    {
+      "date": "2027-01-12",
+      "snapshot": "2026-07-19",
+      "price": 206,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 45 min"
+    },
+    {
+      "date": "2027-01-11",
+      "snapshot": "2026-07-19",
+      "price": 206,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 45 min"
+    },
+    {
+      "date": "2027-01-14",
+      "snapshot": "2026-07-19",
+      "price": 206,
+      "airline": "Unknown",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "6 hr 45 min"
     }
   ]
 }
