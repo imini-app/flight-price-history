@@ -10929,6 +10929,258 @@
       "nonstop": true,
       "stops": 0,
       "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2026-07-25",
+      "snapshot": "2026-07-23",
+      "price": 1201,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-23",
+      "price": 1098,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-23",
+      "price": 1460,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-23",
+      "price": 1166,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-08-22",
+      "snapshot": "2026-07-23",
+      "price": 1024,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-23",
+      "price": 758,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-23",
+      "price": 729,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 30 min"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-23",
+      "price": 692,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 20 min"
+    },
+    {
+      "date": "2026-09-14",
+      "snapshot": "2026-07-23",
+      "price": 662,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 20 min"
+    },
+    {
+      "date": "2026-09-19",
+      "snapshot": "2026-07-23",
+      "price": 758,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 20 min"
+    },
+    {
+      "date": "2026-09-26",
+      "snapshot": "2026-07-23",
+      "price": 758,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 20 min"
+    },
+    {
+      "date": "2026-10-31",
+      "snapshot": "2026-07-23",
+      "price": 692,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr"
+    },
+    {
+      "date": "2026-11-12",
+      "snapshot": "2026-07-23",
+      "price": 662,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2026-11-14",
+      "snapshot": "2026-07-23",
+      "price": 692,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot": "2026-07-23",
+      "price": 662,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2026-11-23",
+      "snapshot": "2026-07-23",
+      "price": 662,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2026-11-26",
+      "snapshot": "2026-07-23",
+      "price": 662,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2026-11-28",
+      "snapshot": "2026-07-23",
+      "price": 692,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2026-12-07",
+      "snapshot": "2026-07-23",
+      "price": 662,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-23",
+      "price": 662,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2026-12-24",
+      "snapshot": "2026-07-23",
+      "price": 662,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2027-01-02",
+      "snapshot": "2026-07-23",
+      "price": 2093,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2027-01-07",
+      "snapshot": "2026-07-23",
+      "price": 1245,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2027-01-09",
+      "snapshot": "2026-07-23",
+      "price": 1118,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2027-01-11",
+      "snapshot": "2026-07-23",
+      "price": 1021,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2027-01-14",
+      "snapshot": "2026-07-23",
+      "price": 890,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2027-01-16",
+      "snapshot": "2026-07-23",
+      "price": 934,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
+    },
+    {
+      "date": "2027-01-18",
+      "snapshot": "2026-07-23",
+      "price": 890,
+      "airline": "United",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 15 min"
     }
   ]
 }

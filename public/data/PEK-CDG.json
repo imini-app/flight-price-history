@@ -23151,6 +23151,780 @@
       "nonstop": true,
       "stops": 0,
       "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-07-24",
+      "snapshot": "2026-07-23",
+      "price": 1257,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-07-27",
+      "snapshot": "2026-07-23",
+      "price": 1125,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-07-28",
+      "snapshot": "2026-07-23",
+      "price": 1125,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-07-30",
+      "snapshot": "2026-07-23",
+      "price": 1011,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-07-31",
+      "snapshot": "2026-07-23",
+      "price": 1051,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-01",
+      "snapshot": "2026-07-23",
+      "price": 1051,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-02",
+      "snapshot": "2026-07-23",
+      "price": 1051,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-03",
+      "snapshot": "2026-07-23",
+      "price": 1011,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-04",
+      "snapshot": "2026-07-23",
+      "price": 1011,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-05",
+      "snapshot": "2026-07-23",
+      "price": 1011,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-06",
+      "snapshot": "2026-07-23",
+      "price": 911,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-07",
+      "snapshot": "2026-07-23",
+      "price": 951,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-10",
+      "snapshot": "2026-07-23",
+      "price": 911,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-13",
+      "snapshot": "2026-07-23",
+      "price": 911,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-14",
+      "snapshot": "2026-07-23",
+      "price": 1183,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-15",
+      "snapshot": "2026-07-23",
+      "price": 1026,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-16",
+      "snapshot": "2026-07-23",
+      "price": 1215,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-17",
+      "snapshot": "2026-07-23",
+      "price": 911,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-18",
+      "snapshot": "2026-07-23",
+      "price": 1183,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-21",
+      "snapshot": "2026-07-23",
+      "price": 1562,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-24",
+      "snapshot": "2026-07-23",
+      "price": 1226,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-26",
+      "snapshot": "2026-07-23",
+      "price": 911,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-27",
+      "snapshot": "2026-07-23",
+      "price": 1257,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-08-29",
+      "snapshot": "2026-07-23",
+      "price": 1352,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-09-04",
+      "snapshot": "2026-07-23",
+      "price": 830,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-09-05",
+      "snapshot": "2026-07-23",
+      "price": 830,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-09-07",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-09-09",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-09-12",
+      "snapshot": "2026-07-23",
+      "price": 830,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-09-11",
+      "snapshot": "2026-07-23",
+      "price": 830,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-09-14",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-09-16",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-09-19",
+      "snapshot": "2026-07-23",
+      "price": 951,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-09-20",
+      "snapshot": "2026-07-23",
+      "price": 951,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-09-22",
+      "snapshot": "2026-07-23",
+      "price": 1257,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-09-23",
+      "snapshot": "2026-07-23",
+      "price": 1506,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-09-28",
+      "snapshot": "2026-07-23",
+      "price": 911,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-04",
+      "snapshot": "2026-07-23",
+      "price": 830,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-05",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-06",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-07",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-11",
+      "snapshot": "2026-07-23",
+      "price": 830,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-17",
+      "snapshot": "2026-07-23",
+      "price": 830,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-21",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-20",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-23",
+      "snapshot": "2026-07-23",
+      "price": 830,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-24",
+      "snapshot": "2026-07-23",
+      "price": 930,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 45 min"
+    },
+    {
+      "date": "2026-10-27",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-10-30",
+      "snapshot": "2026-07-23",
+      "price": 830,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-11-07",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-11-10",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-11-12",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-11-13",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-11-15",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-11-23",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-11-25",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-11-28",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-11-27",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-11-29",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-11-30",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-01",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-02",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-03",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-04",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-05",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-07",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-08",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-06",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-09",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-10",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-12",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-13",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-15",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-14",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-17",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2026-12-27",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-03",
+      "snapshot": "2026-07-23",
+      "price": 1094,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-05",
+      "snapshot": "2026-07-23",
+      "price": 848,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-06",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-07",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-09",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-14",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-16",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-17",
+      "snapshot": "2026-07-23",
+      "price": 788,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-18",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
+    },
+    {
+      "date": "2027-01-19",
+      "snapshot": "2026-07-23",
+      "price": 747,
+      "airline": "Air France",
+      "nonstop": true,
+      "stops": 0,
+      "duration": "12 hr 55 min"
     }
   ]
 }
